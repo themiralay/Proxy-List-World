@@ -7,7 +7,7 @@ It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy s
 > Scraper found **7387** proxies at the latest update. Usable proxies are below.
 
 ## Usage
-
+  
 Click the file format that you want and copy the URL.
 
 
