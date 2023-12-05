@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7494** proxies at the latest update. Usable proxies are below.
+> Scraper found **7447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|922|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|917|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4678|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|2|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
-|4|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|5|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|6|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|7|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|8|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|9|167.71.223.133|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|195.138.90.226|3128|Ukraine|Odesa|TeNeT Networking Centre|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|13|200.174.198.120|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.165.155.226|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|187.111.253.120|8080|Brazil|Natal|Cabo Servicos De Telecomunicacoes Ltda|
-|16|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|17|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
-|18|87.126.65.11|1388|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|19|36.92.93.61|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|167.71.223.133|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|3|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
+|5|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|6|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|200.174.198.120|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
+|9|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|10|85.206.13.20|80|Lithuania|Vilnius|Telia Lietuva, AB|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|167.71.223.133|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
+|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|16|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|19|191.243.46.162|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|20|119.93.43.16|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 
 
 
