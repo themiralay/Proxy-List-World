@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6943** proxies at the latest update. Usable proxies are below.
+> Scraper found **6992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|751|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|596|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4668|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.229.70.187|8000|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|185.179.175.43|8080|Russia|Tula|YARNET-KALUGA|
-|4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|65.1.229.177|9999|India|Mumbai|Amazon.com|
-|12|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|13|8.242.225.56|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|14|178.128.100.122|36000|Singapore|Singapore|DigitalOcean, LLC|
-|15|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
-|16|46.146.222.71|80|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|17|179.108.158.3|3128|Brazil|Teixeira de Freitas|Max Telecomunicações Ltda|
-|18|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|19|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|1|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|2|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|3|191.243.46.162|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|4|20.169.221.14|3128|United States|Boydton|Microsoft Corporation|
+|5|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|6|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|7|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|67.43.236.20|8973|Canada|Montreal|GloboTech Communications|
+|9|20.169.221.14|3128|United States|Boydton|Microsoft Corporation|
+|10|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.189.116.48|999|Peru|Lima|Fiber Digital S.R.L|
+|12|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|13|20.169.221.14|3128|United States|Boydton|Microsoft Corporation|
+|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|67.43.227.227|9141|Canada|Montreal|GloboTech Communications|
+|16|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
+|17|202.8.74.26|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|18|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|19|67.43.228.253|20373|Canada|Montreal|GloboTech Communications|
+|20|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
 
 
 
