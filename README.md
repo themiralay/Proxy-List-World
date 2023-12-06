@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|2|186.156.161.235|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
-|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|4|37.211.129.123|8080|Qatar|Doha|Ooredoo Q.S.C|
+|1|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
+|2|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
+|3|183.89.150.189|8080|Thailand|Mueang Samut Prakan|Triple T Broadband Public Company Limited|
+|4|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 |5|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
-|6|75.112.64.27|8080|United States|Orlando|Spectrum|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|165.0.136.30|8080|South Africa|Gordons Bay|RSAWEB (PTY) LTD|
-|9|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
-|10|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|12|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
-|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|14|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|16|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|17|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|7|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|8|103.66.38.249|80|Indonesia|Jakarta Pusat|ASIANET-IP|
+|9|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|10|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|11|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|13|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|117.71.132.186|8089|China|Rongcheng|Chinanet|
+|16|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
+|17|103.154.120.107|8080|Indonesia|Kuningan Timur|MORATELINDONAP|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
 
 
 
