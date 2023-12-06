@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7429** proxies at the latest update. Usable proxies are below.
+> Scraper found **7400** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|914|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4678|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|2|216.80.39.89|3129|United States|Chicago|RCN|
-|3|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|4|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|5|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
-|7|216.80.39.89|3129|United States|Chicago|RCN|
-|8|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|9|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|10|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|12|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|13|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|185.8.165.134|8800|Czechia|Prague|Master Internet s.r.o.|
-|15|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|16|103.126.87.26|80|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|202.90.199.146|3128|Indonesia|Jakarta Pusat|Badan Meteorologi dan Geofisika|
-|18|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|19|88.210.20.144|20000|Russia|Moscow|CityLanCom LTD|
-|20|204.188.255.69|4128|United States|Chicago|Sharktech|
+|1|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
+|2|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
+|3|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|4|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|6|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|7|213.170.117.150|8080|Russia|St Petersburg|Quantum Communications|
+|8|165.16.27.43|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|10|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|11|103.115.20.52|8080|Indonesia|Subang|PMYNET|
+|12|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
+|13|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|183.89.8.187|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|15|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|17|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|18|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
