@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7558** proxies at the latest update. Usable proxies are below.
+> Scraper found **7615** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|894|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|833|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4911|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
-|2|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
-|3|223.204.153.6|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|4|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|5|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|6|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
-|7|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|10|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|11|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|12|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
-|13|67.43.236.20|27567|Canada|Montreal|GloboTech Communications|
-|14|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|15|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
-|16|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|17|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|18|203.150.128.79|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|181.209.117.77|52000|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
+|2|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|3|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
+|4|223.204.153.6|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|5|24.112.3.220|8080|United States|Calera|Vyve Broadband|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|181.112.151.221|443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
+|9|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|10|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|11|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|12|178.128.100.122|36000|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.186.90.41|8080|Indonesia|Pati|PT Akses Data Internusa|
+|14|200.167.7.19|8080|Brazil|São Paulo|Claro S.A|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
+|17|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
+|19|14.241.236.189|2512|Vietnam|Ho Chi Minh City|VNPT|
+|20|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
 
 
 
