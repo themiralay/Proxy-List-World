@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7458** proxies at the latest update. Usable proxies are below.
+> Scraper found **7434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|948|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4678|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.121.246.163|8118|United States|New York|PVDataNet AB|
-|2|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|3|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
-|4|200.174.198.120|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|6|74.211.89.134|8080|United States|Ruidoso|TDS TELECOM|
-|7|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
-|9|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|10|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|66.152.188.227|3128|United States|Los Angeles|Multacom Corporation|
-|12|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|13|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|3|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|5|202.90.199.146|3128|Indonesia|Jakarta Pusat|Badan Meteorologi dan Geofisika|
+|6|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|7|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
+|8|185.82.99.99|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|9|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|10|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|11|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|14|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
+|15|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
+|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 |17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|19|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|20|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|19|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|20|139.9.244.114|8080|China|Guiyang|China Unicom IP network|
 
 
 
