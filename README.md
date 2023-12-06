@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7241** proxies at the latest update. Usable proxies are below.
+> Scraper found **7301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|849|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|909|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|809|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4601|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.38.26|8080|South Korea|Jongno-gu|Korea Telecom|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|181.78.11.216|999|Colombia|La Paz|IFX Networks Argentina S.R.L|
-|4|182.52.155.197|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|5|45.224.249.36|8080|Brazil|Bocaiuva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|6|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|7|130.61.186.129|8000|Germany|Frankfurt am Main|Oracle Corporation|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|10|141.148.178.254|3128|United States|Phoenix|Oracle Corporation|
-|11|91.210.228.148|8080|Russia|Moscow|Westlan LTD|
-|12|103.6.223.2|3128|China|Beijing|China Unicom|
-|13|179.1.192.52|999|Colombia|Neiva|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
-|14|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|15|65.1.229.177|9999|India|Mumbai|Amazon.com|
-|16|178.128.100.122|36000|Singapore|Singapore|DigitalOcean, LLC|
-|17|139.59.224.110|8888|Singapore|Singapore|DIGITALOCEAN|
-|18|190.97.238.92|999|Venezuela|Maracaibo||
-|19|8.242.225.57|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|20|45.189.116.48|999|Peru|Lima|Fiber Digital S.R.L|
+|4|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|5|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|139.59.224.110|8888|Singapore|Singapore|DIGITALOCEAN|
+|7|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
+|8|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|10|181.78.75.51|999|Colombia|Turbo|IFX Networks Argentina S.R.L|
+|11|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|12|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
+|13|103.157.63.60|8080|Indonesia|Pangandaran|ADSNETWORK|
+|14|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
+|15|103.189.222.60|8080|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|16|185.156.201.42|3128|Poland|Warsaw|Amberway Development LTD|
+|17|45.71.203.110|999|Ecuador|Machala|Ufinet Panama S.A.|
+|18|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|19|67.43.236.20|5603|Canada|Montreal|GloboTech Communications|
+|20|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
