@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7274** proxies at the latest update. Usable proxies are below.
+> Scraper found **7257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|675|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4735|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.32.178.184|3128|Netherlands|Groningen|Google LLC|
-|2|103.87.169.175|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|3|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|8.217.146.231|9000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|7|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|8|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|10|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
-|11|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|12|112.213.87.181|3128|Vietnam|Phường Bảy|Vietnam Internet Network Information Center|
-|13|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|16|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|17|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
-|18|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|19|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
-|20|180.183.6.49|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|15.229.70.187|8000|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|186.156.161.235|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
+|4|222.127.136.229|32000|Philippines|Taguig|NETWORK-IP|
+|5|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
+|6|43.206.49.103|443|Japan|Tokyo|Amazon.com, Inc.|
+|7|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|8|103.247.23.197|8080|Indonesia|Purwokerto|PT wifian Solution|
+|9|201.71.3.20|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|10|200.174.198.120|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|58.20.20.93|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|103.42.243.3|8080|Indonesia|Pemalang|PT Merdeka Media Teknologi|
+|13|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|14|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|15|103.66.38.249|80|Indonesia|Jakarta Pusat|ASIANET-IP|
+|16|101.101.217.186|3128|South Korea|Seongnam-si|NBP|
+|17|45.11.95.165|5010|Russia|Moscow|Delta Ltd|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|35.220.236.96|8080|Hong Kong|Hong Kong|Google LLC|
+|20|45.11.95.165|5010|Russia|Moscow|Delta Ltd|
 
 
 
