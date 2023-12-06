@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
-|2|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|3|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
-|4|103.168.129.123|8080|Indonesia|Jakarta|LINTASARTA|
-|5|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|6|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
-|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|8|36.93.2.50|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|9|65.1.229.177|9999|India|Mumbai|Amazon.com|
-|10|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
-|11|66.152.188.227|3128|United States|Los Angeles|Multacom Corporation|
-|12|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|13|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|3|157.230.254.184|10900|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|6|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|7|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
+|8|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|9|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
+|10|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|11|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|12|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|36.91.173.10|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
 |14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|45.71.203.110|999|Ecuador|Machala|Ufinet Panama S.A.|
-|16|165.227.126.40|3128|United States|Clifton|DigitalOcean, LLC|
-|17|15.229.70.187|8000|Brazil|São Paulo|Amazon Technologies Inc.|
-|18|181.39.76.247|999|Ecuador|Guayaquil|Telconet S.A|
-|19|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.75.166.36|32650|India|Muzaffarpur|Cybernet Introtech Private Limited|
+|16|15.229.70.187|8000|Brazil|São Paulo|Amazon Technologies Inc.|
+|17|65.1.229.177|9999|India|Mumbai|Amazon.com|
+|18|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|19|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|20|43.206.49.103|80|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
