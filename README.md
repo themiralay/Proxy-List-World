@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7222** proxies at the latest update. Usable proxies are below.
+> Scraper found **7223** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|940|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|737|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4562|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.232.87.126|8080|Mexico|Tepeji del Rio de Ocampo|Uninet S.A. de C.V.|
-|2|135.181.36.242|80|Finland|Helsinki|Hetzner Online GmbH|
-|3|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|4|183.89.205.173|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|8|67.43.236.20|15509|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|31403|Canada|Montreal|GloboTech Communications|
-|10|113.31.124.20|80|China|Beijing|UCLOUD|
-|11|125.87.83.172|8089|China|Beijing|Chinanet|
-|12|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|13|67.43.236.20|15509|Canada|Montreal|GloboTech Communications|
-|14|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
-|15|72.10.160.172|19269|Canada|Montreal|GloboTech Communications|
-|16|62.113.103.192|80|Russia|St Petersburg|BEGET.RU|
-|17|190.216.234.186|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|91.134.88.2|80|France|Paris|OVH SAS|
-|19|82.103.111.254|80|Bulgaria|Trigrad|A1 Bulgaria EAD|
-|20|200.71.109.105|999|Mexico|Jaltocan|Digy Networks S.A De C.V.|
+|1|210.223.38.26|8080|South Korea|Jongno-gu|Korea Telecom|
+|2|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
+|3|91.134.88.2|80|France|Paris|OVH SAS|
+|4|165.232.69.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|87.255.10.60|8080|Russia|Khimki|BIG TELECOM CLOSED JSC|
+|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|7|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|8|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|10|190.121.239.194|999|Venezuela|Catia La Mar|Corporacion Digitel C.A|
+|11|204.188.255.66|4128|United States|Chicago|Sharktech|
+|12|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|13|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|14|67.43.236.20|18851|Canada|Montreal|GloboTech Communications|
+|15|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|17|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|18|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|19|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
+|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
