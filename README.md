@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7397** proxies at the latest update. Usable proxies are below.
+> Scraper found **7432** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1026|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|750|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4673|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.113.247|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|2|119.76.142.158|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|3|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|5|14.225.3.187|8666|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|6|80.78.64.70|8080|Albania|Tirana|ABCom|
-|7|216.80.39.89|3129|United States|Chicago|RCN|
-|8|210.223.38.26|8080|South Korea|Jongno-gu|Korea Telecom|
-|9|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|204.188.255.70|4128|United States|Chicago|Sharktech|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|142.93.72.28|10001|United States|Clifton|DigitalOcean, LLC|
-|14|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|15|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|181.39.76.247|999|Ecuador|Guayaquil|Telconet S.A|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|182.253.108.51|40448|Indonesia|Pemalang|Biznet Networks|
+|2|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|3|216.80.39.89|3129|United States|Chicago|RCN|
+|4|14.225.3.187|8666|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|7|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|8|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|10|67.43.236.20|23977|Canada|Montreal|GloboTech Communications|
+|11|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|12|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|13|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|15|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|16|136.228.128.194|80|Cambodia|Phnom Penh|S.I Group|
+|17|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|195.123.213.70|8080|Latvia|Riga|ITLDC Latvia network|
+|20|180.183.159.230|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 
 
 
