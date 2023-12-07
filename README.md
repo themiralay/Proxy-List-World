@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7243** proxies at the latest update. Usable proxies are below.
+> Scraper found **7223** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|993|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|762|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4505|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.255.165.41|8080|Indonesia|Bekasi|PT Remala Abadi|
-|2|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|3|103.191.165.62|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|4|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|6|101.255.165.41|8080|Indonesia|Bekasi|PT Remala Abadi|
-|7|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|8|113.31.124.20|80|China|Beijing|UCLOUD|
-|9|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
-|10|187.230.101.52|999|Mexico|Nogales|Uninet S.A. de C.V.|
-|11|103.133.61.134|8080|Indonesia|Bandar Lampung|TLINK|
-|12|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|58.20.82.115|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|183.89.129.56|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|17|187.134.203.62|999|Mexico|Ahome|Uninet S.A. de C.V.|
-|18|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|19|45.167.125.219|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|64.225.4.17|10008|United States|Clifton|DigitalOcean, LLC|
+|1|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|2|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|3|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|4|185.82.98.42|9092|Lebanon|Tripoli|Protected|
+|5|153.34.4.59|7890|China|Suzhou|China Unicom Jiangsu Province Network|
+|6|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|8|125.90.253.250|7890|China|Zhaoqing|Chinanet|
+|9|180.183.228.116|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|10|190.239.220.165|999|Peru|Cusco|Telefonica del Peru S.A.A.|
+|11|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|12|58.20.82.115|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|58.69.117.212|8082|Philippines|Dumaguete|Philippine Long Distance Telephone Co.|
+|14|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
+|15|52.78.28.97|3888|South Korea|Seoul|Amazon Technologies Inc.|
+|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|17|67.43.236.20|11029|Canada|Montreal|GloboTech Communications|
+|18|103.153.62.221|3125|Indonesia|Jakarta|IMEDIANET|
+|19|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
 
