@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7300** proxies at the latest update. Usable proxies are below.
+> Scraper found **7284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1019|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1003|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|793|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4505|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
-|2|200.69.85.164|999|Colombia|Anserma|TV AZTECA SUCURSAL COLOMBIA|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|148.244.93.27|999|Mexico|Centro Municipality|Alestra, S. de R.L. de C.V.|
-|6|187.230.80.103|999|Mexico|Magdalena de Kino|Uninet S.A. de C.V.|
-|7|189.173.14.238|999|Mexico|Hermosillo|UNINET|
-|8|154.64.211.145|999|Puerto Rico|San Juan|OSNET Wireless|
-|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|10|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|11|103.79.143.19|2313|Vietnam|Văn Quán|CADI|
-|12|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|13|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|15|43.156.99.158|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.59.44.187|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|17|91.185.55.159|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|18|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|19|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|180.183.99.161|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|182.53.238.33|8080|Thailand|Si Sa Ket|TOT Public Company Limited|
+|3|125.25.238.243|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
+|4|1.20.93.88|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|187.230.80.103|999|Mexico|Magdalena de Kino|Uninet S.A. de C.V.|
+|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|7|180.183.143.221|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|182.52.38.59|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|178.153.200.3|8080|Qatar|Doha|Ooredoo-MBB|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|43.156.99.158|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|187.134.202.10|999|Mexico|Ahome|Uninet S.A. de C.V.|
+|15|113.31.124.20|80|China|Beijing|UCLOUD|
+|16|189.173.14.238|999|Mexico|Hermosillo|UNINET|
+|17|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
+|18|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|19|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|20|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
 
 
 
