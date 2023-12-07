@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7472** proxies at the latest update. Usable proxies are below.
+> Scraper found **7565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1101|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|796|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4685|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.38.147.130|80|United States|Portland|Amazon.com, Inc.|
-|2|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|3|52.38.147.130|80|United States|Portland|Amazon.com, Inc.|
-|4|62.23.184.85|8080|France|Paris|COLT Technology Services Group Limited|
-|5|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|6|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
-|7|38.49.140.190|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|8|64.146.227.230|8080|United States|Nespelem|Northwest Open Access Network|
-|9|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|10|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|12|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|13|180.149.232.198|8080|Bangladesh|Narsingdi|Digi Jadoo Broadband Ltd|
-|14|64.225.8.203|10008|United States|Clifton|DigitalOcean, LLC|
-|15|170.64.192.235|36000|Australia|Sydney|DigitalOcean, LLC|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|18|14.103.26.53|8000|China|Beijing|BITNET|
-|19|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|20|47.236.126.177|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|2|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|3|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|103.176.116.34|83|India|Murshidābād|Gbpl Global Broadband Private Limited|
+|6|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|7|78.38.93.22|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|8|183.89.0.239|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|10|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|103.105.228.168|8080|India|Mumbai|Mnk Infoway Private Limited|
+|12|64.225.8.203|10008|United States|Clifton|DigitalOcean, LLC|
+|13|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
+|14|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|16|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|112.213.87.181|3128|Vietnam|Phường Bảy|Vietnam Internet Network Information Center|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|20|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
