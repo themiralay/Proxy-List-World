@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7215** proxies at the latest update. Usable proxies are below.
+> Scraper found **7314** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|803|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|902|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|798|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4631|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
-|2|36.93.140.71|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|3|65.1.229.177|9999|India|Mumbai|Amazon.com|
-|4|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|5|190.80.188.91|999|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A|
-|6|135.181.36.242|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|8|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|9|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|10|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|11|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|12|113.31.124.20|80|China|Beijing|UCLOUD|
-|13|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|15|72.10.164.178|12407|Canada|Montreal|GloboTech Communications|
-|16|191.243.46.162|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|17|95.216.174.155|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|205.164.90.248|3128|Brazil|Pimenta Bueno|AGIS|
-|19|200.71.109.105|999|Mexico|Jaltocan|Digy Networks S.A De C.V.|
-|20|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|4|89.147.109.89|3128|Iceland|Reykjavik|1984 ehf|
+|5|113.31.124.20|80|China|Beijing|UCLOUD|
+|6|202.51.98.229|2022|Indonesia|Bandung|PT iForte Global Internet|
+|7|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|8|135.181.36.242|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|10|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|11|222.127.136.229|32000|Philippines|Taguig|NETWORK-IP|
+|12|103.120.175.243|9191|Indonesia|Bulanbulan|PT. Eka Mas Republik|
+|13|20.117.78.249|80|United Kingdom|City of London|Microsoft Corporation|
+|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|162.243.184.16|10009|United States|Clifton|DigitalOcean, LLC|
+|16|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|18|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
+|19|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|20|181.143.249.171|999|Colombia|Riosucio|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
