@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7309** proxies at the latest update. Usable proxies are below.
+> Scraper found **7322** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|907|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|857|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4562|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.26.231.245|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|182.53.29.29|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|6|14.207.244.203|8080|Thailand|Si Prachan|Triple T Broadband Public Company Limited|
-|7|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|8|180.180.180.138|8080|Thailand|Bang Pa-in|TOT Public Company Limited|
-|9|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|10|85.235.133.60|4128|Italy|Arezzo|Aruba S.p.A.|
-|11|41.205.24.183|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|12|14.207.126.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|13|124.120.108.221|8080|Thailand|Bangkok|TRUEBB|
-|14|184.22.3.232|8080|Thailand|Phuket|AIS-Fibre|
-|15|125.26.231.245|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|171.97.85.53|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|45.230.170.58|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|18|183.89.162.252|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|134.236.24.242|8080|Thailand|Nonthaburi|CAT-BB|
-|20|182.53.29.29|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|103.154.92.78|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|2|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|5|204.188.255.69|4128|United States|Chicago|Sharktech|
+|6|45.164.13.246|999|Dominican Republic|Santo Domingo Este|GUESTCHOICE TV RD, S.R.L|
+|7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|8|152.67.232.175|3128|United States|San Jose|Oracle Corporation|
+|9|204.188.255.70|4128|United States|Chicago|Sharktech|
+|10|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
+|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|12|45.70.201.50|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|14|204.188.255.69|4128|United States|Chicago|Sharktech|
+|15|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|16|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|17|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|18|170.64.192.235|36000|Australia|Sydney|DigitalOcean, LLC|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|43.163.195.38|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
