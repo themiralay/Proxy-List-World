@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7324** proxies at the latest update. Usable proxies are below.
+> Scraper found **7301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1043|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1020|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|793|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4505|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
-|2|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|190.69.157.215|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|59.10.241.129|8080|South Korea|Seodaemun-gu|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|9|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
-|10|182.53.238.33|8080|Thailand|Si Sa Ket|TOT Public Company Limited|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|15|45.71.203.110|999|Ecuador|Machala|Ufinet Panama S.A.|
-|16|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|35.220.236.96|8088|Hong Kong|Hong Kong|Google LLC|
-|18|113.31.124.20|80|China|Beijing|UCLOUD|
-|19|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|20|47.242.75.250|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|101.255.151.237|8080|Indonesia|Bekasi|PT Remala Abadi|
+|3|52.78.28.97|3999|South Korea|Seoul|Amazon Technologies Inc.|
+|4|202.154.36.151|8080|Indonesia|Surabaya|RADNET-BDG|
+|5|189.172.56.30|999|Mexico|Mérida|UNINET|
+|6|14.180.108.90|8080|Vietnam|Hanoi|VNPT|
+|7|103.217.224.139|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|8|111.95.215.199|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|9|190.61.41.163|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|187.134.202.10|999|Mexico|Ahome|Uninet S.A. de C.V.|
+|12|45.233.170.78|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|13|190.176.180.79|999|Argentina|San Juan|Telefonica de Argentina|
+|14|103.247.23.37|1111|Indonesia|Purwokerto|PT wifian Solution|
+|15|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|16|113.31.124.20|80|China|Beijing|UCLOUD|
+|17|101.255.151.237|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|19|190.61.41.163|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|20|182.52.231.81|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
