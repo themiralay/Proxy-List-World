@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7240** proxies at the latest update. Usable proxies are below.
+> Scraper found **7257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4673|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.12.23.249|80|Spain|Seville|Secondary Node|
-|2|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|3|191.243.46.162|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|66.181.33.12|80|United States|North Kansas City|UnReal Servers, LLC|
-|6|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|85.215.53.109|3128|Germany|Berlin|Strato AG|
-|8|67.43.236.20|10519|Canada|Montreal|GloboTech Communications|
-|9|58.20.82.115|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|136.228.128.194|80|Cambodia|Phnom Penh|S.I Group|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|171.5.8.169|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|13|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|15|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|36.89.214.21|4480|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|103.172.42.22|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|46.146.222.71|80|Russia|Perm|OJSC "ER-Telecom" Perm'|
-|19|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|20|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|1|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|3|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|4|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|5|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|6|188.34.191.48|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|7|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|8|115.182.212.177|80|China|Beijing|China Networks Inter-Exchange|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|85.235.133.59|4128|Italy|Arezzo|Aruba S.p.A.|
+|11|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|12|41.203.83.242|8080|Nigeria|Port Harcourt|Globacom Limited|
+|13|46.161.196.222|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|15|103.130.80.50|8080|Indonesia|Tulungagung|PT PRISMA MEDIA NUSANTARA|
+|16|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|138.201.190.185|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|18|5.188.232.115|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
+|20|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
 
 
 
