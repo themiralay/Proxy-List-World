@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6840** proxies at the latest update. Usable proxies are below.
+> Scraper found **6866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|757|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|525|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4575|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|2|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|149.28.158.146|4769|Singapore|Singapore|The Constant Company|
-|5|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|6|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
-|7|103.247.23.197|8080|Indonesia|Purwokerto|PT wifian Solution|
-|8|97.76.251.138|8080|United States|Tampa|Spectrum|
-|9|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|10|181.39.76.247|999|Ecuador|Guayaquil|Telconet S.A|
-|11|67.43.236.20|21163|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|33165|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|67.43.236.20|21163|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|21163|Canada|Montreal|GloboTech Communications|
-|17|180.183.228.116|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|18|67.43.236.20|21163|Canada|Montreal|GloboTech Communications|
-|19|182.176.2.79|8080|Pakistan|Gujrat|Pakistan Telecommuication company limited|
-|20|101.128.79.143|32650|Indonesia|Palembang|CBN|
+|1|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|2|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|3|51.159.75.249|3128|France|Paris|SCALEWAY|
+|4|103.6.223.2|3128|China|Beijing|China Unicom|
+|5|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|6|67.43.236.19|12369|Canada|Montreal|GloboTech Communications|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|9|101.255.148.174|8085|Indonesia|Jakarta|PT Remala Abadi|
+|10|67.43.236.20|15389|Canada|Montreal|GloboTech Communications|
+|11|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|12|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|13|190.60.36.74|8080|Colombia|Barrio San Luis|IFX NETWORKS COLOMBIA|
+|14|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|94.241.174.137|1080|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|181.198.75.154|999|Ecuador|Guayaquil|Telconet S.A|
+|20|186.65.104.20|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
 
 
 
