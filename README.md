@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6845** proxies at the latest update. Usable proxies are below.
+> Scraper found **6839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|764|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|758|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|515|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4583|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.205.105.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|2|3.39.88.243|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|4|51.159.159.73|80|France|Paris|SCALEWAY|
-|5|183.89.93.178|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|8|89.147.109.89|3128|Iceland|Reykjavik|1984 ehf|
-|9|190.97.238.93|999|Venezuela|Maracaibo||
-|10|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
-|11|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
-|12|117.119.72.83|3128|China|Beijing|China Networks Inter-Exchange|
-|13|67.43.236.20|21253|Canada|Montreal|GloboTech Communications|
-|14|180.183.141.145|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|195.123.213.70|8080|Latvia|Riga|ITLDC Latvia network|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|186.232.160.246|8080|Brazil|Cabo Frio|VIP NETWORK TELECOMUNICAÇÕES LTDA|
-|19|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|20|103.173.139.86|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|1|13.250.23.29|8888|Singapore|Singapore|Amazon Technologies Inc.|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|4|67.43.236.20|12241|Canada|Montreal|GloboTech Communications|
+|5|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|7|58.20.82.121|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
+|11|72.10.160.94|3947|Canada|Montreal|GloboTech Communications|
+|12|103.189.254.35|8181|Indonesia|Surabaya|PT. Lintas Daya Nusantara|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|118.137.133.65|8080|Indonesia|South Tangerang|Linknet-Fastnet ASN|
+|16|201.54.179.1|8081|Brazil|Ico|Lucas De Souza Silva|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|19|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|20|185.195.25.78|3128|Russia|Moscow|First Server Limited|
 
 
 
