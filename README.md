@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6985** proxies at the latest update. Usable proxies are below.
+> Scraper found **6947** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|644|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4575|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |2|216.187.116.159|80|Canada|Vancouver|Aptum Technologies|
 |3|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|4|54.180.87.77|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|5|54.180.87.77|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|6|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|7|216.187.116.159|80|Canada|Vancouver|Aptum Technologies|
-|8|67.43.236.20|3595|Canada|Montreal|GloboTech Communications|
-|9|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|11|54.180.87.77|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|12|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|13|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|179.189.120.147|3128|Brazil|Teresina|IP CARRIER BRASIL|
-|15|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|16|217.12.23.249|80|Spain|Seville|Secondary Node|
-|17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|20|187.63.156.94|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
+|4|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|5|183.89.93.178|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|45.189.118.88|999|Peru|Lima|Fiber Digital S.R.L|
+|7|176.58.117.152|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|8|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|9|67.43.236.20|28723|Canada|Montreal|GloboTech Communications|
+|10|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.187.116.159|80|Canada|Vancouver|Aptum Technologies|
+|12|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|13|194.213.3.103|3128|United Kingdom|Solihull|Daniel Jackson|
+|14|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|15|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|111.95.215.199|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|18|206.42.60.91|8080|Brazil|Caruaru|Brisanet Prestacao De Servicos De Internet Ltda|
+|19|148.244.210.141|999|Mexico|Morelia|Alestra, S. de R.L. de C.V.|
+|20|190.43.232.59|999|Peru|Saylla|Telefonica del Perú|
 
 
 
