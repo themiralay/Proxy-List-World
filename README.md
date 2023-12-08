@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|1|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|3|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|4|47.236.126.177|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|195.123.213.70|8080|Latvia|Riga|ITLDC Latvia network|
 |6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|8|103.247.23.37|1111|Indonesia|Purwokerto|PT wifian Solution|
-|9|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|10|45.71.203.110|999|Ecuador|Machala|Ufinet Panama S.A.|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|181.78.12.227|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
-|13|186.78.117.199|999|Chile|Villa Alemana|TELEFÓNICA CHILE S.A.|
-|14|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|38.7.2.98|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|16|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
-|17|67.43.227.227|23165|Canada|Montreal|GloboTech Communications|
-|18|103.163.13.112|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|19|213.91.232.94|8080|Bulgaria|Shumen|Vivacom Bulgaria EAD|
-|20|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|9|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|103.149.238.206|8080|Indonesia|Probolinggo|PT BITNIAGA CIPTA GEMILANG|
+|14|222.127.77.167|8082|Philippines|Lahug|INNOVE|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|64.225.4.17|10004|United States|Clifton|DigitalOcean, LLC|
+|20|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
 
 
 
