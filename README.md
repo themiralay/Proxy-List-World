@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7240** proxies at the latest update. Usable proxies are below.
+> Scraper found **7299** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|917|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|611|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4788|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.64.208.14|53281|Russia|Kstovo|Svyazist LLC|
-|2|43.156.99.158|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|157.245.52.2|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.144.65.126|3128|Russia|Moscow|First Server Limited|
-|5|24.199.119.158|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|7|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
-|8|217.12.20.250|80|Spain|Guillena|Secondary Node|
-|9|85.209.48.251|3128|Germany|Karlsruhe|netcup GmbH|
-|10|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|12|178.185.231.196|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|13|72.10.164.178|15669|Canada|Montreal|GloboTech Communications|
-|14|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|15|43.163.195.38|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|17|191.112.34.45|999|Chile|Santiago|TELEFÓNICA CHILE S.A.|
-|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|19|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|20|149.50.238.56|8080|Turkey|Istanbul|Cogent Communications|
+|1|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
+|2|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|3|178.185.231.196|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
+|4|203.150.172.151|8080|Thailand|Khlong Luang|Internet Thailand Company Ltd.|
+|5|193.124.118.7|3128|Russia|Kazan'|RUVDS|
+|6|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|7|185.64.208.14|53281|Russia|Kstovo|Svyazist LLC|
+|8|170.64.134.69|3128|Australia|Sydney|DigitalOcean, LLC|
+|9|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
+|10|24.144.86.231|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|183.89.93.178|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|217.12.23.249|80|Spain|Seville|Secondary Node|
+|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|14|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
+|15|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
+|16|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.241.178.145|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|18|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|19|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
+|20|24.199.119.158|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
