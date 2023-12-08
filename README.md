@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7278** proxies at the latest update. Usable proxies are below.
+> Scraper found **7298** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|649|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4788|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|3|203.150.113.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|4|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
-|6|202.112.51.124|3128|China|Haidian|CERNET2 IX at Tsinghua University|
-|7|103.110.34.140|8080|Indonesia|Grobogan|PT RECONET SEMESTA INDONESIA|
-|8|222.127.136.229|32000|Philippines|Taguig|NETWORK-IP|
-|9|193.124.118.7|3128|Russia|Kazan'|RUVDS|
-|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|11|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|12|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|13|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|14|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
-|15|217.12.23.236|80|Spain|Seville|Secondary Node|
-|16|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|17|185.195.25.78|3128|Russia|Moscow|First Server Limited|
-|18|103.153.148.5|8080|Indonesia|Pinrang|JARINGANKU|
-|19|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|20|89.147.109.89|3128|Iceland|Reykjavik|1984 ehf|
+|2|203.150.113.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|3|34.162.107.79|80|United States|Columbus|Google LLC|
+|4|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|5|14.103.24.20|8000|China|Beijing|BITNET|
+|6|35.200.161.98|80|India|Mumbai|Google LLC|
+|7|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|9|157.230.254.184|9900|Singapore|Singapore|DigitalOcean, LLC|
+|10|51.159.159.73|80|France|Paris|SCALEWAY|
+|11|51.38.230.146|80|France|Gravelines|OVH SAS|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|93.84.64.14|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|14|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|15|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
+|16|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|17|193.124.118.7|3128|Russia|Kazan'|RUVDS|
+|18|36.94.35.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|222.127.136.229|32000|Philippines|Taguig|NETWORK-IP|
+|20|68.168.91.228|3129|United States|Wilmington|DBS International|
 
 
 
