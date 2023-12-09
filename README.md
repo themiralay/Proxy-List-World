@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
-|2|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
-|3|134.236.11.37|8080|Thailand|Surin|CAT-BB|
-|4|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|183.88.70.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
-|7|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|210.212.227.149|8080|India|Palakkad|BSNL Internet|
-|9|14.207.114.198|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|10|51.210.183.2|3128|France|Gravelines|OVH SAS|
-|11|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|13|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|14|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
-|15|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|16|117.71.132.197|8089|China|Rongcheng|Chinanet|
-|17|125.26.97.216|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|18|45.144.65.126|3128|Russia|Moscow|First Server Limited|
-|19|223.205.105.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|170.64.134.69|3128|Australia|Sydney|DigitalOcean, LLC|
+|1|125.26.97.216|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|2|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|3|34.129.117.56|80|Australia|Melbourne|Google LLC|
+|4|134.236.11.111|8080|Thailand|Surin|CAT-BB|
+|5|51.210.183.2|3128|France|Gravelines|OVH SAS|
+|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|8|51.159.75.249|3128|France|Paris|SCALEWAY|
+|9|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|10|38.56.70.226|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|11|117.119.72.83|3128|China|Beijing|China Networks Inter-Exchange|
+|12|117.71.132.94|8089|China|Rongcheng|Chinanet|
+|13|183.88.70.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|12.7.109.1|9812|United States|San Antonio|AIRESPRING-ADT SYSTEMS, INC.|
+|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
+|18|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|19|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|20|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
 
 
 
