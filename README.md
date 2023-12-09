@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|2|103.187.117.173|8080|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
-|3|103.187.117.163|8080|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
-|4|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|5|139.84.147.68|3129|India|Bengaluru|The Constant Company, LLC|
-|6|103.191.165.104|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|8|191.7.8.136|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
-|9|165.227.44.211|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|38.56.70.226|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|179.125.168.105|8080|Brazil|Sumaré|Desktop Sigmanet Comunicação Multimídia SA|
-|14|139.84.146.13|3129|India|Bengaluru|The Constant Company, LLC|
-|15|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|103.167.68.51|8080|Indonesia|Tasikmalaya|PT Kataji Nukami Indonesia|
-|17|38.172.128.236|999|Peru|Lurin|Fiber Digital S.R.L|
-|18|86.181.163.174|3128|United Kingdom|Croydon|BT Public Internet Service|
-|19|58.20.82.102|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|1|203.150.128.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|183.88.70.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|4|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|5|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
+|6|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|7|165.227.44.211|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|64.225.8.203|10005|United States|Clifton|DigitalOcean, LLC|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|12|103.172.42.106|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|38.56.70.227|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|14|103.187.117.173|8080|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
+|15|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|45.143.197.217|3128|United Kingdom|Solihull|Daniel Jackson|
+|17|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|18|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
+|19|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|20|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
