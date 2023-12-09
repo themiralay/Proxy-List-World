@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7751** proxies at the latest update. Usable proxies are below.
+> Scraper found **7745** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1190|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1184|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|791|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4787|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 |2|130.185.104.62|4128|Germany|Aalen|Xirra GmbH|
-|3|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|4|121.171.57.32|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|5|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|6|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|7|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|10|38.156.72.2|8080|Turkey|Umraniye|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|14.103.24.148|8000|China|Beijing|BITNET|
-|12|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|13|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
-|14|147.158.241.149|3128|Malaysia|Johor Bahru|TM TECHNOLOGY SERVICES SDN BHD|
-|15|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|16|47.184.164.68|3128|United States|Garland|Frontier Communications Solutions|
-|17|103.76.12.42|80|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
-|18|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|19|43.231.64.102|3128|Cambodia|Phnom Penh|Cambodian SingMeng Telemedia Co|
-|20|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
+|3|119.76.142.130|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|6|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|7|14.36.221.206|3128|South Korea|Dongjak-gu|Korea Telecom|
+|8|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|46.146.222.71|80|Russia|Perm|OJSC "ER-Telecom" Perm'|
+|10|162.243.184.252|3128|United States|Clifton|DigitalOcean, LLC|
+|11|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|12|106.56.20.37|80|China|Jianshui|Chinanet|
+|13|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|23.162.200.26|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|15|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|67.207.161.157|4128|United States|Los Angeles|Colocation America Corporation|
+|17|136.239.176.66|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|18|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|19|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|20|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 
 
 
