@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.236.150.40|8080|Thailand|Nonthaburi|CAT-BB|
-|2|139.144.71.214|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|3|139.84.145.251|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
+|1|139.84.145.251|3129|India|Bengaluru|The Constant Company, LLC|
+|2|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
+|3|201.77.98.10|999|Mexico|Mixquiahuala de Juarez|Erik Tovar Juarez|
+|4|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
 |5|59.124.224.205|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |6|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|7|47.184.164.68|3128|United States|Garland|Frontier Communications Solutions|
-|8|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|9|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|10|103.147.246.135|8080|Indonesia|Tangerang|PLBNET|
-|11|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|139.84.146.13|3129|India|Bengaluru|The Constant Company, LLC|
-|13|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|14|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|17|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
-|18|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|20|131.196.14.122|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|10|38.56.70.226|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|11|38.56.70.227|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|12|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|13|113.160.214.209|8080|Vietnam|Hung Yen|VietNam Post and Telecom Corporation|
+|14|139.84.145.251|3129|India|Bengaluru|The Constant Company, LLC|
+|15|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|18|103.189.197.18|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|19|67.43.228.253|2841|Canada|Montreal|GloboTech Communications|
+|20|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 
 
 
