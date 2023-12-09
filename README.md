@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|180.191.255.217|8080|Philippines|General Trias|Globe Telecom|
+|3|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
+|4|216.80.39.89|3129|United States|Chicago|RCN|
 |5|2.187.215.141|8080|Iran|Sardasht|Iran Telecommunication Company PJS|
-|6|216.80.39.89|3129|United States|Chicago|RCN|
-|7|190.63.35.30|9812|Ecuador|Quito|CONECEL|
-|8|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|9|186.148.183.182|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|11|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|12|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|13|189.237.67.209|999|Mexico|Cuauhtemoc|Uninet S.A. de C.V.|
-|14|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|177.125.56.181|3128|Brazil|Palmas|Irmãos Giotto Oliveira & Cia.Ltda.|
-|17|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|200.71.109.105|999|Mexico|Jaltocan|Digy Networks S.A De C.V.|
-|19|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|7|23.162.200.68|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|10|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|11|101.32.222.249|3999|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
+|14|45.71.203.108|999|Ecuador|Machala|Ufinet Panama S.A.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
+|17|180.183.1.97|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|18|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|19|194.213.3.103|3128|United Kingdom|Solihull|Daniel Jackson|
+|20|179.189.222.188|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
 
 
 
