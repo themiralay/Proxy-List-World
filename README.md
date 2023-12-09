@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.26.97.216|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|2|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|3|34.129.117.56|80|Australia|Melbourne|Google LLC|
-|4|134.236.11.111|8080|Thailand|Surin|CAT-BB|
-|5|51.210.183.2|3128|France|Gravelines|OVH SAS|
-|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|8|51.159.75.249|3128|France|Paris|SCALEWAY|
-|9|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|10|38.56.70.226|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|11|117.119.72.83|3128|China|Beijing|China Networks Inter-Exchange|
-|12|117.71.132.94|8089|China|Rongcheng|Chinanet|
-|13|183.88.70.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|12.7.109.1|9812|United States|San Antonio|AIRESPRING-ADT SYSTEMS, INC.|
-|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
-|18|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|19|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|1|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|2|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|3|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|4|180.149.232.198|8080|Bangladesh|Narsingdi|Digi Jadoo Broadband Ltd|
+|5|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
+|6|51.210.183.2|3128|France|Gravelines|OVH SAS|
+|7|51.159.75.249|3128|France|Paris|SCALEWAY|
+|8|58.20.77.175|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|10|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|11|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|12|67.43.228.253|25087|Canada|Montreal|GloboTech Communications|
+|13|210.212.227.149|8080|India|Palakkad|BSNL Internet|
+|14|182.253.109.139|8080|Indonesia|Semarang|Biznet Metronet|
+|15|183.88.70.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|101.255.165.41|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|19|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|20|43.231.64.102|3128|Cambodia|Phnom Penh|Cambodian SingMeng Telemedia Co|
 
 
 
