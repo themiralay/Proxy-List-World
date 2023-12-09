@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.213.52.193|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|2|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|3|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|4|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
-|5|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|67.43.236.20|15527|Canada|Montreal|GloboTech Communications|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|9|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|11|15.228.149.206|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|125.25.82.190|8080|Thailand|Khlong Thom|TOT Public Company Limited|
-|13|5.149.81.90|8080|Bosnia and Herzegovina|Kladanj|Dsl-elektronika D.O.O|
-|14|103.6.223.2|3128|China|Beijing|China Unicom|
-|15|72.10.160.90|25421|Canada|Montreal|GloboTech Communications|
-|16|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|112.78.137.107|8080|Indonesia|Teluknaga|Biznet Networks|
-|18|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|19|203.190.12.165|8080|Bangladesh|Dhaka|DAFFODILNET-SUB|
-|20|43.163.195.38|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|101.231.64.89|8443|China|Pudong|China Telecom (Group)|
+|2|146.190.104.220|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|4|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|8|139.198.171.113|8081|China|Beijing|Yunify Technologies Inc|
+|9|45.71.203.108|999|Ecuador|Machala|Ufinet Panama S.A.|
+|10|37.211.129.123|8080|Qatar|Doha|Ooredoo Q.S.C|
+|11|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|12|58.20.77.181|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|14|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|15|117.69.236.30|8089|China|Rongcheng|Chinanet|
+|16|58.20.20.78|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|58.20.77.175|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|45.174.46.74|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
