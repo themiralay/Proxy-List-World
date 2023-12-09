@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7339** proxies at the latest update. Usable proxies are below.
+> Scraper found **7308** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|993|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|659|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4704|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|103.169.130.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|3|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|67.207.161.157|4128|United States|Los Angeles|Colocation America Corporation|
-|5|94.241.174.137|1080|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|103.39.247.205|8080|India|Mumbai|Zess Networks Private Limited|
-|7|165.232.69.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|11|187.234.56.91|3128|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|103.169.130.42|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|13|91.151.88.94|7895|Turkey|Pendik|Talha Bogaz|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|185.195.25.78|3128|Russia|Moscow|First Server Limited|
-|18|67.43.236.20|28461|Canada|Montreal|GloboTech Communications|
-|19|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|20|61.7.157.51|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|165.232.69.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|7|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|10|103.141.109.157|8080|Indonesia|Setro|Data Buana Nusantara|
+|11|72.10.164.178|29663|Canada|Montreal|GloboTech Communications|
+|12|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|13|139.198.171.113|8081|China|Beijing|Yunify Technologies Inc|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|217.12.23.236|80|Spain|Seville|Secondary Node|
+|16|58.222.158.6|8808|China|Nanjing|Chinanet|
+|17|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|20|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
 
 
 
