@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|2|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|3|203.150.199.6|80|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|4|178.185.231.196|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|5|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|6|151.234.42.72|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|7|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|8|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|9|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|10|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|1|223.205.105.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|2|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|3|178.185.231.196|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
+|4|151.234.42.72|8080|Iran|Urmia|Iran Telecommunication Company PJS|
+|5|23.162.200.244|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|27.71.160.18|3001|Vietnam|Hanoi|Viettel Group|
+|7|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
+|8|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|9|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
 |11|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|12|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|15|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|16|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|20|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|12|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|13|23.162.200.46|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|178.185.231.196|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|182.253.109.139|8080|Indonesia|Semarang|Biznet Metronet|
+|17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|18|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|19|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|20|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
 
 
 
