@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7929** proxies at the latest update. Usable proxies are below.
+> Scraper found **7930** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1209|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|951|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4787|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.20.207.172|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|2|119.76.142.130|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|3|130.185.104.62|4128|Germany|Aalen|Xirra GmbH|
-|4|159.223.59.36|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|36.91.155.42|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|3|119.76.142.130|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
+|5|130.185.104.62|4128|Germany|Aalen|Xirra GmbH|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
 |7|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
-|8|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|9|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|10|139.84.145.251|3129|India|Bengaluru|The Constant Company, LLC|
-|11|3.39.231.12|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|162.243.184.252|3128|United States|Clifton|DigitalOcean, LLC|
+|8|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|10|186.96.96.134|999|Colombia|Purificacion|TV AZTECA SUCURSAL COLOMBIA|
+|11|46.146.222.71|80|Russia|Perm|OJSC "ER-Telecom" Perm'|
+|12|165.16.46.193|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |14|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|15|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|67.43.236.20|15847|Canada|Montreal|GloboTech Communications|
-|17|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|18|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|19|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|64.225.8.203|10000|United States|Clifton|DigitalOcean, LLC|
+|15|14.103.24.20|8000|China|Beijing|BITNET|
+|16|92.53.76.123|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|17|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
+|18|139.84.147.68|3129|India|Bengaluru|The Constant Company, LLC|
+|19|159.223.59.36|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 
 
 
