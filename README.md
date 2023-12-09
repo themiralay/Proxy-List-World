@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|182.253.109.139|8080|Indonesia|Semarang|Biznet Metronet|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|27.71.160.18|3001|Vietnam|Hanoi|Viettel Group|
+|3|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|182.253.109.139|8080|Indonesia|Semarang|Biznet Metronet|
 |7|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|10|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|194.163.164.189|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|178.185.231.195|3128|Russia|Krasnoyarsk|JSC Rostelecom regional branch "Siberia"|
-|15|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
-|16|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|17|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|18|162.243.184.16|10009|United States|Clifton|DigitalOcean, LLC|
-|19|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|20|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|45.143.197.220|3128|United Kingdom|Solihull|Daniel Jackson|
+|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|12|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|15|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|17|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|19|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|194.163.164.189|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
