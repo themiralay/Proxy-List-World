@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8311** proxies at the latest update. Usable proxies are below.
+> Scraper found **8231** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|574|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1204|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|936|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|832|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5212|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|174.108.200.2|8080|United States|Charlotte|Road Runner|
-|12|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|13|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|139.84.144.255|3129|India|Bengaluru|The Constant Company, LLC|
-|15|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|16|103.211.82.92|8080|Indonesia|Batu|Badan Pengelola Keuangan dan Aset Daerah Kota Batu|
-|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|18|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|19|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|20|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|103.87.169.155|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|12|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|14|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|15|45.71.203.108|999|Ecuador|Machala|Ufinet Panama S.A.|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|189.90.255.208|3128|Brazil|Barao de Cocais|Companhia Itabirana Telecomunicações Ltda|
+|19|120.28.192.147|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 
 
 
