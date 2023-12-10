@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7836** proxies at the latest update. Usable proxies are below.
+> Scraper found **7810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|942|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|916|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|799|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5112|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|2|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|3|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|4|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|45.11.95.165|6006|Russia|Moscow|Delta Ltd|
-|6|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|7|14.207.67.103|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
-|11|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|12|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|185.195.25.78|3128|Russia|Moscow|First Server Limited|
-|14|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|15|45.11.95.165|6006|Russia|Moscow|Delta Ltd|
-|16|103.6.223.2|3128|China|Beijing|China Unicom|
-|17|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|19|58.20.82.102|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
+|1|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|2|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|146.59.235.88|3128|France|Gravelines|OVH SAS|
+|5|180.183.48.193|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|58.20.82.115|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|8|93.84.64.14|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|45.143.197.219|3128|United Kingdom|Solihull|Daniel Jackson|
+|11|103.217.224.139|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|12|139.84.147.160|3129|India|Bengaluru|The Constant Company, LLC|
+|13|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|14|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|49.48.136.23|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|16|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|119.28.117.127|31280|Singapore|Singapore|ComsenzNet|
+|18|43.163.195.38|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.189.222.27|8080|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|20|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
 
 
 
