@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7942** proxies at the latest update. Usable proxies are below.
+> Scraper found **7971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1021|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|776|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5191|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|69.63.78.199|3129|Eswatini|Ezulwini|Swaziland Posts & Telecommunications Corp.|
 |4|31.135.65.140|3128|Russia|Mytishchi|Intek-M LLC|
-|5|69.63.78.199|3129|Eswatini|Ezulwini|Swaziland Posts & Telecommunications Corp.|
-|6|45.11.95.165|6012|Russia|Moscow|Delta Ltd|
+|5|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|111.88.240.43|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
 |7|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|8|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|10|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|38.56.70.227|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|13|103.156.140.238|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|14|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|15|18.116.105.71|3128|United States|Dublin|Amazon.com, Inc.|
-|16|45.174.46.74|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|17|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|18|45.11.95.165|6012|Russia|Moscow|Delta Ltd|
-|19|132.255.18.89|8080|Brazil|Guarapuava|E. M. Fernandes|
-|20|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|45.174.46.74|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|9|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|10|72.10.160.174|27495|Canada|Montreal|GloboTech Communications|
+|11|119.39.68.94|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
+|13|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|14|119.28.117.127|31280|Singapore|Singapore|ComsenzNet|
+|15|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|16|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
+|18|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|19|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|20|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
 
 
 
