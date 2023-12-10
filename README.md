@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7986** proxies at the latest update. Usable proxies are below.
+> Scraper found **7973** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|822|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5191|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.247.216.138|8080|Indonesia|Jakarta|PT. Parsaoran Global Datatrans|
-|2|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|3|51.210.183.2|3128|France|Gravelines|OVH SAS|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|6|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|7|38.56.70.227|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|8|38.172.128.236|999|Peru|Lurin|Fiber Digital S.R.L|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|67.43.227.227|9545|Canada|Montreal|GloboTech Communications|
-|11|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|12|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|13|64.225.8.203|10007|United States|Clifton|DigitalOcean, LLC|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|67.43.227.228|16921|Canada|Montreal|GloboTech Communications|
-|16|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
-|17|203.190.113.149|8077|Indonesia|Sleman|PT Union Routelink Communication|
-|18|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|19|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|20|45.112.126.115|80|Indonesia|Bekasi|FIBERNET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.210.183.2|3128|France|Gravelines|OVH SAS|
+|3|203.150.128.178|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|5|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|6|103.183.56.3|8080|Indonesia|Sukasari|PT Multi Karya Athira|
+|7|139.144.20.92|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|8|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|11|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|12|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|117.57.92.24|8089|China|Guangzhou|Chinanet|
+|14|185.195.25.78|3128|Russia|Moscow|First Server Limited|
+|15|58.20.82.102|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.172.42.106|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|67.43.227.227|25211|Canada|Montreal|GloboTech Communications|
+|20|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
 
 
 
