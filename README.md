@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.183.227.46|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|2|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|3|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
-|4|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|7|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|8|67.43.228.253|24541|Canada|Montreal|GloboTech Communications|
-|9|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
-|10|67.43.227.227|26141|Canada|Montreal|GloboTech Communications|
-|11|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
-|13|217.12.23.236|80|Spain|Seville|Secondary Node|
-|14|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
-|15|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|16|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26141|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|4771|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|1567|Canada|Montreal|GloboTech Communications|
-|20|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|2|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|3|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|4|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|5|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.228|8473|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|8|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|10|67.43.228.253|31735|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|12|14.103.26.53|8000|China|Beijing|BITNET|
+|13|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.236.20|8713|Canada|Montreal|GloboTech Communications|
+|15|119.39.68.87|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|18|23.162.200.26|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|19|67.43.228.251|21901|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|1567|Canada|Montreal|GloboTech Communications|
 
 
 
