@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8067** proxies at the latest update. Usable proxies are below.
+> Scraper found **8074** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1078|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1085|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|753|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5253|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.150.128.178|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |2|216.80.39.89|3129|United States|Chicago|RCN|
-|3|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|3|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|6|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|7|157.230.254.184|22999|Singapore|Singapore|DigitalOcean, LLC|
-|8|3.132.19.48|3128|United States|Dublin|Amazon.com, Inc.|
-|9|67.43.227.227|26313|Canada|Montreal|GloboTech Communications|
-|10|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|11|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|12|3.134.88.80|8089|United States|Dublin|Amazon.com, Inc.|
-|13|88.99.249.96|8242|Germany|Falkenstein|Hetzner Online GmbH|
-|14|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|15|67.43.236.20|1329|Canada|Montreal|GloboTech Communications|
-|16|45.143.197.219|3128|United Kingdom|Solihull|Daniel Jackson|
-|17|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
-|18|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|19|67.43.236.20|1329|Canada|Montreal|GloboTech Communications|
-|20|185.25.205.132|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|8|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|9|45.11.95.166|6015|Russia|Moscow|Delta Ltd|
+|10|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
+|11|58.20.82.115|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|13|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|14|189.230.1.11|999|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|15|67.207.161.157|4128|United States|Los Angeles|Colocation America Corporation|
+|16|103.153.60.79|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|17|82.103.111.254|80|Bulgaria|Trigrad|A1 Bulgaria EAD|
+|18|192.141.98.179|8080|Peru|Huancayo|Internet Solutions Network Peru SAC|
+|19|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|20|43.163.195.38|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
