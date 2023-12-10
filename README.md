@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.25.33.189|8080|Thailand|Lamphun|TOT Public Company Limited|
-|2|146.83.216.227|80|Chile|Nunoa|Red Universitaria Nacional|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|180.183.227.46|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|5|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|6|103.86.159.25|6969|Indonesia|Makasar|PT Cyberindo Aditama|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|72.10.160.174|18541|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|2555|Canada|Montreal|GloboTech Communications|
-|11|185.142.64.98|8080|Russia|Lytkarino|Wellcom-l ISP|
-|12|171.5.8.169|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|13|222.75.167.43|7890|China|Beijing|Chinanet|
-|14|72.10.160.173|22105|Canada|Montreal|GloboTech Communications|
-|15|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|16|67.43.227.227|6057|Canada|Montreal|GloboTech Communications|
-|17|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|19|67.43.227.227|6057|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|146.235.210.39|3128|United States|San Jose|Oracle Corporation|
+|3|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|7|67.43.236.20|9237|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|9237|Canada|Montreal|GloboTech Communications|
+|10|180.183.227.46|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|11|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.230|13311|Canada|Montreal|GloboTech Communications|
+|13|14.207.80.7|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
+|15|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|16|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|19433|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|9237|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.142|10007|United States|Clifton|DigitalOcean, LLC|
+|20|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
 
 
 
