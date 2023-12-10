@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7935** proxies at the latest update. Usable proxies are below.
+> Scraper found **7944** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|768|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|745|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5150|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.76.142.247|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|2|139.144.71.214|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
-|5|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|213.97.161.224|3128|Spain|Cuarte de Huerva|Telefonica de Espana SAU|
-|7|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|8|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|12|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|13|103.6.223.2|3128|China|Beijing|China Unicom|
-|14|67.43.227.227|13425|Canada|Montreal|GloboTech Communications|
-|15|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|16|72.10.160.90|17673|Canada|Montreal|GloboTech Communications|
-|17|23.162.200.46|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|18|67.43.236.20|4755|Canada|Montreal|GloboTech Communications|
-|19|103.172.71.11|8080|Indonesia|Karawang|AZNET|
-|20|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
+|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|103.166.29.39|2499|Indonesia|Bojonegoro|PT Global Media Data Prima|
+|5|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|6|162.243.184.252|3128|United States|Clifton|DigitalOcean, LLC|
+|7|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|8|58.20.82.102|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|67.43.236.20|8887|Canada|Montreal|GloboTech Communications|
+|10|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|72.10.160.172|3335|Canada|Montreal|GloboTech Communications|
+|12|52.38.147.130|80|United States|Portland|Amazon.com, Inc.|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.236.20|8887|Canada|Montreal|GloboTech Communications|
+|15|104.236.195.60|10003|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.227.227|31621|Canada|Montreal|GloboTech Communications|
+|17|45.167.124.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|38.172.128.236|999|Peru|Lurin|Fiber Digital S.R.L|
+|19|72.10.164.178|33217|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|13569|Canada|Montreal|GloboTech Communications|
 
 
 
