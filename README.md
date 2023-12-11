@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7661** proxies at the latest update. Usable proxies are below.
+> Scraper found **7753** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|933|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|640|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5105|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.234.165.196|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
-|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|3|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|4|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|5|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|6|103.176.198.238|8080|Indonesia|Medan|PT Iweka Digital Solution|
-|7|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|8|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|9|38.65.139.126|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
-|10|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|11|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|12|119.39.68.93|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|67.43.228.253|8601|Canada|Montreal|GloboTech Communications|
-|14|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|18|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|10131|Canada|Montreal|GloboTech Communications|
-|20|23.162.200.46|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|2|101.255.165.41|8080|Indonesia|Bekasi|PT Remala Abadi|
+|3|34.162.107.79|80|United States|Columbus|Google LLC|
+|4|207.244.248.1|3128|United States|St Louis|Nubes, LLC|
+|5|23.162.200.46|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|72.10.160.170|13591|Canada|Montreal|GloboTech Communications|
+|8|187.230.252.161|999|Mexico|Pachuca|Uninet S.A. de C.V.|
+|9|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|10|58.20.20.78|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|12|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|13|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|14|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|67.43.227.227|31089|Canada|Montreal|GloboTech Communications|
+|16|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|17|200.71.109.105|999|Mexico|Jaltocan|Digy Networks S.A De C.V.|
+|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|19|222.75.167.43|7890|China|Beijing|Chinanet|
+|20|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
 
 
 
