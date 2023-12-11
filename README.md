@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8309** proxies at the latest update. Usable proxies are below.
+> Scraper found **7118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1191|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|789|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5347|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|2|103.153.127.8|8080|Indonesia|Pati|MANDALANET|
-|3|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|4|189.22.142.29|8091|Brazil|São Paulo|Claro S.A|
-|5|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|6|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|7|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|67.43.227.228|27077|Canada|Montreal|GloboTech Communications|
-|9|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|10|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|11|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|12|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|13|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|14|67.43.227.227|26159|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|7967|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|18949|Canada|Montreal|GloboTech Communications|
-|17|222.75.167.43|7890|China|Beijing|Chinanet|
-|18|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|181.39.76.247|999|Ecuador|Guayaquil|Telconet S.A|
-|20|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|2|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|4|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|5|179.1.133.33|999|Colombia|Pamplona|InterNexa Global Network|
+|6|24.172.34.114|49920|United States|Lexington|Charter Communications Inc|
+|7|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
+|8|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|9|20.99.153.50|8080|United States|Quincy|Microsoft Corporation|
+|10|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|162.212.152.105|10006|United States|Chicago|tzulo, inc.|
+|13|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
+|15|27.71.173.6|6006|Vietnam|Hanoi|Viettel Group|
+|16|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|17|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|18|190.107.236.173|999|Ecuador|Tulcán|CINECABLE TV|
+|19|119.159.246.197|3128|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|20|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
