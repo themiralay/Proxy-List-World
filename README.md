@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6731** proxies at the latest update. Usable proxies are below.
+> Scraper found **7686** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5071|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
-|2|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
-|3|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
-|4|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
+|2|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
+|3|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|4|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |5|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|6|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|112.78.134.211|8080|Indonesia|Jakarta Pusat|BIZNET|
-|8|45.71.167.129|8080|Brazil|Nova Londrina|Ifiber Telecom|
-|9|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|10|38.156.73.138|8080|Turkey|Umraniye|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|35.213.106.7|80|Japan|Tokyo|Google LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|20.99.153.50|8080|United States|Quincy|Microsoft Corporation|
-|15|201.148.8.11|999|Mexico|San Andres Tuxtla|Operbes|
-|16|182.253.109.39|8080|Indonesia|Semarang|Biznet Metronet|
-|17|119.159.246.197|3128|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|18|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|19|181.191.94.126|8999|Brazil|Nossa Senhora dos Remedios|Mundial NET Provedor De Internet|
-|20|45.174.253.19|999|Mexico|Isla Mujeres|Digitcenter de México, S.A. de C.V.|
+|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|7|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
+|8|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|9|36.89.156.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|11|67.43.236.20|16725|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|13129|Canada|Montreal|GloboTech Communications|
+|13|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|14|45.71.203.106|999|Ecuador|Machala|Ufinet Panama S.A.|
+|15|14.103.26.198|8000|China|Beijing|BITNET|
+|16|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|17|88.99.249.96|8151|Germany|Falkenstein|Hetzner Online GmbH|
+|18|43.156.79.173|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.71.167.129|8080|Brazil|Nova Londrina|Ifiber Telecom|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
