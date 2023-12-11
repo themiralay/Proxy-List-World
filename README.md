@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7723** proxies at the latest update. Usable proxies are below.
+> Scraper found **7695** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|964|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5071|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|2|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|3|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|5|202.150.148.121|8080|Indonesia|Cipageran|PT Comtronics Systems|
-|6|67.43.227.227|32857|Canada|Montreal|GloboTech Communications|
-|7|103.172.70.138|9191|Indonesia|Kumendung Satu|AZNET|
-|8|72.10.160.170|2585|Canada|Montreal|GloboTech Communications|
-|9|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|103.171.159.225|8080|Indonesia|Bandar Lampung|MYREPUBLIC|
+|1|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|3|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|4|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|5|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|6|72.10.160.93|23323|Canada|Montreal|GloboTech Communications|
+|7|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
+|8|67.43.227.227|2193|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
 |11|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|12|67.43.227.227|32857|Canada|Montreal|GloboTech Communications|
-|13|222.127.220.84|8082|Philippines|Quezon City|GLBB|
-|14|45.143.197.218|3128|United Kingdom|Solihull|Daniel Jackson|
-|15|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|32857|Canada|Montreal|GloboTech Communications|
-|18|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|19|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|20|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|2193|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|15|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|16|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.164.178|2023|Canada|Montreal|GloboTech Communications|
+|19|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
+|20|118.172.63.251|8080|Thailand|Kanchanaburi|TOT Public Company Limited|
 
 
 
