@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7542** proxies at the latest update. Usable proxies are below.
+> Scraper found **7568** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|520|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5071|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|103.116.218.178|8080|Indonesia|Bekasi|PT iForte Global Internet|
-|3|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|4|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
-|5|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|6|67.43.228.253|1057|Canada|Montreal|GloboTech Communications|
-|7|103.76.12.42|80|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
-|8|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
-|9|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|217.12.23.236|80|Spain|Seville|Secondary Node|
-|12|67.43.227.228|30749|Canada|Montreal|GloboTech Communications|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|143.55.43.190|8080|United States|Dallas|Nextlink Broadband|
-|15|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
-|16|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|19|67.43.227.227|16183|Canada|Montreal|GloboTech Communications|
-|20|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|1|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|2|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|3|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|67.43.236.20|28871|Canada|Montreal|GloboTech Communications|
+|9|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|10|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
+|11|113.160.182.236|19132|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|12|67.43.227.227|18761|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
+|14|182.252.81.185|8080|Bangladesh|Kushtia|Agni Systems Limited|
+|15|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|196.216.132.195|8080|South Africa|Schweizer-Reneke|HERO TELECOMS (PTY) LTD|
+|18|67.43.227.227|18761|Canada|Montreal|GloboTech Communications|
+|19|103.42.243.3|8080|Indonesia|Pemalang|PT Merdeka Media Teknologi|
+|20|184.82.52.196|8080|Thailand|Khon Kaen|AIS-Fibre|
 
 
 
