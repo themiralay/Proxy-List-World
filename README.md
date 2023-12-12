@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7714** proxies at the latest update. Usable proxies are below.
+> Scraper found **7670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|949|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|652|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5134|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|2|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|3|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|4|72.10.160.171|1405|Canada|Montreal|GloboTech Communications|
-|5|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|67.43.236.20|15893|Canada|Montreal|GloboTech Communications|
-|7|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|45.143.197.221|3128|United Kingdom|Solihull|Daniel Jackson|
-|13|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
-|14|67.43.236.20|15893|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|20317|Canada|Montreal|GloboTech Communications|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|72.10.164.178|1031|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15893|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5189|Canada|Montreal|GloboTech Communications|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|180.183.228.23|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|67.43.236.20|21069|Canada|Montreal|GloboTech Communications|
+|5|72.10.164.178|1031|Canada|Montreal|GloboTech Communications|
+|6|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|7|67.43.228.253|15023|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|20317|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
+|11|67.43.227.227|3385|Canada|Montreal|GloboTech Communications|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|14|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.154.144.202|8715|Indonesia|Kutisari|MORATELINDONAP|
+|16|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|17|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|67.43.228.253|15023|Canada|Montreal|GloboTech Communications|
+|19|45.71.203.110|999|Ecuador|Machala|Ufinet Panama S.A.|
+|20|67.43.227.227|3385|Canada|Montreal|GloboTech Communications|
 
 
 
