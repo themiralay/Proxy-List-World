@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7379** proxies at the latest update. Usable proxies are below.
+> Scraper found **7415** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|891|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|594|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4948|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|2|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|67.43.227.227|5339|Canada|Montreal|GloboTech Communications|
-|4|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|5|72.10.160.90|2677|Canada|Montreal|GloboTech Communications|
-|6|13.209.76.74|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|7|72.10.160.90|2677|Canada|Montreal|GloboTech Communications|
-|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|185.227.134.152|4875|Singapore|Singapore|Contabo Asia Private Limited|
-|11|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2677|Canada|Montreal|GloboTech Communications|
+|1|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|2|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|3|72.10.160.171|18463|Canada|Montreal|GloboTech Communications|
+|4|67.43.227.227|4925|Canada|Montreal|GloboTech Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|72.10.160.90|2675|Canada|Montreal|GloboTech Communications|
+|7|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|8|67.43.228.250|19895|Canada|Montreal|GloboTech Communications|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
+|12|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|13|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
 |14|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|29443|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5339|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5339|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|8925|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22991|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|5339|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2675|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|2675|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
+|19|182.52.231.196|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
 
 
 
