@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7650** proxies at the latest update. Usable proxies are below.
+> Scraper found **7622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|938|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5158|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
-|2|64.56.91.153|80|United States|Port Saint Lucie|Indian River State College|
-|3|157.230.254.184|10909|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|6|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|7|103.148.49.162|8080|Indonesia|Pontianak|BCMEDIA|
-|8|138.197.20.244|10002|United States|Clifton|DigitalOcean, LLC|
-|9|72.10.164.178|31759|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|22999|Canada|Montreal|GloboTech Communications|
-|11|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|67.43.228.253|23737|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|8417|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|22725|Canada|Montreal|GloboTech Communications|
-|15|93.177.101.225|3310|Turkey|Sultanbeyli|ibrahim tufek|
-|16|157.230.254.184|10909|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.227.227|20385|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|8417|Canada|Montreal|GloboTech Communications|
-|19|142.93.72.28|10004|United States|Clifton|DigitalOcean, LLC|
-|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|2|125.24.167.62|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|171.97.116.203|8080|Thailand|Chiang Mai|True Internet Corporation CO. Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|6|42.96.5.251|6737|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|7|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|216.80.39.89|3129|United States|Chicago|RCN|
+|9|67.43.227.227|2977|Canada|Montreal|GloboTech Communications|
+|10|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|213.232.115.183|80|Germany|Frankfurt Am Main|xTom GmbH|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|67.43.228.253|23737|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|28455|Canada|Montreal|GloboTech Communications|
+|17|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|18|121.126.195.153|13999|South Korea|Gwanak-gu|Korea Telecom|
+|19|67.43.227.227|2977|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2977|Canada|Montreal|GloboTech Communications|
 
 
 
