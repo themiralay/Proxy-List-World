@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7617** proxies at the latest update. Usable proxies are below.
+> Scraper found **7587** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|970|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|940|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5158|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
 |2|13.93.68.176|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|42.96.5.251|6737|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|36.91.98.115|8181|Indonesia|Angke|PT Telekomunikasi Indonesia|
-|8|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|9|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
-|12|104.192.202.11|8080|United States|St. George|InfoWest|
-|13|122.50.6.186|8080|Indonesia|Pecenongan|PT Mora Telematika Indonesia|
+|3|157.230.254.184|10909|Singapore|Singapore|DigitalOcean, LLC|
+|4|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|5|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|7|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|10|67.43.227.227|1653|Canada|Montreal|GloboTech Communications|
+|11|222.75.167.43|7890|China|Beijing|Chinanet|
+|12|72.10.164.178|27855|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|1653|Canada|Montreal|GloboTech Communications|
 |14|72.10.164.178|27855|Canada|Montreal|GloboTech Communications|
-|15|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|16|67.43.227.227|1653|Canada|Montreal|GloboTech Communications|
-|17|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|18|67.43.227.227|1653|Canada|Montreal|GloboTech Communications|
-|19|5.28.33.138|8080|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|20|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|15|67.43.228.253|21781|Canada|Montreal|GloboTech Communications|
+|16|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|17|67.43.228.253|21781|Canada|Montreal|GloboTech Communications|
+|18|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.236.20|14215|Canada|Montreal|GloboTech Communications|
+|20|14.103.26.198|8000|China|Beijing|BITNET|
 
 
 
