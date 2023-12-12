@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|2|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|3|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|18.231.107.47|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|35.205.72.152|80|Belgium|Brussels|Google LLC|
 |4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
-|7|72.10.164.178|26357|Canada|Montreal|GloboTech Communications|
-|8|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|67.43.227.228|1973|Canada|Montreal|GloboTech Communications|
-|11|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|18.231.107.47|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|13|183.89.65.196|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|14|67.43.236.20|4037|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26357|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26357|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|21575|Canada|Montreal|GloboTech Communications|
-|18|45.188.167.25|999|Mexico|Jamay|Velocom SA De CV|
-|19|67.43.236.20|4037|Canada|Montreal|GloboTech Communications|
-|20|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|5|72.10.160.90|28039|Canada|Montreal|GloboTech Communications|
+|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|67.43.227.227|24979|Canada|Montreal|GloboTech Communications|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|67.43.227.227|24979|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|22301|Canada|Montreal|GloboTech Communications|
+|12|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|72.10.160.90|28039|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|30143|Canada|Montreal|GloboTech Communications|
+|15|190.61.46.227|999|Colombia|Barrio San Luis|Ufinet Panama S.A.|
+|16|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
+|17|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|67.43.236.20|4037|Canada|Montreal|GloboTech Communications|
+|19|89.37.219.210|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|20|72.10.160.90|28039|Canada|Montreal|GloboTech Communications|
 
 
 
