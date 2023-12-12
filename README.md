@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7666** proxies at the latest update. Usable proxies are below.
+> Scraper found **7717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|933|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|603|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5202|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|2|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|67.43.228.253|12557|Canada|Montreal|GloboTech Communications|
-|6|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|2|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|4|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |7|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|72.10.160.90|2391|Canada|Montreal|GloboTech Communications|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|8|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|9|72.10.160.90|2391|Canada|Montreal|GloboTech Communications|
 |10|72.10.164.178|12901|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|11|67.43.228.252|14991|Canada|Montreal|GloboTech Communications|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 |13|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
-|16|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
-|17|14.103.24.20|8000|China|Beijing|BITNET|
-|18|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|17857|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|2155|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|17857|Canada|Montreal|GloboTech Communications|
+|16|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|19|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|67.43.227.227|4629|Canada|Montreal|GloboTech Communications|
 
 
 
