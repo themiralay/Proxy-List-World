@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7285** proxies at the latest update. Usable proxies are below.
+> Scraper found **7323** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|791|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5080|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|1|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
 |2|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|3|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|4|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
-|5|69.63.78.199|3129|Eswatini|Ezulwini|Swaziland Posts & Telecommunications Corp.|
-|6|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|7|67.43.236.20|11857|Canada|Montreal|GloboTech Communications|
-|8|38.51.235.214|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|9|72.10.164.178|1997|Canada|Montreal|GloboTech Communications|
-|10|112.78.181.210|8080|Indonesia|Jakarta Pusat|BIZNET|
-|11|72.10.160.174|10965|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.22|11001|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1997|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|31943|Canada|Montreal|GloboTech Communications|
-|15|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.91|32197|Canada|Montreal|GloboTech Communications|
-|17|181.191.94.126|8999|Brazil|Nossa Senhora dos Remedios|Mundial NET Provedor De Internet|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|72.10.164.178|1997|Canada|Montreal|GloboTech Communications|
-|20|180.149.232.198|8080|Bangladesh|Narsingdi|Digi Jadoo Broadband Ltd|
+|3|223.205.105.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|6|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|7|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|72.10.160.172|9319|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|17949|Canada|Montreal|GloboTech Communications|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
