@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|2|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|1|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |3|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|138.117.86.146|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|72.10.164.178|2809|Canada|Montreal|GloboTech Communications|
-|10|180.183.48.193|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|67.43.228.253|1095|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|1443|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|10965|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|1095|Canada|Montreal|GloboTech Communications|
-|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|67.43.236.20|1443|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32887|Canada|Montreal|GloboTech Communications|
-|18|59.124.224.205|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|19|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|20|67.43.228.253|1095|Canada|Montreal|GloboTech Communications|
+|4|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|5|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|118.67.132.210|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|7|23.162.200.68|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|103.48.71.102|84|India|Hyderabad|Country Online Services PVT LTD|
+|9|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|10|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|12|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|15|59.124.224.205|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|16|67.43.236.20|22493|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|22493|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|22493|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|67.43.228.253|2575|Canada|Montreal|GloboTech Communications|
 
 
 
