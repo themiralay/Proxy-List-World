@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8087** proxies at the latest update. Usable proxies are below.
+> Scraper found **8086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1130|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|830|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5144|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|2|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|223.205.105.238|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|3|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |5|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|7|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|8|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|9|24.152.50.116|999|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
-|10|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|64.225.8.179|10007|United States|Clifton|DigitalOcean, LLC|
-|13|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|67.43.228.253|12557|Canada|Montreal|GloboTech Communications|
-|15|181.78.11.217|999|Colombia|La Paz|IFX Networks Argentina S.R.L|
-|16|2.144.6.111|8080|Iran|Tehran|Iran Cell Service and Communication Company|
+|6|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|7|36.89.156.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|64.225.8.179|10007|United States|Clifton|DigitalOcean, LLC|
+|9|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|10|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|142.93.72.28|10009|United States|Clifton|DigitalOcean, LLC|
+|12|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|15|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|120.28.216.131|8080|Philippines|Cagayan de Oro|Globe Telecom|
 |17|64.225.8.179|10007|United States|Clifton|DigitalOcean, LLC|
-|18|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.227|14415|Canada|Montreal|GloboTech Communications|
+|18|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|222.75.167.43|7890|China|Beijing|Chinanet|
 
 
 
