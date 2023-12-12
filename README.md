@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |2|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|67.43.228.253|32895|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|19775|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|19775|Canada|Montreal|GloboTech Communications|
-|9|101.231.64.89|8443|China|Pudong|China Telecom (Group)|
-|10|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
-|11|67.43.228.253|32895|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|32895|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
-|14|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.228.250|5681|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19775|Canada|Montreal|GloboTech Communications|
-|17|184.22.3.232|8080|Thailand|Phuket|AIS-Fibre|
-|18|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|67.43.228.253|32895|Canada|Montreal|GloboTech Communications|
+|3|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|8|177.240.16.10|999|Mexico|Guasave|Mega Cable, S.A. de C.V.|
+|9|43.198.105.38|80|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|10|201.148.49.243|999|Mexico|Benito Juarez|Operbes, S.A. de C.V.|
+|11|72.10.164.178|23281|Canada|Montreal|GloboTech Communications|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|72.10.160.170|13991|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23281|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|23281|Canada|Montreal|GloboTech Communications|
+|16|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|17|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|18|88.99.249.96|8272|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.81.194.68|80|Indonesia|Pisangan|PT Rtiga Global Media|
+|20|67.43.236.20|23283|Canada|Montreal|GloboTech Communications|
 
 
 
