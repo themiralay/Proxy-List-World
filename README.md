@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|2|45.167.124.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|64.56.91.153|80|United States|Port Saint Lucie|Indian River State College|
-|6|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|7|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|157.230.254.184|10909|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.10.160.90|2979|Canada|Montreal|GloboTech Communications|
+|1|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|45.167.124.168|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|186.156.161.235|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
+|6|157.230.254.184|10909|Singapore|Singapore|DigitalOcean, LLC|
+|7|36.64.195.242|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|182.253.161.56|8080|Indonesia|Jakarta Pusat|BIZNET|
+|9|115.94.70.253|3128|South Korea|Anyang-si|LG DACOM Corporation|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |11|68.183.144.115|10001|United States|Clifton|DigitalOcean, LLC|
-|12|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|67.43.236.20|24955|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|30885|Canada|Montreal|GloboTech Communications|
-|15|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|67.43.236.20|24955|Canada|Montreal|GloboTech Communications|
-|17|45.167.124.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|67.43.227.228|12487|Canada|Montreal|GloboTech Communications|
-|19|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|72.10.160.90|2979|Canada|Montreal|GloboTech Communications|
+|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|13|72.10.160.173|16445|Canada|Montreal|GloboTech Communications|
+|14|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|67.43.236.21|22937|Canada|Montreal|GloboTech Communications|
+|16|14.103.26.198|8000|China|Beijing|BITNET|
+|17|67.43.236.20|7183|Canada|Montreal|GloboTech Communications|
+|18|162.243.184.252|3128|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.227.227|26895|Canada|Montreal|GloboTech Communications|
+|20|103.84.176.46|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
