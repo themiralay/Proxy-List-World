@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.70.0.157|80|France|Strasbourg|OVH SAS|
-|2|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|3|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|4|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|1|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|181.65.180.188|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|3|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|4|193.70.0.157|80|France|Strasbourg|OVH SAS|
+|5|103.39.73.1|8080|Indonesia|Depok|PT Teknologi Gema Informasi|
+|6|42.96.5.251|6737|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
 |7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|9|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|10|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|11|94.130.150.155|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|67.43.236.20|7095|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|15|181.78.82.33|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|16|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|17|151.80.136.138|3128|France|Roubaix|OVH SAS|
-|18|67.43.227.227|8707|Canada|Montreal|GloboTech Communications|
-|19|193.70.0.157|80|France|Strasbourg|OVH SAS|
-|20|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|9|67.43.228.253|28851|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|30937|Canada|Montreal|GloboTech Communications|
+|11|52.163.56.148|80|Singapore|Singapore|Microsoft Corporation|
+|12|72.10.160.170|22067|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|30937|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|16687|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|4883|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|4883|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|28851|Canada|Montreal|GloboTech Communications|
+|18|94.130.150.155|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|72.10.164.178|30937|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30937|Canada|Montreal|GloboTech Communications|
 
 
 
