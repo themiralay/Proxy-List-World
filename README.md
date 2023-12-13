@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8258** proxies at the latest update. Usable proxies are below.
+> Scraper found **8252** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1176|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|744|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5353|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|2|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|3|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|4|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|67.43.227.228|27245|Canada|Montreal|GloboTech Communications|
+|1|103.255.145.62|82|India|Hyderabad|Pioneer Elabs Ltd|
+|2|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|3.124.61.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|4|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
 |6|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|7|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|8|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|9|23.162.200.68|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|10|20.44.226.195|80|Singapore|Singapore|Microsoft Corporation|
-|11|192.99.160.45|8080|Canada|Beauharnois|OVH SAS|
-|12|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
-|13|134.122.81.231|36000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|36.134.3.91|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
-|16|67.43.236.20|2733|Canada|Montreal|GloboTech Communications|
-|17|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.160.90|30667|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32977|Canada|Montreal|GloboTech Communications|
-|20|190.110.34.150|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|7|152.69.182.220|3128|Australia|Melbourne|Oracle Corporation|
+|8|210.200.169.134|33333|Taiwan|Neihu District|Asia Pacific On-line Services Inc.|
+|9|67.43.228.253|16527|Canada|Montreal|GloboTech Communications|
+|10|52.29.111.222|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|148.244.210.142|999|Mexico|Morelia|Alestra, S. de R.L. de C.V.|
+|12|67.43.236.20|2733|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|16527|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|2733|Canada|Montreal|GloboTech Communications|
+|15|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|16|146.59.93.138|80|Poland|Warsaw|OVH SAS|
+|17|103.130.80.50|8080|Indonesia|Tulungagung|PT PRISMA MEDIA NUSANTARA|
+|18|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|67.43.236.20|2733|Canada|Montreal|GloboTech Communications|
+|20|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
 
 
 
