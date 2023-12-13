@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.189.222.27|8080|Indonesia|Kresek|PT. WIKAPLUS GLOBAL NUSANTARA|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|54.66.0.25|3128|Australia|Sydney|Amazon.com, Inc.|
-|3|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|4|49.48.196.12|8080|Thailand|Ratchaburi|Triple T Broadband Public Company Limited|
-|5|72.10.164.178|9323|Canada|Montreal|GloboTech Communications|
-|6|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|7|67.43.236.20|30373|Canada|Montreal|GloboTech Communications|
-|8|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|72.10.160.90|2525|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|9323|Canada|Montreal|GloboTech Communications|
-|11|103.39.73.9|8080|Indonesia|Depok|PT Teknologi Gema Informasi|
-|12|67.43.227.227|13373|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|30373|Canada|Montreal|GloboTech Communications|
-|14|91.236.156.30|8282|Ukraine|Poltava|Limited Liability Company AVATOR ISP|
-|15|67.43.228.253|12743|Canada|Montreal|GloboTech Communications|
-|16|45.95.214.219|8080|Turkey|Istanbul|Netundweb Telekomunikasyon Ticaret Limited Sirketi|
-|17|67.43.227.227|13373|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|30373|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|30373|Canada|Montreal|GloboTech Communications|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|4|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|5|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
+|8|72.10.164.178|11089|Canada|Montreal|GloboTech Communications|
+|9|201.148.8.14|999|Mexico|San Andres Tuxtla|Operbes|
+|10|163.172.11.184|8080|France|Paris|Online S.A.S.|
+|11|72.10.164.178|11089|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|11089|Canada|Montreal|GloboTech Communications|
+|13|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
+|14|94.130.150.155|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|72.10.164.178|11089|Canada|Montreal|GloboTech Communications|
+|17|128.201.163.205|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|18|67.43.236.20|31653|Canada|Montreal|GloboTech Communications|
+|19|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
+|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
 
