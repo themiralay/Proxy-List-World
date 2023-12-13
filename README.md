@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
 |2|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|3|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|4|72.10.164.178|22077|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
-|6|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|7|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|16435|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
-|13|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|72.10.164.178|22077|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|36.94.47.59|4480|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|72.10.160.90|20541|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|20541|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22077|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22077|Canada|Montreal|GloboTech Communications|
+|3|185.82.98.42|9092|Lebanon|Tripoli|Protected|
+|4|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|5|183.89.42.56|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
+|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|8|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|28529|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|31175|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|2331|Canada|Montreal|GloboTech Communications|
+|17|1.179.136.154|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
+|19|194.213.3.103|3128|United Kingdom|Solihull|Daniel Jackson|
+|20|72.10.160.94|6963|Canada|Montreal|GloboTech Communications|
 
 
 
