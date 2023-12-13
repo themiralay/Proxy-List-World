@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8298** proxies at the latest update. Usable proxies are below.
+> Scraper found **8289** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1167|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1158|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5353|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.7.191.148|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|129.146.217.72|3128|United States|Phoenix|Oracle Corporation|
-|15|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|16|103.189.116.179|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|17|67.207.161.158|4128|United States|Los Angeles|Colocation America Corporation|
-|18|67.207.161.155|4128|United States|Los Angeles|Colocation America Corporation|
-|19|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|187.251.102.157|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|15|195.88.87.132|3128|Germany|Nuremberg|Contabo GmbH|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|185.200.38.117|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
 
 
 
