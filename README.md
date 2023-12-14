@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8067** proxies at the latest update. Usable proxies are below.
+> Scraper found **8161** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1100|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1194|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|733|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5257|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |4|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|5|34.77.56.122|8080|Belgium|Brussels|Google LLC|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|103.46.8.3|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|13|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|14|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|16|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|17|162.243.184.21|10005|United States|Clifton|DigitalOcean, LLC|
-|18|92.255.97.23|8080|Russia|St Petersburg|Comfortel Ltd.|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|5|103.72.70.74|3128|Vietnam|Mễ Trì|CSOFT|
+|6|34.77.56.122|8080|Belgium|Brussels|Google LLC|
+|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|8|103.138.205.83|3128|Indonesia|Bekasi|MR1-GENERAL|
+|9|154.26.158.168|3128|Australia|Sydney|Cogent Communications|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|38.180.86.43|80|Belgium|Zaventem|M247 Europe SRL|
+|12|45.153.243.138|3128|Germany|Frankfurt am Main|aurologic GmbH|
+|13|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|45.8.229.203|3128|Russia|Moscow|RUVDS|
+|16|27.111.74.118|3127|India|Bengaluru|RailTel Corporation|
+|17|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|18|79.124.77.148|3128|Bulgaria|Sofia|DA International Group Ltd.|
+|19|67.207.161.154|4128|United States|Los Angeles|Colocation America Corporation|
+|20|103.191.165.104|8080|Indonesia|Subang|PT Sakti Wijaya Network|
 
 
 
