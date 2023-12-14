@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|2|70.63.90.245|8080|United States|Wilmington|Spectrum|
 |3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|6|103.146.38.53|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|34.128.188.27|8080|United States|Kansas City|Google LLC|
-|9|67.43.236.20|17311|Canada|Montreal|GloboTech Communications|
-|10|171.96.111.64|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|11|179.50.90.166|8500|Colombia|Medellín|GTD COLOMBIA|
-|12|72.10.164.178|31467|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|17311|Canada|Montreal|GloboTech Communications|
-|14|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|15|72.10.160.90|12975|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|17311|Canada|Montreal|GloboTech Communications|
-|17|52.163.56.148|80|Singapore|Singapore|Microsoft Corporation|
-|18|103.163.103.39|80|Indonesia|Wonogiri|PT Mamura Inter Media|
-|19|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|20|67.43.236.20|17311|Canada|Montreal|GloboTech Communications|
+|4|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|6|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|7|23.162.200.244|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|9|23.162.200.26|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|78.47.96.120|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|67.207.161.154|4128|United States|Los Angeles|Colocation America Corporation|
+|14|3.27.235.213|8080|Australia|Sydney|Amazon.com, Inc.|
+|15|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|16|180.183.121.105|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|45.143.197.221|3128|United Kingdom|Solihull|Daniel Jackson|
+|19|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|3023|Canada|Montreal|GloboTech Communications|
 
 
 
