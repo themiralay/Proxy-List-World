@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.158.252.81|8080|Indonesia|Kebon Jeruk|Rapid Network|
-|2|45.230.171.41|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|125.87.91.67|8089|China|Shanghai|Chinanet|
-|6|3.28.21.127|3128|United Arab Emirates|Dubai|Amazon Technologies Inc.|
-|7|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|78.46.210.112|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|13|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.228.253|14945|Canada|Montreal|GloboTech Communications|
-|15|146.235.210.39|3128|United States|San Jose|Oracle Corporation|
-|16|67.43.236.20|12365|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|14945|Canada|Montreal|GloboTech Communications|
-|18|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|19|67.43.236.20|12365|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14945|Canada|Montreal|GloboTech Communications|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|182.16.171.65|43188|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|3|78.46.210.112|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|103.131.18.172|8080|Indonesia|Semarang|PT Global Media Data Prima|
+|5|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
+|6|103.227.186.11|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|7|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|8|72.10.160.170|18309|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|12365|Canada|Montreal|GloboTech Communications|
+|10|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|67.43.236.20|12365|Canada|Montreal|GloboTech Communications|
+|13|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|15|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|16|67.43.228.250|3485|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|2911|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|12365|Canada|Montreal|GloboTech Communications|
+|19|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
 
 
 
