@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|13.93.68.176|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|6|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|8|67.43.227.227|21709|Canada|Montreal|GloboTech Communications|
-|9|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|10|136.232.187.114|3128|India|Indore|Reliance Jio Infocomm Limited|
-|11|67.43.227.228|27983|Canada|Montreal|GloboTech Communications|
-|12|36.90.23.144|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|13|72.10.164.178|25527|Canada|Montreal|GloboTech Communications|
-|14|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|67.43.236.20|2747|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2363|Canada|Montreal|GloboTech Communications|
-|18|103.46.8.3|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|19|67.43.236.20|2747|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2747|Canada|Montreal|GloboTech Communications|
+|2|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|13.93.68.176|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|5|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|49.231.15.27|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|9|103.169.255.196|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|10|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|11|72.10.164.178|29475|Canada|Montreal|GloboTech Communications|
+|12|103.158.252.81|8080|Indonesia|Kebon Jeruk|Rapid Network|
+|13|45.143.197.222|3128|United Kingdom|Solihull|Daniel Jackson|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|72.10.164.178|29475|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|24467|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29475|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|12319|Canada|Montreal|GloboTech Communications|
+|19|125.59.145.4|8888|Hong Kong|Central|Hong Kong Cable Television Limited|
+|20|89.117.16.206|8080|United States|Seattle|Nubes, LLC|
 
 
 
