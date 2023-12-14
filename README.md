@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8003** proxies at the latest update. Usable proxies are below.
+> Scraper found **8066** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|738|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5281|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
-|2|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|3.27.235.213|8080|Australia|Sydney|Amazon.com, Inc.|
-|10|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|89.117.16.206|8080|United States|Seattle|Nubes, LLC|
-|12|72.10.164.178|12319|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|72.10.160.90|26481|Canada|Montreal|GloboTech Communications|
-|16|80.241.217.213|3128|Germany|Munich|Contabo GmbH|
-|17|114.97.88.225|8089|China|Rongcheng|Chinanet|
-|18|72.10.164.178|12319|Canada|Montreal|GloboTech Communications|
-|19|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
-|20|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
+|5|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|72.10.164.178|6639|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|23235|Canada|Montreal|GloboTech Communications|
+|9|103.146.185.90|8080|Indonesia|Sragen|YAMNET|
+|10|72.10.160.170|22391|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|10701|Canada|Montreal|GloboTech Communications|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|51.159.75.249|3128|France|Paris|SCALEWAY|
+|14|23.162.200.200|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|15|72.10.164.178|6639|Canada|Montreal|GloboTech Communications|
+|16|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|72.10.164.178|6639|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|6639|Canada|Montreal|GloboTech Communications|
+|19|206.84.101.110|9090|Indonesia|Jakarta|AGIS|
+|20|67.43.227.226|14903|Canada|Montreal|GloboTech Communications|
 
 
 
