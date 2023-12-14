@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
-|2|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|103.48.68.101|84|India|Hyderabad|Country Online Services PVT LTD|
-|4|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|5|67.43.228.253|7323|Canada|Montreal|GloboTech Communications|
-|6|3.27.235.213|8080|Australia|Sydney|Amazon.com, Inc.|
-|7|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|9|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
-|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|13|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|28851|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|67.43.228.253|7323|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|28851|Canada|Montreal|GloboTech Communications|
-|19|196.251.222.229|8103|South Africa|Brits|Info-Gro (PTY) Ltd|
-|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|1|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|2|13.73.224.121|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.170|30569|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|28851|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|24461|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|9531|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|12141|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|22277|Canada|Montreal|GloboTech Communications|
+|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|67.43.236.20|9531|Canada|Montreal|GloboTech Communications|
+|16|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|72.10.160.90|28851|Canada|Montreal|GloboTech Communications|
+|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|19|182.16.171.65|43188|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|20|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
