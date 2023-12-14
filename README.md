@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|103.48.68.101|84|India|Hyderabad|Country Online Services PVT LTD|
-|9|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
-|10|67.43.236.20|29369|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|180.183.121.105|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|134.122.81.231|36000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|171.96.111.64|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|72.10.160.173|31567|Canada|Montreal|GloboTech Communications|
+|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |11|72.10.164.178|28093|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|14039|Canada|Montreal|GloboTech Communications|
-|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|14|67.43.228.253|3023|Canada|Montreal|GloboTech Communications|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|67.43.227.227|6497|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14039|Canada|Montreal|GloboTech Communications|
-|18|200.16.208.187|8080|Argentina|Bahía Blanca|Telefonica de Argentina|
-|19|72.10.164.178|28093|Canada|Montreal|GloboTech Communications|
-|20|38.156.72.10|8080|Turkey|Umraniye|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|67.43.228.253|3849|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|25657|Canada|Montreal|GloboTech Communications|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|16|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|72.10.160.174|19495|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|25657|Canada|Montreal|GloboTech Communications|
+|19|58.137.12.15|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|20|72.10.160.173|31567|Canada|Montreal|GloboTech Communications|
 
 
 
