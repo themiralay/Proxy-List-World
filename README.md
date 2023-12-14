@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.128.188.27|8080|United States|Kansas City|Google LLC|
-|2|104.211.201.68|3128|India|Chennai|Microsoft Corporation|
-|3|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|4|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|6|67.43.227.227|24823|Canada|Montreal|GloboTech Communications|
-|7|103.59.44.145|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|67.43.236.20|23487|Canada|Montreal|GloboTech Communications|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|72.10.160.90|2567|Canada|Montreal|GloboTech Communications|
-|11|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|67.43.236.20|23487|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|10417|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|23487|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26137|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|24823|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2567|Canada|Montreal|GloboTech Communications|
-|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|19|67.43.228.253|17839|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23487|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|3|34.128.188.27|8080|United States|Kansas City|Google LLC|
+|4|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|5|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|6|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|7|67.43.236.20|23487|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|2567|Canada|Montreal|GloboTech Communications|
+|9|101.109.109.181|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|11|72.10.160.90|2567|Canada|Montreal|GloboTech Communications|
+|12|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
+|13|72.10.164.178|9363|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|22105|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2567|Canada|Montreal|GloboTech Communications|
+|16|201.148.8.12|999|Mexico|San Andres Tuxtla|Operbes|
+|17|67.43.228.253|17839|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
+|19|54.65.220.102|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|38.253.80.32|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
 
 
 
