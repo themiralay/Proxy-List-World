@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.66.0.25|3128|Australia|Sydney|Amazon.com, Inc.|
-|2|35.205.72.152|80|Belgium|Brussels|Google LLC|
-|3|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|5|67.43.227.227|3171|Canada|Montreal|GloboTech Communications|
-|6|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|72.10.164.178|4441|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|4441|Canada|Montreal|GloboTech Communications|
-|12|45.143.197.217|3128|United Kingdom|Solihull|Daniel Jackson|
-|13|67.43.228.253|21611|Canada|Montreal|GloboTech Communications|
-|14|117.65.59.63|8089|China|Shanghai|Chinanet|
-|15|117.71.133.247|8089|China|Rongcheng|Chinanet|
-|16|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|17|88.99.249.96|8190|Germany|Falkenstein|Hetzner Online GmbH|
-|18|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|2|213.165.168.190|9898|Malta|Saint Venera|Melita plc|
+|3|35.205.72.152|80|Belgium|Brussels|Google LLC|
+|4|101.255.165.41|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|36.89.229.217|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|38.49.140.13|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|11|38.52.222.154|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|12|103.39.73.1|8080|Indonesia|Depok|PT Teknologi Gema Informasi|
+|13|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.228.252|26963|Canada|Montreal|GloboTech Communications|
+|15|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
+|16|72.10.160.170|15443|Canada|Montreal|GloboTech Communications|
+|17|31.31.77.228|6969|Czechia|Hluboka nad Vltavou|WEDOS Internet|
+|18|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |19|67.43.227.227|3171|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31173|Canada|Montreal|GloboTech Communications|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
