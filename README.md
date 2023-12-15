@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|2|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
-|3|67.43.236.20|11959|Canada|Montreal|GloboTech Communications|
-|4|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.227|23463|Canada|Montreal|GloboTech Communications|
-|6|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
-|7|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
-|8|152.32.235.179|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|72.10.160.90|23253|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|11959|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|11959|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|13|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|67.43.236.20|11959|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
-|17|113.192.8.213|3467|United States|Los Angeles||
-|18|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24695|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|4|113.192.8.213|3467|United States|Los Angeles||
+|5|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|27843|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
+|10|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|11|67.43.227.227|23463|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|27843|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|27843|Canada|Montreal|GloboTech Communications|
+|16|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|17|72.10.160.90|27843|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|23463|Canada|Montreal|GloboTech Communications|
 
 
 
