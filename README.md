@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
 |2|201.113.21.224|999|Mexico|Acapulco de Juárez|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|45.143.197.220|3128|United Kingdom|Solihull|Daniel Jackson|
-|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
-|8|112.78.137.107|8080|Indonesia|Teluknaga|Biznet Networks|
-|9|142.54.185.163|4128|United States|Kansas City|Nocix, LLC|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|12|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
-|13|34.64.221.98|80|South Korea|Seoul|Google LLC|
-|14|187.49.191.82|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|15|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
-|16|82.137.250.145|8080|Syria|As Sawdā|190 Internet Service Provider|
-|17|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|189.148.47.60|999|Mexico|Tapachula|UNINET|
-|19|72.10.164.178|13193|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|25103|Canada|Montreal|GloboTech Communications|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|187.49.191.82|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|8|142.54.185.163|4128|United States|Kansas City|Nocix, LLC|
+|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|10|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
+|11|172.233.144.106|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|12|59.152.105.216|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
+|13|72.10.164.178|4773|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|25103|Canada|Montreal|GloboTech Communications|
+|15|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
+|16|139.198.171.113|8081|China|Beijing|Yunify Technologies Inc|
+|17|67.43.236.20|25103|Canada|Montreal|GloboTech Communications|
+|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|19|72.10.164.178|4773|Canada|Montreal|GloboTech Communications|
+|20|190.26.218.115|999|Colombia|Bogotá|ETB - Colombia|
 
 
 
