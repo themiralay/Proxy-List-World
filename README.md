@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
 |2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|3|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
 |6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |7|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|180.183.118.144|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|49.48.91.210|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|15|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
-|16|67.43.227.227|31657|Canada|Montreal|GloboTech Communications|
-|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|18|114.103.81.68|8089|China|Guangzhou|Chinanet|
-|19|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|9|107.155.65.11|3128|Singapore|Singapore|HIVELOCITY, Inc.|
+|10|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
+|11|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.228.253|8563|Canada|Montreal|GloboTech Communications|
+|14|143.198.95.165|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|23.225.72.123|3501|United States|Los Angeles|Cnservers LLC|
+|16|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|18|103.25.193.111|8080|Indonesia|Karawang|UNINA|
+|19|67.43.228.253|8563|Canada|Montreal|GloboTech Communications|
 |20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
