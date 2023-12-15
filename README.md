@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7631** proxies at the latest update. Usable proxies are below.
+> Scraper found **7622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|857|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|848|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|523|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5277|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|4|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|3.28.21.127|3128|United Arab Emirates|Dubai|Amazon Technologies Inc.|
-|6|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|7|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|72.10.164.178|6309|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|6309|Canada|Montreal|GloboTech Communications|
-|11|212.39.11.7|8089|Italy|Foligno|UmbriaNet Srl - Network & Applications provider|
-|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|13|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
-|14|72.10.160.170|14305|Canada|Montreal|GloboTech Communications|
-|15|164.68.103.137|3128|Germany|Nuremberg|Contabo GmbH|
-|16|72.10.164.178|6309|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21425|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|6309|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
+|2|91.185.56.10|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|3|45.201.134.38|8080|Cambodia|Phnom Penh|King Technologies Co|
+|4|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|5|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|3.28.21.127|3128|United Arab Emirates|Dubai|Amazon Technologies Inc.|
+|7|67.43.236.20|3385|Canada|Montreal|GloboTech Communications|
+|8|103.48.68.101|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|67.43.228.250|11143|Canada|Montreal|GloboTech Communications|
+|10|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|11|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|3385|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|7047|Canada|Montreal|GloboTech Communications|
+|14|113.153.110.43|80|Japan|Chiyoda|DION (KDDI CORPORATION)|
+|15|67.43.236.20|3385|Canada|Montreal|GloboTech Communications|
+|16|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
+|17|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
+|18|94.253.12.36|8080|Russia|Moscow|for Flex Ltd|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.4.94.2|8080|Pakistan|Lahore|HEC|
 
 
 
