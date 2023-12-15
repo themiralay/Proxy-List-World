@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7960** proxies at the latest update. Usable proxies are below.
+> Scraper found **7911** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|894|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|648|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5395|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|3|188.124.230.43|27333|Russia|Taman'|Miranda-Media B2C Static # 5|
-|4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|67.43.236.20|2615|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|25679|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|32285|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|25679|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|7639|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|25679|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|1853|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|2615|Canada|Montreal|GloboTech Communications|
-|13|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
-|14|67.43.228.253|7639|Canada|Montreal|GloboTech Communications|
-|15|103.154.230.148|8080|Indonesia|Lamongan|DIGITNET|
-|16|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|67.43.227.228|30711|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
+|3|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|4|72.10.164.178|17265|Canada|Montreal|GloboTech Communications|
+|5|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
+|6|188.124.230.43|27333|Russia|Taman'|Miranda-Media B2C Static # 5|
+|7|72.10.160.90|11877|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|30473|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.226|27407|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|11877|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|2615|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|30473|Canada|Montreal|GloboTech Communications|
+|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|14|45.88.138.176|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|181.39.76.247|999|Ecuador|Guayaquil|Telconet S.A|
+|16|67.43.227.227|30473|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|17265|Canada|Montreal|GloboTech Communications|
 |18|125.59.145.4|8888|Hong Kong|Central|Hong Kong Cable Television Limited|
-|19|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|20|72.10.160.90|1853|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2615|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|2615|Canada|Montreal|GloboTech Communications|
 
 
 
