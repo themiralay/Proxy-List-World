@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8360** proxies at the latest update. Usable proxies are below.
+> Scraper found **8331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1101|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|864|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5421|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
-|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|7|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
 |8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|9|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
-|10|200.32.51.179|8080|Argentina|Catamarca|Telefonica de Argentina|
-|11|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|12|72.10.164.178|13039|Canada|Montreal|GloboTech Communications|
-|13|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|14|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|202.152.142.186|8080|Indonesia|Sleman|PT Jembatan Citra Nusantara|
-|17|67.43.236.20|17041|Canada|Montreal|GloboTech Communications|
-|18|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
-|19|67.43.227.226|15243|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|34.64.89.238|80|South Korea|Seoul|Google LLC|
+|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|11|72.10.164.178|14513|Canada|Montreal|GloboTech Communications|
+|12|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|15|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|72.10.164.178|14513|Canada|Montreal|GloboTech Communications|
+|17|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|18|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|19|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.228.253|1667|Canada|Montreal|GloboTech Communications|
 
 
 
