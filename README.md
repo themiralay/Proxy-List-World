@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8655** proxies at the latest update. Usable proxies are below.
+> Scraper found **8616** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|554|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|554|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|554|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1338|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1299|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|847|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5494|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|34.128.188.27|8080|United States|Kansas City|Google LLC|
-|6|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|182.253.233.90|8080|Indonesia|Jakarta|BIZNET|
+|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|9|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|177.240.16.10|999|Mexico|Guasave|Mega Cable, S.A. de C.V.|
-|11|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|12|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|138.122.82.145|8080|Brazil|Juazeiro do Norte|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|18|67.43.236.20|12797|Canada|Montreal|GloboTech Communications|
-|19|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
-|20|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|8|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|67.43.236.20|24101|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|24101|Canada|Montreal|GloboTech Communications|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
+|20|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
 
 
 
