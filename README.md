@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8437** proxies at the latest update. Usable proxies are below.
+> Scraper found **8393** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|607|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|607|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|607|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1305|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|618|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5538|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5494|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|177.53.214.27|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|10|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|11|139.59.234.0|3128|Singapore|Singapore|DIGITALOCEAN|
-|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|13|103.190.171.149|8080|Indonesia|Jakarta|WMS|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|129.80.194.210|3128|United States|Ashburn|Oracle Corporation|
-|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|17|113.192.8.213|3467|United States|Los Angeles||
-|18|180.191.40.226|8082|Philippines|Tarlac City|Globe Telecom|
-|19|23.162.200.68|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|180.191.40.226|8082|Philippines|Tarlac City|Globe Telecom|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|182.16.171.65|43188|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|12|103.125.138.206|8080|Bangladesh|Dhaka|Rupali Bank Limited|
+|13|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|16|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|17|183.88.234.3|80|Thailand|Dusit|Triple T Broadband Public Company Limited|
+|18|194.163.177.66|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|42.96.13.196|1914|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|20|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
