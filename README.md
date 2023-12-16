@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8317** proxies at the latest update. Usable proxies are below.
+> Scraper found **8292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1033|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|864|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5421|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|3|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|14.207.13.93|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|13|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|14|202.46.70.171|8080|Indonesia|Magelang|PT. Indonesia Comnet Plus|
-|15|202.51.214.134|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
-|16|103.156.249.82|1111|Indonesia|Malang|Trans Media Telekomunikasi|
-|17|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|178.152.23.210|8080|Qatar|Doha|Business DSL|
-|20|67.43.236.18|23291|Canada|Montreal|GloboTech Communications|
+|1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|202.46.70.171|8080|Indonesia|Magelang|PT. Indonesia Comnet Plus|
+|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|5|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|6|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|12|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|15|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|16|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|17|45.143.197.220|3128|United Kingdom|Solihull|Daniel Jackson|
+|18|103.163.103.148|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
+|19|45.234.61.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|20|211.248.189.175|8080|South Korea|Goyang-si|Korea Telecom|
 
 
 
