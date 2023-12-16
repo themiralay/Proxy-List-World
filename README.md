@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8088** proxies at the latest update. Usable proxies are below.
+> Scraper found **8157** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|724|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5425|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|2|202.154.18.9|8888|Indonesia|Jombang|DIGITNET|
-|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|6|172.104.162.16|8000|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|3|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|6|45.182.176.38|9947|Brazil|Taboao da Serra|Evolucao Telecom Ltda|
 |7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|12|148.230.206.229|8080|Mexico|Comapa|Total Play Telecomunicaciones SA De CV|
-|13|72.10.164.178|4773|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3187|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|12043|Canada|Montreal|GloboTech Communications|
-|16|103.159.46.2|83|India|Ahmedabad|King Netsol Private Limited|
-|17|72.10.164.178|4773|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|2353|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|27873|Canada|Montreal|GloboTech Communications|
-|20|23.162.200.244|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|9|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|10|34.27.110.163|3128|United States|Council Bluffs|Google LLC|
+|11|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|12|142.93.72.28|10002|United States|Clifton|DigitalOcean, LLC|
+|13|87.103.133.243|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|14|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
+|15|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
+|17|190.236.156.16|999|Peru|Arequipa|TDP-GRS|
+|18|67.43.236.20|15789|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15789|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
