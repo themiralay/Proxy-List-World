@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8404** proxies at the latest update. Usable proxies are below.
+> Scraper found **8389** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1104|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|776|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5550|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|211.112.158.198|8080|South Korea|Gyeongsan-si|LG HelloVision Corp.|
-|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|171.96.111.64|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|9|113.192.8.213|3467|United States|Los Angeles||
-|10|45.11.95.165|5211|Russia|Moscow|Delta Ltd|
-|11|72.10.160.90|5135|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|72.10.164.178|27773|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5211|Russia|Moscow|Delta Ltd|
-|15|67.43.236.20|11459|Canada|Montreal|GloboTech Communications|
-|16|23.162.200.46|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|8|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|9|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|10|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|11|72.10.164.178|12767|Canada|Montreal|GloboTech Communications|
+|12|193.42.12.64|3128|Germany|Frankfurt am Main|dataforest GmbH|
+|13|72.10.164.178|12767|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|11459|Canada|Montreal|GloboTech Communications|
+|15|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|16|72.10.160.90|14261|Canada|Montreal|GloboTech Communications|
 |17|67.43.227.227|21415|Canada|Montreal|GloboTech Communications|
-|18|103.163.103.39|80|Indonesia|Wonogiri|PT Mamura Inter Media|
-|19|110.78.149.100|8080|Thailand|Bangkok|CAT-BB|
-|20|45.11.95.165|5211|Russia|Moscow|Delta Ltd|
+|18|103.38.104.153|8080|Indonesia|Wonosobo|PT Tunas Media Data|
+|19|201.77.108.1|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|20|72.10.164.178|12767|Canada|Montreal|GloboTech Communications|
 
 
 
