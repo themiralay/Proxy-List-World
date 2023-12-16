@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
 |2|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|186.156.161.235|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
+|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
 |4|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
-|6|103.129.172.97|8080|Indonesia|Ciputat|PT. Eka Mas Republik|
-|7|103.164.117.58|8080|Indonesia|Surabaya|SOLUSINET|
-|8|67.43.228.250|10833|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|18121|Canada|Montreal|GloboTech Communications|
-|10|68.183.144.115|10008|United States|Clifton|DigitalOcean, LLC|
-|11|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
-|12|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|103.105.55.170|8080|Indonesia|Jakarta|PT. Mega Artha Lintas Data|
-|14|67.43.227.228|10775|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|9191|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|9191|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
-|19|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|20|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|182.253.70.46|8080|Indonesia|Jakarta Pusat|BIZNET|
+|7|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
+|8|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|3471|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|3471|Canada|Montreal|GloboTech Communications|
+|12|47.50.101.94|8080|United States|Caledonia|Charter Communications|
+|13|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|2101|Canada|Montreal|GloboTech Communications|
+|16|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|19|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|20|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
 
 
 
