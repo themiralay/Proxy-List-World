@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8448** proxies at the latest update. Usable proxies are below.
+> Scraper found **8502** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1336|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1390|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|724|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5414|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
-|2|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
-|3|216.80.39.89|3129|United States|Chicago|RCN|
+|2|34.162.107.79|80|United States|Columbus|Google LLC|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |4|52.221.216.207|8888|Singapore|Singapore|Amazon.com, Inc.|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|7|104.248.207.60|80|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|10|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|51.159.75.249|3128|France|Paris|SCALEWAY|
-|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|15|216.80.39.89|3129|United States|Chicago|RCN|
-|16|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
-|17|101.255.148.174|8085|Indonesia|Jakarta|PT Remala Abadi|
-|18|103.153.148.5|8080|Indonesia|Pinrang|JARINGANKU|
-|19|162.243.184.252|3128|United States|Clifton|DigitalOcean, LLC|
-|20|103.154.91.182|8080|Indonesia|Bogor|MORATELINDONAP|
+|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|34.162.107.79|80|United States|Columbus|Google LLC|
+|8|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
+|10|216.80.39.89|3129|United States|Chicago|RCN|
+|11|103.110.10.189|8080|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|12|191.102.254.10|8083|Argentina|Rosario|IP·RED|
+|13|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|15|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|16|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|17|14.103.24.20|8000|China|Beijing|BITNET|
+|18|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|19|103.152.232.194|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
+|20|72.10.160.173|2575|Canada|Montreal|GloboTech Communications|
 
 
 
