@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|625|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|625|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|625|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|182.253.233.90|8080|Indonesia|Jakarta|BIZNET|
 |5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|177.240.16.10|999|Mexico|Guasave|Mega Cable, S.A. de C.V.|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|10|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|118.103.236.12|8080|Pakistan|Karachi|Connect Communication|
-|12|103.242.106.145|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|13|188.0.2.1|8888|Russia|Krasnoyarsk|YarTV Ltd.|
-|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|15|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
-|16|67.43.227.227|4479|Canada|Montreal|GloboTech Communications|
-|17|181.225.78.110|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|18|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|7|69.63.78.199|3129|Eswatini|Ezulwini|Swaziland Posts & Telecommunications Corp.|
+|8|177.240.16.10|999|Mexico|Guasave|Mega Cable, S.A. de C.V.|
+|9|118.103.236.12|8080|Pakistan|Karachi|Connect Communication|
+|10|36.67.45.71|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|11|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
+|12|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|15|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|16|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
+|17|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|14.207.86.90|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
