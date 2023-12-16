@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8247** proxies at the latest update. Usable proxies are below.
+> Scraper found **8188** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1127|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1068|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|789|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5348|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
-|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|213.149.30.175|3128|Russia|Kaliningrad|TIS-DIALOG|
-|5|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|6|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|7|72.10.160.90|2639|Canada|Montreal|GloboTech Communications|
-|8|103.6.223.2|3128|China|Beijing|China Unicom|
-|9|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|10|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|12|72.10.160.90|2639|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|103.65.238.174|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|7|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|9|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|10|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|11|67.43.227.227|27139|Canada|Montreal|GloboTech Communications|
+|12|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
 |13|72.10.164.178|4519|Canada|Montreal|GloboTech Communications|
-|14|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|15|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
-|16|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|17|72.10.160.90|2639|Canada|Montreal|GloboTech Communications|
-|18|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
-|19|23.162.200.200|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|181.205.241.227|999|Colombia|Medellín|Colombia Móvil|
+|14|23.162.200.206|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|15|113.160.182.236|19132|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|16|67.43.228.253|1273|Canada|Montreal|GloboTech Communications|
+|17|181.209.125.123|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|124.16.71.92|9893|China|Babaoshan|CNIC-CAS|
+|19|72.10.160.171|29765|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|3897|Canada|Montreal|GloboTech Communications|
 
 
 
