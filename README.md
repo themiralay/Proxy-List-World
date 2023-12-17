@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8508** proxies at the latest update. Usable proxies are below.
+> Scraper found **8489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1122|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|849|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|916|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|2|183.88.135.80|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|6|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|7|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
-|8|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|11|146.148.17.151|23128|Belgium|Brussels|Google LLC|
-|12|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|165.227.44.211|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|15|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
-|16|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|17|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|18|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|19|72.10.164.178|28093|Canada|Montreal|GloboTech Communications|
-|20|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|183.88.135.80|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|4|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
+|5|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|9|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
+|10|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|11|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|12|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|14|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|15|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|200.53.19.6|3128|Brazil|Joaçaba|Acessoline Telecom|
+|17|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|18|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|19|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|20|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 
 
 
