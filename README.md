@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8355** proxies at the latest update. Usable proxies are below.
+> Scraper found **8227** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1078|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|950|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|826|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.176.208|8080|Thailand|Kanchanaburi|TOT Public Company Limited|
-|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|3|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
 |4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|104.155.96.34|23128|Belgium|Brussels|Google LLC|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|5|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
+|6|101.109.176.208|8080|Thailand|Kanchanaburi|TOT Public Company Limited|
+|7|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |9|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|11|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
-|12|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
-|13|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
-|14|202.46.70.171|8080|Indonesia|Magelang|PT. Indonesia Comnet Plus|
-|15|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|16|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|17|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|72.10.160.174|10965|Canada|Montreal|GloboTech Communications|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|10|8.9.30.211|8512|United States|Piscataway|Level 3 Communications|
+|11|146.56.131.191|58118|South Korea|Seoul|Oracle Corporation|
+|12|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|14|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|15|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|16|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|17|67.43.228.253|4711|Canada|Montreal|GloboTech Communications|
+|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|19|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|20|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
 
 
 
