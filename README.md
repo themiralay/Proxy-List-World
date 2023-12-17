@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|183.88.135.80|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|4|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
-|5|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|9|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
-|10|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|4|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|6|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|8|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|9|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|10|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
 |11|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|12|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|14|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|15|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|200.53.19.6|3128|Brazil|Joaçaba|Acessoline Telecom|
-|17|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|18|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|19|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|20|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|12|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
+|13|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|200.16.208.187|8080|Argentina|Bahía Blanca|Telefonica de Argentina|
+|15|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|19|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|20|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
 
 
 
