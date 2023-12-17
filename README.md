@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|2|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
-|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|6|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|7|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|9|212.252.73.21|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|23.162.200.44|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|11|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|12|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|13|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|72.10.160.170|10919|Canada|Montreal|GloboTech Communications|
-|17|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|18|183.165.248.121|8089|China|Shenzhen|Chinanet|
-|19|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|1|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|2|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|117.102.76.252|8080|Indonesia|Surabaya|Biznet Networks|
+|7|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|8|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|163.43.192.117|60088|Japan|Osaka|SAKURA Internet Inc.|
+|10|146.56.131.191|58118|South Korea|Seoul|Oracle Corporation|
+|11|195.151.230.1|8080|Russia|Moscow|LLC Home Me MC|
+|12|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
+|13|103.153.60.126|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|14|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
+|15|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|16|67.43.227.227|24211|Canada|Montreal|GloboTech Communications|
+|17|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|18|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
+|19|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|20|72.10.160.170|10919|Canada|Montreal|GloboTech Communications|
 
 
 
