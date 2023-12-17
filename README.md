@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8571** proxies at the latest update. Usable proxies are below.
+> Scraper found **8585** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1149|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1163|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|943|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5496|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.10.231.189|8080|Thailand|Bangkok|CATBB|
-|2|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|4|103.156.248.103|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|3|45.167.125.219|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|103.164.112.106|8080|Indonesia|Jakarta Pusat|SOLUSINET|
-|8|203.79.29.198|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|13|112.78.137.107|8080|Indonesia|Teluknaga|Biznet Networks|
-|14|67.207.161.155|4128|United States|Los Angeles|Colocation America Corporation|
-|15|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
-|16|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|17|142.54.185.165|4128|United States|Kansas City|Nocix, LLC|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|20|23.162.200.154|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|11|67.207.161.155|4128|United States|Los Angeles|Colocation America Corporation|
+|12|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|13|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
+|14|103.31.233.42|8080|Indonesia|Bogor|NET|
+|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|18|203.79.29.198|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|19|62.121.131.108|8080|Poland|Krakow|CETI|
+|20|67.43.236.20|5179|Canada|Montreal|GloboTech Communications|
 
 
 
