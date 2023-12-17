@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8419** proxies at the latest update. Usable proxies are below.
+> Scraper found **8428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1145|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1154|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|916|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5375|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|3|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|8|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|9|67.43.236.20|25515|Canada|Montreal|GloboTech Communications|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|12|72.10.160.90|25025|Canada|Montreal|GloboTech Communications|
-|13|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|14|190.171.170.83|999|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|15|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
-|16|146.56.131.191|58118|South Korea|Seoul|Oracle Corporation|
-|17|220.178.135.96|8089|China|Hefei|Chinanet|
-|18|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.227.227|26025|Canada|Montreal|GloboTech Communications|
-|20|66.96.238.165|22|Indonesia|Jakarta|MYREPUBLIC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|5|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|6|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|7|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
+|8|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|9|163.43.192.117|60088|Japan|Osaka|SAKURA Internet Inc.|
+|10|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
+|11|67.43.228.253|8897|Canada|Montreal|GloboTech Communications|
+|12|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.228.253|8897|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|72.10.164.178|10001|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|18329|Canada|Montreal|GloboTech Communications|
+|18|23.162.200.44|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|19|175.195.197.234|5003|South Korea|Gwangmyeong|Korea Telecom|
+|20|13.73.224.121|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
