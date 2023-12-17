@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8069** proxies at the latest update. Usable proxies are below.
+> Scraper found **8081** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|715|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5463|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |2|62.210.119.138|3128|France|Paris|Online S.A.S.|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|13|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|66.228.35.207|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|16|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|17|124.16.71.92|9893|China|Babaoshan|CNIC-CAS|
-|18|124.16.71.92|9893|China|Babaoshan|CNIC-CAS|
-|19|116.111.235.92|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|11|34.64.221.98|80|South Korea|Seoul|Google LLC|
+|12|191.7.8.136|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
+|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|15|192.118.34.218|80|Israel|Jerusalem|Synamedia Technologies Israel Ltd|
+|16|23.162.200.44|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|17|67.43.227.227|4115|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1567|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|72.10.164.178|1567|Canada|Montreal|GloboTech Communications|
 
 
 
