@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8217** proxies at the latest update. Usable proxies are below.
+> Scraper found **8179** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1000|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|790|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5406|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|2|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
 |3|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
 |4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|6|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|9|146.56.131.191|58118|South Korea|Seoul|Oracle Corporation|
-|10|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
-|11|47.243.200.100|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|13|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|14|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|15|62.171.129.209|19544|Germany|Nuremberg|Contabo GmbH|
-|16|124.40.253.102|22880|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|17|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
-|18|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|67.43.236.20|20107|Canada|Montreal|GloboTech Communications|
+|5|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|8|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|9|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|11|172.105.200.97|10086|Japan|Tokyo|Akamai Technologies|
+|12|113.89.5.59|7890|China|Shenzhen|Chinanet|
+|13|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|14|111.88.240.43|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|172.105.200.97|10086|Japan|Tokyo|Akamai Technologies|
+|17|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.227.227|13183|Canada|Montreal|GloboTech Communications|
+|19|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|20|103.76.12.42|80|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
 
 
 
