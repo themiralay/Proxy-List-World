@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8169** proxies at the latest update. Usable proxies are below.
+> Scraper found **8148** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1067|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1007|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|713|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|752|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5406|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|2|129.226.176.120|30434|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|3|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
 |4|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
 |6|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|7|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|10|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
-|11|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|12|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|13|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|16|125.59.145.4|8888|Hong Kong|Central|Hong Kong Cable Television Limited|
-|17|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|18|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|9|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
+|10|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|11|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|13|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|14|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|15|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|16|124.16.71.92|9890|China|Babaoshan|CNIC-CAS|
+|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|18|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
 |19|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|20|85.208.117.214|20332|United States|Los Angeles|Enzu Inc|
+|20|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
 
 
 
