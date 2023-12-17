@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8479** proxies at the latest update. Usable proxies are below.
+> Scraper found **8514** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1071|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1106|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|804|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5621|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|2|34.128.188.27|8080|United States|Kansas City|Google LLC|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|139.144.116.14|30002|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|124.198.17.217|12999|South Korea|Seongnam-si|Korea Telecom|
-|6|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|190.171.170.83|999|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|9|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|11|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|52.221.190.107|8888|Singapore|Singapore|Amazon.com, Inc.|
-|14|14.207.204.81|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|17|216.80.39.89|3129|United States|Chicago|RCN|
-|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|51.81.32.81|8888|United States|Reston|OVH SAS|
+|1|34.128.188.27|8080|United States|Kansas City|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|190.171.170.83|999|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|7|178.250.33.236|8080|Lithuania|Kaunas|MIKROVISATA|
+|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|9|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|10|216.80.39.89|3129|United States|Chicago|RCN|
+|11|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|12|139.144.116.14|30000|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|124.16.71.92|9890|China|Babaoshan|CNIC-CAS|
+|14|51.81.32.81|8888|United States|Reston|OVH SAS|
+|15|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|16|67.43.227.227|8519|Canada|Montreal|GloboTech Communications|
+|17|67.207.161.157|4128|United States|Los Angeles|Colocation America Corporation|
+|18|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|19|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|20|130.162.242.4|1080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
