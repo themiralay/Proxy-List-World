@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8165** proxies at the latest update. Usable proxies are below.
+> Scraper found **8127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|803|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|752|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5411|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|3|211.112.158.198|8080|South Korea|Gyeongsan-si|LG HelloVision Corp.|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|8|213.32.62.104|8080|France|Gravelines|OVH SAS|
-|9|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|11|78.29.32.131|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|12|201.20.67.70|8080|Brazil|Sao Raimundo Nonato|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|13|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|14|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
-|15|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|16|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|17|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|20|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|6|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|9|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|10|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|11|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|213.32.62.104|8080|France|Gravelines|OVH SAS|
+|13|78.29.32.131|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|14|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
+|17|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|18|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|19|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|20|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
 
 
 
