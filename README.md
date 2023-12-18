@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
-|2|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|6|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|7|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
-|8|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|185.17.0.130|3128|Russia|Moscow|Azerta GROUP Ltd|
-|16|72.10.160.90|15631|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4995|Canada|Montreal|GloboTech Communications|
-|18|62.210.119.138|3128|France|Paris|Online S.A.S.|
-|19|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|20|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|8|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|14|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|67.43.236.20|16205|Canada|Montreal|GloboTech Communications|
+|18|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
 
