@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8266** proxies at the latest update. Usable proxies are below.
+> Scraper found **8252** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1103|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|715|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|1|171.97.85.221|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
 |4|51.159.0.236|2020|France|Paris|SCALEWAY|
-|5|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|5|78.29.32.131|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|23.162.200.219|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|64.225.4.17|10006|United States|Clifton|DigitalOcean, LLC|
-|9|67.43.236.20|6429|Canada|Montreal|GloboTech Communications|
-|10|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.111.205.237|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|12|72.10.164.178|30223|Canada|Montreal|GloboTech Communications|
-|13|172.105.200.97|10086|Japan|Tokyo|Akamai Technologies|
-|14|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|64.225.4.17|10001|United States|Clifton|DigitalOcean, LLC|
+|9|72.10.164.178|30223|Canada|Montreal|GloboTech Communications|
+|10|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|11|51.159.0.236|2020|France|Paris|SCALEWAY|
+|12|67.43.236.20|32501|Canada|Montreal|GloboTech Communications|
+|13|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
 |16|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.236.20|6429|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|22365|Canada|Montreal|GloboTech Communications|
-|19|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|20|51.159.0.236|2020|France|Paris|SCALEWAY|
+|17|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|18|139.198.171.113|8081|China|Beijing|Yunify Technologies Inc|
+|19|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
+|20|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
