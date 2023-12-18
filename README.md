@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8150** proxies at the latest update. Usable proxies are below.
+> Scraper found **8115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1059|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1024|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|748|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5362|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|213.32.62.104|8080|France|Gravelines|OVH SAS|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|115.144.254.79|28499|South Korea|Gwangmyeong|Korea Telecom|
-|8|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|109.72.238.106|8080|Russia|Moscow|MOSLINE|
-|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|14|185.17.0.130|3128|Russia|Moscow|Azerta GROUP Ltd|
-|15|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|16|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|17|62.171.129.209|19544|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.164.178|17135|Canada|Montreal|GloboTech Communications|
-|19|62.171.129.209|19544|Germany|Nuremberg|Contabo GmbH|
-|20|146.190.232.155|8050|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|213.32.62.104|8080|France|Gravelines|OVH SAS|
+|2|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|8|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|84.204.40.155|8080|Russia|St Petersburg|PJSC MegaFon|
+|11|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|12|62.171.129.209|19544|Germany|Nuremberg|Contabo GmbH|
+|13|129.226.176.120|30434|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|14|67.43.236.20|14481|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|72.10.164.178|32311|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|32311|Canada|Montreal|GloboTech Communications|
+|18|78.47.96.120|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
 
 
 
