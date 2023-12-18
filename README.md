@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8440** proxies at the latest update. Usable proxies are below.
+> Scraper found **8351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1201|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|791|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
 |2|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|5|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
-|6|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|7|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|8|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|34.128.188.27|8080|United States|Kansas City|Google LLC|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|6|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|7|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
+|8|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|9|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|195.20.17.201|8080|Israel|Petah Tikva|CLOUD LEASE Ltd|
 |11|51.159.0.236|2020|France|Paris|SCALEWAY|
-|12|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|12|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
 |13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|15|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|17|78.29.32.131|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|18|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|103.156.248.150|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|167.99.142.56|20128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|101.255.116.161|33333|Indonesia|Bekasi|PT Remala Abadi|
+|18|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|20|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
 
 
 
