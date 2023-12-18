@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7934** proxies at the latest update. Usable proxies are below.
+> Scraper found **7931** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|938|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|602|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5411|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|5|213.32.62.104|8080|France|Gravelines|OVH SAS|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.227.227|3233|Canada|Montreal|GloboTech Communications|
-|15|20.169.221.14|3128|United States|Boydton|Microsoft Corporation|
-|16|94.130.64.28|16348|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.160.90|27755|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|103.121.215.226|3128|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|3|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|6|213.32.62.104|8080|France|Gravelines|OVH SAS|
+|7|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|129.226.176.120|30434|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|94.130.64.28|16348|Germany|Falkenstein|Hetzner Online GmbH|
+|13|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
+|14|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|72.10.164.178|24005|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1375|Canada|Montreal|GloboTech Communications|
+|17|190.171.170.83|999|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|20|67.43.227.227|14131|Canada|Montreal|GloboTech Communications|
 
 
 
