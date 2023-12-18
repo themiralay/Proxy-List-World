@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|191.241.184.61|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
 |4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|5|51.159.0.236|2020|France|Paris|SCALEWAY|
-|6|191.241.184.61|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
-|7|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|11|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|12|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|103.160.75.174|80|Vietnam|Cầu Giấy District|FPT Smart Cloud Company Limited|
-|14|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
-|15|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
-|16|23.162.200.51|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|107.174.138.148|3128|United States|Buffalo|ColoCrossing|
-|19|119.28.117.127|31280|Singapore|Singapore|ComsenzNet|
+|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|11|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|177.87.92.226|8080|Brazil|Santo Amaro|Celino Ribeiro Servicos De Telecomunicacoes Ltda|
+|14|65.246.50.241|8080|United States|Sterling|Verizon Communications|
+|15|165.227.120.250|10002|United States|Clifton|DigitalOcean, LLC|
+|16|107.150.51.149|5443|United States|Kansas City|Nocix, LLC|
+|17|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
+|18|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|19|88.250.210.100|38271|Turkey|Gemlik|TurkTelecom|
 |20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
