@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8260** proxies at the latest update. Usable proxies are below.
+> Scraper found **8300** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1023|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1063|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|789|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.45.156.46|3128|South Korea|Yongsan-dong|LG DACOM Corporation|
+|1|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |2|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|3|143.110.248.3|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|27.111.74.118|3127|India|Bengaluru|RailTel Corporation|
-|5|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|6|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
-|8|200.122.204.107|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|9|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|10|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|175.195.197.234|5003|South Korea|Gwangmyeong|Korea Telecom|
-|12|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|72.10.160.90|9915|Canada|Montreal|GloboTech Communications|
-|15|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|16|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|17|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|18|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|19|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|20|64.225.8.203|10006|United States|Clifton|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|189.203.239.250|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|6|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|7|117.71.132.217|8089|China|Rongcheng|Chinanet|
+|8|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|9|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|10|67.43.236.20|2453|Canada|Montreal|GloboTech Communications|
+|11|142.93.72.28|10002|United States|Clifton|DigitalOcean, LLC|
+|12|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
+|13|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|14|103.186.90.41|8080|Indonesia|Pati|PT Akses Data Internusa|
+|15|114.245.108.102|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|67.43.227.227|25373|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2453|Canada|Montreal|GloboTech Communications|
+|19|103.179.253.202|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|20|23.162.200.71|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
