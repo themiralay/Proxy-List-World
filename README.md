@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8369** proxies at the latest update. Usable proxies are below.
+> Scraper found **8371** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1113|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1115|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|796|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5480|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|191.241.184.61|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
-|4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|8|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|11|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|13|177.87.92.226|8080|Brazil|Santo Amaro|Celino Ribeiro Servicos De Telecomunicacoes Ltda|
-|14|65.246.50.241|8080|United States|Sterling|Verizon Communications|
-|15|165.227.120.250|10002|United States|Clifton|DigitalOcean, LLC|
-|16|107.150.51.149|5443|United States|Kansas City|Nocix, LLC|
-|17|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
-|18|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|19|88.250.210.100|38271|Turkey|Gemlik|TurkTelecom|
-|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|51.159.0.236|2020|France|Paris|SCALEWAY|
+|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|6|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|8|177.87.92.226|8080|Brazil|Santo Amaro|Celino Ribeiro Servicos De Telecomunicacoes Ltda|
+|9|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|10|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|213.149.184.6|23128|Cyprus|Nicosia|CYTANET - Cyprus Telecommunications Authority|
+|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|14|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|15|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|16|119.28.117.127|31280|Singapore|Singapore|ComsenzNet|
+|17|2.144.6.111|8080|Iran|Tehran|Iran Cell Service and Communication Company|
+|18|180.191.40.226|8082|Philippines|Tarlac City|Globe Telecom|
+|19|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|20|103.92.101.115|8080|India|Bengaluru|Bangalore Broadband Network Pvt Ltd|
 
 
 
