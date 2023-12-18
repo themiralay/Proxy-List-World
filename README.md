@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6519** proxies at the latest update. Usable proxies are below.
+> Scraper found **6501** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1002|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|724|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3812|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|2|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|5|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|6|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|9|87.206.137.194|8080|Poland|Krakow|upc.pl|
-|10|14.207.97.109|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|1|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
+|2|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
+|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|6|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|7|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|10|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
+|11|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
 |12|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|13|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|14|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|103.165.138.236|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|16|72.10.164.178|4359|Canada|Montreal|GloboTech Communications|
+|13|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|87.206.137.194|8080|Poland|Krakow|upc.pl|
+|15|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
+|16|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
 |17|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|18|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|19|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|20|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|19|172.98.36.11|23128|United States|Charlotte|Total Uptime Technologies, LLC|
+|20|95.164.37.32|3122|United Kingdom|Coventry|Stark Industries Solutions LTD|
 
 
 
