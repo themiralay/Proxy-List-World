@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6793** proxies at the latest update. Usable proxies are below.
+> Scraper found **6746** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1386|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|869|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3559|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|107.150.51.148|5443|United States|Kansas City|Nocix, LLC|
-|14|8.219.65.35|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|23.162.200.153|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|17|198.98.48.112|31280|United States|New York|FranTech Solutions|
-|18|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|19|23.162.200.71|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|23.162.200.9|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|121.167.147.173|10315|South Korea|Songpa-gu|Korea Telecom|
+|3|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|4|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|5|23.99.178.8|23128|United States|Des Moines|Microsoft Corporation|
+|6|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|7|23.162.200.150|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|9|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|107.150.51.148|5443|United States|Kansas City|Nocix, LLC|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|17|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|23.162.200.153|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|23.162.200.71|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
