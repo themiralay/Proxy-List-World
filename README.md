@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.128.188.27|8081|United States|Kansas City|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|7|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|8|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|211.112.158.198|8080|South Korea|Gyeongsan-si|LG HelloVision Corp.|
-|10|213.32.62.104|8080|France|Gravelines|OVH SAS|
-|11|202.94.174.45|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
-|12|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|13|94.130.64.28|16348|Germany|Falkenstein|Hetzner Online GmbH|
-|14|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|17|172.98.36.13|23128|United States|Charlotte|Total Uptime Technologies, LLC|
-|18|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|213.32.62.104|8080|France|Gravelines|OVH SAS|
+|6|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|9|94.130.64.28|16348|Germany|Falkenstein|Hetzner Online GmbH|
+|10|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|11|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|165.227.120.250|10002|United States|Clifton|DigitalOcean, LLC|
+|18|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|19|103.76.12.42|80|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
+|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
