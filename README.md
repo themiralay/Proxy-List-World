@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6590** proxies at the latest update. Usable proxies are below.
+> Scraper found **6615** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1207|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|870|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3559|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|1|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
 |3|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
-|4|148.244.210.141|999|Mexico|Morelia|Alestra, S. de R.L. de C.V.|
-|5|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|6|103.132.240.220|54198|India|Wānkāner|Spd Broadband Pvt Ltd|
-|7|104.43.214.41|23128|United States|Des Moines|Microsoft Corporation|
-|8|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|9|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|10|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
-|14|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|15|103.169.130.42|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|16|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|136.243.245.231|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
+|5|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|6|131.153.242.97|10000|United States|Tempe|Secured Servers LLC|
+|7|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|167.99.142.56|20128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|101.109.59.122|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|13|181.36.121.222|999|Dominican Republic|Puerto Plata|Altice Dominicana S.A.|
+|14|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|15|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|16|51.81.32.81|8888|United States|Reston|OVH SAS|
+|17|128.2.242.17|8080|United States|Pittsburgh|Carnegie Mellon University|
+|18|34.64.89.238|80|South Korea|Seoul|Google LLC|
+|19|165.16.55.19|44444|Libya|Zliten|Aljeel Aljadeed For Technology|
+|20|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
 
 
 
