@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|186.225.233.102|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
-|2|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|3|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|4|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
-|5|67.43.236.20|30165|Canada|Montreal|GloboTech Communications|
-|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|117.102.73.99|8080|Indonesia|Jakarta Pusat|Biznet Networks|
-|8|78.29.32.131|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|9|72.10.164.178|8027|Canada|Montreal|GloboTech Communications|
-|10|213.32.62.104|8080|France|Gravelines|OVH SAS|
-|11|103.255.147.102|82|India|Hyderabad|Pioneer Elabs Ltd|
-|12|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
-|13|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|14|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|15|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
-|16|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
-|17|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|18|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|30165|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30165|Canada|Montreal|GloboTech Communications|
+|2|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|4|213.32.62.104|8080|France|Gravelines|OVH SAS|
+|5|109.236.80.35|18441|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|109.236.80.35|18441|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|8|67.43.236.20|17857|Canada|Montreal|GloboTech Communications|
+|9|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|8.219.65.35|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.170|23031|Canada|Montreal|GloboTech Communications|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|15|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|16|50.21.190.20|80|United States|Philadelphia|IONOS SE|
+|17|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|18|34.64.89.238|80|South Korea|Seoul|Google LLC|
+|19|67.43.236.20|17857|Canada|Montreal|GloboTech Communications|
+|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
 
