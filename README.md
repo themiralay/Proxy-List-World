@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7990** proxies at the latest update. Usable proxies are below.
+> Scraper found **7934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1041|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|537|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5432|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|3|45.77.151.157|1693|United States|Piscataway|Choopa|
+|4|219.94.77.16|64516|Malaysia|Kuala Lumpur|TMnet|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|45.77.151.157|1693|United States|Piscataway|Choopa|
-|7|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|8|103.76.12.42|8181|Indonesia|Pademangan Timur|PT Mora Telematika Indonesia|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|72.10.164.178|8779|Canada|Montreal|GloboTech Communications|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|12|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|13|85.208.117.214|20314|United States|Los Angeles|Enzu Inc|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.90|13315|Canada|Montreal|GloboTech Communications|
-|16|78.100.165.53|8080|Qatar|Doha|Ooredoo-MBB|
-|17|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
-|19|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|20|67.43.236.20|1893|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|1111|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|16995|Canada|Montreal|GloboTech Communications|
+|9|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|10|103.176.44.141|3128|Indonesia|Jakarta|PT Era Digital Media|
+|11|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
+|14|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|15|190.69.157.208|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|16|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|17|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|20|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
 
 
 
