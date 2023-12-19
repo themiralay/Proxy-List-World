@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
-|3|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|1|211.112.158.198|8080|South Korea|Gyeongsan-si|LG HelloVision Corp.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
 |4|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
-|5|67.43.227.227|10269|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |6|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
-|7|147.75.34.85|80|The Netherlands|Amsterdam|Equinix Services|
-|8|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|9|72.10.160.90|24241|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|18833|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|18667|Canada|Montreal|GloboTech Communications|
-|12|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
-|13|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
-|15|129.146.45.163|31289|United States|Phoenix|Oracle Corporation|
-|16|72.10.164.178|18833|Canada|Montreal|GloboTech Communications|
-|17|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|18|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
-|19|72.10.160.90|24241|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|72.10.164.178|13069|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|1727|Canada|Montreal|GloboTech Communications|
+|16|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
+|17|67.43.227.227|9063|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
