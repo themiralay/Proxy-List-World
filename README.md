@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8584** proxies at the latest update. Usable proxies are below.
+> Scraper found **8592** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1344|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1352|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|792|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5468|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.66.0.25|3128|Australia|Sydney|Amazon.com, Inc.|
 |2|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|3|171.244.10.75|1911|Vietnam|Hanoi|VIETEL|
-|4|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
-|5|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|6|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|7|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|8|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|10|1.20.169.38|8080|Thailand|Bangkok Noi|TOT Public Company Limited|
-|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|12|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|13|85.172.105.158|3128|Russia|Gelendzhik|OJSC Rostelecom Macroregional Branch South|
-|14|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|15|146.190.232.155|8050|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
-|17|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|18|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|19|143.198.145.81|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|3|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|4|1.20.169.38|8080|Thailand|Bangkok Noi|TOT Public Company Limited|
+|5|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|6|171.244.10.75|1911|Vietnam|Hanoi|VIETEL|
+|7|201.20.118.146|27234|Brazil|Fortaleza|MOB SERVICOS DE TELECOMUNICACOES S.A.|
+|8|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|9|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|10|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|11|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|12|85.95.167.124|11110|Russia|Saransk|Branch in Mordovian Republic PJSC Rostelecom|
+|13|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|14|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|15|177.87.250.67|999|Argentina|San Juan|Twainsat SRL|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|34.128.188.27|8081|United States|Kansas City|Google LLC|
+|18|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|19|67.43.228.253|3621|Canada|Montreal|GloboTech Communications|
+|20|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
 
 
 
