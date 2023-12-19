@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8156** proxies at the latest update. Usable proxies are below.
+> Scraper found **8150** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|725|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5466|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|113.192.8.213|3467|United States|Los Angeles||
+|1|153.129.172.11|13744|Japan|Takayanagimachi|NTT Communications Corporation|
+|2|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |4|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|6|107.150.51.149|5443|United States|Kansas City|Nocix, LLC|
-|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|8|111.224.216.148|8089|China|Shijiazhuang|Chinanet|
-|9|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|10|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|72.10.164.178|25649|Canada|Montreal|GloboTech Communications|
-|13|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|14|62.210.119.138|3128|France|Paris|Online S.A.S.|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.175.224.93|4444|Indonesia|Jakarta|MYREPUBLIC|
-|17|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|18|72.10.164.178|25649|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|12803|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8947|Canada|Montreal|GloboTech Communications|
+|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|6|113.192.8.213|3467|United States|Los Angeles||
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|93.190.142.57|39593|The Netherlands|Naaldwijk|CUSTOMERPANEL|
+|9|176.95.54.206|44158|Germany|Arzberg|Vodafone GmbH|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|67.43.236.20|10687|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|10687|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|13191|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|10687|Canada|Montreal|GloboTech Communications|
+|15|65.246.50.241|8080|United States|Sterling|Verizon Communications|
+|16|72.10.164.178|13191|Canada|Montreal|GloboTech Communications|
+|17|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
+|18|67.43.236.20|10687|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|10687|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|12803|Canada|Montreal|GloboTech Communications|
 
 
 
