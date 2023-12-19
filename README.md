@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8011** proxies at the latest update. Usable proxies are below.
+> Scraper found **8038** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|912|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|654|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5466|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.7.191.95|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|2|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|3|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|4|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|5|89.116.211.20|8888|United States|Los Angeles|Limestone Networks, Inc.|
-|6|178.128.111.113|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|8|103.122.32.10|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|9|148.251.12.150|26541|Germany|Wernigerode|Hetzner Online GmbH|
-|10|72.10.164.178|2023|Canada|Montreal|GloboTech Communications|
-|11|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|12|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.143.145.35|80|India|New Delhi|Tata Communications Limited|
-|15|67.43.228.253|9961|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2023|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|23283|Canada|Montreal|GloboTech Communications|
-|18|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|19|51.159.0.236|2020|France|Paris|SCALEWAY|
-|20|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
+|5|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
+|6|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|113.192.8.213|3467|United States|Los Angeles||
+|9|72.10.164.178|16951|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|16951|Canada|Montreal|GloboTech Communications|
+|11|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
+|12|67.43.228.253|9961|Canada|Montreal|GloboTech Communications|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|72.10.164.178|16951|Canada|Montreal|GloboTech Communications|
+|15|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|16|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.227.227|17503|Canada|Montreal|GloboTech Communications|
+|18|94.228.194.18|41890|Russia|Moscow|Uniontel ZAO network|
+|19|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|20|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
 
 
 
