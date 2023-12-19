@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.66.0.25|3128|Australia|Sydney|Amazon.com, Inc.|
-|2|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|1|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|2|54.66.0.25|3128|Australia|Sydney|Amazon.com, Inc.|
 |3|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|4|1.20.169.38|8080|Thailand|Bangkok Noi|TOT Public Company Limited|
-|5|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|6|171.244.10.75|1911|Vietnam|Hanoi|VIETEL|
-|7|201.20.118.146|27234|Brazil|Fortaleza|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|8|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|9|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|10|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|11|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|12|85.95.167.124|11110|Russia|Saransk|Branch in Mordovian Republic PJSC Rostelecom|
-|13|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|14|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|15|177.87.250.67|999|Argentina|San Juan|Twainsat SRL|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|18|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|19|67.43.228.253|3621|Canada|Montreal|GloboTech Communications|
-|20|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|4|171.244.10.75|1911|Vietnam|Hanoi|VIETEL|
+|5|1.20.169.38|8080|Thailand|Bangkok Noi|TOT Public Company Limited|
+|6|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|7|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|8|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|9|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|10|34.128.188.27|8080|United States|Kansas City|Google LLC|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|13|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|14|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|15|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|103.255.145.62|82|India|Hyderabad|Pioneer Elabs Ltd|
+|17|107.150.51.146|5443|United States|Kansas City|Nocix, LLC|
+|18|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
+|19|67.43.227.227|32133|Canada|Montreal|GloboTech Communications|
+|20|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
