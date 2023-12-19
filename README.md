@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|183.89.115.105|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|10|183.89.115.105|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
 |13|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|14|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|15|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|14|175.195.197.234|5003|South Korea|Gwangmyeong|Korea Telecom|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |16|34.128.188.27|8081|United States|Kansas City|Google LLC|
-|17|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|17|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|19|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
