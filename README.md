@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8570** proxies at the latest update. Usable proxies are below.
+> Scraper found **8645** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|671|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|671|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|671|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1259|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1334|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|842|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5489|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|206.189.158.23|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|5|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
-|6|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|2|8.9.30.211|8512|United States|Piscataway|Level 3 Communications|
+|3|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|4|206.189.158.23|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|119.159.246.197|3128|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|6|110.45.156.46|3128|South Korea|Yongsan-dong|LG DACOM Corporation|
 |7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|9|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|8.9.30.211|8512|United States|Piscataway|Level 3 Communications|
-|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|190.131.194.202|11201|Colombia|Bogotá|Columbus Networks Colombia|
-|13|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|49.254.86.152|27643|South Korea|Guro-gu|Korea Telecom|
-|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|16|202.188.211.11|800|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|17|139.185.55.207|14959|United Arab Emirates|Dubai|Oracle Corporation|
-|18|190.2.210.116|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|8.9.30.211|8512|United States|Piscataway|Level 3 Communications|
+|10|124.198.58.222|16670|South Korea|Gwangmyeong|Korea Telecom|
+|11|103.138.41.131|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
+|12|5.83.244.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|13|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|15|51.159.0.236|2020|France|Paris|SCALEWAY|
+|16|177.99.203.179|8080|Brazil|Brasília|TELEFÔNICA BRASIL S.A|
+|17|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|19|139.144.116.14|30000|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|140.238.39.45|3898|Japan|Tokyo|Oracle Corporation|
 
 
 
