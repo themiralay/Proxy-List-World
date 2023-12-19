@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6053** proxies at the latest update. Usable proxies are below.
+> Scraper found **6077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|903|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|553|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3641|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
-|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
-|5|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|8|67.43.227.227|15491|Canada|Montreal|GloboTech Communications|
-|9|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|1|211.112.158.198|8080|South Korea|Gyeongsan-si|LG HelloVision Corp.|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
+|4|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
+|5|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|6|185.82.98.221|9094|Lebanon|Zahle|Protected|
+|7|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|8|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |10|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|67.43.236.20|11577|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|15491|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|67.43.227.227|15491|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|4171|Canada|Montreal|GloboTech Communications|
-|16|41.218.224.30|8080|Ghana|Tema|Vodafone Ghana|
-|17|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.236.20|11577|Canada|Montreal|GloboTech Communications|
-|19|120.29.124.131|8080|Philippines|Bacolor|ComClark Network & Technology Corp|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
+|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.228.250|6933|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|20311|Canada|Montreal|GloboTech Communications|
+|15|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
+|16|147.75.34.85|80|The Netherlands|Amsterdam|Equinix Services|
+|17|67.43.227.227|15491|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|18285|Canada|Montreal|GloboTech Communications|
+|19|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|20|103.48.68.102|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
