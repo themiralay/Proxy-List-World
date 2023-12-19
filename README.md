@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8045** proxies at the latest update. Usable proxies are below.
+> Scraper found **8316** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|566|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|725|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5466|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|175.195.197.234|5003|South Korea|Gwangmyeong|Korea Telecom|
-|3|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
-|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
-|7|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
-|8|128.92.239.190|8080|United States|Torrance|Spectrum|
-|9|45.77.151.157|1693|United States|Piscataway|Choopa|
-|10|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|11|175.195.197.235|5003|South Korea|Gwangmyeong|Korea Telecom|
-|12|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
-|13|115.144.192.155|26399|South Korea|Gwangmyeong|Korea Telecom|
-|14|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|67.43.236.20|4129|Canada|Montreal|GloboTech Communications|
-|17|167.99.142.56|20128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|45.190.187.124|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|19|212.252.73.21|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|2|31.129.253.30|40223|Ukraine|Kharkiv|FOP Samoilenko Igor Olegovich|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|45.43.63.24|33128|Singapore|Singapore|Zenlayer Inc|
+|5|34.91.182.112|10000|Netherlands|Groningen|Google LLC|
+|6|128.131.167.74|8060|Austria|Vienna|Technische Universitat Wien|
+|7|121.126.36.236|25187|South Korea|Goyang-si|Korea Telecom|
+|8|203.231.146.56|8281|South Korea|Pohang-si|Sejong Telecom|
+|9|34.128.188.27|8080|United States|Kansas City|Google LLC|
+|10|34.64.89.238|80|South Korea|Seoul|Google LLC|
+|11|103.176.45.227|3128|Indonesia|Jakarta|PT Era Digital Media|
+|12|72.10.160.90|31505|Canada|Montreal|GloboTech Communications|
+|13|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|14|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|16|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|17|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|18|115.144.192.155|26399|South Korea|Gwangmyeong|Korea Telecom|
+|19|67.43.227.227|15965|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|9683|Canada|Montreal|GloboTech Communications|
 
 
 
