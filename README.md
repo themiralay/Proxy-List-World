@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6432** proxies at the latest update. Usable proxies are below.
+> Scraper found **6431** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|783|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|782|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3678|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|2|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|3|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
-|4|38.51.235.214|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|5|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
-|6|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
-|7|182.253.109.57|8080|Indonesia|Semarang|Biznet Metronet|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|182.253.109.57|8080|Indonesia|Semarang|Biznet Metronet|
+|5|67.43.227.227|10049|Canada|Montreal|GloboTech Communications|
+|6|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
+|7|72.10.164.178|6117|Canada|Montreal|GloboTech Communications|
 |8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|67.43.227.227|21543|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
-|11|23.162.200.9|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
-|15|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|16|45.173.12.142|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|17|67.43.228.253|4237|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|32357|Canada|Montreal|GloboTech Communications|
-|19|200.229.224.221|8080|Brazil|Rio de Janeiro|Wireless Comm Services LTDA|
-|20|67.43.227.227|21543|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|6117|Canada|Montreal|GloboTech Communications|
+|10|132.145.50.210|3128|United Kingdom|London|Oracle Corporation|
+|11|67.43.236.20|17291|Canada|Montreal|GloboTech Communications|
+|12|24.152.50.116|999|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
+|13|72.10.164.178|6117|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|10049|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|10049|Canada|Montreal|GloboTech Communications|
+|16|78.142.234.35|8080|Russia|Makhachkala|LTD "Erline"|
+|17|67.43.228.253|8471|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|8471|Canada|Montreal|GloboTech Communications|
+|19|45.173.12.142|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|20|72.10.160.90|5423|Canada|Montreal|GloboTech Communications|
 
 
 
