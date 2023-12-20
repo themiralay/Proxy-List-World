@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|2|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
-|3|119.2.48.2|8745|Indonesia|Yogyakarta|GMEDIA|
-|4|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|6|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
-|7|34.93.202.219|3523|India|Mumbai|Google LLC|
-|8|80.59.134.183|443|Spain|Palma|Telefonica de Espana SAU|
-|9|103.172.42.22|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|67.43.236.20|3157|Canada|Montreal|GloboTech Communications|
-|11|103.167.68.75|6363|Indonesia|Tasikmalaya|PT Kataji Nukami Indonesia|
-|12|72.10.164.178|15553|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|16575|Canada|Montreal|GloboTech Communications|
-|14|103.164.229.108|8080|Indonesia|Kudus|PT Muria Data Utama|
-|15|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
-|16|72.128.133.154|16099|United States|Mission|Charter Communications|
-|17|72.10.160.172|12103|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15553|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|16575|Canada|Montreal|GloboTech Communications|
-|20|91.92.122.147|8080|Iran|Tehran|TIC|
+|1|212.19.10.34|38080|Russia|Khabarovsk|Redcom LIR|
+|2|119.2.48.2|8745|Indonesia|Yogyakarta|GMEDIA|
+|3|91.230.65.107|38080|Russia|Nizhniy Novgorod|Panin Kirill Evgenyevich|
+|4|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|103.172.42.22|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|45.163.66.247|19888|Brazil|Leopoldo de Bulhoes|CDM TELECOM|
+|7|103.133.222.220|102|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|8|190.103.83.113|6900|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|9|83.47.70.92|18080|Spain|Los Palacios y Villafranca|Telefonica de Espana SAU|
+|10|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|11|102.214.106.86|1975|Libya|Tripoli|Rawafed|
+|12|165.165.170.102|8080|South Africa|Pretoria|Telkom SA Ltd.|
+|13|182.160.106.117|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|72.10.160.90|29003|Canada|Montreal|GloboTech Communications|
+|15|202.6.234.52|51234|Indonesia|Cijantung|PADINET - Padi Internet|
+|16|185.134.233.153|38080|Russia|Krasnodar|TeleMaks Ltd|
+|17|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
+|18|103.183.99.186|4041|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
+|19|179.0.87.17|8085|Brazil|Araripina|Ezra Raniery De Carvalho Macedo|
+|20|103.165.125.182|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
