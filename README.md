@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
 |2|202.147.198.54|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
 |3|202.92.201.74|44310|Indonesia|Teluknaga|PT Hyperindo Media Perkasa|
 |4|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|5|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|6|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|5|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
+|6|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
 |7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|9|67.207.161.158|4128|United States|Los Angeles|Colocation America Corporation|
-|10|185.20.198.250|8080|Iraq|Al Madīnah|Horizon Scope Mobile Telecom WLL|
-|11|176.213.141.107|8080|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|12|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
-|13|202.92.201.74|44310|Indonesia|Teluknaga|PT Hyperindo Media Perkasa|
-|14|200.7.118.62|666|Brazil|Peruibe|Sunway Telecom Ltda|
-|15|129.205.106.42|8080|Nigeria|Lagos|Globacom Limited|
-|16|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
-|17|103.176.45.87|3128|Indonesia|Jakarta|PT Era Digital Media|
-|18|62.210.119.138|3128|France|Asnieres-sur-Seine|Online S.A.S.|
-|19|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|20|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|8|185.105.184.171|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|107.155.65.11|3128|Singapore|Singapore|HIVELOCITY, Inc.|
+|12|140.238.39.45|3898|Japan|Tokyo|Oracle Corporation|
+|13|67.43.236.20|5737|Canada|Montreal|GloboTech Communications|
+|14|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|15|72.10.160.170|29891|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|5737|Canada|Montreal|GloboTech Communications|
+|17|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|18|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
+|19|67.43.227.227|2263|Canada|Montreal|GloboTech Communications|
+|20|143.198.145.81|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
