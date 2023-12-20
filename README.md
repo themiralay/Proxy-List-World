@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|183.88.133.238|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|159.65.0.48|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
-|6|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
-|7|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|107.150.51.148|5443|United States|Kansas City|Nocix, LLC|
-|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|128.140.83.148|3128|Germany|Hachenburg|Hetzner Online GmbH|
+|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|183.88.133.238|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|9|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
+|10|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|11|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|14|67.43.227.227|23485|Canada|Montreal|GloboTech Communications|
-|15|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
-|16|103.80.237.10|8080|Indonesia|Kebon Jeruk|PT MITRA VISIONER PRATAMA|
-|17|67.43.236.20|32527|Canada|Montreal|GloboTech Communications|
-|18|96.43.220.99|8080|United States|Columbus|Omni Fiber|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
+|15|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|72.10.164.178|17951|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|8403|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|17951|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|17951|Canada|Montreal|GloboTech Communications|
 
 
 
