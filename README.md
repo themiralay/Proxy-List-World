@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6711** proxies at the latest update. Usable proxies are below.
+> Scraper found **5669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1042|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|949|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3744|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|187.73.102.70|9292|Brazil|Tailandia|Celante Servicos De Telecomunicacoes Ltda - EPP|
-|3|109.164.38.189|2306|Czechia|Most|STARNET, s.r.o.|
-|4|200.150.72.253|8087|Brazil|Porto Amazonas|Ligga Telecomunicações S.A|
-|5|110.78.149.168|8080|Thailand|Pattaya|CAT-BB|
-|6|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|7|188.168.8.75|38080|Russia|Kazan'|TTK-Retail|
-|8|103.130.243.106|8584|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|9|103.155.116.239|8085|Indonesia|Bekasi|IOSYS|
-|10|146.196.97.178|8086|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|11|143.208.152.54|3180|Brazil|Niterói|ultraconexão soluçoes eireli|
-|12|200.233.182.105|5151|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|13|173.209.66.179|16099|United States|San Juan|Smartcom Telephone|
-|14|103.155.192.89|6969|Indonesia|Jambi City|BAIKNET|
-|15|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|16|46.8.252.84|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|17|101.255.150.178|3030|Indonesia|Bekasi|PT Remala Abadi|
-|18|72.10.160.90|9799|Canada|Montreal|GloboTech Communications|
-|19|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|173.209.66.178|16099|United States|San Juan|Smartcom Telephone|
+|1|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
+|2|185.134.233.153|38080|Russia|Krasnodar|TeleMaks Ltd|
+|3|146.196.97.178|8086|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|4|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|91.230.154.149|38080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|6|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|117.102.76.252|8080|Indonesia|Surabaya|Biznet Networks|
+|9|121.139.218.165|31409|South Korea|Anyang-si|Korea Telecom|
+|10|72.128.133.154|16099|United States|Mission|Charter Communications|
+|11|103.124.196.234|86|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|12|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
+|13|31.211.158.247|5905|Bulgaria|Isperih|5KOM|
+|14|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|15|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|16|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|18|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
+|20|101.6.66.41|7893|China|Haidian|CERNET|
 
 
 
