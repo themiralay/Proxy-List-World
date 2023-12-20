@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|3|152.32.187.164|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|34.93.202.219|3523|India|Mumbai|Google LLC|
-|6|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|7|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|35.200.212.13|3523|India|Mumbai|Google LLC|
-|11|176.106.34.47|8080|Poland|Gliwice|KRUCZNET Sp. z o.o.|
-|12|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|13|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|14|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|15|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|16|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|17|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|18|72.10.164.178|5397|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|139.144.116.14|30001|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|125.229.149.168|65100|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|176.106.34.47|8080|Poland|Gliwice|KRUCZNET Sp. z o.o.|
+|7|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|183.78.159.188|25105|South Korea|Gwangmyeong|Korea Telecom|
+|9|45.153.241.116|3128|Germany|Frankfurt am Main|aurologic GmbH|
+|10|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|34.31.17.100|3128|United States|Council Bluffs|Google LLC|
+|12|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|13|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|14|34.93.202.219|3523|India|Mumbai|Google LLC|
+|15|67.207.161.156|4128|United States|Los Angeles|Colocation America Corporation|
+|16|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|17|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|18|67.43.228.253|20583|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|5397|Canada|Montreal|GloboTech Communications|
+|20|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
 
 
 
