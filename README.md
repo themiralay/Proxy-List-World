@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|2|34.93.202.219|3523|India|Mumbai|Google LLC|
-|3|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
-|4|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|6|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|7|183.89.12.120|8080|Thailand|Nan|Triple T Broadband Public Company Limited|
-|8|72.10.164.178|18993|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|18993|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|22927|Canada|Montreal|GloboTech Communications|
-|11|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|88.210.20.144|20000|Russia|Moscow|CityLanCom LTD|
-|14|203.202.252.152|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|138.117.86.146|999|Colombia|Timana|Sinergy Soluciones Integrales|
-|16|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|17|72.10.164.178|18993|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|17281|Canada|Montreal|GloboTech Communications|
-|19|103.105.69.253|2021|Indonesia|South Tangerang|PT iForte Global Internet|
-|20|72.10.160.90|1189|Canada|Montreal|GloboTech Communications|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
+|4|181.30.227.51|8080|Argentina|Rosario|Telecom Argentina S.A|
+|5|36.93.140.71|8080|Indonesia|Bandung|Telekomunikasi Indonesia|
+|6|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|7|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
+|9|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|13|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|72.10.160.90|9307|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|32693|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|32693|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|18|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|19|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|18823|Canada|Montreal|GloboTech Communications|
 
 
 
