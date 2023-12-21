@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
-|3|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
-|6|141.125.109.104|3128|United States|Chicago|SoftLayer|
-|7|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|72.10.160.90|3897|Canada|Montreal|GloboTech Communications|
-|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|11|67.43.227.227|8563|Canada|Montreal|GloboTech Communications|
-|12|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|13|67.43.236.20|5371|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|4009|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|27815|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|29085|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5371|Canada|Montreal|GloboTech Communications|
-|18|63.250.52.82|8118|Japan|Tokyo|HIVELOCITY, Inc.|
-|19|119.110.67.238|57413|Indonesia|Selong|Maxindo|
-|20|67.43.227.227|8563|Canada|Montreal|GloboTech Communications|
+|1|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|4|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
+|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
+|7|20.198.96.26|80|India|Pune|Microsoft Corporation|
+|8|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
+|9|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|10|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|11|212.19.10.34|38080|Russia|Khabarovsk|Redcom LIR|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.160.90|3897|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|27279|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|27279|Canada|Montreal|GloboTech Communications|
+|18|220.178.134.94|8089|China|Hefei|Chinanet|
+|19|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|20|103.167.171.235|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
 
 
 
