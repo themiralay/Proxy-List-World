@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|64.157.16.43|8080|United States|Francesville|Level 3|
-|3|61.254.81.88|9000|South Korea|Areannamkwaengi|SK Broadband Co Ltd|
-|4|38.156.233.78|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|5|201.168.8.74|999|Mexico|Apodaca|Marcatel Com, S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|187.134.187.241|999|Mexico|Los Mochis|Uninet S.A. de C.V.|
-|8|67.43.236.20|2345|Canada|Montreal|GloboTech Communications|
-|9|103.180.123.9|3127|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|10|67.43.236.20|2345|Canada|Montreal|GloboTech Communications|
-|11|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|12|23.162.200.188|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|11455|Canada|Montreal|GloboTech Communications|
-|16|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
-|17|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|18|23.162.200.153|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|19|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|6|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|7|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
+|8|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
+|9|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|10|72.10.160.90|28545|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8017|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.230|13311|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|15|89.189.1.186|38080|Russia|Nizhniy Novgorod|JSC Vimpelcom|
+|16|67.43.227.227|21157|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|67.43.236.20|19285|Canada|Montreal|GloboTech Communications|
 
 
 
