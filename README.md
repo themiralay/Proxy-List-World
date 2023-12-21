@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6607** proxies at the latest update. Usable proxies are below.
+> Scraper found **6644** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1147|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1184|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|794|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3692|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|3|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|4|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|5|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.200.212.13|3523|India|Mumbai|Google LLC|
+|6|175.138.60.225|8765|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
 |7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|10|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|11|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
+|8|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|9|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
+|10|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
+|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
 |12|216.80.39.89|3129|United States|Chicago|RCN|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|15|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|16|111.88.240.43|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|17|35.200.212.13|3523|India|Mumbai|Google LLC|
-|18|72.10.160.90|18579|Canada|Montreal|GloboTech Communications|
-|19|104.148.86.252|3129|United States|Los Angeles|LayerHost|
-|20|72.10.160.90|18579|Canada|Montreal|GloboTech Communications|
+|13|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|14|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|16|72.10.160.90|18579|Canada|Montreal|GloboTech Communications|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|35.200.212.13|3523|India|Mumbai|Google LLC|
 
 
 
