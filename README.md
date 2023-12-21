@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8049** proxies at the latest update. Usable proxies are below.
+> Scraper found **8002** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|803|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5295|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|4|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|7|20.198.96.26|80|India|Pune|Microsoft Corporation|
-|8|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
-|9|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|10|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|11|212.19.10.34|38080|Russia|Khabarovsk|Redcom LIR|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|72.10.160.90|3897|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|27279|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|31597|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|27279|Canada|Montreal|GloboTech Communications|
-|18|220.178.134.94|8089|China|Hefei|Chinanet|
+|1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
+|6|58.187.242.151|8080|Vietnam|Hanoi|FPT Telecom Company|
+|7|72.10.160.90|19911|Canada|Montreal|GloboTech Communications|
+|8|36.89.156.149|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|72.10.164.178|8657|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|1243|Canada|Montreal|GloboTech Communications|
+|13|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|110.49.110.45|8080|Thailand|Rayong|Advanced Wireless Network Company Limited|
+|15|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|16|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|17|54.169.167.5|3128|Singapore|Singapore|Amazon.com, Inc.|
+|18|67.43.227.227|1243|Canada|Montreal|GloboTech Communications|
 |19|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|20|103.167.171.235|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|20|83.47.69.191|18080|Spain|Los Palacios y Villafranca|Telefonica de Espana SAU|
 
 
 
