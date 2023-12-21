@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|34.93.202.219|3523|India|Mumbai|Google LLC|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|124.108.19.6|9292|India|Thāne|Advantus Corporate Infoserv Private Ltd|
-|7|171.232.193.87|6005|Vietnam|Hanoi|Viettel Corporation|
-|8|200.188.123.240|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|9|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|18285|Canada|Montreal|GloboTech Communications|
-|13|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|18285|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4211|Canada|Montreal|GloboTech Communications|
-|17|103.84.176.245|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|18|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
+|1|34.93.202.219|3523|India|Mumbai|Google LLC|
+|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|67.43.236.20|1857|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|7611|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|31805|Canada|Montreal|GloboTech Communications|
+|9|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.188.123.240|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|11|117.71.133.11|8089|China|Rongcheng|Chinanet|
+|12|67.43.236.20|1857|Canada|Montreal|GloboTech Communications|
+|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|14|82.137.250.145|8080|Syria|As Sawdā|190 Internet Service Provider|
+|15|67.43.227.227|18749|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1857|Canada|Montreal|GloboTech Communications|
+|17|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|18|67.43.228.253|7611|Canada|Montreal|GloboTech Communications|
+|19|222.174.178.122|4999|China|Xintai|Chinanet|
+|20|67.43.227.227|18749|Canada|Montreal|GloboTech Communications|
 
 
 
