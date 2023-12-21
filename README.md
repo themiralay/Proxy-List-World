@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6508** proxies at the latest update. Usable proxies are below.
+> Scraper found **6507** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1090|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|744|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3700|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|2|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
-|3|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|4|191.96.100.33|3128|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|6|165.0.136.30|8080|South Africa|Gordons Bay|RSAWEB (PTY) LTD|
-|7|103.86.159.25|6969|Indonesia|Makasar|PT Cyberindo Aditama|
-|8|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|9|34.93.202.219|3523|India|Mumbai|Google LLC|
-|10|217.12.23.236|80|Spain|Seville|Secondary Node|
-|11|35.200.212.13|3523|India|Mumbai|Google LLC|
-|12|72.10.160.90|4355|Canada|Montreal|GloboTech Communications|
-|13|23.162.200.85|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|14|67.43.236.20|21709|Canada|Montreal|GloboTech Communications|
-|15|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|16|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|19|67.43.227.228|18343|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|5|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
+|6|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
+|7|185.25.205.144|3128|Italy|Scarperia e San Piero|Servereasy Italy|
+|8|185.229.111.129|45020|Georgia|Tbilisi|Sysnet LLC|
+|9|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|10|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
+|11|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|13|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|14|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
+|15|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|16|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
+|17|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|18|162.243.184.21|10000|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.164.178|13085|Canada|Montreal|GloboTech Communications|
+|20|190.217.20.106|999|Colombia|Choachi|Level 3 Colombia S.A|
 
 
 
