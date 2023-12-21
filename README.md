@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7978** proxies at the latest update. Usable proxies are below.
+> Scraper found **7913** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|699|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5319|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.65.0.190|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|6|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|9|67.43.227.227|6007|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|12999|Canada|Montreal|GloboTech Communications|
-|11|167.99.36.48|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|67.43.227.227|6007|Canada|Montreal|GloboTech Communications|
-|13|191.7.216.208|8080|Brazil|Guaraciaba do Norte|HTM SERVICOS DE TELECOMUNICACOES LTDA|
-|14|67.43.227.227|6007|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|15065|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|6007|Canada|Montreal|GloboTech Communications|
-|17|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|19|67.43.228.253|28293|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12999|Canada|Montreal|GloboTech Communications|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
+|4|67.43.227.227|2603|Canada|Montreal|GloboTech Communications|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|103.4.76.50|8080|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|7|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|9|72.10.160.90|27897|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
+|12|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
+|13|103.178.194.234|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|15|117.65.27.149|8089|China|Shanghai|Chinanet|
+|16|72.10.160.90|27897|Canada|Montreal|GloboTech Communications|
+|17|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|18|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|19|38.51.235.213|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
 
 
 
