@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|3|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|6|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|117.71.132.98|8089|China|Rongcheng|Chinanet|
-|8|103.169.130.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|9|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|10|72.10.160.90|17337|Canada|Montreal|GloboTech Communications|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|67.43.228.253|20143|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
-|14|177.234.192.223|999|Ecuador|El Recreo|Ufinet Panama S.A.|
-|15|67.43.227.227|26529|Canada|Montreal|GloboTech Communications|
-|16|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
-|18|114.245.108.102|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|195.201.133.66|21783|Germany|Gunzenhausen|Hetzner Online GmbH|
-|20|195.250.39.34|7269|Hungary|Celldomolk|Pannon Pipics Ltd.|
+|2|189.202.205.236|9005|Mexico|Mérida|Operbes, S.A. de C.V.|
+|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|4|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|45.43.63.24|33128|Singapore|Singapore|Zenlayer Inc|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
+|11|67.55.186.25|8080|United States|Bloomfield|Aureon Network Services|
+|12|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
+|15|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|16|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.203|10006|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.228.253|20143|Canada|Montreal|GloboTech Communications|
 
 
 
