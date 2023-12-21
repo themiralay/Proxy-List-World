@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|12|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|13|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
-|15|49.231.15.27|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|16|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|17|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|18|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
-|19|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|20|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|172.105.200.97|10086|Japan|Tokyo|Akamai Technologies|
+|7|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|23.225.72.125|3503|United States|Los Angeles|Cnservers LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|191.7.8.136|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
+|18|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
+|19|185.229.111.25|45020|Georgia|Tbilisi|Sysnet LLC|
+|20|202.46.70.171|8080|Indonesia|Semarang|PT. Indonesia Comnet Plus|
 
 
 
