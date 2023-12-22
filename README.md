@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8414** proxies at the latest update. Usable proxies are below.
+> Scraper found **8420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1176|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1182|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|803|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5461|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
-|3|35.200.228.64|3523|India|Mumbai|Google LLC|
-|4|180.183.28.86|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|34.93.248.86|3523|India|Mumbai|Google LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|23.162.200.179|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|122.50.6.186|80|Indonesia|Pecenongan|PT Mora Telematika Indonesia|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|170.238.239.72|8080|Colombia|Buenaventura|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
-|11|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|12|103.176.24.185|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
+|4|34.93.218.217|3523|India|Mumbai|Google LLC|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|34.93.248.86|3523|India|Mumbai|Google LLC|
+|8|178.160.194.17|80|Armenia|Yerevan|Telecom Armenia CJSC|
+|9|180.183.28.86|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|10|122.50.6.186|80|Indonesia|Pecenongan|PT Mora Telematika Indonesia|
+|11|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
+|12|103.176.25.166|3128|Vietnam|Ho Chi Minh City|VTPHAR|
 |13|103.151.239.174|8888|Vietnam|Quan Mot|VIETBRANDS|
-|14|103.176.25.166|3128|Vietnam|Ho Chi Minh City|VTPHAR|
-|15|38.158.81.186|999|Dominican Republic|Nacional|Visnetwork SRL|
-|16|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|17|23.131.56.171|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
-|18|34.93.206.138|3523|India|Mumbai|Google LLC|
-|19|103.151.239.99|3128|Vietnam|Quan Mot|VIETBRANDS|
-|20|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|14|185.208.101.149|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|103.176.24.185|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|16|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|17|103.161.118.148|3128|Vietnam|Ba Đình District|THIENCO|
+|18|182.253.161.56|8080|Indonesia|Jakarta|BIZNET|
+|19|67.43.236.20|8315|Canada|Montreal|GloboTech Communications|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
