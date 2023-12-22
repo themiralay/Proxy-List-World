@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8278** proxies at the latest update. Usable proxies are below.
+> Scraper found **8253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1071|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|704|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5526|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|2|35.200.216.133|3523|India|Mumbai|Google LLC|
-|3|34.93.253.92|3523|India|Mumbai|Google LLC|
-|4|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|34.93.213.165|3523|India|Mumbai|Google LLC|
-|6|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|9|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|35.200.155.49|3523|India|Mumbai|Google LLC|
-|13|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|14|173.209.66.178|16099|United States|San Juan|Smartcom Telephone|
-|15|34.93.213.165|3523|India|Mumbai|Google LLC|
-|16|35.200.157.102|3523|India|Mumbai|Google LLC|
-|17|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|18|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|19|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|20|35.200.222.11|3523|India|Mumbai|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.200.155.49|3523|India|Mumbai|Google LLC|
+|4|34.93.213.165|3523|India|Mumbai|Google LLC|
+|5|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|190.2.210.116|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|9|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
+|12|180.183.142.245|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|13|5.202.149.105|8080|Iran|Behbahan|PTS-Network|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|72.10.160.90|27607|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|28349|Canada|Montreal|GloboTech Communications|
+|17|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|18|72.10.164.178|2757|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|17967|Canada|Montreal|GloboTech Communications|
+|20|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
 
 
 
