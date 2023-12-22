@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8432** proxies at the latest update. Usable proxies are below.
+> Scraper found **8262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1220|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1125|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|681|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|606|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5556|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|4|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|6|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|7|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|8|103.76.12.42|8181|Indonesia|Depok|PT Mora Telematika Indonesia|
-|9|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|10|103.161.96.184|3128|Vietnam|Ha GJong|MXGROUP|
-|11|103.228.36.133|8888|India|Mumbai|DXT|
-|12|72.10.160.170|16379|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|18319|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|20433|Canada|Montreal|GloboTech Communications|
-|15|103.229.52.84|3128|Vietnam|Quận Gò Vấp|CLOVIET|
-|16|14.103.26.198|8000|China|Beijing|BITNET|
-|17|103.161.96.24|8888|Vietnam|Ha GJong|MXGROUP|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|103.231.249.107|3128|Vietnam|Tay Ho|MTD|
-|20|67.43.236.20|20883|Canada|Montreal|GloboTech Communications|
+|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|3|103.229.52.84|3128|Vietnam|Quận Gò Vấp|CLOVIET|
+|4|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|5|103.252.92.42|8888|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|6|103.228.37.21|8888|Vietnam|Hanoi|DXT|
+|7|103.239.67.28|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|8|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|9|103.228.37.82|8888|Vietnam|Hanoi|DXT|
+|10|103.252.92.246|8888|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|11|103.161.112.97|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|12|67.43.236.20|20883|Canada|Montreal|GloboTech Communications|
+|13|103.252.92.140|8888|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|14|103.129.127.134|3128|Vietnam|Cao Lanh|Viet Digital Technology Liability Company|
+|15|103.151.53.20|3128|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
+|16|103.228.37.127|8888|Vietnam|Hanoi|DXT|
+|17|103.228.37.209|8888|Vietnam|Hanoi|DXT|
+|18|103.228.36.172|8888|India|Mumbai|DXT|
+|19|103.228.74.97|8888|India|Mumbai|Suvan Medi Care Unit Pvt Ltd|
+|20|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
