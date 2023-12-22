@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7251** proxies at the latest update. Usable proxies are below.
+> Scraper found **8452** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1201|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|846|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5431|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.200.156.237|3523|India|Mumbai|Google LLC|
-|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|8|91.185.58.228|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|9|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|10|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|11|195.46.184.226|8081|Russia|Rostov|PJSC "Vimpelcom"|
-|12|103.150.93.18|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|17|41.33.66.251|1981|Egypt|Giza|TE Data|
-|18|45.164.13.246|999|Dominican Republic|Santo Domingo Este|GUESTCHOICE TV RD, S.R.L|
-|19|189.90.255.208|3128|Brazil|Sabara|Companhia Itabirana Telecomunicações Ltda|
-|20|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|1|34.93.230.61|3523|India|Mumbai|Google LLC|
+|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|171.244.10.75|1911|Vietnam|Hanoi|VIETEL|
+|4|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|5|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
+|6|195.46.184.226|8081|Russia|Rostov|PJSC "Vimpelcom"|
+|7|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|12|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|14|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|15|67.43.236.20|3131|Canada|Montreal|GloboTech Communications|
+|16|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|17|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|103.155.62.158|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|20|103.3.246.71|3128|Vietnam|Ho Chi Minh City|VDATA|
 
 
 
