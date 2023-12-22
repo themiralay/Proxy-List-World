@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.93.241.77|3523|India|Mumbai|Google LLC|
-|2|203.202.245.27|5020|Bangladesh|Kālia|Aamra Networks Limited|
-|3|34.93.239.189|3523|India|Mumbai|Google LLC|
-|4|35.200.185.89|3523|India|Mumbai|Google LLC|
-|5|91.205.131.191|8080|Russia|Makhachkala|LTD "Erline"|
-|6|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|10|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|11|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|12|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|13|129.205.106.42|8080|Nigeria|Lagos|Globacom Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.170|20941|Canada|Montreal|GloboTech Communications|
-|17|142.93.72.28|10010|United States|Clifton|DigitalOcean, LLC|
-|18|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|67.43.236.20|9155|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|29799|Canada|Montreal|GloboTech Communications|
+|1|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|2|91.205.131.191|8080|Russia|Makhachkala|LTD "Erline"|
+|3|203.202.245.27|5020|Bangladesh|Kālia|Aamra Networks Limited|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|85.208.117.214|20435|United States|Los Angeles|Enzu Inc|
+|8|122.3.176.110|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|67.43.228.253|13433|Canada|Montreal|GloboTech Communications|
+|11|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|12|35.200.155.49|3523|India|Mumbai|Google LLC|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
+|15|34.93.235.56|3523|India|Mumbai|Google LLC|
+|16|192.155.85.207|80|United States|Fremont|Akamai Technologies, Inc.|
+|17|67.43.228.253|13433|Canada|Montreal|GloboTech Communications|
+|18|35.200.228.64|3523|India|Mumbai|Google LLC|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|67.43.236.20|25423|Canada|Montreal|GloboTech Communications|
 
 
 
