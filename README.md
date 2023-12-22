@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|34.93.239.189|3523|India|Mumbai|Google LLC|
-|4|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
-|5|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|6|35.200.162.136|3523|India|Mumbai|Google LLC|
-|7|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|103.151.239.174|8888|Vietnam|Quan Mot|VIETBRANDS|
-|10|103.176.24.185|3128|Vietnam|Ho Chi Minh City|VTPHAR|
-|11|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|12|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|13|103.176.25.166|3128|Vietnam|Ho Chi Minh City|VTPHAR|
-|14|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|15|103.161.181.27|8888|Vietnam|Động Tam|THAIAN|
-|16|103.110.33.136|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|17|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|18|103.161.181.193|8888|Vietnam|Động Tam|THAIAN|
-|19|103.161.181.148|3128|Vietnam|Động Tam|THAIAN|
-|20|103.252.95.190|8888|Vietnam|Thành Phố Thủ Dầu Một|Viet Digital Technology Liability Company|
+|2|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|34.93.218.217|3523|India|Mumbai|Google LLC|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|34.93.248.86|3523|India|Mumbai|Google LLC|
+|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.156.201.42|3128|Poland|Warsaw|Amberway Development LTD|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|35.200.228.64|3523|India|Mumbai|Google LLC|
+|12|103.176.25.166|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|13|103.176.24.185|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|14|103.151.239.174|8888|Vietnam|Quan Mot|VIETBRANDS|
+|15|34.93.206.138|3523|India|Mumbai|Google LLC|
+|16|103.252.92.91|8888|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|18|103.176.24.62|8888|Vietnam|Ho Chi Minh City|VTPHAR|
+|19|103.151.239.118|8888|Vietnam|Quan Mot|VIETBRANDS|
+|20|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
