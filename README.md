@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9877** proxies at the latest update. Usable proxies are below.
+> Scraper found **10125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1049|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1049|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1049|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1732|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1732|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1732|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2017|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2177|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|677|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|765|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6208|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.190.121.127|3128|Vietnam|Quận Thanh Khê|KINGBOND|
-|2|125.25.33.200|8080|Thailand|Lamphun|TOT Public Company Limited|
-|3|103.129.126.139|8888|Vietnam|Cam Le|Viet Digital Technology Liability Company|
-|4|103.129.126.130|8888|Vietnam|Cam Le|Viet Digital Technology Liability Company|
-|5|103.228.36.133|8888|India|Mumbai|DXT|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.153.64.160|3128|Vietnam|Ha GJong|MAT-HN|
-|8|103.228.37.51|8888|Vietnam|Hanoi|DXT|
-|9|103.162.24.198|3128|Vietnam|GJong GJa|TOANTHANGSTECH|
-|10|103.228.74.124|3128|India|Mumbai|Suvan Medi Care Unit Pvt Ltd|
-|11|103.239.67.67|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
-|12|178.160.194.17|80|Armenia|Yerevan|Telecom Armenia CJSC|
-|13|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|14|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|15|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|16|103.153.65.105|3128|Vietnam|Ha GJong|MAT-HN|
-|17|206.62.64.34|8080|Brazil|Sarandi|AGIS|
-|18|103.228.37.3|8888|Vietnam|Hanoi|DXT|
-|19|103.229.52.218|3128|Vietnam|Quận Gò Vấp|CLOVIET|
-|20|103.239.66.97|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|1|125.25.33.200|8080|Thailand|Lamphun|TOT Public Company Limited|
+|2|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|3|20.237.171.80|3128|United States|San Francisco|Microsoft Corporation|
+|4|103.228.36.133|8888|India|Mumbai|DXT|
+|5|103.80.237.10|8080|Indonesia|Kebon Jeruk|PT MITRA VISIONER PRATAMA|
+|6|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|20.237.171.80|3128|United States|San Francisco|Microsoft Corporation|
+|8|178.160.194.17|80|Armenia|Yerevan|Telecom Armenia CJSC|
+|9|103.81.214.235|84|India|Faridabad|Hps Digital Broadband|
+|10|103.129.126.130|8888|Vietnam|Cam Le|Viet Digital Technology Liability Company|
+|11|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|12|103.161.118.213|8888|Vietnam|Ba Đình District|THIENCO|
+|13|103.228.36.56|8888|India|Mumbai|DXT|
+|14|103.14.224.104|3128|Vietnam|Hanoi|VNB|
+|15|103.229.53.145|3128|Vietnam|Quận Gò Vấp|CLOVIET|
+|16|103.68.84.229|8888|Vietnam|Hanoi|MIND|
+|17|103.252.95.147|8888|Vietnam|Thành Phố Thủ Dầu Một|Viet Digital Technology Liability Company|
+|18|103.229.52.88|3128|Vietnam|Quận Gò Vấp|CLOVIET|
+|19|103.110.33.225|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|20|103.252.92.66|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
 
 
 
