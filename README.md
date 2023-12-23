@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|129.159.88.228|80|United States|Ashburn|Oracle Corporation|
-|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|167.114.169.187|3128|Canada|Montreal|OVH SAS|
-|7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|68.183.144.115|10002|United States|Clifton|DigitalOcean, LLC|
-|9|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|10|66.94.127.108|30010|United States|Seattle|Nubes, LLC|
-|11|103.161.181.24|3128|Vietnam|Động Tam|THAIAN|
-|12|103.110.33.242|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|13|103.153.64.160|8888|Vietnam|Ha GJong|MAT-HN|
-|14|72.10.160.90|6147|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|14967|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|72.10.164.178|12149|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6147|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|5369|Canada|Montreal|GloboTech Communications|
-|20|103.161.181.245|8888|Vietnam|Động Tam|THAIAN|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
