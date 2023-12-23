@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|2|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.153.65.90|3128|Vietnam|Ha GJong|MAT-HN|
-|5|103.153.65.67|3128|Vietnam|Ha GJong|MAT-HN|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|67.43.236.20|12033|Canada|Montreal|GloboTech Communications|
-|11|122.191.108.101|7890|China|Wuhan|China Unicom Hubei Province Network|
-|12|67.43.227.227|28887|Canada|Montreal|GloboTech Communications|
-|13|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|72.10.160.90|31841|Canada|Montreal|GloboTech Communications|
-|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|17|183.89.158.68|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|67.43.227.227|28887|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12033|Canada|Montreal|GloboTech Communications|
-|20|89.189.1.186|38080|Russia|Nizhniy Novgorod|JSC Vimpelcom|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|122.191.108.101|7890|China|Wuhan|China Unicom Hubei Province Network|
+|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|28887|Canada|Montreal|GloboTech Communications|
 
 
 
