@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8520** proxies at the latest update. Usable proxies are below.
+> Scraper found **8680** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1263|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1423|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|703|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5580|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|36.93.61.193|65432|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|3|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|4|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|103.190.121.130|3128|Vietnam|Quận Thanh Khê|KINGBOND|
-|6|103.228.37.112|8888|Vietnam|Hanoi|DXT|
-|7|67.43.236.20|28149|Canada|Montreal|GloboTech Communications|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|10|103.67.197.125|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
-|11|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
-|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|103.161.181.154|3128|Vietnam|Động Tam|THAIAN|
-|14|23.162.200.150|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|15|67.43.228.253|20269|Canada|Montreal|GloboTech Communications|
-|16|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|17|67.43.236.20|28149|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29389|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|20269|Canada|Montreal|GloboTech Communications|
-|20|185.229.111.9|45020|Georgia|Tbilisi|Sysnet LLC|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|103.161.181.24|3128|Vietnam|Động Tam|THAIAN|
+|4|203.161.25.129|3333|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
+|5|67.43.236.20|18827|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
+|7|103.161.119.78|3128|Vietnam|Ba Đình District|THIENCO|
+|8|103.106.78.180|8282|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|9|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|10|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
+|11|60.169.52.156|8089|China|Rongcheng|Chinanet|
+|12|192.155.85.207|80|United States|Fremont|Akamai Technologies, Inc.|
+|13|67.43.227.227|33009|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|33009|Canada|Montreal|GloboTech Communications|
+|16|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|17|23.162.200.160|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|18|67.43.236.20|18827|Canada|Montreal|GloboTech Communications|
+|19|103.162.50.13|80|Bangladesh|Azimpur|Exabyte Ltd.|
+|20|103.106.78.187|8282|Indonesia|Jakarta|PT Quantum Tera Multimedia|
 
 
 
