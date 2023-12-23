@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9038** proxies at the latest update. Usable proxies are below.
+> Scraper found **8662** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|843|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|843|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|843|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1851|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1475|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|603|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5609|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.252.92.79|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
-|2|103.151.53.201|8888|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
-|3|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.161.113.133|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|8|103.252.92.112|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
-|9|103.162.25.202|8888|Vietnam|GJong GJa|TOANTHANGSTECH|
-|10|103.177.35.200|3128|Vietnam|Quận Hà Đông|VERMOS|
-|11|103.252.93.42|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
-|12|103.161.113.133|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|13|103.239.67.70|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
-|14|134.35.18.110|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|103.178.233.139|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
-|16|103.190.121.93|8888|Vietnam|Quận Thanh Khê|KINGBOND|
-|17|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|103.153.64.65|3128|Vietnam|Ha GJong|MAT-HN|
-|19|103.160.3.155|3128|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
-|20|103.228.36.169|3128|India|Mumbai|DXT|
+|1|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|103.176.25.40|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|95.217.195.45|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|8|103.176.24.58|3128|Vietnam|Ho Chi Minh City|VTPHAR|
+|9|103.178.230.205|3128|Vietnam|Hanoi|DATHANH|
+|10|103.161.97.6|3128|Vietnam|Ha GJong|MXGROUP|
+|11|103.161.118.40|8888|Vietnam|Ba Đình District|THIENCO|
+|12|103.183.120.221|3128|Vietnam|Quận Hà Đông|GRCITY|
+|13|103.68.84.196|8888|Vietnam|Hanoi|MIND|
+|14|103.162.24.6|8888|Vietnam|GJong GJa|TOANTHANGSTECH|
+|15|103.67.197.210|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
+|16|103.239.66.172|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|17|103.162.24.85|8888|Vietnam|GJong GJa|TOANTHANGSTECH|
+|18|103.160.3.18|8888|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
+|19|103.161.97.47|3128|Vietnam|Ha GJong|MXGROUP|
+|20|103.228.37.36|8888|Vietnam|Hanoi|DXT|
 
 
 
