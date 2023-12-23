@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9638** proxies at the latest update. Usable proxies are below.
+> Scraper found **9520** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|906|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|906|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|906|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|574|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1851|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1733|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|737|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6075|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|142.171.88.250|7890|United States|Los Angeles|Multacom Corporation|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|139.144.71.214|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|182.23.107.211|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|7|195.175.29.38|9090|Turkey|Reyhanli|Turk Telekomunikasyon A.S|
+|8|20.237.171.80|3128|United States|San Francisco|Microsoft Corporation|
 |9|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|10|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
-|11|103.162.24.198|3128|Vietnam|GJong GJa|TOANTHANGSTECH|
-|12|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|13|72.10.164.178|8429|Canada|Montreal|GloboTech Communications|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|103.153.64.94|3128|Vietnam|Ha GJong|MAT-HN|
-|19|67.43.227.227|8353|Canada|Montreal|GloboTech Communications|
-|20|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
+|10|103.228.36.221|8888|India|Mumbai|DXT|
+|11|103.68.84.196|8888|Vietnam|Hanoi|MIND|
+|12|103.252.92.95|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|13|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|14|103.129.127.142|3128|Vietnam|Cao Lanh|Viet Digital Technology Liability Company|
+|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|103.153.64.94|3128|Vietnam|Ha GJong|MAT-HN|
+|20|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
 
 
 
