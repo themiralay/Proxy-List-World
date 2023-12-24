@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9482** proxies at the latest update. Usable proxies are below.
+> Scraper found **9326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1313|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1157|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|899|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6296|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|3|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|4|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|5|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|7|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|8|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.236.20|8469|Canada|Montreal|GloboTech Communications|
-|12|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|13|125.87.88.170|8089|China|Shanghai|Chinanet|
-|14|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.90|25249|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1769|Canada|Montreal|GloboTech Communications|
-|17|103.162.24.6|8888|Vietnam|GJong GJa|TOANTHANGSTECH|
-|18|67.43.228.253|13537|Canada|Montreal|GloboTech Communications|
-|19|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
-|20|103.161.118.245|3128|Vietnam|Ba Đình District|THIENCO|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
+|6|171.97.16.103|8080|Thailand|Pathum Thani|True Internet Corporation CO. Ltd.|
+|7|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|8|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|9|67.43.228.253|17065|Canada|Montreal|GloboTech Communications|
+|10|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|11|67.43.228.253|17065|Canada|Montreal|GloboTech Communications|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.160.94|28977|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|18939|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1769|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|72.10.160.170|13591|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1769|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1769|Canada|Montreal|GloboTech Communications|
+|20|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
