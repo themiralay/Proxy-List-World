@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|135.125.39.69|12000|France|Roubaix|OVH SAS|
-|6|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|67.43.236.20|5943|Canada|Montreal|GloboTech Communications|
-|9|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|10|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.228.253|31773|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|2173|Canada|Montreal|GloboTech Communications|
-|13|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|14|103.129.127.200|8888|Vietnam|Cao Lanh|Viet Digital Technology Liability Company|
-|15|67.43.228.253|31773|Canada|Montreal|GloboTech Communications|
-|16|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|17|113.78.190.20|1111|China|Dongguan|Chinanet|
-|18|103.228.36.82|8888|India|Mumbai|DXT|
-|19|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
-|20|103.68.84.132|8888|Vietnam|Hanoi|MIND|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|9|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|10|181.225.96.137|999|Colombia|Apulo|TV AZTECA SUCURSAL COLOMBIA|
+|11|45.64.96.141|4545|Indonesia|Purwokerto|ARGON|
+|12|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|14|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|104.148.86.145|3129|United States|Los Angeles|LayerHost|
+|16|104.148.86.191|3129|United States|Los Angeles|LayerHost|
+|17|103.161.112.114|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|18|72.10.164.178|22377|Canada|Montreal|GloboTech Communications|
+|19|104.148.86.70|3129|United States|Los Angeles|LayerHost|
+|20|42.96.1.5|8888|Vietnam|Quận Thanh Khê|Viet Digital Technology Liability Company|
 
 
 
