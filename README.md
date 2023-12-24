@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9634** proxies at the latest update. Usable proxies are below.
+> Scraper found **9069** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2029|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1406|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|604|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|662|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6027|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.154.161.152|80|Italy|Milan|Google LLC|
-|2|115.132.32.91|8080|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|3|190.90.22.106|999|Colombia|Saravena|InterNexa Global Network|
-|4|43.231.64.102|8080|Cambodia|Phnom Penh|Cambodian SingMeng Telemedia Co|
-|5|67.43.236.20|22467|Canada|Montreal|GloboTech Communications|
-|6|200.0.227.38|8080|Argentina|San Nicolas|Telefonica de Argentina|
-|7|101.99.51.14|6003|Vietnam|Da Nang|CMC Telecom Infrastructure Company|
-|8|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|9|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|10|49.49.168.156|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|72.10.160.90|21013|Canada|Montreal|GloboTech Communications|
-|12|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|13|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|14|67.43.236.20|22467|Canada|Montreal|GloboTech Communications|
-|15|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|16|67.43.236.20|22467|Canada|Montreal|GloboTech Communications|
-|17|103.154.118.154|17378|Indonesia|Jakarta Pusat|MORATELINDONAP|
-|18|67.43.236.20|22467|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|30193|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30193|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|5|103.151.52.53|8888|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
+|6|72.10.160.91|6453|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|11861|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|14553|Canada|Montreal|GloboTech Communications|
+|9|190.109.168.196|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|72.10.164.178|11861|Canada|Montreal|GloboTech Communications|
+|11|103.161.96.24|8888|Vietnam|Ha GJong|MXGROUP|
+|12|67.43.236.20|14553|Canada|Montreal|GloboTech Communications|
+|13|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|14|72.10.160.90|4615|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|4615|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|14553|Canada|Montreal|GloboTech Communications|
+|17|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
+|18|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2895|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|14553|Canada|Montreal|GloboTech Communications|
 
 
 
