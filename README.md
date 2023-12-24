@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.87.186.89|8000|The Netherlands|Amsterdam|NL-RUVDS|
-|2|103.229.52.169|8888|Vietnam|Quận Gò Vấp|CLOVIET|
-|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|103.161.112.114|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|5|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.160.3.41|3128|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
-|8|103.228.36.64|8888|India|Mumbai|DXT|
-|9|103.161.112.222|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|10|131.255.56.24|9292|Brazil|Birigui|Link Brasil Telecomunicacoes Ltda|
-|11|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.153.65.37|8888|Vietnam|Ha GJong|MAT-HN|
-|13|103.178.233.133|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
-|14|103.160.2.139|3128|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
-|15|38.56.23.1|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|181.224.196.98|18089|Ecuador|Milagro|Universidad Estatal de Milagro|
-|18|72.10.164.178|14101|Canada|Montreal|GloboTech Communications|
-|19|103.228.75.119|8888|India|Mumbai|BIGZ|
-|20|67.43.236.20|10531|Canada|Montreal|GloboTech Communications|
+|1|27.79.22.228|4006|Vietnam|Hanoi|Viettel Corporation|
+|2|103.190.120.20|8888|Vietnam|Quận Thanh Khê|KINGBOND|
+|3|103.161.180.15|3128|Vietnam|Động Tam|THAIAN|
+|4|103.239.67.187|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|5|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|6|103.239.67.35|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|7|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|8|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.228.36.210|8888|India|Mumbai|DXT|
+|11|103.151.53.136|8888|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
+|12|67.43.227.227|9795|Canada|Montreal|GloboTech Communications|
+|13|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.153.65.79|8888|Vietnam|Ha GJong|MAT-HN|
+|15|67.43.236.20|24441|Canada|Montreal|GloboTech Communications|
+|16|103.129.126.152|8888|Vietnam|Cam Le|Viet Digital Technology Liability Company|
+|17|72.10.164.178|14073|Canada|Montreal|GloboTech Communications|
+|18|103.178.233.204|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|19|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.10.160.90|6941|Canada|Montreal|GloboTech Communications|
 
 
 
