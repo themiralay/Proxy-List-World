@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|64.188.48.165|31188|United States|Clifton|ISPrime, Inc.|
-|3|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|103.110.33.85|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|6|64.188.48.165|31188|United States|Clifton|ISPrime, Inc.|
-|7|69.61.2.163|8888|United States|Atlanta|Cyber Wurx LLC|
-|8|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|9|190.84.31.218|27935|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|67.43.236.20|15779|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|5003|Canada|Montreal|GloboTech Communications|
-|12|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
-|13|67.43.236.20|15779|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|5003|Canada|Montreal|GloboTech Communications|
-|15|95.163.84.25|10333|Russia|Moscow|LLC Digital Network|
-|16|103.110.33.85|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|17|67.43.228.253|5003|Canada|Montreal|GloboTech Communications|
-|18|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|142.93.72.28|10009|United States|Clifton|DigitalOcean, LLC|
-|20|117.71.149.18|8089|China|Rongcheng|Chinanet|
+|1|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
+|2|200.53.19.6|3128|Brazil|Joaçaba|Acessoline Telecom|
+|3|103.153.64.254|8888|Vietnam|Ha GJong|MAT-HN|
+|4|103.252.92.37|8888|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|5|144.48.190.0|8080|Hong Kong|Tseung Kwan O|CAMBO (HK) TECHNOLOGY (I.S.P) CO., LIMITED|
+|6|103.153.64.116|8888|Vietnam|Ha GJong|MAT-HN|
+|7|103.129.127.142|3128|Vietnam|Cao Lanh|Viet Digital Technology Liability Company|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|103.67.196.206|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
+|10|103.229.52.59|3128|Vietnam|Quận Gò Vấp|CLOVIET|
+|11|42.96.0.135|8888|Vietnam|Cho Moi|Viet Digital Technology Liability Company|
+|12|103.160.3.173|8888|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
+|13|103.177.34.181|8888|Vietnam|Quận Hà Đông|VERMOS|
+|14|103.151.238.80|3128|Vietnam|Cho Lach|VIETBRANDS|
+|15|168.90.15.165|999|Colombia|Tunja|Media Commerce Partners S.A|
+|16|103.153.65.136|8888|Vietnam|Ha GJong|MAT-HN|
+|17|67.43.236.20|15779|Canada|Montreal|GloboTech Communications|
+|18|103.110.32.252|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|19|67.43.228.254|16857|Canada|Montreal|GloboTech Communications|
+|20|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
