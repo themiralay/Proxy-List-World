@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10070** proxies at the latest update. Usable proxies are below.
+> Scraper found **9742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|762|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1651|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1651|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1651|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1936|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|921|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|892|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6239|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|3|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|4|185.156.201.42|3128|Poland|Warsaw|Amberway Development LTD|
-|5|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
+|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
 |6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|8|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
-|9|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|10|172.104.162.16|8000|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|14|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.236.20|27431|Canada|Montreal|GloboTech Communications|
-|16|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|17|34.31.17.100|3128|United States|Council Bluffs|Google LLC|
-|18|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
-|19|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.51.21.250|81|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|7|171.240.219.149|1024|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|10|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
+|11|103.161.112.139|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|12|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|13|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|103.190.120.239|8888|Vietnam|Quận Thanh Khê|KINGBOND|
+|16|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|18|103.228.74.99|3128|India|Mumbai|Suvan Medi Care Unit Pvt Ltd|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|103.153.65.142|8888|Vietnam|Ha GJong|MAT-HN|
 
 
 
