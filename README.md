@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|3|36.80.184.150|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|4|170.238.239.72|8080|Colombia|Buenaventura|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
-|5|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|6|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|7|67.43.228.253|15933|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|15933|Canada|Montreal|GloboTech Communications|
-|9|181.224.196.26|18089|Ecuador|Milagro|Universidad Estatal de Milagro|
-|10|67.43.236.20|8117|Canada|Montreal|GloboTech Communications|
-|11|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
-|12|72.10.164.178|5571|Canada|Montreal|GloboTech Communications|
-|13|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.236.20|8117|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|4215|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|4215|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8117|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4215|Canada|Montreal|GloboTech Communications|
-|19|148.251.12.150|26541|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.236.20|8117|Canada|Montreal|GloboTech Communications|
+|2|36.80.184.150|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.154.144.202|8715|Indonesia|Kutisari|MORATELINDONAP|
+|5|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|6|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|7|116.202.28.30|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|10|181.224.196.26|18089|Ecuador|Milagro|Universidad Estatal de Milagro|
+|11|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.228.253|30017|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|11217|Canada|Montreal|GloboTech Communications|
+|14|103.106.78.180|8282|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|15|67.43.228.253|30017|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|11217|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|2617|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|11217|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2617|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|23157|Canada|Montreal|GloboTech Communications|
 
 
 
