@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9138** proxies at the latest update. Usable proxies are below.
+> Scraper found **9167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1094|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|794|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6304|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|3|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|4|85.208.117.214|20266|United States|Los Angeles|Enzu Inc|
-|5|67.43.236.20|26201|Canada|Montreal|GloboTech Communications|
-|6|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|72.10.164.178|2467|Canada|Montreal|GloboTech Communications|
-|9|109.167.134.253|30710|Russia|St Petersburg|JSC "ER-Telecom Holding"|
-|10|203.150.128.76|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.164.178|2467|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2999|Canada|Montreal|GloboTech Communications|
-|14|103.233.152.66|8080|Indonesia|Jimbaran|BIZNET|
-|15|185.208.101.149|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.164.178|2467|Canada|Montreal|GloboTech Communications|
-|19|103.155.116.239|8085|Indonesia|Bekasi|IOSYS|
-|20|67.43.236.20|26201|Canada|Montreal|GloboTech Communications|
+|1|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|2|62.176.12.111|8080|Russia|Podolsk|Rial Com JSC|
+|3|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
+|4|103.189.116.19|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
+|5|67.43.227.227|15269|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
+|7|103.155.116.239|8085|Indonesia|Bekasi|IOSYS|
+|8|72.10.160.90|2999|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|6471|Canada|Montreal|GloboTech Communications|
+|10|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
+|11|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
+|12|67.43.227.227|15269|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
+|14|103.163.103.39|80|Indonesia|Wonogiri|PT Mamura Inter Media|
+|15|72.10.160.174|22843|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|15269|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|1327|Canada|Montreal|GloboTech Communications|
+|18|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|19|91.230.154.149|38080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|20|175.106.8.18|7979|Indonesia|Jakarta|Quantum Dist POP KBJ PS-SH|
 
 
 
