@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9948** proxies at the latest update. Usable proxies are below.
+> Scraper found **9535** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1817|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1404|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|861|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6296|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|192.177.100.20|999|Dominican Republic|Santiago de los Caballeros|EGIHosting|
-|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|6|179.253.8.244|12341|Brazil|Itaim Bibi|V tal|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|103.124.137.203|3128|Indonesia|Semarang|Global Media Data Prima|
-|10|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|12|160.251.19.23|3128|Japan|Hiyoshi|GMO Internet Group, Inc.|
-|13|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|14|67.43.227.227|32371|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22329|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
-|17|142.93.72.28|10004|United States|Clifton|DigitalOcean, LLC|
-|18|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|46.161.195.177|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|20|72.10.160.90|18939|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|27.71.173.75|3001|Vietnam|Hanoi|Viettel Group|
+|3|103.110.33.106|8888|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|179.253.8.244|12341|Brazil|Itaim Bibi|V tal|
+|6|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|181.129.183.19|53281|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|128.201.68.90|63380|Brazil|Mantena|Interleste Internet LTDA|
+|12|67.43.236.20|9057|Canada|Montreal|GloboTech Communications|
+|13|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|14|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|16|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|17|72.10.160.90|9713|Canada|Montreal|GloboTech Communications|
+|18|101.255.17.6|8033|Indonesia|Bidara Cina|PT Remala Abadi|
+|19|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
