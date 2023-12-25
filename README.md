@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8124** proxies at the latest update. Usable proxies are below.
+> Scraper found **8254** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|956|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1086|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|756|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5438|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|1|143.198.144.233|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|146.190.159.2|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|59.152.105.216|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
-|7|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
-|8|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
-|9|197.248.103.59|8080|Kenya|Nairobi|Safaricom Limited|
-|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|12|185.156.201.42|3128|Poland|Warsaw|Amberway Development LTD|
-|13|72.10.160.170|27983|Canada|Montreal|GloboTech Communications|
-|14|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|15|67.43.227.227|8123|Canada|Montreal|GloboTech Communications|
-|16|77.72.137.244|8076|Russia|Kirov|InSys Network|
-|17|193.169.5.216|8090|Russia|Reutov|Lekstar Communication Ltd|
-|18|187.102.208.202|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
-|19|47.50.101.94|8080|United States|Rockford|Charter Communications|
-|20|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
+|4|143.198.144.233|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
+|6|146.190.159.2|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|103.153.64.214|3128|Vietnam|Ha GJong|MAT-HN|
+|12|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|13|103.161.97.47|3128|Vietnam|Ha GJong|MXGROUP|
+|14|103.252.92.115|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|15|103.153.65.26|3128|Vietnam|Ha GJong|MAT-HN|
+|16|187.102.208.202|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|17|103.228.37.208|3128|Vietnam|Hanoi|DXT|
+|18|103.153.64.216|3128|Vietnam|Ha GJong|MAT-HN|
+|19|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|103.162.24.81|3128|Vietnam|GJong GJa|TOANTHANGSTECH|
 
 
 
