@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9406** proxies at the latest update. Usable proxies are below.
+> Scraper found **9349** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1228|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1171|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|720|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6483|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|190.121.239.194|999|Venezuela|El Tigre|Corporacion Digitel C.A|
-|5|27.72.104.89|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|1|104.248.156.11|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|8|103.74.100.190|3128|Vietnam|Quận Thanh Khê|Viet Digital Technology Liability Company|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|38.65.139.126|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
-|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|34.88.54.123|3128|Finland|Lappeenranta|Google LLC|
-|14|122.191.108.101|7890|China|Wuhan|China Unicom Hubei Province Network|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|30741|Canada|Montreal|GloboTech Communications|
-|17|185.82.99.107|9094|Lebanon|Sîr ed Danniyé|NET 360 S.A.R.L|
-|18|94.130.64.28|16221|Germany|Falkenstein|Hetzner Online GmbH|
-|19|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|213.138.221.173|3128|Russia|Moscow|PJSC MegaFon|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|188.132.222.34|8080|Turkey|Cordaleo|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|1.234.23.159|80|South Korea|Gwangju|SK Broadband Co Ltd|
+|11|34.64.89.238|80|South Korea|Seoul|Google LLC|
+|12|68.183.238.150|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.228.37.239|8888|Vietnam|Hanoi|DXT|
+|14|103.151.239.172|3128|Vietnam|Quan Mot|VIETBRANDS|
+|15|103.228.36.172|8888|India|Mumbai|DXT|
+|16|103.67.196.118|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
+|17|94.130.64.28|16221|Germany|Falkenstein|Hetzner Online GmbH|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|67.43.236.20|26377|Canada|Montreal|GloboTech Communications|
+|20|103.239.66.198|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
 
 
 
