@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9456** proxies at the latest update. Usable proxies are below.
+> Scraper found **9950** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|972|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|972|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|972|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|991|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|991|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|991|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1632|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|857|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5992|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|103.177.34.129|3128|Vietnam|Quận Hà Đông|VERMOS|
-|6|103.166.29.39|2499|Indonesia|Bojonegoro|PT Global Media Data Prima|
-|7|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
+|2|117.2.176.139|5006|Vietnam|Huế|Viettel Corporation|
+|3|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|4|103.239.66.244|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|7|45.230.172.182|8080|Mexico|Culiacán|Opsicome SA De CV|
 |8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|11|35.200.161.98|80|India|Mumbai|Google LLC|
-|12|103.228.37.13|8888|Vietnam|Hanoi|DXT|
-|13|103.160.3.60|3128|Vietnam|Cau Dien|ITEXPERT Viet Nam Joint Stock Company|
-|14|103.6.223.2|3128|China|Beijing|China Unicom|
-|15|103.239.66.34|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
-|16|103.161.112.192|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|17|103.190.120.164|3128|Vietnam|Quận Thanh Khê|KINGBOND|
-|18|103.161.96.253|3128|Vietnam|Ha GJong|MXGROUP|
-|19|103.161.112.190|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|20|103.229.53.15|8888|Vietnam|Quận Gò Vấp|CLOVIET|
+|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|14|103.228.37.13|8888|Vietnam|Hanoi|DXT|
+|15|103.6.223.2|3128|China|Beijing|China Unicom|
+|16|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|17|35.200.161.98|80|India|Mumbai|Google LLC|
+|18|103.178.233.208|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|19|103.239.67.65|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
+|20|103.239.67.187|3128|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
 
 
 
