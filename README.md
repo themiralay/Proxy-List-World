@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6690** proxies at the latest update. Usable proxies are below.
+> Scraper found **6757** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1035|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|913|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3835|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|67.43.227.227|5185|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.90|24071|Canada|Montreal|GloboTech Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.160.90|24071|Canada|Montreal|GloboTech Communications|
-|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|10|77.137.21.78|19000|Israel|Tel Aviv|Hot-Net internet services Ltd.|
-|11|103.18.46.253|80|Indonesia|Cipete Utara|PT. Fiber Networks Indonesia|
-|12|67.43.228.253|18113|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|22863|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|1769|Canada|Montreal|GloboTech Communications|
-|15|188.75.64.38|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|90.156.225.23|1080|Russia|St Petersburg|TimeWeb Ltd.|
-|17|72.10.164.178|22863|Canada|Montreal|GloboTech Communications|
-|18|194.117.230.230|3128|Romania|Bucharest|Mondo-Byte SRL|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|103.229.52.191|3128|Vietnam|Quận Gò Vấp|CLOVIET|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|103.228.36.172|8888|India|Mumbai|DXT|
+|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|75.112.64.27|8080|United States|Sanford|Spectrum|
+|7|67.43.227.227|26211|Canada|Montreal|GloboTech Communications|
+|8|103.115.20.52|8080|Indonesia|Subang|PMYNET|
+|9|103.4.76.50|8080|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|10|85.208.117.214|20314|United States|Los Angeles|Enzu Inc|
+|11|67.43.236.20|11981|Canada|Montreal|GloboTech Communications|
+|12|36.92.93.21|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|13|212.88.109.89|3128|Uganda|Kampala|MTN Uganda|
+|14|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
+|15|113.23.183.154|1122|Malaysia|Putrajaya|Extreme Broadband|
+|16|67.43.236.20|11981|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
+|18|188.75.64.38|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|19|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
+|20|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
 
 
 
