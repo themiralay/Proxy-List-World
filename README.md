@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8179** proxies at the latest update. Usable proxies are below.
+> Scraper found **8138** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|970|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|756|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5438|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|2|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|85.208.117.214|20436|United States|Los Angeles|Enzu Inc|
-|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|181.143.249.171|999|Colombia|Riosucio|EPM Telecomunicaciones S.A. E.S.P.|
-|9|103.151.53.87|3128|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
-|10|85.208.117.214|20436|United States|Los Angeles|Enzu Inc|
-|11|103.151.239.156|8888|Vietnam|Quan Mot|VIETBRANDS|
-|12|103.190.120.168|8888|Vietnam|Quận Thanh Khê|KINGBOND|
-|13|103.151.53.57|3128|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
-|14|67.43.228.253|28703|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|16|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM limited|
-|17|190.2.146.108|46618|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|72.10.160.170|28515|Canada|Montreal|GloboTech Communications|
-|19|112.78.181.210|8080|Indonesia|Jakarta Pusat|BIZNET|
-|20|89.189.1.186|38080|Russia|Nizhniy Novgorod|JSC Vimpelcom|
+|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|2|103.105.125.6|84|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|3|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|4|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|5|200.7.118.68|666|Brazil|Peruibe|Sunway Telecom Ltda|
+|6|181.198.75.154|999|Ecuador|Hacienda Santa Isabel|Telconet S.A|
+|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|72.10.164.178|24753|Canada|Montreal|GloboTech Communications|
+|9|177.124.184.52|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
+|10|186.148.195.34|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|11|67.43.228.253|28703|Canada|Montreal|GloboTech Communications|
+|12|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|13|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|14|67.43.236.20|2349|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2349|Canada|Montreal|GloboTech Communications|
+|16|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|17|72.10.164.178|24753|Canada|Montreal|GloboTech Communications|
+|18|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|19|123.182.58.225|8089|China|Zhangjiakou|China Telecom|
+|20|59.152.105.216|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
 
 
 
