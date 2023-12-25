@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|8|103.109.57.250|8889|Bangladesh|Lakshmīpur|Skynet Chowmuhani|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|11|205.196.184.69|50704|United States|Houston|Phonoscope|
-|12|203.150.128.76|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|14|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|101.255.140.157|3129|Indonesia|Karawang|PT Remala Abadi|
-|16|219.65.42.165|80|India|New Delhi|Tata Communications Limited|
-|17|14.241.236.189|2512|Vietnam|Ho Chi Minh City|VNPT|
-|18|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|202.182.117.111|8001|Japan|Shinagawa|The Constant Company, LLC|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|78.38.93.20|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|7|103.146.196.112|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|8|188.132.222.39|8080|Turkey|Cordaleo|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|13|205.196.184.69|50704|United States|Houston|Phonoscope|
+|14|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|15|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|16|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
+|18|67.43.236.20|7815|Canada|Montreal|GloboTech Communications|
+|19|59.152.105.216|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
+|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
