@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|138.197.20.244|10009|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|194.163.164.189|3128|Germany|Düsseldorf|Contabo GmbH|
 |4|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
-|5|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|6|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|67.43.227.227|9133|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|67.43.227.227|9133|Canada|Montreal|GloboTech Communications|
-|12|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|5|202.188.211.11|800|Malaysia|Kulim|TM TECHNOLOGY SERVICES SDN BHD|
+|6|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|7|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|8|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|138.197.20.244|10009|United States|Clifton|DigitalOcean, LLC|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |13|194.163.164.189|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
-|15|64.225.8.203|10001|United States|Clifton|DigitalOcean, LLC|
-|16|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|17|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|67.43.227.227|9133|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21133|Canada|Montreal|GloboTech Communications|
-|20|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|159.203.104.153|8550|United States|Clifton|DigitalOcean, LLC|
+|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|17|67.43.227.227|9133|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30175|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6511|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|21351|Canada|Montreal|GloboTech Communications|
 
 
 
