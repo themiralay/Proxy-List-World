@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8751** proxies at the latest update. Usable proxies are below.
+> Scraper found **8784** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1091|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1124|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|835|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5850|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
 |2|216.80.39.89|3129|United States|Chicago|RCN|
-|3|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|3|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
 |4|185.191.236.162|3128|Switzerland|Lugano|Grupo Panaglobal 15 S.A|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|38.180.55.61|8888|Italy|Milan|M247 Europe SRL|
-|7|216.80.39.89|3129|United States|Chicago|RCN|
-|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|168.90.15.165|999|Colombia|Tunja|Media Commerce Partners S.A|
-|12|23.162.200.172|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|181.191.94.126|8999|Brazil|Nossa Senhora dos Remedios|Mundial NET Provedor De Internet|
-|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|16|140.238.39.45|3898|Japan|Tokyo|Oracle Corporation|
-|17|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|18|130.162.242.4|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|6|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|7|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
+|8|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|182.253.161.56|8080|Indonesia|Jakarta|BIZNET|
+|11|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|12|216.80.39.89|3129|United States|Chicago|RCN|
+|13|213.97.161.224|3128|Spain|Cuarte de Huerva|Telefonica de Espana SAU|
+|14|182.253.181.133|8080|Indonesia|Jakarta Pusat|BIZNET|
+|15|168.90.15.165|999|Colombia|Tunja|Media Commerce Partners S.A|
+|16|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|17|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|18|36.67.7.74|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|181.191.94.126|8999|Brazil|Nossa Senhora dos Remedios|Mundial NET Provedor De Internet|
+|20|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 
 
 
