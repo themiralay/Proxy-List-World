@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9006** proxies at the latest update. Usable proxies are below.
+> Scraper found **8991** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1172|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1157|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|855|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6004|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.71.173.75|3001|Vietnam|Hanoi|Viettel Group|
-|2|125.25.32.193|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|134.236.161.142|8080|Thailand|Pak Phli|CAT-BB|
-|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.232.100.52|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|20.22.186.97|8080|United States|Boydton|Microsoft Corporation|
-|11|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|12|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|13|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
-|14|20.22.186.97|8080|United States|Boydton|Microsoft Corporation|
-|15|101.99.51.14|6001|Vietnam|Da Nang|CMC Telecom Infrastructure Company|
-|16|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
-|17|67.43.228.253|9891|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|12487|Canada|Montreal|GloboTech Communications|
-|19|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.18|16575|Canada|Montreal|GloboTech Communications|
+|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|49.48.146.134|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|3|162.243.184.21|10000|United States|Clifton|DigitalOcean, LLC|
+|4|125.25.32.193|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|6|134.236.161.142|8080|Thailand|Pak Phli|CAT-BB|
+|7|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|8|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|162.243.184.21|10000|United States|Clifton|DigitalOcean, LLC|
+|11|189.232.100.52|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|15|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|16|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|17|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|19|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
