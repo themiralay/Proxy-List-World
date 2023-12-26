@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1007|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|844|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|850|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5843|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|3|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|4|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|182.253.235.135|8080|Indonesia|Jakarta|BIZNET|
-|7|67.43.228.253|2843|Canada|Montreal|GloboTech Communications|
-|8|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
-|9|67.43.227.227|31883|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
-|14|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
-|15|72.10.164.178|13149|Canada|Montreal|GloboTech Communications|
-|16|222.174.178.122|4999|China|Xintai|Chinanet|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|14.103.26.53|8000|China|Beijing|BITNET|
-|19|67.43.228.252|22613|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13149|Canada|Montreal|GloboTech Communications|
+|1|103.168.44.114|3127|Indonesia|Pemalang|PT CYB Media Group|
+|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|4|204.11.158.50|59886|U.S. Virgin Islands|Charlotte Amalie|Broadband VI, LLC|
+|5|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|6|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|7|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|8|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|17215|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|17|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|18297|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
 
 
 
