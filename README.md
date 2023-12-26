@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8998** proxies at the latest update. Usable proxies are below.
+> Scraper found **8875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1242|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1119|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|735|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6046|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|140.238.39.45|3898|Japan|Tokyo|Oracle Corporation|
-|3|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|4|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|5|205.196.184.69|50704|United States|Houston|Phonoscope|
-|6|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
-|7|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.173|14359|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|13109|Canada|Montreal|GloboTech Communications|
-|10|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|11|72.10.160.171|14359|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|15|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|16|67.43.227.228|27983|Canada|Montreal|GloboTech Communications|
-|17|103.227.60.6|63128|Australia|Sydney|Origin Net Pty Ltd|
-|18|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|19|117.65.26.82|8089|China|Shanghai|Chinanet|
-|20|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
+|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|2|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
+|5|75.112.64.27|8080|United States|Sanford|Spectrum|
+|6|193.200.16.44|8080|Poland|Warsaw|BlueVPS OU|
+|7|200.166.248.217|128|Brazil|Cuiabá|Claro S.A|
+|8|67.43.236.20|13575|Canada|Montreal|GloboTech Communications|
+|9|119.39.68.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|212.200.74.139|1685|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|37.139.26.54|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|165.227.120.250|10007|United States|Clifton|DigitalOcean, LLC|
+|15|186.148.182.226|999|Colombia|Timana|TV AZTECA SUCURSAL COLOMBIA|
+|16|88.99.245.58|8903|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.227.227|7921|Canada|Montreal|GloboTech Communications|
+|18|140.238.39.45|3898|Japan|Tokyo|Oracle Corporation|
+|19|72.10.164.178|33257|Canada|Montreal|GloboTech Communications|
+|20|118.179.122.197|5020|Bangladesh|Khulna|Dhakacom Limited|
 
 
 
