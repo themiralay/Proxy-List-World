@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9563** proxies at the latest update. Usable proxies are below.
+> Scraper found **9584** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|729|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|729|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|729|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1449|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1470|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|953|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6186|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.217.202|8080|Indonesia|Ngantrukrajan|BIZNET|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|103.68.84.190|3128|Vietnam|Hanoi|MIND|
-|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|103.168.44.114|3127|Indonesia|Pemalang|PT CYB Media Group|
-|11|103.178.232.180|8888|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|177.87.15.141|8080|Brazil|Rafael Godeiro|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
-|14|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|15|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
-|17|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|67.43.228.253|3113|Canada|Montreal|GloboTech Communications|
-|20|24.152.58.20|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|171.237.235.33|5004|Vietnam|Hanoi|Viettel Corporation|
+|3|34.74.48.254|3128|United States|North Charleston|Google LLC|
+|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|8|182.253.217.202|8080|Indonesia|Ngantrukrajan|BIZNET|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|34.74.48.254|3128|United States|North Charleston|Google LLC|
+|12|27.147.24.205|8080|Taiwan|Taipei|Extra-Lan Technologies Co., LTD|
+|13|103.168.44.114|3127|Indonesia|Pemalang|PT CYB Media Group|
+|14|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
+|15|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|16|1.179.144.41|8080|Thailand|Sam Phran|TOT Public Company Limited|
+|17|86.104.35.239|3128|Iran|Tehran|Afranet|
+|18|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|20|103.165.126.66|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
