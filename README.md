@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8608** proxies at the latest update. Usable proxies are below.
+> Scraper found **8670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1050|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|699|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5884|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|139.144.120.184|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
-|4|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|5|94.130.181.59|32770|Germany|Nuremberg|Hetzner Online GmbH|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|8|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|10|72.10.160.90|27125|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|27125|Canada|Montreal|GloboTech Communications|
-|12|94.45.223.222|8080|Russia|Moscow|Lofis LLC|
-|13|103.67.197.214|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
-|14|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|27125|Canada|Montreal|GloboTech Communications|
-|16|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.170|23857|Canada|Montreal|GloboTech Communications|
+|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|2|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|4|139.144.120.184|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|6|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|94.130.181.59|32770|Germany|Nuremberg|Hetzner Online GmbH|
+|12|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|13|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|15|42.96.0.217|8888|Vietnam|Cho Moi|Viet Digital Technology Liability Company|
+|16|24.172.34.114|49920|United States|Hopkins|Charter Communications Inc|
+|17|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
 |18|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|19|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|7963|Canada|Montreal|GloboTech Communications|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
