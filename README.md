@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8664** proxies at the latest update. Usable proxies are below.
+> Scraper found **8716** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|954|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|675|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6061|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|2|116.109.148.8|2011|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|128.199.177.68|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |4|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|5|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|6|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|7|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|8|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|9|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|10|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|12|68.183.144.115|10006|United States|Clifton|DigitalOcean, LLC|
-|13|119.110.69.101|57413|Indonesia|Selong|Maxindo|
-|14|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|15|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.55.63.90|8080|India|Firozabad|Ani Broadband Service Pvt Ltd|
-|17|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|18|65.21.233.179|3136|Finland|Helsinki|Hetzner Online GmbH|
-|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|10|67.43.228.253|1577|Canada|Montreal|GloboTech Communications|
+|11|68.183.144.115|10006|United States|Clifton|DigitalOcean, LLC|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|72.10.160.90|28071|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|12977|Canada|Montreal|GloboTech Communications|
+|16|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|17|72.10.164.178|1293|Canada|Montreal|GloboTech Communications|
+|18|211.115.206.18|3128|South Korea|Seongnam-si|Sejong Telecom|
+|19|72.10.160.90|28071|Canada|Montreal|GloboTech Communications|
+|20|181.39.76.247|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
 
 
 
