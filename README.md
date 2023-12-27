@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|2|217.245.161.83|8080|Germany|Göppingen|Deutsche Telekom AG|
-|3|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|68.183.144.115|10004|United States|Clifton|DigitalOcean, LLC|
-|7|178.169.139.180|8080|Bulgaria|Sofia|Bulsatcom EOOD|
-|8|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|9|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|10|72.10.160.90|9385|Canada|Montreal|GloboTech Communications|
-|11|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
-|12|125.25.32.151|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|67.43.228.253|23305|Canada|Montreal|GloboTech Communications|
-|14|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|15|139.144.120.184|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|92.204.134.38|8443|United States|Warrenton|GoDaddy.com, LLC|
-|17|72.10.160.90|9385|Canada|Montreal|GloboTech Communications|
-|18|119.39.68.110|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|45.86.228.249|39811|United Arab Emirates|Fujairah|BlueVPS OU|
-|20|165.22.96.68|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.133.222.220|102|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|2|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|4|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|5|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|8|103.6.223.2|3128|China|Beijing|China Unicom|
+|9|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|10|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|3227|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
+|15|68.183.144.115|10004|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
+|17|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|18|5.189.172.158|3128|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|9385|Canada|Montreal|GloboTech Communications|
 
 
 
