@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|705|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|705|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|705|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|103.151.238.46|3128|Vietnam|Cho Lach|VIETBRANDS|
-|3|92.204.134.38|8443|United States|Warrenton|GoDaddy.com, LLC|
-|4|42.96.0.210|8888|Vietnam|Cho Moi|Viet Digital Technology Liability Company|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|103.68.85.171|8888|Vietnam|Hanoi|MIND|
-|7|88.99.131.6|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|10|92.204.134.38|8443|United States|Warrenton|GoDaddy.com, LLC|
-|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|12|187.35.135.87|59871|Brazil|Ribeirao Pires|Vivo|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|103.110.33.214|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
-|17|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
-|18|34.64.221.98|80|South Korea|Seoul|Google LLC|
-|19|103.153.64.176|3128|Vietnam|Ha GJong|MAT-HN|
-|20|103.95.197.116|3128|Vietnam|Quận Thanh Khê|Viet Digital Technology Liability Company|
+|1|92.204.134.38|8443|United States|Warrenton|GoDaddy.com, LLC|
+|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|3|103.110.33.214|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|4|103.252.92.198|3128|Vietnam|Quận Gò Vấp|Viet Digital Technology Liability Company|
+|5|27.79.22.228|4006|Vietnam|Hanoi|Viettel Corporation|
+|6|103.161.181.103|3128|Vietnam|Động Tam|THAIAN|
+|7|92.204.134.38|8443|United States|Warrenton|GoDaddy.com, LLC|
+|8|45.178.133.60|999|Chile|Renca|Mundonet S.p.A|
+|9|42.96.0.14|3128|Vietnam|Cho Moi|Viet Digital Technology Liability Company|
+|10|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
+|11|103.161.96.179|3128|Vietnam|Ha GJong|MXGROUP|
+|12|67.43.227.227|9049|Canada|Montreal|GloboTech Communications|
+|13|122.54.34.10|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|14|103.161.112.190|3128|Vietnam|Hanoi|Viet Digital Technology Liability Company|
+|15|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|16|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
+|17|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
+|18|67.43.236.20|5943|Canada|Montreal|GloboTech Communications|
+|19|20.22.186.97|8080|United States|Boydton|Microsoft Corporation|
+|20|67.43.227.227|9049|Canada|Montreal|GloboTech Communications|
 
 
 
