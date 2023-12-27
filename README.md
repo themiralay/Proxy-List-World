@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|182.253.217.202|8080|Indonesia|Ngantrukrajan|BIZNET|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|103.168.44.114|3127|Indonesia|Pemalang|PT CYB Media Group|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|27.147.24.205|8080|Taiwan|Taipei|Extra-Lan Technologies Co., LTD|
-|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|10|103.129.126.19|8888|Vietnam|Cam Le|Viet Digital Technology Liability Company|
-|11|101.255.116.161|33333|Indonesia|Karawang|PT Remala Abadi|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|173.255.230.45|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|16|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|72.10.164.178|2423|Canada|Montreal|GloboTech Communications|
-|19|222.174.178.122|4999|China|Xintai|Chinanet|
-|20|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|51.83.47.200|3128|France|Gravelines|OVH SAS|
+|7|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|8|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|9|181.225.96.137|999|Colombia|Apulo|TV AZTECA SUCURSAL COLOMBIA|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|11|103.68.84.190|3128|Vietnam|Hanoi|MIND|
+|12|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|15|86.104.35.239|3128|Iran|Tehran|Afranet|
+|16|103.169.187.164|8086|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|17|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|18|110.78.149.154|8080|Thailand|Pattaya|CAT-BB|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|103.190.120.227|3128|Vietnam|Quận Thanh Khê|KINGBOND|
 
 
 
