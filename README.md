@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|197.211.45.4|10000|Nigeria|Lagos|Globacom Limited|
-|2|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|72.10.164.178|2237|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|67.43.227.227|29245|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
-|17|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|18|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|19|67.43.227.227|29245|Canada|Montreal|GloboTech Communications|
-|20|200.71.215.62|8080|Chile|Santiago|FullCom S.A.|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|13|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|46.29.166.169|1080|Russia|Moscow|LLC Baxet|
+|18|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
+|19|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
