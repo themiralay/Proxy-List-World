@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.76.85.220|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|3|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|4|77.242.177.57|3128|Italy|Biella|MegaWeb|
-|5|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|67.43.227.227|27765|Canada|Montreal|GloboTech Communications|
-|10|172.232.234.145|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|11|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|12|67.43.236.20|30833|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|31099|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|27765|Canada|Montreal|GloboTech Communications|
-|15|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
-|16|67.43.236.20|30833|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|20|67.43.228.253|23075|Canada|Montreal|GloboTech Communications|
+|1|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|144.76.85.220|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|205.196.184.69|50704|United States|Houston|Phonoscope|
+|6|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|7|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|9|194.140.198.23|80|United States|Newark|Nubes, LLC|
+|10|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|67.43.227.227|27765|Canada|Montreal|GloboTech Communications|
+|14|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|15|72.10.160.170|1359|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|26801|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|27765|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|21589|Canada|Montreal|GloboTech Communications|
+|20|195.223.43.252|8080|Italy|Viterbo|INTERBUSINESS|
 
 
 
