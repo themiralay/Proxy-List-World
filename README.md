@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9607** proxies at the latest update. Usable proxies are below.
+> Scraper found **9805** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|942|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|942|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|942|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1389|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1524|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1722|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6186|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|81.95.11.85|45678|Germany|Fürth|Core-Backbone GmbH|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|124.83.74.218|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|8|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|9|192.99.160.45|8080|Canada|Beauharnois|OVH SAS|
 |10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|12|67.43.236.21|8863|Canada|Montreal|GloboTech Communications|
-|13|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|12|81.95.11.85|45678|Germany|Fürth|Core-Backbone GmbH|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|67.43.236.21|8863|Canada|Montreal|GloboTech Communications|
 |15|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|16|34.64.221.98|80|South Korea|Seoul|Google LLC|
-|17|103.129.126.205|3128|Vietnam|Cam Le|Viet Digital Technology Liability Company|
-|18|89.168.90.85|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|17|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|18|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|19|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|20|103.15.140.121|44759|Bangladesh|Shāhāpur|ICC COMMUNICATION|
 
 
 
