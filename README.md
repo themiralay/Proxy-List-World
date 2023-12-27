@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|598|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6272|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|140.115.70.226|80|Taiwan|Yingge District|T-NCU.EDU.TW|
-|3|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|7|103.163.134.162|8088|Indonesia|Banyuwangi|PROVITEL|
-|8|36.79.78.151|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|72.10.160.90|15065|Canada|Montreal|GloboTech Communications|
-|11|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|12|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|13|72.10.164.178|29285|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|7149|Canada|Montreal|GloboTech Communications|
-|15|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|16|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|72.10.160.90|15065|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|11469|Canada|Montreal|GloboTech Communications|
-|19|213.97.161.224|3128|Spain|Cuarte de Huerva|Telefonica de Espana SAU|
-|20|67.43.227.226|26125|Canada|Montreal|GloboTech Communications|
+|1|185.156.201.42|3128|Poland|Warsaw|Amberway Development LTD|
+|2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|36.79.78.151|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|72.10.160.170|2399|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|72.10.160.90|10215|Canada|Montreal|GloboTech Communications|
+|11|222.113.173.133|10118|South Korea|Suwon|Korea Telecom|
+|12|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|72.10.160.170|2399|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|12227|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|12227|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
+|18|118.179.101.57|5020|Bangladesh|Mīrpur|Dhakacom Limited|
+|19|45.188.164.3|1994|Mexico|Atotonilco el Alto|Velocom SA De CV|
+|20|23.162.200.160|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
