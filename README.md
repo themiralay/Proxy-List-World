@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|223.204.9.38|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|7|85.208.117.214|20436|United States|Los Angeles|Enzu Inc|
-|8|222.174.178.122|4999|China|Xintai|Chinanet|
-|9|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|11689|Canada|Montreal|GloboTech Communications|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.236.20|1397|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|67.43.228.253|30465|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|8181|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11689|Canada|Montreal|GloboTech Communications|
-|19|165.227.120.250|10002|United States|Clifton|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|3|223.204.9.38|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|4|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
+|5|181.188.203.203|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|7|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|8|85.208.117.214|20128|United States|Los Angeles|Enzu Inc|
+|9|85.208.117.214|20128|United States|Los Angeles|Enzu Inc|
+|10|72.10.164.178|30165|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|15433|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|29677|Canada|Montreal|GloboTech Communications|
+|13|85.208.117.214|20128|United States|Los Angeles|Enzu Inc|
+|14|72.10.164.178|30165|Canada|Montreal|GloboTech Communications|
+|15|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
+|16|67.43.228.252|8401|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|29677|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|22197|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|32533|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|27419|Canada|Montreal|GloboTech Communications|
 
 
 
