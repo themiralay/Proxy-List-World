@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9432** proxies at the latest update. Usable proxies are below.
+> Scraper found **9334** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1349|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1239|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|934|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6186|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
 |3|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
 |4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|172.104.162.16|8000|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |9|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|10|57.129.6.11|3128|Germany|Limburg an der Lahn|OVH SAS|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|202.138.239.152|1993|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
-|20|103.190.120.227|3128|Vietnam|Quận Thanh Khê|KINGBOND|
+|10|5.161.121.221|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|182.252.81.185|8080|Bangladesh|Rajshahi|Agni Systems Limited|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|34.42.180.192|8080|United States|Council Bluffs|Google LLC|
+|14|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|57.129.6.11|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|185.134.233.153|38080|Russia|Krasnodar|TeleMaks Ltd|
+|19|103.84.235.162|8789|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
