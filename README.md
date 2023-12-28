@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.31.183.24|8050|United States|Council Bluffs|Google LLC|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|176.236.124.252|10001|Türkiye|Magnesia ad Sipylum|Superonline Iletisim Hizmetleri A.S.|
-|8|157.230.248.158|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
-|11|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|14|67.43.228.253|4237|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|4237|Canada|Montreal|GloboTech Communications|
-|16|189.196.23.222|8080|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|17|72.10.164.178|28153|Canada|Montreal|GloboTech Communications|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|222.127.153.231|8080|Philippines|Carmona|Globe Telecom|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|67.43.228.253|1551|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|4007|Canada|Montreal|GloboTech Communications|
+|12|24.192.227.234|8080|United States|Marshall|WideOpenWest Finance LLC|
+|13|67.43.227.227|4007|Canada|Montreal|GloboTech Communications|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|67.43.227.227|4007|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|9399|Canada|Montreal|GloboTech Communications|
+|17|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|18|72.10.160.90|19911|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|32649|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|1681|Canada|Montreal|GloboTech Communications|
 
 
 
