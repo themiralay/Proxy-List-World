@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8115** proxies at the latest update. Usable proxies are below.
+> Scraper found **8119** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1032|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1036|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|682|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5426|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|8|45.32.39.217|8001|Japan|Shinagawa|The Constant Company|
-|9|72.10.160.90|28911|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.172|27691|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.228.253|3017|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|3017|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|96.80.235.1|8080|United States|Canton|Comcast Cable Communications, LLC|
-|17|67.43.227.227|26549|Canada|Montreal|GloboTech Communications|
-|18|180.191.23.9|8082|Philippines|San Jose del Monte|Globe Telecom|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|72.10.160.90|28911|Canada|Montreal|GloboTech Communications|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|5.161.212.254|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|45.32.39.217|8001|Japan|Shinagawa|The Constant Company|
+|6|45.76.54.226|8001|Japan|Shinagawa|The Constant Company|
+|7|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|9|72.10.160.170|4479|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|12611|Canada|Montreal|GloboTech Communications|
+|11|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|12|67.43.228.253|27815|Canada|Montreal|GloboTech Communications|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|16|67.43.227.227|8203|Canada|Montreal|GloboTech Communications|
+|17|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|72.10.164.178|9255|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1699|Canada|Montreal|GloboTech Communications|
 
 
 
