@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
-|2|103.165.155.226|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
 |5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|7|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|8|67.43.236.20|20355|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|2657|Canada|Montreal|GloboTech Communications|
-|10|121.200.48.58|8080|India|Coimbatore|WLSNET|
-|11|67.43.228.253|23487|Canada|Montreal|GloboTech Communications|
-|12|177.99.203.179|8080|Brazil|São Paulo|TELEFÔNICA BRASIL S.A|
-|13|101.6.42.68|7893|China|Haidian|CERNET|
-|14|67.43.227.227|16725|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|72.10.164.178|5017|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5017|Canada|Montreal|GloboTech Communications|
-|18|57.128.75.104|3128|France|Strasbourg|OVH SAS|
-|19|185.82.99.101|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
-|20|67.43.236.20|20355|Canada|Montreal|GloboTech Communications|
+|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|67.43.228.253|19171|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|20433|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|19171|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.93|16703|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|13055|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|19171|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|10801|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|24741|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|17|202.8.73.82|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|18|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|19|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|20|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
 
 
 
