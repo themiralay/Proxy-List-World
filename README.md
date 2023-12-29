@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.78.186.23|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
-|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|119.110.69.101|57413|Indonesia|Selong|Maxindo|
-|5|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|24621|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
-|13|68.183.144.115|10004|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.160.173|20687|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|23429|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|24621|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|67.43.236.19|10287|Canada|Montreal|GloboTech Communications|
-|20|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|217.172.182.97|80|France|Strasbourg|Plusserver AG|
+|6|89.34.236.222|80|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
+|10|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|181.205.241.227|999|Colombia|Medellín|Colombia Móvil|
+|12|72.10.164.178|19959|Canada|Montreal|GloboTech Communications|
+|13|177.124.184.52|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
+|14|67.43.236.20|13111|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|67.43.228.253|26363|Canada|Montreal|GloboTech Communications|
+|17|57.128.75.104|3128|France|Strasbourg|OVH SAS|
+|18|72.10.160.173|20687|Canada|Montreal|GloboTech Communications|
+|19|35.78.186.23|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|72.10.160.90|30175|Canada|Montreal|GloboTech Communications|
 
 
 
