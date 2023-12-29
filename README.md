@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8048** proxies at the latest update. Usable proxies are below.
+> Scraper found **8053** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1016|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1021|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|675|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5384|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.78.186.23|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|3|125.25.32.193|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|3|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|101.51.170.198|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|7|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|6|181.49.243.14|44443|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |8|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|67.43.236.20|32703|Canada|Montreal|GloboTech Communications|
-|11|200.7.118.68|666|Brazil|Peruibe|Sunway Telecom Ltda|
-|12|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|13|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
-|14|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
-|15|67.43.236.20|32703|Canada|Montreal|GloboTech Communications|
-|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|17|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|19|101.6.42.68|7893|China|Haidian|CERNET|
-|20|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|9|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|10|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|11|101.51.170.198|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|12|67.43.228.250|3057|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|22799|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|5387|Canada|Montreal|GloboTech Communications|
+|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|67.43.236.20|32703|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|32703|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|22799|Canada|Montreal|GloboTech Communications|
+|19|190.110.36.91|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
+|20|91.230.154.149|38080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
 
 
 
