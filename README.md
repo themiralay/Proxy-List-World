@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7367** proxies at the latest update. Usable proxies are below.
+> Scraper found **7305** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1092|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1030|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|705|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4597|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.78.186.23|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|183.89.188.9|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|9|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|47.128.207.166|3128|Singapore|Singapore|Amazon Technologies Inc|
-|15|67.43.236.20|14609|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31421|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14609|Canada|Montreal|GloboTech Communications|
-|18|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|19171|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31421|Canada|Montreal|GloboTech Communications|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
+|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
+|7|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|103.180.123.27|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|12|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
+|13|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|14|77.77.64.120|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|15|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|72.10.160.90|27505|Canada|Montreal|GloboTech Communications|
+|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
