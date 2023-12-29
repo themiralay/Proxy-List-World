@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7954** proxies at the latest update. Usable proxies are below.
+> Scraper found **7877** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|815|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5089|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|2|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
-|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|103.61.116.147|5050|Indonesia|Ciputat|PT Media Televisi Indonesia|
-|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.227.227|9093|Canada|Montreal|GloboTech Communications|
-|16|217.12.20.250|80|Spain|Guillena|Secondary Node|
-|17|72.10.164.178|25073|Canada|Montreal|GloboTech Communications|
-|18|177.99.203.179|8080|Brazil|São Paulo|TELEFÔNICA BRASIL S.A|
-|19|67.43.236.20|26677|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26677|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|10|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|18|117.71.133.162|8089|China|Rongcheng|Chinanet|
+|19|202.70.145.26|4995|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
+|20|14.143.145.36|80|India|New Delhi|Tata Communications Limited|
 
 
 
