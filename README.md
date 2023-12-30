@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|110.78.152.252|8080|Thailand|Bangkok|CAT-BB|
-|3|165.22.103.5|443|Singapore|Singapore|DigitalOcean, LLC|
-|4|134.122.22.233|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|72.10.173.195|8080|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|88.249.4.119|1456|Türkiye|Ankara|TurkTelecom|
-|10|188.132.183.143|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|3|72.10.173.195|8080|Canada|Montreal|GloboTech Communications|
+|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|7|72.10.173.198|8080|Canada|Montreal|GloboTech Communications|
+|8|72.10.173.196|8080|Canada|Montreal|GloboTech Communications|
+|9|103.161.96.45|8888|Vietnam|Ha GJong|MXGROUP|
+|10|47.128.207.166|3128|Singapore|Singapore|Amazon Technologies Inc|
 |11|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|12|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|13|88.248.48.141|1454|Türkiye|Antalya|TurkTelecom|
+|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.227.228|3815|Canada|Montreal|GloboTech Communications|
 |14|81.214.15.34|6563|Türkiye|Adapazarı|TurkTelecom|
-|15|72.10.164.178|14417|Canada|Montreal|GloboTech Communications|
+|15|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
 |16|67.43.236.20|12777|Canada|Montreal|GloboTech Communications|
-|17|78.187.126.247|1451|Turkey|Kayseri|Turk Telekomunikasyon A.S|
-|18|162.243.184.21|10000|United States|Clifton|DigitalOcean, LLC|
+|17|67.43.228.253|27519|Canada|Montreal|GloboTech Communications|
+|18|78.189.12.176|2456|Türkiye|Samsun|TTNet A.S.|
 |19|67.43.236.20|12777|Canada|Montreal|GloboTech Communications|
-|20|57.128.75.104|3128|France|Strasbourg|OVH SAS|
+|20|67.43.236.20|12777|Canada|Montreal|GloboTech Communications|
 
 
 
