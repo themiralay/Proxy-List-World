@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7518** proxies at the latest update. Usable proxies are below.
+> Scraper found **7483** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1004|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|743|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4798|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|8|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|9|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A|
-|10|171.237.112.40|4006|Vietnam|Hanoi|Viettel Corporation|
-|11|47.128.207.166|3128|Singapore|Singapore|Amazon Technologies Inc|
-|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|67.43.227.227|27297|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|2881|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|67.43.236.20|22679|Canada|Montreal|GloboTech Communications|
-|17|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.228.253|27879|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
+|1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
+|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|45.22.209.157|8888|United States|Hollywood|AT&T Services, Inc.|
+|8|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|9|24.112.3.220|8080|United States|Calera|Vyve Broadband|
+|10|67.43.228.253|27879|Canada|Montreal|GloboTech Communications|
+|11|57.128.75.104|3128|France|Strasbourg|OVH SAS|
+|12|117.0.190.44|4006|Vietnam|Hanoi|Viettel Corporation|
+|13|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|16|72.10.160.90|32025|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|32025|Canada|Montreal|GloboTech Communications|
+|18|157.100.60.144|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|19|67.43.227.227|5357|Canada|Montreal|GloboTech Communications|
+|20|158.255.26.67|54321|Slovakia|Rudina|Beskydnet to Orange Slovensko|
 
 
 
