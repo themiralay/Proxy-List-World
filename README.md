@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|103.186.90.18|8080|Indonesia|Batur Kidul|PT Akses Data Internusa|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|88.249.163.219|1200|Türkiye|İzmit|TurkTelecom|
-|4|88.250.2.51|5314|Türkiye|Niğde|TurkTelecom|
-|5|78.189.155.164|5314|Türkiye|Taraklı|TTNet A.S.|
-|6|78.186.58.54|1455|Türkiye|Istanbul|TurkTelecom|
-|7|92.45.255.5|1454|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|8|88.247.187.212|1459|Turkey|Erzurum|TurkTelecom|
-|9|78.186.118.164|3310|Turkey|Diyarbakır|TurkTelecom|
-|10|78.187.39.112|1454|Türkiye|Reşadiye|TurkTelecom|
-|11|88.248.56.250|1545|Türkiye|Istanbul|TurkTelecom|
-|12|85.105.199.12|1459|Türkiye|Istanbul|TurkTelecom|
-|13|81.214.15.34|6563|Türkiye|Adapazarı|TurkTelecom|
-|14|78.187.144.112|5314|Türkiye|Tutak|TurkTelecom|
-|15|93.113.63.180|1453|Turkey|Denizli|Netinternet Datacenter|
-|16|78.186.9.179|5314|Turkey|Kayseri|TurkTelecom|
-|17|78.188.215.128|1953|Türkiye|Istanbul|TurkTelecom|
-|18|93.113.63.183|1453|Turkey|Denizli|Netinternet Datacenter|
-|19|78.186.135.90|3089|Türkiye|Beykoz|TurkTelecom|
-|20|78.188.233.150|1953|Turkey|Erzurum|TurkTelecom|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|88.249.163.219|1200|Türkiye|İzmit|TurkTelecom|
+|5|78.187.39.112|1454|Türkiye|Reşadiye|TurkTelecom|
+|6|85.105.84.48|2614|Türkiye|Istanbul|TurkTelecom|
+|7|78.186.58.54|1455|Türkiye|Istanbul|TurkTelecom|
+|8|92.45.255.5|1454|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|9|78.189.155.164|5314|Türkiye|Taraklı|TTNet A.S.|
+|10|88.247.187.212|1459|Turkey|Erzurum|TurkTelecom|
+|11|85.105.199.12|1459|Türkiye|Istanbul|TurkTelecom|
+|12|78.186.9.179|5314|Turkey|Kayseri|TurkTelecom|
+|13|88.248.22.227|5314|Türkiye|Samsun|TurkTelecom|
+|14|177.93.60.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|78.187.144.112|5314|Türkiye|Tutak|TurkTelecom|
+|16|88.248.56.250|1545|Türkiye|Istanbul|TurkTelecom|
+|17|78.186.118.164|3310|Turkey|Diyarbakır|TurkTelecom|
+|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|19|88.250.88.246|5314|Türkiye|Istanbul|TurkTelecom|
+|20|72.10.160.173|26985|Canada|Montreal|GloboTech Communications|
 
 
 
