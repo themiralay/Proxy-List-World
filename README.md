@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|7|23.239.96.181|7890|United States|Salt Lake City|GorillaServers, Inc.|
-|8|158.255.26.67|54321|Slovakia|Rudina|Beskydnet to Orange Slovensko|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|8|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
 |9|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A|
-|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|11|117.0.190.44|4006|Vietnam|Hanoi|Viettel Corporation|
+|10|171.237.112.40|4006|Vietnam|Hanoi|Viettel Corporation|
+|11|47.128.207.166|3128|Singapore|Singapore|Amazon Technologies Inc|
 |12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|14|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.227.227|5357|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2973|Canada|Montreal|GloboTech Communications|
-|17|203.202.245.27|5020|Bangladesh|Kālia|Aamra Networks Limited|
-|18|117.119.72.83|3128|China|Beijing|China Networks Inter-Exchange|
-|19|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|116.100.161.62|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|67.43.227.227|27297|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|2881|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|67.43.236.20|22679|Canada|Montreal|GloboTech Communications|
+|17|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.228.253|27879|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
 
 
 
