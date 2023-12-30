@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7441** proxies at the latest update. Usable proxies are below.
+> Scraper found **7473** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1042|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|662|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4796|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|183.89.167.80|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
-|4|47.128.207.166|3128|Singapore|Singapore|Amazon Technologies Inc|
-|5|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
-|6|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|67.43.228.253|21611|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
-|9|57.128.75.104|3128|France|Strasbourg|OVH SAS|
-|10|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
-|12|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
-|13|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.160.90|31731|Canada|Montreal|GloboTech Communications|
-|15|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|31703|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31731|Canada|Montreal|GloboTech Communications|
-|20|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|1|15.235.181.80|7890|Singapore|Singapore|OVH SAS|
+|2|119.76.142.174|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|4|206.0.183.248|999|Venezuela|Cabimas|Colnetwork C.A.|
+|5|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|6|45.179.203.65|999|Colombia|Manizales|NET&COM LTDA.|
+|7|57.128.75.104|3128|France|Strasbourg|OVH SAS|
+|8|67.43.227.227|1689|Canada|Montreal|GloboTech Communications|
+|9|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
+|10|110.78.146.49|3127|Thailand|Samphanthawong|CAT-BB|
+|11|72.10.164.178|28979|Canada|Montreal|GloboTech Communications|
+|12|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|13|72.10.164.178|28979|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28979|Canada|Montreal|GloboTech Communications|
+|15|124.71.107.179|8118|China|Guangzhou|Huawei Cloud Service data center|
+|16|67.43.236.20|16823|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|16823|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|16823|Canada|Montreal|GloboTech Communications|
+|19|58.20.77.175|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
