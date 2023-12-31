@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9289** proxies at the latest update. Usable proxies are below.
+> Scraper found **9341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|800|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|800|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|800|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|776|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|776|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|776|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1310|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1362|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1192|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5814|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|110.78.186.80|8080|Thailand|Chon Buri|CAT-BB|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|184.107.90.22|3128|Brazil|São Paulo|iWeb Technologies Inc|
-|6|103.137.84.17|82|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|103.175.49.78|8080|Indonesia|Jakarta|PT. Trans Indonesia Superkoridor|
-|9|13.229.92.153|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|10|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|11|88.248.56.250|1545|Türkiye|Istanbul|TurkTelecom|
-|12|45.236.107.122|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|72.10.173.195|8081|Canada|Montreal|GloboTech Communications|
-|15|184.107.90.23|3128|Brazil|São Paulo|iWeb Technologies Inc|
-|16|67.43.227.227|27345|Canada|Montreal|GloboTech Communications|
-|17|38.45.65.241|37289|United States|Durham|Cogent Communications|
-|18|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|142.171.13.33|3128|United States|Los Angeles|Multacom Corporation|
+|3|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|4|110.78.186.80|8080|Thailand|Chon Buri|CAT-BB|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|103.175.49.78|8080|Indonesia|Jakarta|PT. Trans Indonesia Superkoridor|
+|8|142.171.13.33|3128|United States|Los Angeles|Multacom Corporation|
+|9|103.137.84.17|82|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|181.78.23.194|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|13|103.133.222.220|102|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|15|104.148.86.142|3129|United States|Los Angeles|LayerHost|
+|16|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|17|72.10.160.174|3993|Canada|Montreal|GloboTech Communications|
+|18|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|138.197.20.244|10006|United States|Clifton|DigitalOcean, LLC|
+|20|181.205.241.227|999|Colombia|Medellín|Colombia Móvil|
 
 
 
