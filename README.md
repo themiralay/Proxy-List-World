@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8896** proxies at the latest update. Usable proxies are below.
+> Scraper found **8995** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|786|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|786|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|786|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|788|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|788|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|788|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1216|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1315|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5593|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|4|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.104.153|8550|United States|Clifton|DigitalOcean, LLC|
-|6|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
-|7|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|8|200.45.73.115|3188|Argentina|Palermo|Telecom Argentina S.A.|
-|9|72.10.160.170|2585|Canada|Montreal|GloboTech Communications|
-|10|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
-|11|67.43.228.253|24657|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28327|Canada|Montreal|GloboTech Communications|
-|13|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|103.154.230.83|5678|Indonesia|Lamongan|DIGITNET|
-|18|67.43.228.253|24657|Canada|Montreal|GloboTech Communications|
-|19|68.183.144.115|10009|United States|Clifton|DigitalOcean, LLC|
-|20|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|2|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
+|3|94.253.12.36|8080|Russia|Moscow|for Flex Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|6|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|7|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|8|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
+|9|186.96.15.70|8080|Mexico|Soledad de Graciano Sanchez|Total Play Telecomunicaciones SA De CV|
+|10|5.35.34.224|3128|The Netherlands|Amsterdam|VDSINA|
+|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|210.2.132.52|8080|Pakistan|Karachi|LINKdotNET Telecom Limited|
+|14|205.207.102.209|8282|United States|Warwick|ALTIUS Broadband, LLC|
+|15|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|16|213.165.168.190|9898|Malta|Saint Venera|Melita plc|
+|17|38.56.70.218|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|18|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|19|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|20|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
 
 
 
