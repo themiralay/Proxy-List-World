@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7297** proxies at the latest update. Usable proxies are below.
+> Scraper found **8541** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1244|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|926|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5398|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.254.108|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|119.76.142.232|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|1|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|6|88.248.56.250|1545|Türkiye|Istanbul|TurkTelecom|
-|7|103.178.194.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|9|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|10|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|11|107.178.9.186|8080|United States|Waxahachie|Nextlink Broadband|
-|12|95.158.179.216|32799|Bulgaria|Debelets|Videosat 21 Vek OOD|
-|13|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
-|14|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
-|15|185.229.111.9|45020|Georgia|Tbilisi|Sysnet LLC|
-|16|103.167.71.34|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|19|115.178.48.138|8080|Indonesia|Bandung|NOC SIMAYA|
-|20|88.247.17.91|1459|Türkiye|Tokat Province|TurkTelecom|
+|4|67.43.228.253|30465|Canada|Montreal|GloboTech Communications|
+|5|110.78.152.227|80|Thailand|Bangkok|CAT-BB|
+|6|67.43.236.20|26403|Canada|Montreal|GloboTech Communications|
+|7|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|8|119.76.142.232|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|9|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|10|67.43.227.228|19833|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|26403|Canada|Montreal|GloboTech Communications|
+|12|165.227.120.250|10006|United States|Clifton|DigitalOcean, LLC|
+|13|122.185.198.242|7999|India|Nāhan|Bharti Airtel Limited|
+|14|67.43.236.20|26403|Canada|Montreal|GloboTech Communications|
+|15|165.227.120.250|10006|United States|Clifton|DigitalOcean, LLC|
+|16|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|17|38.41.27.150|11201|Venezuela|Baruta|MDS TELECOM C.A.|
+|18|174.108.200.2|8080|United States|Charlotte|Road Runner|
+|19|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|20|67.43.228.253|30465|Canada|Montreal|GloboTech Communications|
 
 
 
