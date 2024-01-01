@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|741|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|741|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|741|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
-|2|52.187.38.29|3128|Singapore|Singapore|Microsoft Corporation|
-|3|216.80.39.89|3129|United States|Chicago|RCN|
-|4|27.254.104.130|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|192.99.160.45|8080|Canada|Beauharnois|OVH SAS|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|52.187.38.29|3128|Singapore|Singapore|Microsoft Corporation|
+|5|171.244.10.193|1911|Vietnam|Hanoi|VIETEL|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|8|122.185.198.242|7999|India|Nāhan|Bharti Airtel Limited|
-|9|216.80.39.89|3129|United States|Chicago|RCN|
-|10|45.234.61.12|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|11|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
-|12|139.59.234.0|3128|Singapore|Singapore|DIGITALOCEAN|
-|13|112.78.134.211|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|10|140.238.198.171|4455|Australia|Sydney|Oracle Corporation|
+|11|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|23.225.72.122|3500|United States|Los Angeles|Cnservers LLC|
+|13|143.110.248.3|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
 |15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|17|140.238.198.171|4455|Australia|Sydney|Oracle Corporation|
-|18|78.189.26.210|3434|Türkiye|Istanbul|TTNet A.S.|
-|19|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|78.189.158.85|1953|Türkiye|Beykoz|TTNet A.S.|
+|16|216.80.39.89|3129|United States|Chicago|RCN|
+|17|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|18|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
