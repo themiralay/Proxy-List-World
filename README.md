@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8197** proxies at the latest update. Usable proxies are below.
+> Scraper found **8223** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1051|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|852|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5347|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|2|47.236.225.146|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|4|206.189.37.34|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.160.63.232|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|206.189.37.34|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|216.80.39.89|3129|United States|Chicago|RCN|
 |5|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|216.80.39.89|3129|United States|Chicago|RCN|
-|7|38.52.221.146|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|51.210.183.2|3128|France|Gravelines|OVH SAS|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
+|9|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
 |11|45.5.116.242|8080|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|12|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|13|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
-|14|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|15|61.216.156.222|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|16|216.80.39.89|3129|United States|Chicago|RCN|
+|12|190.84.31.218|27935|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|14|202.57.25.103|8080|Indonesia|Semarang|announced of WINET|
+|15|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|69.63.78.199|3129|Eswatini|Manzini|Swaziland Posts & Telecommunications Corp.|
-|19|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|18|216.80.39.89|3129|United States|Chicago|RCN|
+|19|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|20|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
 
 
 
