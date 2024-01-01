@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8443** proxies at the latest update. Usable proxies are below.
+> Scraper found **8477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1106|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1140|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|966|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5398|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.78.152.227|80|Thailand|Bangkok|CAT-BB|
-|2|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|110.78.152.227|80|Thailand|Bangkok|CAT-BB|
 |3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|27.131.54.2|5432|Malaysia|Puchong Batu Dua Belas|MyKRIS ASIA Sdn Bhd|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|103.139.126.42|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|8|110.78.81.107|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
-|10|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
-|11|142.93.72.28|10000|United States|Clifton|DigitalOcean, LLC|
-|12|104.148.86.98|3129|United States|Los Angeles|LayerHost|
-|13|222.127.50.56|8082|Philippines|Lahug|INNOVE|
-|14|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|15|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|16|51.178.26.16|3128|France|Gravelines|OVH SAS|
-|17|78.189.192.13|5314|Türkiye|Mudanya|TTNet A.S.|
-|18|177.87.15.141|8080|Brazil|Rafael Godeiro|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
-|19|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.19|26227|Canada|Montreal|GloboTech Communications|
+|6|131.186.62.80|3898|Japan|Tokyo|Oracle Corporation|
+|7|64.225.4.17|10005|United States|Clifton|DigitalOcean, LLC|
+|8|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|9|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|14.103.26.53|8000|China|Beijing|BITNET|
+|12|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|13|181.10.117.254|999|Argentina|Los Altos|Telecom Argentina S.A.|
+|14|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|15|185.229.111.106|45020|Georgia|Tbilisi|Sysnet LLC|
+|16|67.43.236.20|7551|Canada|Montreal|GloboTech Communications|
+|17|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
+|18|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|19|103.139.126.42|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|20|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
