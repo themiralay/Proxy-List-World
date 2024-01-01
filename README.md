@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7929** proxies at the latest update. Usable proxies are below.
+> Scraper found **8033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|942|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|945|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|661|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|762|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5353|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |7|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|72.10.160.90|16925|Canada|Montreal|GloboTech Communications|
-|10|119.159.246.197|3128|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|11|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|67.43.236.20|2109|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|14453|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|14419|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3563|Canada|Montreal|GloboTech Communications|
-|16|183.89.71.192|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|72.10.160.93|4523|Canada|Montreal|GloboTech Communications|
-|19|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.164.178|3563|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|3101|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|14419|Canada|Montreal|GloboTech Communications|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|67.43.227.227|14453|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|14453|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|119.159.246.197|3128|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|15|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|16|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|17|72.10.160.90|3101|Canada|Montreal|GloboTech Communications|
+|18|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|72.10.160.90|3101|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
