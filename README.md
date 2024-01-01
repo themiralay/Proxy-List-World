@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
 |2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|116.104.71.69|4006|Vietnam|Hanoi|Viettel Corporation|
 |7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|51.159.0.236|2020|France|Paris|SCALEWAY|
-|10|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|11|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|12|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
-|13|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|67.43.236.20|32881|Canada|Montreal|GloboTech Communications|
-|15|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|16|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
-|17|67.43.236.20|32881|Canada|Montreal|GloboTech Communications|
-|18|88.249.163.219|1200|Türkiye|İzmit|TurkTelecom|
-|19|103.115.29.65|8080|Indonesia|Semarang|HSPNET|
-|20|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|8|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|188.132.183.143|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|14|64.225.8.203|10005|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.164.178|7085|Canada|Montreal|GloboTech Communications|
+|16|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|72.10.160.174|18823|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.90|4079|Canada|Montreal|GloboTech Communications|
 
 
 
