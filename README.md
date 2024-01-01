@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7967** proxies at the latest update. Usable proxies are below.
+> Scraper found **8004** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|719|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5371|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|1|113.178.32.56|8080|Vietnam|Hanoi|VNPT|
 |2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |3|112.78.161.252|8080|Indonesia|Jakarta|Biznet Networks|
-|4|113.178.32.56|8080|Vietnam|Hanoi|VNPT|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|149.249.32.86|80|Germany|Kassel|Netcom Kassel GmbH|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.90|1257|Canada|Montreal|GloboTech Communications|
-|12|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|13|72.10.160.93|1563|Canada|Montreal|GloboTech Communications|
-|14|182.253.109.246|8080|Indonesia|Semarang|Biznet Metronet|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|57.128.75.104|3128|France|Strasbourg|OVH SAS|
-|17|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|18|67.43.236.20|29187|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29187|Canada|Montreal|GloboTech Communications|
-|20|103.124.137.203|3128|Indonesia|Semarang|Global Media Data Prima|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|7|113.178.32.56|8080|Vietnam|Hanoi|VNPT|
+|8|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|103.67.162.234|8193|Vietnam|Vinh|Thoi MMO Company Limited|
+|10|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|67.43.236.20|2035|Canada|Montreal|GloboTech Communications|
+|13|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|14|72.10.160.90|20405|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2035|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|2035|Canada|Montreal|GloboTech Communications|
+|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|18|72.10.164.178|17973|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|26233|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|2035|Canada|Montreal|GloboTech Communications|
 
 
 
