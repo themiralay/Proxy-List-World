@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9177** proxies at the latest update. Usable proxies are below.
+> Scraper found **9105** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|846|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|846|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|846|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|883|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|883|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|883|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1306|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5593|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|2|139.59.255.229|7878|Singapore|Singapore|DIGITALOCEAN|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|5|94.253.12.36|8080|Russia|Moscow|for Flex Ltd|
 |6|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|7|88.249.163.219|1200|Türkiye|İzmit|TurkTelecom|
-|8|128.201.68.90|63380|Brazil|Mantena|Interleste Internet LTDA|
-|9|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|10|216.80.39.89|3129|United States|Chicago|RCN|
-|11|102.214.106.86|1975|Libya|Tripoli|Rawafed|
-|12|190.242.126.170|999|Colombia|Bogotá|Columbus Networks Colombia|
-|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|15|103.114.52.102|8080|Indonesia|Karanganyar Wetankali|Proxy-registered|
-|16|96.43.220.90|8080|United States|Columbus|Omni Fiber|
-|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|31.211.157.85|5905|Bulgaria|Isperih|5KOM|
-|19|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|20|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|7|200.45.73.115|3188|Argentina|Palermo|Telecom Argentina S.A.|
+|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|103.56.206.65|4995|Indonesia|Stabat|Argon Data Communication|
+|10|103.114.52.102|8080|Indonesia|Karanganyar Wetankali|Proxy-registered|
+|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|12|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|13|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|14|216.80.39.89|3129|United States|Chicago|RCN|
+|15|190.97.238.93|999|Venezuela|Maracaibo||
+|16|177.93.36.147|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|17|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|18|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
+|19|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|20|72.10.160.90|1757|Canada|Montreal|GloboTech Communications|
 
 
 
