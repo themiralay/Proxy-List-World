@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8975** proxies at the latest update. Usable proxies are below.
+> Scraper found **8875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1440|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1340|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|902|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5660|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|36.255.87.133|82|India|Bengaluru|Gatik Business Solutions|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|6|103.151.239.110|8888|Vietnam|Quan Mot|VIETBRANDS|
-|7|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|154.79.252.174|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|10|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
-|11|103.228.37.236|8888|Vietnam|Hanoi|DXT|
-|12|103.101.82.198|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|13|103.151.239.221|3128|Vietnam|Quan Mot|VIETBRANDS|
-|14|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|15|103.151.238.225|8888|Vietnam|Cho Lach|VIETBRANDS|
-|16|12.68.66.125|16099|United States|Madisonville|AT&T Services, Inc.|
-|17|103.67.196.206|8888|Vietnam|Ho Chi Minh City|VTDIGITAL|
-|18|103.228.74.227|3128|India|Mumbai|Suvan Medi Care Unit Pvt Ltd|
-|19|103.239.66.223|8888|Vietnam|Quận Phú Nhuận|Viet Digital Technology Liability Company|
-|20|103.229.53.49|8888|Vietnam|Quận Gò Vấp|CLOVIET|
+|2|182.76.169.38|2245|India|New Delhi|Bharti Airtel|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|103.186.32.179|8080|Indonesia|Gorontalo|PT Perwira Media Solusi|
+|5|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|6|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|7|103.101.82.198|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|8|72.10.160.90|14009|Canada|Montreal|GloboTech Communications|
+|9|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|10|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|67.43.236.20|30755|Canada|Montreal|GloboTech Communications|
+|13|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|14|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|69.63.78.199|3129|Eswatini|Manzini|Swaziland Posts & Telecommunications Corp.|
+|16|182.76.169.38|2245|India|New Delhi|Bharti Airtel|
+|17|103.22.98.247|3186|Indonesia|Magetan|CV. KHALISTA GROUP|
+|18|186.148.181.19|999|Colombia|Quetame|TV AZTECA SUCURSAL COLOMBIA|
+|19|67.43.228.253|7085|Canada|Montreal|GloboTech Communications|
+|20|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
