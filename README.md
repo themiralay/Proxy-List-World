@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8173** proxies at the latest update. Usable proxies are below.
+> Scraper found **8144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|713|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5478|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.90|22353|Canada|Montreal|GloboTech Communications|
-|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.90|22353|Canada|Montreal|GloboTech Communications|
-|14|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.228.253|11981|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|21211|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|22353|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|25933|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2513|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22353|Canada|Montreal|GloboTech Communications|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|58.97.208.8|8080|Cambodia|Phnom Penh|OpenNet ISP Cambodia|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|67.43.228.253|27151|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|30139|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|30139|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|27785|Canada|Montreal|GloboTech Communications|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|17|72.10.164.178|30139|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|30139|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30139|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|27785|Canada|Montreal|GloboTech Communications|
 
 
 
