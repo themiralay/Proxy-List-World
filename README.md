@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8566** proxies at the latest update. Usable proxies are below.
+> Scraper found **8608** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1053|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|732|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5850|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|121.52.156.146|8080|Pakistan|Islamabad|HEC|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|180.191.40.73|8081|Philippines|Tarlac City|Globe Telecom|
-|5|103.146.184.141|1111|Indonesia|Sragen|YAMNET|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|139.255.33.242|8080|Indonesia|Bandung|PT. LINKNET|
-|8|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
-|9|146.56.98.158|3128|South Korea|Chuncheon|Oracle Corporation|
-|10|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|11|35.199.90.225|8888|Brazil|Sao Paulo|Google LLC|
-|12|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|13|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
-|14|188.36.118.85|8080|Hungary|Hévíz|Magyar Telekom|
-|15|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
-|16|62.210.119.138|3128|France|Asnieres-sur-Seine|Online S.A.S.|
-|17|103.228.75.251|3128|India|Mumbai|BIGZ|
-|18|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|19|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
-|20|67.43.236.20|13289|Canada|Montreal|GloboTech Communications|
+|1|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|4|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|5|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|6|103.150.196.114|3128|Indonesia|Curug|PT Biznet Gio Nusantara|
+|7|202.74.240.78|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|9|77.119.250.129|8080|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|10|191.102.123.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|103.228.75.251|3128|India|Mumbai|BIGZ|
+|12|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|13289|Canada|Montreal|GloboTech Communications|
+|14|1.179.238.54|8080|Thailand|Pathum Thani|TOT Public Company Limited|
+|15|67.43.236.20|13289|Canada|Montreal|GloboTech Communications|
+|16|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
+|17|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
+|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|36.91.173.11|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|20|67.43.227.227|30193|Canada|Montreal|GloboTech Communications|
 
 
 
