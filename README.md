@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|42.96.42.13|8080|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|45.84.87.58|3128|Russia|Moscow|Lankey Information Technologies LLC|
-|7|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
-|8|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
-|9|42.96.42.13|8080|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|10|187.251.143.167|1979|Mexico|Sitpach|Total Play Telecomunicaciones SA De CV|
-|11|162.243.184.21|10004|United States|Clifton|DigitalOcean, LLC|
-|12|103.22.98.247|3186|Indonesia|Magetan|CV. KHALISTA GROUP|
-|13|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|72.10.160.93|9835|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|19351|Canada|Montreal|GloboTech Communications|
-|16|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|17|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|18|103.191.165.104|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|19|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|20|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|6|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|7|24.172.82.94|53281|United States|Hartsville|Spectrum|
+|8|42.96.42.13|8080|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|9|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
+|10|45.201.134.38|8080|Cambodia|Phnom Penh|Ezecom|
+|11|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|13|43.231.64.102|8080|Cambodia|Phnom Penh|Cambodian SingMeng Telemedia Co|
+|14|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|15|187.251.143.167|1979|Mexico|Sitpach|Total Play Telecomunicaciones SA De CV|
+|16|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
+|17|181.129.183.19|53281|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|19|36.255.86.113|84|India|Bengaluru|Gatik Business Solutions|
+|20|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
