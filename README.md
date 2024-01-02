@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.225.146|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
-|3|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|6|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
-|7|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|8|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|9|72.10.164.178|20361|Canada|Montreal|GloboTech Communications|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|72.10.164.178|20361|Canada|Montreal|GloboTech Communications|
-|12|64.188.48.165|31188|United States|Clifton|ISPrime, Inc.|
-|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|14|67.43.227.227|28205|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8211|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|17|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.236.22|8925|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29695|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|21689|Canada|Montreal|GloboTech Communications|
+|1|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
+|4|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|72.10.160.90|1263|Canada|Montreal|GloboTech Communications|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|1839|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|1263|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|15|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23765|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|15583|Canada|Montreal|GloboTech Communications|
+|18|202.188.211.11|800|Malaysia|Kulim|TM TECHNOLOGY SERVICES SDN BHD|
+|19|72.10.160.92|8181|Canada|Montreal|GloboTech Communications|
+|20|181.224.196.26|18089|Ecuador|Milagro|Universidad Estatal de Milagro|
 
 
 
