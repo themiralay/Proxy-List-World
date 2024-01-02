@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8389** proxies at the latest update. Usable proxies are below.
+> Scraper found **8413** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1193|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1143|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|890|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|964|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5333|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
-|6|193.200.16.44|8080|Poland|Warsaw|BlueVPS OU|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|3|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|4|104.236.195.60|10006|United States|Clifton|DigitalOcean, LLC|
+|5|222.104.128.205|48678|South Korea|Nam-gu|Korea Telecom|
+|6|202.94.174.48|4377|India|Mumbai|HostRoyale Technologies Pvt Ltd|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|104.236.195.60|10007|United States|Clifton|DigitalOcean, LLC|
-|9|104.236.195.60|10007|United States|Clifton|DigitalOcean, LLC|
-|10|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|11|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
-|12|135.181.34.237|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.179.252.49|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
-|15|46.29.166.169|1080|Russia|Moscow|LLC Baxet|
-|16|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|27139|Canada|Montreal|GloboTech Communications|
-|18|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|19|38.183.144.66|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|20|67.43.228.253|7447|Canada|Montreal|GloboTech Communications|
+|8|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|9|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|10|103.186.35.126|8080|Indonesia|Bekasi|VIBERLINK|
+|11|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|12|67.43.227.226|16525|Canada|Montreal|GloboTech Communications|
+|13|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|14|180.191.40.226|8082|Philippines|Tarlac City|Globe Telecom|
+|15|72.10.164.178|7349|Canada|Montreal|GloboTech Communications|
+|16|178.152.27.77|8080|Qatar|Doha|Business DSL|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|27.121.82.14|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|20|117.102.86.148|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
