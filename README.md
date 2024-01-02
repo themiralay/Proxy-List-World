@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8347** proxies at the latest update. Usable proxies are below.
+> Scraper found **8339** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1151|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1143|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|890|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|167.71.200.64|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.36.10.85|3125|Indonesia|Mojokerto|PT Awinet Global Mandiri|
-|5|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|46.29.166.169|1080|Russia|Moscow|LLC Baxet|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|5.75.164.195|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|67.43.236.20|27139|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|19995|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|27139|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|27139|Canada|Montreal|GloboTech Communications|
-|14|115.147.26.219|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|67.43.236.20|27139|Canada|Montreal|GloboTech Communications|
-|16|135.181.34.237|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.106.217.101|1111|Indonesia|Lawang|PT. ARTHA LINTAS DATA MANDIRI|
-|18|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|19|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
-|20|180.250.189.60|8581|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|1|167.71.200.64|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
+|3|103.36.10.85|3125|Indonesia|Mojokerto|PT Awinet Global Mandiri|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|6|72.10.164.178|10231|Canada|Montreal|GloboTech Communications|
+|7|103.101.82.198|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|8|20.198.96.26|80|India|Pune|Microsoft Corporation|
+|9|165.16.58.32|19000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|67.43.227.227|8429|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|13019|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|10231|Canada|Montreal|GloboTech Communications|
+|13|217.61.106.155|3128|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|14|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|15|183.33.192.31|9797|China|Xiaolou|Chinanet|
+|16|123.182.59.31|8089|China|Zhangjiakou|China Telecom|
+|17|67.43.227.227|8429|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|10231|Canada|Montreal|GloboTech Communications|
+|19|37.210.34.236|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|20|95.79.121.193|38080|Russia|Nizhniy Novgorod|CJSC "ER-Telecom Holding" Nizhny Novgorod branch|
 
 
 
