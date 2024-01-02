@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.118.126.11|3128|South Korea|Ansan-si|SK Broadband Co Ltd|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|13825|Canada|Montreal|GloboTech Communications|
+|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|175.118.126.11|3128|South Korea|Ansan-si|SK Broadband Co Ltd|
+|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|178.128.86.46|8888|Singapore|Singapore|DigitalOcean, LLC|
 |9|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|72.10.164.178|8053|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
-|12|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|13|183.89.40.147|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
-|14|201.71.2.249|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|67.43.227.227|10263|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|23919|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|205.233.79.218|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|19|72.10.160.170|20391|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|23021|Canada|Montreal|GloboTech Communications|
+|10|103.164.213.78|8088|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|11|72.10.164.178|18951|Canada|Montreal|GloboTech Communications|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
+|15|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
+|16|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
+|17|223.205.214.92|8080|Thailand|Surat Thani|Triple T Broadband Public Company Limited|
+|18|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2871|Canada|Montreal|GloboTech Communications|
+|20|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
 
 
 
