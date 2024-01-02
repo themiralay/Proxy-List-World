@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8140** proxies at the latest update. Usable proxies are below.
+> Scraper found **8084** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|922|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|866|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|733|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5512|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|1|171.97.235.212|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.23.30.110|3113|Indonesia|Sepatan|ICON+|
-|4|103.209.61.202|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|5|216.80.39.89|3129|United States|Chicago|RCN|
-|6|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
-|7|62.210.119.138|3128|France|Asnieres-sur-Seine|Online S.A.S.|
-|8|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
-|9|200.69.66.82|8080|Colombia|La Hormiga|TV AZTECA SUCURSAL COLOMBIA|
-|10|122.3.176.110|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|103.101.82.198|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|13|126.23.109.10|8080|Japan|Shirogane|Softbank BB Corp.|
-|14|186.249.206.101|8080|Brazil|Tijucas|Unifique Telecomunicações SA|
-|15|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|39.62.10.236|8080|Pakistan|Islamabad|KK Networks (Pvt) Ltd.|
-|17|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|18|165.227.120.250|10005|United States|Clifton|DigitalOcean, LLC|
-|19|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
-|20|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|3|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|4|61.216.156.222|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|5|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|6|20.217.187.5|3128|Israel|Tel Aviv|Microsoft Corporation|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|57.129.35.97|3128|Germany|Limburg an der Lahn|OVH SAS|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|62.210.119.138|3128|France|Asnieres-sur-Seine|Online S.A.S.|
+|11|67.43.228.253|30845|Canada|Montreal|GloboTech Communications|
+|12|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|216.80.39.89|3129|United States|Chicago|RCN|
+|14|126.23.109.10|8080|Japan|Shirogane|Softbank BB Corp.|
+|15|86.63.140.160|3128|United States|West Fork|OzarksGo, LLC|
+|16|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|17|183.33.192.31|9797|China|Xiaolou|Chinanet|
+|18|114.141.51.160|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|19|68.183.144.115|10009|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.227.227|19017|Canada|Montreal|GloboTech Communications|
 
 
 
