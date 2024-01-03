@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7865** proxies at the latest update. Usable proxies are below.
+> Scraper found **7899** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|971|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1005|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|683|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5238|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.207.114.155|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|74.48.66.101|3128|United States|Los Angeles|Multacom Corporation|
-|4|38.242.234.81|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|6|72.10.160.170|16379|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|7867|Canada|Montreal|GloboTech Communications|
-|8|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|9|94.130.64.28|16044|Germany|Falkenstein|Hetzner Online GmbH|
-|10|165.232.89.116|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|212.25.190.102|8888|Italy|Frosinone|SEEWEB s.r.l.|
-|12|202.12.80.6|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|13|72.10.160.173|25551|Canada|Montreal|GloboTech Communications|
-|14|101.255.17.6|8033|Indonesia|Bidara Cina|PT Remala Abadi|
-|15|72.10.164.178|1161|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|143.110.185.121|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|203.142.71.51|8080|Indonesia|Jakarta|BIZNET|
-|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|14.207.114.155|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|3|23.225.72.122|3500|United States|Los Angeles|Cnservers LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
+|6|23.225.72.123|3501|United States|Los Angeles|Cnservers LLC|
+|7|23.225.72.125|3503|United States|Los Angeles|Cnservers LLC|
+|8|23.225.72.123|3501|United States|Los Angeles|Cnservers LLC|
+|9|213.79.104.228|8080|Russia|Moscow|JSC Comcor|
+|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
+|12|23.225.72.125|3503|United States|Los Angeles|Cnservers LLC|
+|13|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|14|23.225.72.122|3500|United States|Los Angeles|Cnservers LLC|
+|15|94.130.64.28|16044|Germany|Falkenstein|Hetzner Online GmbH|
+|16|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|30493|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1161|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2293|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|7027|Canada|Montreal|GloboTech Communications|
 
 
 
