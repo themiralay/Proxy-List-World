@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|2.187.217.247|8080|Iran|Mahabad|Iran Telecommunication Company PJS|
-|4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|199.116.62.47|999|Puerto Rico|Guaynabo|OSNET Wireless|
-|6|67.43.227.227|5499|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|14445|Canada|Montreal|GloboTech Communications|
-|8|131.100.48.105|999|Colombia|Nataga|Fibernet TV SAS|
-|9|72.10.160.90|9713|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|14445|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|9713|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|1063|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|9713|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|5499|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|1063|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|29157|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18117|Canada|Montreal|GloboTech Communications|
-|18|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|19|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.187.117.5|8080|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|46.245.77.52|3128|Iran|Tehran|Asiatech Data Transmission company|
+|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|67.43.236.20|1063|Canada|Montreal|GloboTech Communications|
+|6|2.187.217.247|8080|Iran|Mahabad|Iran Telecommunication Company PJS|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|72.10.160.93|29157|Canada|Montreal|GloboTech Communications|
+|10|177.93.36.147|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|11|67.43.227.227|12823|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|12915|Canada|Montreal|GloboTech Communications|
+|13|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
+|14|72.10.160.90|12915|Canada|Montreal|GloboTech Communications|
+|15|177.230.144.185|10101|Mexico|Tochtepec|Mega Cable, S.A. de C.V.|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|72.10.164.178|4709|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|18117|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|4709|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
