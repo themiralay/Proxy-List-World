@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7921** proxies at the latest update. Usable proxies are below.
+> Scraper found **7920** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|910|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|741|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5296|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|3|124.106.12.138|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|5|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|6|72.10.160.90|4527|Canada|Montreal|GloboTech Communications|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|78.38.93.22|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|4|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|6|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
 |7|67.43.228.253|12089|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|23189|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|12089|Canada|Montreal|GloboTech Communications|
-|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|11|193.41.155.11|3128|Czechia|Prague|PRAHA12.com s.r.o.|
-|12|103.154.92.218|3125|Indonesia|Bogor|PT Mora Telematika Indonesia|
-|13|72.10.160.174|1725|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23189|Canada|Montreal|GloboTech Communications|
-|17|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|23189|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|22991|Canada|Montreal|GloboTech Communications|
+|8|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|17491|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|30525|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|4171|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|17491|Canada|Montreal|GloboTech Communications|
+|18|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|19|202.5.46.243|5020|Bangladesh|Chittagong|BBTS-NEW|
+|20|67.43.227.227|17491|Canada|Montreal|GloboTech Communications|
 
 
 
