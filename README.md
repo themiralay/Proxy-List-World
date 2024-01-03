@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8205** proxies at the latest update. Usable proxies are below.
+> Scraper found **8296** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1041|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|858|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.110.67.238|57413|Indonesia|Selong|Maxindo|
-|2|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
-|7|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|8|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
-|9|103.159.194.191|3128|Indonesia|Rembang|PT Giga Digital Nusantara|
-|10|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|11|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|12|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|13|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|14|103.41.88.33|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|15|67.43.228.252|1859|Canada|Montreal|GloboTech Communications|
-|16|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.228.253|27589|Canada|Montreal|GloboTech Communications|
-|18|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|19|72.10.160.90|19093|Canada|Montreal|GloboTech Communications|
-|20|171.232.193.87|6003|Vietnam|Hanoi|Viettel Corporation|
+|1|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|5|119.110.67.238|57413|Indonesia|Selong|Maxindo|
+|6|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|7|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|8|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
+|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|10|188.168.8.75|38080|Russia|Perevoz|TTK-Retail|
+|11|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|12|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|13|67.43.236.20|27267|Canada|Montreal|GloboTech Communications|
+|14|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|15|72.10.164.178|23513|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|13577|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|15727|Canada|Montreal|GloboTech Communications|
+|18|181.212.41.171|999|Chile|Arica|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|171.232.193.87|6005|Vietnam|Hanoi|Viettel Corporation|
+|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
