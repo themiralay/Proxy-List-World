@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|720|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|748|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3651|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|103.186.204.11|8080|Indonesia|Bandung|PT Afna Digital Indonesia|
-|5|162.243.184.21|10002|United States|Clifton|DigitalOcean, LLC|
-|6|64.225.8.203|10006|United States|Clifton|DigitalOcean, LLC|
-|7|188.132.183.143|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|103.165.157.123|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
-|9|103.247.216.138|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
-|10|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|11|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
-|12|67.43.227.228|32533|Canada|Montreal|GloboTech Communications|
-|13|128.201.68.90|63380|Brazil|Mantena|Interleste Internet LTDA|
-|14|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|15|103.6.223.2|3128|China|Beijing|China Unicom|
-|16|8.243.126.230|999|Peru|Lima|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|17|67.43.227.227|4479|Canada|Montreal|GloboTech Communications|
-|18|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|203.110.176.67|8111|China|Pudong|China Telecom (Group)|
-|20|41.74.44.101|1974|Mauritius|Ebene CyberCity|African Network Information Center - ( AfriNIC Ltd. )|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|183.88.5.60|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|3|49.48.126.21|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|4|171.97.85.105|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|181.225.96.137|999|Colombia|Apulo|TV AZTECA SUCURSAL COLOMBIA|
+|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|72.10.164.178|2185|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|2185|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
+|12|190.217.20.106|999|Colombia|Choachi|TECNOLOGÍA|
+|13|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|14|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|45.127.56.194|84|India|Hyderabad|Pioneer Elabs Ltd|
+|16|103.101.82.198|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|17|67.43.227.228|10199|Canada|Montreal|GloboTech Communications|
+|18|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|19|36.91.98.115|8181|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|20|162.243.184.21|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
