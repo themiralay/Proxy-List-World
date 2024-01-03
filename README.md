@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8363** proxies at the latest update. Usable proxies are below.
+> Scraper found **8351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1153|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|904|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|116.109.149.196|2022|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|6|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|7|5.160.73.245|8080|Iran|Tehran|Respina|
-|8|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|9|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
-|10|203.171.110.218|8080|Afghanistan|Kabul|Etisalat Afghan|
-|11|72.10.164.178|21915|Canada|Montreal|GloboTech Communications|
-|12|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|13|146.190.171.156|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|67.43.227.227|26569|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|1057|Canada|Montreal|GloboTech Communications|
-|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|17|212.200.74.139|1685|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|18|119.110.75.174|2323|Indonesia|Ciputat|Maxindo|
-|19|80.78.64.70|8080|Albania|Tirana|ABCom|
-|20|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|1|103.41.88.33|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|2|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|3|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|4|187.188.101.205|999|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|6|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|7|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|8|103.112.162.140|4949|Indonesia|Jakarta|24AS|
+|9|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|10|128.199.244.96|1234|Singapore|Singapore|DigitalOcean, LLC|
+|11|165.227.120.250|10006|United States|Clifton|DigitalOcean, LLC|
+|12|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|13|185.167.59.215|80|Moldova|Taraclia de Salcie|Caghet-plus SRL|
+|14|67.43.236.20|20953|Canada|Montreal|GloboTech Communications|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|72.10.160.90|1057|Canada|Montreal|GloboTech Communications|
+|17|119.39.68.118|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|138.197.20.244|10006|United States|Clifton|DigitalOcean, LLC|
+|19|181.78.23.194|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|67.43.228.253|28257|Canada|Montreal|GloboTech Communications|
 
 
 
