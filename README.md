@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
 |3|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|6|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|67.43.227.227|3985|Canada|Montreal|GloboTech Communications|
-|8|81.95.11.85|45678|Germany|Fürth|Core-Backbone GmbH|
-|9|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|67.43.236.20|13641|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|13641|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|31645|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|11875|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|13641|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31645|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|67.43.236.18|16339|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31645|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13641|Canada|Montreal|GloboTech Communications|
+|4|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
+|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|72.10.164.178|28727|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|22379|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|28727|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|67.43.236.20|12369|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.92|2189|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|72.10.160.170|1759|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|32185|Canada|Montreal|GloboTech Communications|
+|16|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|17|67.43.227.227|32185|Canada|Montreal|GloboTech Communications|
+|18|200.60.41.164|999|Peru|Celendin|Telefonica del Peru S.A.A.|
+|19|67.43.227.227|32185|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12369|Canada|Montreal|GloboTech Communications|
 
 
 
