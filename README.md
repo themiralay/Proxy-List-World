@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|103.105.125.6|84|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|7|165.227.120.250|10000|United States|Clifton|DigitalOcean, LLC|
-|8|103.178.194.245|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|182.23.107.211|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|101.32.222.249|3999|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|72.10.160.92|7883|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|13373|Canada|Montreal|GloboTech Communications|
-|14|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
-|15|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|16|67.43.236.20|15507|Canada|Montreal|GloboTech Communications|
-|17|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|18|109.104.187.212|41890|Ukraine|Mykolayiv|WildPark Co|
-|19|67.43.236.20|15507|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16143|Canada|Montreal|GloboTech Communications|
+|4|103.19.130.50|8080|Bangladesh|Nārāyanganj|InfoLink|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|123.108.92.118|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
+|9|217.69.195.134|38080|Russia|Bykovo|MTS PJSC|
+|10|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|11|72.10.160.170|24447|Canada|Montreal|GloboTech Communications|
+|12|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|13|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
+|14|182.23.107.211|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|129.154.227.14|3128|India|Mumbai|Oracle Corporation|
+|16|67.43.227.227|2121|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|10749|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|23361|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2121|Canada|Montreal|GloboTech Communications|
+|20|103.105.125.6|84|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
 
 
 
