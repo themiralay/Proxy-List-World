@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|4|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|5|5.202.149.149|8080|Iran|Tehran|PTS-Network|
-|6|103.25.210.102|347|Indonesia|Sidakaya|TRANSDATA|
-|7|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|8|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|25239|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|22913|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1409|Canada|Montreal|GloboTech Communications|
+|1|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|2|72.10.160.90|2237|Canada|Montreal|GloboTech Communications|
+|3|35.200.161.98|80|India|Mumbai|Google LLC|
+|4|103.59.44.55|8090|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|67.43.236.20|21073|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|1849|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|21073|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|10|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|11|185.194.11.178|8080|Iraq|Al Hindīyah|4th|
+|12|103.163.227.245|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|13|72.10.164.178|1849|Canada|Montreal|GloboTech Communications|
+|14|181.78.11.218|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|15|67.43.227.227|22913|Canada|Montreal|GloboTech Communications|
+|16|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|17|67.43.228.253|12955|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21073|Canada|Montreal|GloboTech Communications|
+|19|36.90.21.3|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
+|20|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
