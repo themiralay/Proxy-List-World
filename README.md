@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|72.10.164.178|26173|Canada|Montreal|GloboTech Communications|
-|3|67.43.227.227|27465|Canada|Montreal|GloboTech Communications|
-|4|72.10.164.178|26173|Canada|Montreal|GloboTech Communications|
-|5|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|2155|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|27465|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|27465|Canada|Montreal|GloboTech Communications|
-|12|14.143.145.35|80|India|New Delhi|Tata Communications Limited|
-|13|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|72.10.160.171|26437|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|2155|Canada|Montreal|GloboTech Communications|
-|16|188.132.222.12|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|1|183.89.116.177|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|72.10.160.90|24785|Canada|Montreal|GloboTech Communications|
+|6|103.165.155.108|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|175.118.126.11|3128|South Korea|Ansan-si|SK Broadband Co Ltd|
+|8|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|72.10.160.90|24785|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|24785|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|20721|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|20721|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|31733|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|24785|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|20721|Canada|Montreal|GloboTech Communications|
+|18|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
 |19|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|185.229.111.129|45020|Georgia|Tbilisi|Sysnet LLC|
+|20|67.43.227.227|31733|Canada|Montreal|GloboTech Communications|
 
 
 
