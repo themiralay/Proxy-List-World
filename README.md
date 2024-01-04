@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7737** proxies at the latest update. Usable proxies are below.
+> Scraper found **7650** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1137|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1050|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|742|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4885|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.142.77.226|8080|Indonesia|Jakarta Pusat|BIZNET|
-|2|15.235.140.61|8880|Singapore|Singapore|OVH SAS|
-|3|67.43.236.20|33101|Canada|Montreal|GloboTech Communications|
-|4|67.43.236.20|33101|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.90|5795|Canada|Montreal|GloboTech Communications|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|72.10.164.178|2947|Canada|Montreal|GloboTech Communications|
-|9|103.227.252.71|3128|Indonesia|Jakarta|PT Raja Mitra Informatika|
-|10|128.199.244.96|1234|Singapore|Singapore|DigitalOcean, LLC|
-|11|134.209.96.124|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|2|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|3|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|4|36.64.86.27|8181|Indonesia|Gelora|PT. Telekomunikasi Indonesia|
+|5|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|6|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|7|203.142.77.226|8080|Indonesia|Jakarta Pusat|BIZNET|
+|8|72.10.160.170|8707|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|18591|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|8181|Canada|Montreal|GloboTech Communications|
 |12|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|13|67.43.236.22|32923|Canada|Montreal|GloboTech Communications|
-|14|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|15|188.132.183.143|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|16|67.43.227.227|25691|Canada|Montreal|GloboTech Communications|
-|17|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|18|67.43.236.20|33101|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2947|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|27857|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|18591|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|29369|Canada|Montreal|GloboTech Communications|
+|17|217.12.23.236|80|Spain|Seville|Secondary Node|
+|18|103.227.252.71|3128|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|19|67.43.227.227|8691|Canada|Montreal|GloboTech Communications|
+|20|88.255.102.48|8080|Türkiye|Istanbul|TurkTelekom|
 
 
 
