@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|183.88.197.16|8080|Thailand|Ban Pho|Triple T Broadband Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|222.104.128.205|48678|South Korea|Nam-gu|Korea Telecom|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.227.227|23405|Canada|Montreal|GloboTech Communications|
-|9|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|72.10.160.90|2805|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|1963|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|23405|Canada|Montreal|GloboTech Communications|
+|1|183.88.197.16|8080|Thailand|Ban Pho|Triple T Broadband Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|6|202.5.40.21|5020|Bangladesh|Chittagong|BBTS-NEW|
+|7|72.10.164.178|1229|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|12|80.84.176.110|8080|Ukraine|Zaporizhzhya|Express Radio Networks|
+|13|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
 |14|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|2805|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23405|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2805|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23565|Canada|Montreal|GloboTech Communications|
-|19|103.76.12.42|8181|Indonesia|Depok|PT Mora Telematika Indonesia|
-|20|83.221.222.240|3128|Russia|Rostov-on-Don|RTK|
+|15|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|30151|Canada|Montreal|GloboTech Communications|
+|17|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
+|20|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
