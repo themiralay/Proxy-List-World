@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7827** proxies at the latest update. Usable proxies are below.
+> Scraper found **7780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|880|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|833|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|704|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5270|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|5|188.132.222.12|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|88.255.217.35|8080|Turkey|Istanbul|TurkTelekom|
-|7|103.170.115.228|8080|Indonesia|Bengkalis|PT Mega Data Akses|
-|8|72.10.173.196|8081|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|183.89.116.177|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|123.138.24.108|10964|China|Xi'an|CNC Group CHINA169 Shanni Province Network|
-|13|103.76.12.42|80|Indonesia|Depok|PT Mora Telematika Indonesia|
-|14|222.104.128.205|48678|South Korea|Nam-gu|Korea Telecom|
-|15|167.172.238.15|10008|United States|Clifton|DigitalOcean, LLC|
-|16|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|17|123.138.24.106|11321|China|Xi'an|CNC Group CHINA169 Shanni Province Network|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|91.230.154.149|38080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|2|103.162.62.30|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|3|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|4|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|181.209.82.202|999|Argentina|San Juan|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|6|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|141.195.90.27|8080|Switzerland|Winterthur|Init7 (Switzerland) Ltd.|
+|8|72.10.164.178|13067|Canada|Montreal|GloboTech Communications|
+|9|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|10|103.227.186.11|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|89.134.183.173|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|45.127.56.194|84|India|Hyderabad|Pioneer Elabs Ltd|
+|15|36.90.21.3|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
+|16|165.227.120.250|10004|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.160.90|1845|Canada|Montreal|GloboTech Communications|
+|18|81.43.68.47|8080|Spain|Valencia|Telefonica de Espana SAU|
+|19|72.10.164.178|13067|Canada|Montreal|GloboTech Communications|
+|20|103.26.108.254|82|India|Tirunelveli|Niss Networks|
 
 
 
