@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|3|205.233.79.218|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|4|67.43.227.227|16725|Canada|Montreal|GloboTech Communications|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|67.43.227.227|16725|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
-|8|68.183.144.115|10000|United States|Clifton|DigitalOcean, LLC|
-|9|67.43.227.227|16725|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|67.43.227.227|16725|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|24341|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|72.10.160.90|29131|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|72.10.164.178|7069|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|29131|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|33259|Canada|Montreal|GloboTech Communications|
 |13|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11187|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
-|17|103.48.68.102|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|103.227.186.11|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|20|72.10.160.90|24341|Canada|Montreal|GloboTech Communications|
+|14|190.217.20.106|999|Colombia|Choachi|TECNOLOGÍA|
+|15|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|29131|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7069|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|18677|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
 
 
 
