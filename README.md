@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8347** proxies at the latest update. Usable proxies are below.
+> Scraper found **8307** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1125|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1085|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|773|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5476|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|47.236.225.146|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|149.249.32.86|80|Germany|Kassel|Netcom Kassel GmbH|
-|11|103.186.35.126|8080|Indonesia|Bekasi|VIBERLINK|
-|12|72.10.160.90|1103|Canada|Montreal|GloboTech Communications|
-|13|165.227.120.250|10006|United States|Clifton|DigitalOcean, LLC|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
-|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|67.43.236.20|25621|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18833|Canada|Montreal|GloboTech Communications|
-|19|185.200.37.243|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|202.162.213.178|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|103.169.130.42|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|7|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|8|93.152.173.48|8080|Bulgaria|Sofia|OnlineDirect Guaranteed Speeds Space|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|11|185.229.111.183|45020|Georgia|Tbilisi|Sysnet LLC|
+|12|171.226.45.222|2017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|14|165.227.120.250|10006|United States|Clifton|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|17|68.183.144.115|10005|United States|Clifton|DigitalOcean, LLC|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|181.209.98.194|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 
 
 
