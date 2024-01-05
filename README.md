@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7592** proxies at the latest update. Usable proxies are below.
+> Scraper found **7608** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1056|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|857|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4705|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|2|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|57.129.6.11|3128|Germany|Limburg an der Lahn|OVH SAS|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|7|67.43.236.20|21953|Canada|Montreal|GloboTech Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.227.228|12487|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|31629|Canada|Montreal|GloboTech Communications|
-|11|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.164.178|31629|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|24387|Canada|Montreal|GloboTech Communications|
-|14|217.12.23.249|80|Spain|Seville|Secondary Node|
-|15|72.10.160.90|31661|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|31661|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31629|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3193|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3193|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3193|Canada|Montreal|GloboTech Communications|
+|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|2|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|6|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|7|1.179.238.54|8080|Thailand|Pathum Thani|TOT Public Company Limited|
+|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|9|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|10|188.0.191.104|3128|Russia|Grozny|CJSC Vainah Telecom|
+|11|178.162.199.213|3333|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|12|67.43.227.227|3057|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|24387|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|24387|Canada|Montreal|GloboTech Communications|
+|17|182.253.161.56|8080|Indonesia|Jakarta|BIZNET|
+|18|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2597|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2597|Canada|Montreal|GloboTech Communications|
 
 
 
