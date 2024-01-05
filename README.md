@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|72.10.160.170|32371|Canada|Montreal|GloboTech Communications|
-|5|103.178.42.26|8181|Indonesia|Ngantru|PT Jaring Solusi Persada|
-|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|72.10.160.174|27611|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|9737|Canada|Montreal|GloboTech Communications|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|1.179.238.54|8080|Thailand|Pathum Thani|TOT Public Company Limited|
-|11|184.107.90.31|3128|Canada|Montreal|iWeb Technologies Inc|
-|12|67.43.228.253|13863|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|22379|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|13007|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|2569|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|22379|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9737|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|67.43.236.20|13007|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.170|32371|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|16725|Canada|Montreal|GloboTech Communications|
+|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|10|72.10.160.90|29601|Canada|Montreal|GloboTech Communications|
+|11|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|72.10.164.178|16725|Canada|Montreal|GloboTech Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|72.10.164.178|16725|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28477|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.94|28181|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|31567|Canada|Montreal|GloboTech Communications|
 |18|67.43.236.20|13007|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2569|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|28181|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|29601|Canada|Montreal|GloboTech Communications|
+|20|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
 
 
 
