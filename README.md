@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6194** proxies at the latest update. Usable proxies are below.
+> Scraper found **7255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|734|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|827|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4486|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
-|5|183.88.212.184|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|6|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|7|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|45.112.126.115|80|Indonesia|Depok|FIBERNET|
-|9|68.183.144.115|10000|United States|Clifton|DigitalOcean, LLC|
-|10|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|200.108.197.2|8080|Uruguay|Florida|Tecnowind S.A.|
-|12|77.242.24.241|8089|Albania|Tirana|Abissnet ISP|
-|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
-|15|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
-|16|38.156.73.149|8080|Turkey|Umraniye|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|123.138.24.103|11207|China|Xi'an|CNC Group CHINA169 Shanni Province Network|
-|18|177.130.104.106|33333|Brazil|Nova Andradina|FIT Telecom Eireli|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|67.43.227.227|1297|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|27227|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|1297|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.171|10879|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|27227|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|3225|Canada|Montreal|GloboTech Communications|
+|11|172.105.102.93|8080|Canada|Toronto|Akamai Technologies|
+|12|67.43.236.20|27227|Canada|Montreal|GloboTech Communications|
+|13|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|15|200.125.169.118|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|72.10.164.178|3225|Canada|Montreal|GloboTech Communications|
+|18|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
+|19|67.43.227.227|1297|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|27227|Canada|Montreal|GloboTech Communications|
 
 
 
