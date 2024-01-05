@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.132.24.54|8080|United Kingdom|City of London|Microsoft|
-|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|5|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|7|72.10.164.178|11429|Canada|Montreal|GloboTech Communications|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|10|67.43.236.20|5171|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|1999|Canada|Montreal|GloboTech Communications|
-|12|51.132.24.54|8080|United Kingdom|City of London|Microsoft|
-|13|72.10.164.178|11429|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|22557|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5171|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11429|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5171|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|14235|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14235|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11429|Canada|Montreal|GloboTech Communications|
+|1|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|2|72.10.164.178|22847|Canada|Montreal|GloboTech Communications|
+|3|72.10.160.90|8621|Canada|Montreal|GloboTech Communications|
+|4|67.43.236.20|13493|Canada|Montreal|GloboTech Communications|
+|5|67.43.227.227|12861|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|22847|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|67.43.227.227|12861|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|72.10.164.178|22847|Canada|Montreal|GloboTech Communications|
+|11|128.0.179.234|41258|Czechia|Prague|PODA a.s.|
+|12|72.10.160.91|20133|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|13493|Canada|Montreal|GloboTech Communications|
+|14|190.56.241.170|999|Guatemala|Peten|Telgua|
+|15|72.10.160.90|8621|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|13493|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|8417|Canada|Montreal|GloboTech Communications|
+|18|138.121.15.227|999|Colombia|Turbana|Liberty Networks De Colombia|
+|19|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
+|20|72.10.160.170|21459|Canada|Montreal|GloboTech Communications|
 
 
 
