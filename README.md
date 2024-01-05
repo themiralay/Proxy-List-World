@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.126.86.43|3128|United States|St Louis|Nubes, LLC|
-|2|128.199.177.68|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|4|49.48.126.21|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|5|81.95.11.104|45678|Germany|Fürth|Core-Backbone GmbH|
-|6|212.227.184.59|8080|Germany|Frankfurt am Main|IONOS SE|
-|7|136.239.176.66|8080|Philippines|Mariveles|ComClark Network & Technology Corp|
-|8|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
-|9|188.132.222.39|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|11|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|12|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|209.126.86.43|3128|United States|St Louis|Nubes, LLC|
-|15|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|16|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|17|38.103.213.226|8080|United States|San Antonio|Celltex Networks, LLC|
-|18|189.79.62.116|8080|Brazil|São Paulo|Vivo|
-|19|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.236.225.146|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
+|4|181.233.89.187|999|Venezuela|Cabimas|Colnetwork C.A.|
+|5|90.156.225.23|1080|Russia|St Petersburg|TimeWeb Ltd.|
+|6|81.95.11.104|45678|Germany|Fürth|Core-Backbone GmbH|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|9|41.218.224.44|8080|Ghana|Tema|Vodafone Ghana|
+|10|85.195.223.165|8080|Switzerland|Geneva|Init7 (Switzerland) Ltd.|
+|11|103.151.185.2|82|India|Pune|Chaya Vishnu Abnave|
+|12|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|13|45.11.95.166|6015|Russia|Moscow|Delta Ltd|
+|14|102.214.106.86|1975|Libya|Tripoli|Rawafed|
+|15|80.252.18.130|806|Russia|Samara|Global Telecom city networks|
+|16|188.132.222.39|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|35.227.31.75|3128|United States|North Charleston|Google LLC|
+|18|94.237.74.164|19102|Singapore|Singapore|UpCloud Ltd|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
