@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|13.212.99.37|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|2|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|3|172.105.193.113|6657|Japan|Tokyo|Akamai Technologies|
-|4|118.99.127.93|8080|Indonesia|Jakarta Pusat|Biznet Metronet|
-|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|7|202.74.245.82|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|172.105.193.113|6657|Japan|Tokyo|Akamai Technologies|
-|9|72.10.160.171|32179|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|32179|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|67.43.227.227|5047|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.228.253|2861|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|2861|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|31595|Canada|Montreal|GloboTech Communications|
-|18|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
-|19|72.10.160.90|11409|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31595|Canada|Montreal|GloboTech Communications|
+|2|172.105.193.113|6657|Japan|Tokyo|Akamai Technologies|
+|3|118.99.127.93|8080|Indonesia|Jakarta Pusat|Biznet Metronet|
+|4|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|5|172.105.193.113|6657|Japan|Tokyo|Akamai Technologies|
+|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|223.215.177.94|8089|China|Rongcheng|Chinanet|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|72.10.160.170|13699|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|10445|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|1639|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|31633|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|31633|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|25373|Canada|Montreal|GloboTech Communications|
+|15|103.59.44.55|8090|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|72.10.164.178|1639|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|10445|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|67.43.236.20|10445|Canada|Montreal|GloboTech Communications|
 
 
 
