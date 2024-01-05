@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|72.10.160.90|22845|Canada|Montreal|GloboTech Communications|
-|4|103.44.116.22|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|5|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|6|187.85.82.222|55676|Brazil|São João del Rei|Vero Internet|
-|7|67.43.236.20|21691|Canada|Montreal|GloboTech Communications|
-|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|9|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|10|72.10.160.90|22845|Canada|Montreal|GloboTech Communications|
-|11|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|72.10.160.170|14445|Canada|Montreal|GloboTech Communications|
-|13|83.146.94.125|38080|Russia|Chelyabinsk|Joint Stock Company TransTeleCom|
-|14|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.229|12855|Canada|Montreal|GloboTech Communications|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|67.43.236.20|21691|Canada|Montreal|GloboTech Communications|
-|18|62.210.119.138|3128|France|Asnieres-sur-Seine|Online S.A.S.|
-|19|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22845|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|175.118.126.11|3128|South Korea|Ansan-si|SK Broadband Co Ltd|
+|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|6|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|8|74.48.66.101|3128|United States|Los Angeles|Multacom Corporation|
+|9|72.10.160.90|3047|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|25621|Canada|Montreal|GloboTech Communications|
+|11|36.64.217.27|1313|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
+|13|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|14|103.48.69.113|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|16|103.106.217.101|1111|Indonesia|Lawang|PT. ARTHA LINTAS DATA MANDIRI|
+|17|178.152.23.210|8080|Qatar|Doha|Business DSL|
+|18|5.160.32.34|80|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|119.39.68.118|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|67.43.227.227|31627|Canada|Montreal|GloboTech Communications|
 
 
 
