@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7400** proxies at the latest update. Usable proxies are below.
+> Scraper found **7310** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1056|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|701|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4580|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|203.150.113.2|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|13.212.99.37|8888|Singapore|Singapore|Amazon Technologies Inc.|
+|6|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|7|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|125.59.145.4|8888|Hong Kong|Central|Hong Kong Cable Television Limited|
+|10|162.243.184.21|10006|United States|Clifton|DigitalOcean, LLC|
 |11|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|12|204.11.158.50|59886|U.S. Virgin Islands|Charlotte Amalie|Broadband VI, LLC|
-|13|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|14|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|15|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
-|16|67.43.236.20|1795|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|7129|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|19|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.20|1795|Canada|Montreal|GloboTech Communications|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|72.10.160.90|20587|Canada|Montreal|GloboTech Communications|
+|14|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.90|20587|Canada|Montreal|GloboTech Communications|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|72.10.160.90|20587|Canada|Montreal|GloboTech Communications|
+|18|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|20|162.243.184.21|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
