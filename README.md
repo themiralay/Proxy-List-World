@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6997** proxies at the latest update. Usable proxies are below.
+> Scraper found **6981** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|947|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|827|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4265|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|88.255.217.40|8080|Turkey|Istanbul|TurkTelekom|
-|4|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|5|159.65.176.77|10006|United States|Clifton|DigitalOcean, LLC|
-|6|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.174|7309|Canada|Montreal|GloboTech Communications|
-|8|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|9|167.172.238.15|10008|United States|Clifton|DigitalOcean, LLC|
-|10|67.43.236.20|12975|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|11133|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|12975|Canada|Montreal|GloboTech Communications|
-|13|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|14|162.243.184.21|10003|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.236.20|12975|Canada|Montreal|GloboTech Communications|
-|16|103.152.232.98|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|17|112.78.181.210|8080|Indonesia|Jakarta Pusat|BIZNET|
-|18|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
-|19|103.181.25.122|8080|Bangladesh|Nabīnagar|Right Net|
-|20|186.148.181.19|999|Colombia|Quetame|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
+|1|183.89.42.194|8080|Thailand|Nakhon Luang|Triple T Broadband Public Company Limited|
+|2|88.255.217.40|8080|Turkey|Istanbul|TurkTelekom|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|67.43.236.20|9251|Canada|Montreal|GloboTech Communications|
+|5|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|103.178.194.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|67.43.236.20|9251|Canada|Montreal|GloboTech Communications|
+|9|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|10|72.10.160.90|6267|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|4347|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|4347|Canada|Montreal|GloboTech Communications|
+|13|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|14|72.10.160.174|7309|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|6267|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|9251|Canada|Montreal|GloboTech Communications|
+|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|18|45.119.85.85|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
+|19|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|167.172.238.15|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
