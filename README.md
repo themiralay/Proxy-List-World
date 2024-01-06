@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|2|14.207.10.173|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|67.43.236.20|32065|Canada|Montreal|GloboTech Communications|
-|11|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|12|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|14|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|67.43.227.228|8457|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10133|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|10133|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|10833|Canada|Montreal|GloboTech Communications|
-|19|94.130.64.28|16389|Germany|Falkenstein|Hetzner Online GmbH|
-|20|14.207.10.173|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
+|4|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
+|7|94.130.64.28|16389|Germany|Falkenstein|Hetzner Online GmbH|
+|8|14.207.10.173|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.236.20|32065|Canada|Montreal|GloboTech Communications|
+|14|117.69.233.186|8089|China|Rongcheng|Chinanet|
+|15|38.172.128.208|999|Peru|Santa María|Conex TV E.I.R.L.|
+|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|17|138.197.20.244|10008|United States|Clifton|DigitalOcean, LLC|
+|18|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.227.228|8457|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|26937|Canada|Montreal|GloboTech Communications|
 
 
 
