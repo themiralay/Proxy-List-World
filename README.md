@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
 |2|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|3|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|171.237.104.73|3001|Vietnam|Hanoi|Viettel Corporation|
-|8|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|72.10.160.90|18503|Canada|Montreal|GloboTech Communications|
-|16|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|17|72.10.160.174|27553|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|72.10.160.90|18503|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
+|3|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|10|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|11|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|67.43.227.227|29905|Canada|Montreal|GloboTech Communications|
+|14|94.130.64.28|16389|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
+|16|72.10.160.90|3869|Canada|Montreal|GloboTech Communications|
+|17|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|18|72.10.160.172|8989|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|20|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
