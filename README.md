@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.45.65.94|39633|United States|Durham|Cogent Communications|
 |2|101.109.55.229|8080|Thailand|Klaeng|TOT Public Company Limited|
-|3|38.45.65.94|39633|United States|Durham|Cogent Communications|
-|4|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|67.43.227.228|32673|Canada|Montreal|GloboTech Communications|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|38.45.65.94|39633|United States|Durham|Cogent Communications|
-|9|38.41.5.79|999|Venezuela|Carrizal|MDS TELECOM C.A.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|67.43.236.20|32967|Canada|Montreal|GloboTech Communications|
-|13|180.183.4.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|14|67.43.236.20|32967|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|30807|Canada|Montreal|GloboTech Communications|
-|16|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|4929|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4929|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27733|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4929|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|116.58.232.17|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|9|38.45.65.94|39633|United States|Durham|Cogent Communications|
+|10|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|12|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
+|13|67.43.227.227|13543|Canada|Montreal|GloboTech Communications|
+|14|103.170.101.97|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|15|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|16|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|38.45.65.94|39633|United States|Durham|Cogent Communications|
+|18|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|72.10.160.170|11591|Canada|Montreal|GloboTech Communications|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
