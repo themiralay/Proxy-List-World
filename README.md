@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.37.48|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|68.183.144.115|10003|United States|Clifton|DigitalOcean, LLC|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|206.189.37.48|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|122.115.73.41|10002|China|Haidian|CN CARE NETWORK LTD|
-|7|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|8|168.138.36.239|3128|Japan|Osaka|Oracle Corporation|
-|9|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|10|68.183.144.115|10003|United States|Clifton|DigitalOcean, LLC|
-|11|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|72.10.164.178|21915|Canada|Montreal|GloboTech Communications|
-|15|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|16|67.43.227.227|29397|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|9563|Canada|Montreal|GloboTech Communications|
-|18|36.90.23.19|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|19|190.128.152.37|8080|Paraguay|Asunción|Telecel S.A.|
-|20|67.43.228.253|23965|Canada|Montreal|GloboTech Communications|
+|5|103.169.194.250|8181|Indonesia|Banyuwangi|PT Aderani Multi Akses|
+|6|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
+|7|103.231.240.83|8990|Philippines|Batangas|De La Salle University|
+|8|38.242.244.29|80|Germany|Düsseldorf|Contabo GmbH|
+|9|67.43.236.20|24437|Canada|Montreal|GloboTech Communications|
+|10|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|11|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|12|67.43.227.227|29397|Canada|Montreal|GloboTech Communications|
+|13|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
+|14|113.98.241.66|3128|China|Shenzhen|Chinanet|
+|15|14.241.236.189|2512|Vietnam|Ho Chi Minh City|VNPT|
+|16|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|17|72.10.164.178|21915|Canada|Montreal|GloboTech Communications|
+|18|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.160.170|13699|Canada|Montreal|GloboTech Communications|
+|20|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
 
 
 
