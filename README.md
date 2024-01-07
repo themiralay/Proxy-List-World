@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.45.65.94|39633|United States|Durham|Cogent Communications|
-|2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|104.236.195.60|10007|United States|Clifton|DigitalOcean, LLC|
-|5|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|38.45.65.94|39633|United States|Durham|Cogent Communications|
+|3|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|38.45.65.94|39633|United States|Durham|Cogent Communications|
-|7|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|8|104.236.195.60|10007|United States|Clifton|DigitalOcean, LLC|
-|9|67.43.236.20|14261|Canada|Montreal|GloboTech Communications|
-|10|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|11|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.236.20|14261|Canada|Montreal|GloboTech Communications|
-|14|103.170.101.97|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|15|187.73.102.70|9292|Brazil|Tailandia|Celante Servicos De Telecomunicacoes Ltda - EPP|
-|16|67.43.227.228|24761|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|33259|Canada|Montreal|GloboTech Communications|
-|18|103.26.110.46|84|India|Tirunelveli|Niss Networks|
-|19|67.43.236.20|14261|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|24761|Canada|Montreal|GloboTech Communications|
+|7|38.45.65.94|39633|United States|Durham|Cogent Communications|
+|8|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|67.43.236.20|14215|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|25237|Canada|Montreal|GloboTech Communications|
+|13|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.236.20|14215|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|19159|Canada|Montreal|GloboTech Communications|
+|17|190.217.20.106|999|Colombia|Choachi|TECNOLOGÍA|
+|18|36.92.140.113|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|72.10.164.178|13183|Canada|Montreal|GloboTech Communications|
+|20|119.110.75.222|3999|Indonesia|Ciputat|Maxindo|
 
 
 
