@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
-|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|5|72.10.160.93|12105|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|114.141.51.160|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|8|67.43.236.20|18927|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|18927|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|18967|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|94.130.64.28|16217|Germany|Falkenstein|Hetzner Online GmbH|
-|13|67.43.227.226|16077|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|4443|Canada|Montreal|GloboTech Communications|
-|15|167.172.238.15|10008|United States|Clifton|DigitalOcean, LLC|
-|16|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|17|67.43.227.226|16077|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|14829|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18927|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|4443|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|3|45.22.209.157|8888|United States|Hollywood|AT&T Services, Inc.|
+|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|7|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|8|167.172.238.15|10008|United States|Clifton|DigitalOcean, LLC|
+|9|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|10|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|11|67.43.236.20|14793|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|103.6.223.2|3128|China|Beijing|China Unicom|
+|15|72.10.160.90|29367|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|14793|Canada|Montreal|GloboTech Communications|
+|17|103.114.52.102|8080|Indonesia|Karanganyar Wetankali|Proxy-registered|
+|18|67.43.236.20|14793|Canada|Montreal|GloboTech Communications|
+|19|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|20|36.90.23.19|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
 
 
 
