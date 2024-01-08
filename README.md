@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|3|204.216.128.215|3128|Brazil|Vinhedo|Oracle Corporation|
-|4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|131.100.48.73|999|Colombia|La Argentina|Fibernet TV SAS|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|8|103.96.147.185|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|9|67.43.236.20|25239|Canada|Montreal|GloboTech Communications|
-|10|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|11|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.79.103.91|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|64.225.8.203|10009|United States|Clifton|DigitalOcean, LLC|
-|16|68.183.144.115|10007|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.228.253|28477|Canada|Montreal|GloboTech Communications|
-|18|142.93.72.28|10000|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|25239|Canada|Montreal|GloboTech Communications|
-|20|51.178.195.146|3128|France|Roubaix|OVH SAS|
+|1|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|2|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|4|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|5|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
+|6|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|7|67.43.227.227|18803|Canada|Montreal|GloboTech Communications|
+|8|68.183.144.115|10008|United States|Clifton|DigitalOcean, LLC|
+|9|68.183.144.115|10008|United States|Clifton|DigitalOcean, LLC|
+|10|67.43.227.227|18803|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
+|12|51.210.183.2|3128|France|Gravelines|OVH SAS|
+|13|67.43.227.227|18803|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|1465|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|1465|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|21979|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|21979|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21979|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
