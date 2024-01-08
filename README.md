@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|38.252.209.32|999|Peru|Lima|Orinoco Ventures Group SAS|
-|7|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|82.135.123.155|8080|Germany|Munich|MNET|
-|9|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
+|2|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|6|146.190.104.220|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|8|103.96.147.185|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|9|67.43.236.20|6193|Canada|Montreal|GloboTech Communications|
 |10|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|11|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|12|72.10.160.172|21665|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|17121|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|14261|Canada|Montreal|GloboTech Communications|
-|15|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|11|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
+|12|72.10.160.170|28591|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|6193|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|3869|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.229|16789|Canada|Montreal|GloboTech Communications|
 |16|67.43.227.228|24981|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17121|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19819|Canada|Montreal|GloboTech Communications|
-|19|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|20|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|17|72.10.164.178|18413|Canada|Montreal|GloboTech Communications|
+|18|213.97.161.224|3128|Spain|Cuarte de Huerva|Telefonica de Espana SAU|
+|19|72.10.160.170|28591|Canada|Montreal|GloboTech Communications|
+|20|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
 
 
 
