@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.222.48|63128|South Korea|Seoul|The Constant Company, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|129.150.39.70|2222|Singapore|Singapore|Oracle Corporation|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|36.91.98.115|8181|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|4|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|5|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
+|6|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
+|7|103.96.146.56|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
 |8|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
-|9|144.48.190.0|8080|Hong Kong|Tseung Kwan O|CAMBO (HK) TECHNOLOGY (I.S.P) CO., LIMITED|
-|10|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
-|11|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.228.253|12161|Canada|Montreal|GloboTech Communications|
-|13|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|14|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
-|16|64.225.4.17|10002|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30769|Canada|Montreal|GloboTech Communications|
-|19|103.14.224.104|3128|Vietnam|Hanoi|VNB|
-|20|72.10.160.170|31229|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
+|10|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
+|13|38.65.172.14|999|Mexico|Prados del Rosario|Cogent Communications|
+|14|67.43.228.253|12161|Canada|Montreal|GloboTech Communications|
+|15|183.89.247.182|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|67.43.236.20|12923|Canada|Montreal|GloboTech Communications|
+|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|20|24.52.33.75|8080|United States|St. George|TDS TELECOM|
 
 
 
