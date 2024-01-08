@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6135** proxies at the latest update. Usable proxies are below.
+> Scraper found **6161** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|894|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|775|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3508|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|13|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|16|38.45.65.241|39633|United States|Durham|Cogent Communications|
-|17|65.109.39.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|14|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|103.5.0.98|3129|Philippines|Kalibo|Kalibo Cable Television Network Inc|
+|17|38.45.65.241|39633|United States|Durham|Cogent Communications|
 |18|97.78.161.170|8123|United States|Detroit|Charter Communications, Inc|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|19|38.45.65.241|39633|United States|Durham|Cogent Communications|
+|20|65.109.39.149|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
