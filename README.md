@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|5|72.10.160.90|2363|Canada|Montreal|GloboTech Communications|
-|6|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|10|72.10.160.90|2363|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|4949|Canada|Montreal|GloboTech Communications|
-|12|103.96.146.56|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|13|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23309|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23309|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2363|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|2363|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23309|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|203.150.113.239|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|7|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|8|72.10.160.171|16503|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
+|10|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|72.10.160.90|18503|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|16683|Canada|Montreal|GloboTech Communications|
+|13|36.91.98.115|8181|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|14|103.48.68.101|82|India|Hyderabad|Country Online Services PVT LTD|
+|15|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|72.10.160.90|18503|Canada|Montreal|GloboTech Communications|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
 
 
 
