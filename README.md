@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6314** proxies at the latest update. Usable proxies are below.
+> Scraper found **6352** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|957|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|761|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3638|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|1|103.106.242.21|6969|Bangladesh|Dhaka|Md. Saddam Hossain|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|3|38.45.65.94|39633|United States|Durham|Cogent Communications|
 |4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|103.134.220.131|8181|Indonesia|Yogyakarta|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|6|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|8|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|10|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|11|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|12|118.193.39.206|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|104.131.68.217|3247|United States|Clifton|DigitalOcean, LLC|
-|14|161.97.178.90|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|7349|Canada|Montreal|GloboTech Communications|
-|17|103.106.242.21|6969|Bangladesh|Dhaka|Md. Saddam Hossain|
-|18|103.167.68.75|6363|Indonesia|Tasikmalaya|PT Kataji Nukami Indonesia|
-|19|67.43.228.253|28173|Canada|Montreal|GloboTech Communications|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|7|201.217.247.163|999|Argentina|Resistencia|Ecom Chaco S.A.|
+|8|103.23.30.110|3113|Indonesia|Sepatan|ICON+|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|115.127.125.34|8090|Bangladesh|Dhaka|BRACNet Limited|
+|11|67.43.236.20|30463|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|28173|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|30463|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|15|89.58.48.220|10001|Germany|Nuremberg|netcup GmbH|
+|16|67.43.228.251|32689|Canada|Montreal|GloboTech Communications|
+|17|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|18|67.43.236.20|30463|Canada|Montreal|GloboTech Communications|
+|19|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.10.160.90|18345|Canada|Montreal|GloboTech Communications|
 
 
 
