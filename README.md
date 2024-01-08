@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|2|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|116.202.161.122|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|41.60.234.173|41890|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|6|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|1|20.122.126.40|7979|United States|Boydton|Microsoft Corporation|
+|2|152.67.0.109|80|India|Mumbai|Oracle Corporation|
+|3|116.202.161.122|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
 |7|67.43.236.20|26417|Canada|Montreal|GloboTech Communications|
-|8|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|9|103.228.246.250|7777|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|10|67.43.228.253|20127|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|11367|Canada|Montreal|GloboTech Communications|
-|12|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|13|72.10.160.90|7717|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|4327|Canada|Montreal|GloboTech Communications|
-|15|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|178.48.58.174|18080|Hungary|Székesfehérvár|UPC|
-|18|72.10.164.178|19411|Canada|Montreal|GloboTech Communications|
-|19|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
-|20|67.43.227.227|11367|Canada|Montreal|GloboTech Communications|
+|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|9|67.43.228.253|8121|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|26417|Canada|Montreal|GloboTech Communications|
+|11|41.60.234.173|41890|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|12|200.108.190.34|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|13|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|67.43.228.253|8121|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|11367|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|11367|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|26417|Canada|Montreal|GloboTech Communications|
 
 
 
