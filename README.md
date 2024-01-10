@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8022** proxies at the latest update. Usable proxies are below.
+> Scraper found **8030** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|892|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|788|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5341|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|2|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|4|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|2|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|3|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|4|128.199.116.34|4444|Singapore|Singapore|DigitalOcean, LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|144.217.180.238|8888|Canada|Beauharnois|OVH SAS|
-|8|45.122.253.185|2008|Vietnam|Quận Ngô Quyền|Hai Phong Brand - CMC Telecommunication Infrastructure Corporation|
-|9|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|10|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|11|67.43.228.253|23943|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|30555|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|23943|Canada|Montreal|GloboTech Communications|
-|14|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|15|173.209.66.178|16099|United States|San Juan|Smartcom Telephone|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.236.20|30555|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|30555|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|21291|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|8|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
+|9|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|10|67.43.236.20|21351|Canada|Montreal|GloboTech Communications|
+|11|119.93.43.16|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|12|67.43.236.20|21351|Canada|Montreal|GloboTech Communications|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|72.10.160.171|8017|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|2683|Canada|Montreal|GloboTech Communications|
+|16|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|17|67.43.227.227|29447|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.254|4537|Canada|Montreal|GloboTech Communications|
+|19|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
 
 
 
