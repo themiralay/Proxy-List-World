@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8508** proxies at the latest update. Usable proxies are below.
+> Scraper found **8540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1105|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1137|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5341|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|125.27.132.145|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|103.156.248.196|8080|Indonesia|Percut|Trans Media Telekomunikasi|
-|7|175.100.72.95|57938|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|186.96.96.164|999|Colombia|Purificacion|TV AZTECA SUCURSAL COLOMBIA|
-|10|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|11|45.87.68.5|15321|Germany|Frankfurt am Main|Cogent Communications|
-|12|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|13|38.252.209.79|999|Peru|Lima|Orinoco Ventures Group SAS|
-|14|103.96.146.56|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|15|101.255.156.46|1111|Indonesia|Bogor|PT Remala Abadi|
+|2|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|183.88.46.254|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|9|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|11|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|13|103.84.176.245|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|199.19.159.52|16099|United States|Menifee|Affordable Internet Services Online, Inc.|
+|15|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |16|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|17|72.10.164.178|2719|Canada|Montreal|GloboTech Communications|
-|18|213.6.36.2|8080|Palestine|Ramallah|Palestine Telecommunications Company|
-|19|72.10.164.178|2719|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|18321|Canada|Montreal|GloboTech Communications|
+|17|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|18|103.155.199.54|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
+|19|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|20|64.225.8.203|10005|United States|Clifton|DigitalOcean, LLC|
 
 
 
