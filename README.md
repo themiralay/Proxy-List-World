@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|2|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|1|43.153.140.235|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |3|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|67.43.236.20|4879|Canada|Montreal|GloboTech Communications|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|67.43.236.20|4879|Canada|Montreal|GloboTech Communications|
+|4|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
+|5|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|6|43.153.140.235|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
 |8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.173|29993|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|4879|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
-|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|72.10.160.172|3335|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18957|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|4879|Canada|Montreal|GloboTech Communications|
-|19|117.57.92.205|8089|China|Guangzhou|Chinanet|
-|20|67.43.236.20|4879|Canada|Montreal|GloboTech Communications|
+|9|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|10|203.142.77.226|8080|Indonesia|Jakarta Pusat|BIZNET|
+|11|72.10.160.170|17709|Canada|Montreal|GloboTech Communications|
+|12|142.93.72.28|10003|United States|Clifton|DigitalOcean, LLC|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|15|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|16|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|18|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|19|45.11.95.165|5214|Russia|Moscow|Delta Ltd|
+|20|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
