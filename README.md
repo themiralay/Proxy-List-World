@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|2|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|139.180.39.201|8080|United States|El Paso|Conterra|
-|4|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|5|123.182.58.15|8089|China|Zhangjiakou|China Telecom|
-|6|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|8|94.130.54.171|10002|Germany|Falkenstein|Hetzner Online GmbH|
-|9|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|10|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|11|36.91.98.115|8181|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|12|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|14|72.10.160.90|15207|Canada|Montreal|GloboTech Communications|
-|15|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|16|103.187.117.7|8080|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
-|17|67.43.236.20|22431|Canada|Montreal|GloboTech Communications|
-|18|36.66.171.215|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|189.240.60.163|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|45.224.148.195|999|Ecuador|Santa Elena|Ufinet Panama S.A.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|3|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|5|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|9|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|13|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|14|14.103.26.198|8000|China|Beijing|BITNET|
+|15|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
+|18|139.180.39.201|8080|United States|El Paso|Conterra|
+|19|67.43.227.227|11345|Canada|Montreal|GloboTech Communications|
+|20|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
