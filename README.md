@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|13.212.38.128|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|14|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|18|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.164.178|24441|Canada|Montreal|GloboTech Communications|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|11|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|72.10.160.170|13989|Canada|Montreal|GloboTech Communications|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|72.10.160.92|32293|Canada|Montreal|GloboTech Communications|
+|20|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
 
 
 
