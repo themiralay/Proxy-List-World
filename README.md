@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7259** proxies at the latest update. Usable proxies are below.
+> Scraper found **7294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|776|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|571|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4954|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|139.180.39.201|8080|United States|El Paso|Conterra|
-|4|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|5|38.183.175.90|999|Venezuela|Naguanagua|CHIRCALNET TELECOM, C.A.|
+|2|43.163.222.20|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|4|38.183.175.90|999|Venezuela|Naguanagua|CHIRCALNET TELECOM, C.A.|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |6|139.180.39.201|8080|United States|El Paso|Conterra|
-|7|42.117.122.135|8859|Vietnam|Hanoi|FPT Telecom Company|
-|8|8.213.26.199|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|11|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|12|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|13|67.43.236.20|16029|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|16029|Canada|Montreal|GloboTech Communications|
-|15|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|16|67.43.236.20|16029|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|11071|Canada|Montreal|GloboTech Communications|
-|18|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|19|72.10.160.90|8407|Canada|Montreal|GloboTech Communications|
-|20|103.48.71.102|83|India|Hyderabad|Country Online Services PVT LTD|
+|7|139.180.39.201|8080|United States|El Paso|Conterra|
+|8|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|17255|Canada|Montreal|GloboTech Communications|
+|10|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|11|72.10.164.178|17255|Canada|Montreal|GloboTech Communications|
+|12|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.251|19225|Canada|Montreal|GloboTech Communications|
+|16|103.164.213.78|8088|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|72.10.160.91|4373|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|26353|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
 
 
 
