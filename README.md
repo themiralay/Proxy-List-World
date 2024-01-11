@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7409** proxies at the latest update. Usable proxies are below.
+> Scraper found **7379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|890|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|573|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4949|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|13|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|14|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|15|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|16|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|17|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|72.10.160.92|21637|Canada|Montreal|GloboTech Communications|
+|1|43.163.222.20|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
+|8|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|11|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
+|17|67.43.228.253|8037|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|24109|Canada|Montreal|GloboTech Communications|
+|19|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|20|181.41.142.254|443|India|Mumbai|HIVELOCITY, Inc.|
 
 
 
