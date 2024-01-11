@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|2|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|3|42.96.10.104|3128|Vietnam|Liên Chiểu|VIETSERVER|
-|4|125.167.249.187|80|Indonesia|Banjarbaru|PT. TELKOM INDONESIA|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|7|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|64.225.8.203|10006|United States|Clifton|DigitalOcean, LLC|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.173|23365|Canada|Montreal|GloboTech Communications|
-|12|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|1|13.40.8.80|80|United Kingdom|London|Amazon Technologies Inc.|
+|2|115.127.85.186|8090|Bangladesh|Dhaka|BRACNet Limited|
+|3|125.167.249.187|80|Indonesia|Banjarbaru|PT. TELKOM INDONESIA|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|205.209.100.222|80|United States|Englewood Cliffs|Interserver, Inc|
+|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|7|42.96.10.104|3128|Vietnam|Liên Chiểu|VIETSERVER|
+|8|67.43.227.228|13801|Canada|Montreal|GloboTech Communications|
+|9|38.156.235.206|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|10|67.43.227.226|11923|Canada|Montreal|GloboTech Communications|
+|11|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |15|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
-|16|103.35.108.194|5020|Bangladesh|Dhaka|Ranks ITT|
-|17|122.54.34.10|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|18|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|67.43.227.228|13801|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|11923|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
+|19|204.216.128.215|3128|Brazil|Vinhedo|Oracle Corporation|
+|20|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 
 
 
