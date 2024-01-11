@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|2|179.61.229.156|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|3|103.132.240.220|54198|India|Morvi|Spd Broadband Pvt Ltd|
-|4|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|1|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
+|2|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|3|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|4|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 |5|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|6|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|7|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
-|8|139.180.39.201|8080|United States|El Paso|Conterra|
-|9|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
-|10|72.10.160.90|19043|Canada|Montreal|GloboTech Communications|
-|11|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|139.180.39.201|8080|United States|El Paso|Conterra|
+|7|103.48.68.102|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|38.64.138.234|8080|United States|Chicago|GTHost|
+|9|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|10|155.0.72.251|3128|Zambia|Lusaka|Zambia Research and Education Network|
+|11|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
 |12|72.10.164.178|10143|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|23491|Canada|Montreal|GloboTech Communications|
-|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|15|23.225.72.123|3501|United States|Los Angeles|Cnservers LLC|
-|16|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|13|72.10.160.90|6723|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|15|72.10.160.90|6723|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|10143|Canada|Montreal|GloboTech Communications|
+|17|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
 |18|72.10.164.178|10143|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|141.95.104.32|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|35.220.175.141|8081|Hong Kong|Hong Kong|Google LLC|
+|20|72.10.164.178|10143|Canada|Montreal|GloboTech Communications|
 
 
 
