@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|113.53.60.200|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|1|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|2|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
 |3|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|4|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|5|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|6|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|7|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|8|67.43.236.20|9307|Canada|Montreal|GloboTech Communications|
-|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|10|72.10.160.90|6605|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|16237|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|9307|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|9307|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|22939|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9307|Canada|Montreal|GloboTech Communications|
-|16|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
-|17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|18|67.43.228.253|6843|Canada|Montreal|GloboTech Communications|
-|19|68.183.144.115|10002|United States|Clifton|DigitalOcean, LLC|
-|20|68.183.144.115|10002|United States|Clifton|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|6|67.43.227.227|3205|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|29125|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.94|5771|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|67.43.227.227|3205|Canada|Montreal|GloboTech Communications|
+|12|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|13|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|29125|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|29125|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|30001|Canada|Montreal|GloboTech Communications|
+|18|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|19261|Canada|Montreal|GloboTech Communications|
 
 
 
