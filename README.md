@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7955** proxies at the latest update. Usable proxies are below.
+> Scraper found **7954** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1002|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1001|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|714|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5281|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|4|103.96.146.56|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|5|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|6|139.180.39.201|8080|United States|El Paso|Conterra|
-|7|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|8|129.213.52.124|3128|United States|Ashburn|Oracle Corporation|
-|9|52.226.55.108|9000|United States|Boydton|Microsoft Corporation|
-|10|46.246.86.7|8118|Sweden|Stockholm|Portlane Network|
-|11|67.43.236.20|3657|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|25353|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|3145|Canada|Montreal|GloboTech Communications|
-|14|103.48.68.102|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|22899|Canada|Montreal|GloboTech Communications|
-|17|23.225.72.124|3502|United States|Los Angeles|Cnservers LLC|
-|18|72.10.160.171|7109|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3657|Canada|Montreal|GloboTech Communications|
-|20|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
+|1|121.101.134.214|1111|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
+|2|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|3|103.96.147.225|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|4|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|5|179.61.229.156|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|8|103.132.240.220|54198|India|Morvi|Spd Broadband Pvt Ltd|
+|9|139.180.39.201|8080|United States|El Paso|Conterra|
+|10|38.65.172.14|999|Mexico|Prados del Rosario|Cogent Communications|
+|11|72.10.160.171|15253|Canada|Montreal|GloboTech Communications|
+|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|13|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|20583|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|33025|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|5137|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|22899|Canada|Montreal|GloboTech Communications|
+|19|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|20|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
 
 
 
