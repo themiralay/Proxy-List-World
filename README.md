@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|3|205.196.184.69|50704|United States|Houston|Phonoscope|
-|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|5|185.251.91.19|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|205.196.184.69|50704|United States|Houston|Phonoscope|
+|5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
 |6|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|8|24.172.82.94|53281|United States|Hartsville|Spectrum|
-|9|67.43.236.20|3097|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|32369|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|19833|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|3097|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|14|43.155.155.231|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|15|67.43.227.230|27617|Canada|Montreal|GloboTech Communications|
-|16|103.96.147.46|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|17|72.10.173.196|8019|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27617|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3097|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
+|7|68.183.144.115|10007|United States|Clifton|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|67.43.227.227|1119|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
+|11|141.95.104.32|3128|Germany|Limburg an der Lahn|OVH SAS|
+|12|72.10.160.90|19609|Canada|Montreal|GloboTech Communications|
+|13|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|14|67.43.227.228|32369|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|14303|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
+|18|68.183.144.115|10007|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.236.20|14303|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|9833|Canada|Montreal|GloboTech Communications|
 
 
 
