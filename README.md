@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|1|43.153.140.235|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|3|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|4|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|5|67.43.228.253|30911|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|9223|Canada|Montreal|GloboTech Communications|
-|7|43.155.155.231|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|9|67.43.227.228|8553|Canada|Montreal|GloboTech Communications|
-|10|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.236.20|9223|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.160.171|27229|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9223|Canada|Montreal|GloboTech Communications|
-|15|13.40.8.80|80|United Kingdom|London|Amazon Technologies Inc.|
-|16|67.43.236.20|9223|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|8553|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|14461|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32689|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|30911|Canada|Montreal|GloboTech Communications|
+|3|13.40.8.80|80|United Kingdom|London|Amazon Technologies Inc.|
+|4|43.155.155.231|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|72.10.164.178|23911|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|23911|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.251|13935|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|32689|Canada|Montreal|GloboTech Communications|
+|9|118.179.122.197|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|10|72.10.164.178|23911|Canada|Montreal|GloboTech Communications|
+|11|122.54.34.10|8383|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|12|72.10.160.173|2921|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|27583|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23911|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|7925|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23911|Canada|Montreal|GloboTech Communications|
+|17|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|18|67.43.228.253|16823|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|20703|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|27229|Canada|Montreal|GloboTech Communications|
 
 
 
