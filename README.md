@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7379** proxies at the latest update. Usable proxies are below.
+> Scraper found **7349** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|890|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|860|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4949|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.222.20|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
+|2|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
 |3|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
-|8|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|11|185.246.209.93|9950|United States|Chicago|CDN77 - Chicago POP II|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
-|17|67.43.228.253|8037|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|24109|Canada|Montreal|GloboTech Communications|
-|19|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|20|181.41.142.254|443|India|Mumbai|HIVELOCITY, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|67.43.228.253|7937|Canada|Montreal|GloboTech Communications|
+|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|7|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
+|8|182.253.109.170|8080|Indonesia|Semarang|Biznet Metronet|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|11|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|116.12.44.33|9898|Indonesia|Jakarta|ADSNET|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.236.20|28507|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|28507|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|28507|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|28507|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|28507|Canada|Montreal|GloboTech Communications|
+|19|45.233.169.40|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
