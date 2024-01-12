@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|1|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
 |2|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|3|67.43.228.253|16645|Canada|Montreal|GloboTech Communications|
-|4|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|5|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|6|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|7|67.43.227.227|21307|Canada|Montreal|GloboTech Communications|
-|8|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|9|165.232.97.219|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|67.43.228.253|16645|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|21307|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|10755|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10755|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|23883|Canada|Montreal|GloboTech Communications|
-|15|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.160.90|23883|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|17759|Canada|Montreal|GloboTech Communications|
-|18|189.203.181.34|8080|Mexico|Gustavo Adolfo Madero|Total Play Telecomunicaciones SA De CV|
-|19|67.43.236.20|17759|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10755|Canada|Montreal|GloboTech Communications|
+|3|72.10.164.178|3121|Canada|Montreal|GloboTech Communications|
+|4|72.10.160.90|25723|Canada|Montreal|GloboTech Communications|
+|5|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|6|72.10.164.178|3121|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|19943|Canada|Montreal|GloboTech Communications|
+|8|103.172.71.11|8080|Indonesia|Karawang|AZNET|
+|9|116.203.65.28|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|10|67.43.236.20|19943|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|25723|Canada|Montreal|GloboTech Communications|
+|12|184.107.90.22|3128|Canada|Montreal|iWeb Technologies Inc|
+|13|67.43.228.253|3739|Canada|Montreal|GloboTech Communications|
+|14|65.21.35.155|3129|Finland|Helsinki|Hetzner Online GmbH|
+|15|65.21.35.155|3129|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.228.253|3739|Canada|Montreal|GloboTech Communications|
+|17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|18|116.203.65.28|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|20|65.21.35.155|3129|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
