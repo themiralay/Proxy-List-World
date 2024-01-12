@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
-|2|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|67.43.236.20|7195|Canada|Montreal|GloboTech Communications|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|7|72.10.160.90|12953|Canada|Montreal|GloboTech Communications|
-|8|45.122.253.185|2008|Vietnam|Quận Ngô Quyền|Hai Phong Brand - CMC Telecommunication Infrastructure Corporation|
-|9|67.43.236.18|3235|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|4|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|15193|Canada|Montreal|GloboTech Communications|
+|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|8|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
 |11|67.43.227.227|7323|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|3235|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|12953|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|5481|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|12953|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7195|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|7195|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12953|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|10757|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|16445|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|10757|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|15193|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|10757|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|18507|Canada|Montreal|GloboTech Communications|
 
 
 
