@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|3|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
-|6|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
-|7|67.43.227.227|4671|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.92|7483|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|4671|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|4671|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|10889|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|24571|Canada|Montreal|GloboTech Communications|
-|17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|18|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|26125|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20703|Canada|Montreal|GloboTech Communications|
+|2|67.43.227.227|4671|Canada|Montreal|GloboTech Communications|
+|3|72.10.160.90|24571|Canada|Montreal|GloboTech Communications|
+|4|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|5|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|6|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|72.10.164.178|1361|Canada|Montreal|GloboTech Communications|
+|8|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|9|67.43.227.228|14545|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|24571|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|4671|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|1361|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|21419|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|14545|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|25101|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|25101|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1361|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|1261|Canada|Montreal|GloboTech Communications|
+|19|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|1361|Canada|Montreal|GloboTech Communications|
 
 
 
