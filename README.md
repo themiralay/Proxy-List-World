@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|5|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|3|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
+|4|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
+|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|6|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
 |7|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|8|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|10|195.201.230.161|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|11|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|13|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|14|183.165.225.220|8089|China|Shenzhen|Chinanet|
-|15|67.43.236.20|31305|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|31305|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2753|Canada|Montreal|GloboTech Communications|
-|19|68.183.144.115|10004|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.226|32839|Canada|Montreal|GloboTech Communications|
+|8|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|9|67.43.228.253|26621|Canada|Montreal|GloboTech Communications|
+|10|68.183.144.115|10004|United States|Clifton|DigitalOcean, LLC|
+|11|67.43.236.20|3933|Canada|Montreal|GloboTech Communications|
+|12|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|13|67.43.236.20|3933|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|15|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|18|72.10.160.173|19829|Canada|Montreal|GloboTech Communications|
+|19|141.95.104.32|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
