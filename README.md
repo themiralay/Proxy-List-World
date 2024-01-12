@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7503** proxies at the latest update. Usable proxies are below.
+> Scraper found **7518** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1037|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|526|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4982|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|2|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|5|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
-|6|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
-|7|72.10.164.178|16143|Canada|Montreal|GloboTech Communications|
-|8|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|10|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|11|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|12|72.10.160.170|20033|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|15|72.10.164.178|16143|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|3127|Canada|Montreal|GloboTech Communications|
-|17|165.22.36.164|10008|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|19|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.20|31305|Canada|Montreal|GloboTech Communications|
+|1|152.67.0.109|80|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|4|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|183.165.227.219|8089|China|Shenzhen|Chinanet|
+|7|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|8|67.43.228.254|19037|Canada|Montreal|GloboTech Communications|
+|9|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|10|222.174.178.122|4999|China|Xintai|Chinanet|
+|11|72.10.164.178|32661|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|32661|Canada|Montreal|GloboTech Communications|
+|13|117.0.189.48|4001|Vietnam|Hanoi|Viettel Corporation|
+|14|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|72.10.164.178|32661|Canada|Montreal|GloboTech Communications|
+|16|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|72.10.164.178|32661|Canada|Montreal|GloboTech Communications|
+|18|167.172.238.15|10009|United States|Clifton|DigitalOcean, LLC|
+|19|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.228.253|9863|Canada|Montreal|GloboTech Communications|
 
 
 
