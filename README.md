@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|10|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|125.25.32.151|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|165.227.221.83|8080|United States|Clifton|DigitalOcean, LLC|
+|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|11|165.227.221.83|8080|United States|Clifton|DigitalOcean, LLC|
+|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|13|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|14|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|15|72.10.164.178|2651|Canada|Montreal|GloboTech Communications|
 |16|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|17|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|18|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|19|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|20|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
+|17|67.43.236.20|12953|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|12953|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|2571|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12953|Canada|Montreal|GloboTech Communications|
 
 
 
