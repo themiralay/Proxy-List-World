@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.132.221.169|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|2|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
-|3|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|4|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
-|5|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|6|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|7|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
-|8|103.23.30.110|3113|Indonesia|Sepatan|ICON+|
-|9|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|18627|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|24143|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|20795|Canada|Montreal|GloboTech Communications|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
+|2|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|3|72.10.160.92|12787|Canada|Montreal|GloboTech Communications|
+|4|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|5|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
+|6|67.43.228.253|4301|Canada|Montreal|GloboTech Communications|
+|7|117.0.189.48|4001|Vietnam|Hanoi|Viettel Corporation|
+|8|94.130.64.28|16163|Germany|Falkenstein|Hetzner Online GmbH|
+|9|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
+|10|45.11.95.165|5036|Russia|Moscow|Delta Ltd|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.60.41.164|999|Peru|Celendin|Telefonica del Peru S.A.A.|
+|14|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|16|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
 |17|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|2863|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|6489|Canada|Montreal|GloboTech Communications|
-|20|45.11.95.165|5021|Russia|Moscow|Delta Ltd|
+|18|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|8859|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|14079|Canada|Montreal|GloboTech Communications|
 
 
 
