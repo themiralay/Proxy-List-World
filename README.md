@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.159.0.236|2020|France|Paris|SCALEWAY|
-|2|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|3|103.150.93.18|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|4|103.141.109.157|8080|Indonesia|Setro|Data Buana Nusantara|
-|5|122.3.41.154|8090|Philippines|Talibon|Philippine Long Distance Telephone Co.|
-|6|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|158.140.169.86|80|Indonesia|Tuban|MYREPUBLIC|
-|9|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
-|10|72.10.164.178|15549|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|15549|Canada|Montreal|GloboTech Communications|
-|12|64.225.4.17|10004|United States|Clifton|DigitalOcean, LLC|
-|13|94.130.64.28|16063|Germany|Falkenstein|Hetzner Online GmbH|
-|14|72.10.160.172|23337|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|7859|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|7859|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|15915|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|7859|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|7931|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7859|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|122.3.41.154|8090|Philippines|Talibon|Philippine Long Distance Telephone Co.|
+|3|72.10.160.170|19437|Canada|Montreal|GloboTech Communications|
+|4|67.43.227.228|11059|Canada|Montreal|GloboTech Communications|
+|5|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|6|182.53.143.200|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|5.42.73.68|8080|Sweden|Stockholm|Aeza International LTD|
+|8|141.95.104.32|3128|Germany|Limburg an der Lahn|OVH SAS|
+|9|72.10.160.90|2257|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|25487|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|14159|Canada|Montreal|GloboTech Communications|
+|16|177.54.229.3|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|17|67.43.227.227|24949|Canada|Montreal|GloboTech Communications|
+|18|177.190.189.26|44443|Brazil|Pinheiros|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
+|19|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|20|190.6.23.222|999|Venezuela|Caracas|Net Uno|
 
 
 
