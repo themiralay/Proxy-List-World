@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7670** proxies at the latest update. Usable proxies are below.
+> Scraper found **7675** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5044|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|4|183.89.167.57|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|8|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
-|9|103.189.116.180|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|10|72.10.160.94|3135|Canada|Montreal|GloboTech Communications|
-|11|91.107.193.115|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|202.182.120.32|8001|Japan|Sōka|The Constant Company, LLC|
-|13|67.43.236.20|18235|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|18235|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|65.21.35.155|1994|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.228.254|8107|Canada|Montreal|GloboTech Communications|
-|18|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|19|72.10.164.178|20781|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20781|Canada|Montreal|GloboTech Communications|
+|1|43.163.235.207|8443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|183.89.167.57|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|118.179.23.82|32650|Bangladesh|Tejgaon|bdHUB|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|104.236.195.90|10012|United States|Clifton|DigitalOcean, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|51.250.64.75|3128|Russia|Moscow|Yandex.Cloud LLC|
+|11|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|12|43.163.235.207|8443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|14|104.236.195.90|10012|United States|Clifton|DigitalOcean, LLC|
+|15|67.43.227.228|1655|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|15617|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|15725|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|1655|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|15725|Canada|Montreal|GloboTech Communications|
+|20|103.134.251.203|32650|India|Bhiwāni|Micronet It Services Private Limited|
 
 
 
