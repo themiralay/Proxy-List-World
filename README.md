@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|10|116.58.232.195|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|13|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
-|14|182.253.246.236|8080|Indonesia|Tangsel|BIZNET|
-|15|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|16|64.189.106.6|3129|United States|Garland|Apogee Telecom Inc.|
-|17|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|67.43.227.227|12577|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28227|Canada|Montreal|GloboTech Communications|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|9|116.58.232.195|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|14|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|15|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|182.253.246.236|8080|Indonesia|Tangsel|BIZNET|
+|17|181.78.95.48|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|203.190.42.146|8080|Indonesia|Kediri|PT Jaring Lintas Utara|
+|19|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 
 
 
