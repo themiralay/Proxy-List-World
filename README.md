@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|2|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|78.158.171.170|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|5|141.95.104.32|3128|Germany|Limburg an der Lahn|OVH SAS|
+|1|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|103.14.225.158|3128|Vietnam|Hanoi|VNB|
+|3|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|4|72.10.164.178|14509|Canada|Montreal|GloboTech Communications|
+|5|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
 |6|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|27289|Canada|Montreal|GloboTech Communications|
-|8|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|9|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
-|10|67.43.228.253|25853|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|23153|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|29053|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|23153|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|13055|Canada|Montreal|GloboTech Communications|
-|16|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|17|183.88.134.233|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|18|67.43.227.230|29053|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|25853|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
+|7|45.4.201.91|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|8|58.20.77.187|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|72.10.164.178|14509|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|14509|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|13191|Canada|Montreal|GloboTech Communications|
+|12|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|13|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|10681|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|14509|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8705|Canada|Montreal|GloboTech Communications|
+|18|118.117.189.28|8089|China|Muping|Chinanet|
+|19|67.43.227.227|32427|Canada|Montreal|GloboTech Communications|
+|20|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
