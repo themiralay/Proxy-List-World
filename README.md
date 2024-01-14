@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.235.207|8443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|139.180.39.201|8080|United States|El Paso|Conterra|
-|6|144.48.190.0|8080|Hong Kong|Tseung Kwan O|CAMBO (HK) TECHNOLOGY (I.S.P) CO., LIMITED|
-|7|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|139.180.39.201|8080|United States|El Paso|Conterra|
-|10|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|11|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|12|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|67.43.227.227|28525|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|10467|Canada|Montreal|GloboTech Communications|
-|16|103.39.51.70|8080|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
-|17|189.204.208.195|999|Mexico|Azcapotzalco|Operbes, S.A. de C.V.|
-|18|212.23.217.76|8080|Iraq|Abu Ghraib|Optimum Line for Internet Services Ltd.|
-|19|181.13.232.98|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|20|72.10.160.90|5795|Canada|Montreal|GloboTech Communications|
+|4|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|103.144.245.166|8081|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|7|78.38.93.21|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|8|72.10.160.90|5795|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|24305|Canada|Montreal|GloboTech Communications|
+|10|189.204.208.197|999|Mexico|Azcapotzalco|Operbes, S.A. de C.V.|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|67.43.227.227|28525|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|20757|Canada|Montreal|GloboTech Communications|
+|14|85.117.60.162|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|15|67.43.236.18|10751|Canada|Montreal|GloboTech Communications|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
+|19|203.202.248.36|80|Bangladesh|Chittagong|Aamra Networks Limited|
+|20|103.74.229.133|8080|Bangladesh|Shibpur|Windstream Communication Ltd|
 
 
 
