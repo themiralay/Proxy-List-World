@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7446** proxies at the latest update. Usable proxies are below.
+> Scraper found **7373** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|919|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|551|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4945|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.81.34|8080|South Korea|Jongno-gu|Korea Telecom|
-|2|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|3|72.10.164.178|1257|Canada|Montreal|GloboTech Communications|
-|4|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.170|30343|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|8|178.237.247.3|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
-|9|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|10|72.10.160.90|9931|Canada|Montreal|GloboTech Communications|
-|11|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
-|12|72.10.164.178|1257|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|29807|Canada|Montreal|GloboTech Communications|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.172|1599|Canada|Montreal|GloboTech Communications|
-|16|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|17|186.96.96.134|999|Colombia|Purificacion|TV AZTECA SUCURSAL COLOMBIA|
-|18|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|19|67.43.236.20|7705|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1257|Canada|Montreal|GloboTech Communications|
+|1|67.43.236.20|23493|Canada|Montreal|GloboTech Communications|
+|2|72.10.160.90|8323|Canada|Montreal|GloboTech Communications|
+|3|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|4|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.90|8323|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|10491|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|10|190.5.96.6|999|Honduras|Ciudad Choluteca|Columbus Networks de Honduras S. de R.L.|
+|11|67.43.228.250|8913|Canada|Montreal|GloboTech Communications|
+|12|178.237.247.3|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
+|13|177.87.250.15|999|Argentina|San Juan|Twainsat SRL|
+|14|103.179.252.49|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
+|15|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|23493|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|23493|Canada|Montreal|GloboTech Communications|
+|19|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|20|72.10.164.178|7379|Canada|Montreal|GloboTech Communications|
 
 
 
