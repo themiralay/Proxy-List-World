@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7248** proxies at the latest update. Usable proxies are below.
+> Scraper found **7225** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|892|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|535|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4840|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.81.34|8080|South Korea|Jongno-gu|Korea Telecom|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|5|67.43.228.253|7007|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.174|18823|Canada|Montreal|GloboTech Communications|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|202.137.8.150|8080|Indonesia|Bekasi|LINKNET|
-|9|67.43.227.227|15537|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|7007|Canada|Montreal|GloboTech Communications|
-|11|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.236.20|9757|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|7007|Canada|Montreal|GloboTech Communications|
-|15|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|16|67.43.227.228|29187|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|9757|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
-|19|51.159.0.236|3128|France|Paris|SCALEWAY|
-|20|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|61.72.81.34|8080|South Korea|Jongno-gu|Korea Telecom|
+|3|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|4|67.43.236.20|1855|Canada|Montreal|GloboTech Communications|
+|5|72.10.164.178|2275|Canada|Montreal|GloboTech Communications|
+|6|67.43.228.253|7661|Canada|Montreal|GloboTech Communications|
+|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|8|67.43.227.228|20909|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|7661|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|9469|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.227.228|20909|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2275|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.229|20993|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|20909|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1855|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|67.43.227.227|9469|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|1855|Canada|Montreal|GloboTech Communications|
+|20|103.164.13.148|8080|Indonesia|Bekasi|PT Milenial Inti Telekomunikasi|
 
 
 
