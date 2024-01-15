@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|109.111.131.168|53281|Russia|Kaliningrad|TIS Dialog LLC|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
 |5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|9|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|12|5.9.153.179|49546|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|67.43.236.20|2857|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|13621|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11523|Canada|Montreal|GloboTech Communications|
-|17|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|11523|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20559|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|7851|Canada|Montreal|GloboTech Communications|
+|6|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|7|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|8|72.10.160.90|3205|Canada|Montreal|GloboTech Communications|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
+|12|72.10.164.178|25541|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|15|5.9.153.179|49546|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.164.178|25541|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25541|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|28171|Canada|Montreal|GloboTech Communications|
+|19|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|20|72.10.160.91|18307|Canada|Montreal|GloboTech Communications|
 
 
 
