@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6173** proxies at the latest update. Usable proxies are below.
+> Scraper found **6158** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|406|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|390|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4404|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|1|45.22.209.157|8888|United States|Hollywood|AT&T Services, Inc.|
 |2|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|3|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
 |5|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|6|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
-|7|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
 |8|72.10.160.90|27491|Canada|Montreal|GloboTech Communications|
-|9|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|10|178.154.244.216|3128|Russia|Moscow|Yandex Cloud|
-|11|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|72.10.160.171|4359|Canada|Montreal|GloboTech Communications|
-|14|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
-|15|104.236.195.90|10008|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|18|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|19|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
+|9|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|10|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11199|Canada|Montreal|GloboTech Communications|
+|15|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|94.130.64.28|16085|Germany|Falkenstein|Hetzner Online GmbH|
+|17|104.236.195.90|10011|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
+|19|201.20.118.146|27234|Brazil|Fortaleza|MOB SERVICOS DE TELECOMUNICACOES S.A.|
+|20|67.43.236.20|3831|Canada|Montreal|GloboTech Communications|
 
 
 
