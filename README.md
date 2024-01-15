@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|2|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|61.72.81.34|8080|South Korea|Seongbuk-gu|Korea Telecom|
-|5|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|6|38.45.44.54|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|7|196.251.222.229|8103|South Africa|Brits|Info-Gro (PTY) Ltd|
-|8|128.199.167.55|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|64.225.8.203|10000|United States|Clifton|DigitalOcean, LLC|
-|10|51.159.0.236|2020|France|Paris|SCALEWAY|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.160.90|1805|Canada|Montreal|GloboTech Communications|
-|13|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|1|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|2|193.191.148.189|443|Belgium|Antwerp|BELNET|
+|3|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|4|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
+|5|67.43.227.229|26943|Canada|Montreal|GloboTech Communications|
+|6|64.225.8.203|10007|United States|Clifton|DigitalOcean, LLC|
+|7|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|8|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|9|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|72.10.160.90|1805|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|2255|Canada|Montreal|GloboTech Communications|
+|13|190.6.23.219|999|Venezuela|Maracay|Net Uno|
 |14|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.228.253|2255|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19275|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|7007|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|7007|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|19275|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1805|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|16|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|17|128.199.167.55|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.227.227|13269|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|30151|Canada|Montreal|GloboTech Communications|
+|20|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
