@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6163** proxies at the latest update. Usable proxies are below.
+> Scraper found **6134** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|404|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|375|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4404|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|2|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|3|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|4|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|5|67.43.227.229|26943|Canada|Montreal|GloboTech Communications|
-|6|64.225.8.203|10007|United States|Clifton|DigitalOcean, LLC|
-|7|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|8|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
-|9|88.99.245.58|8901|Germany|Falkenstein|Hetzner Online GmbH|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.10.160.90|1805|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|2255|Canada|Montreal|GloboTech Communications|
-|13|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|14|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|15|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|16|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
-|17|128.199.167.55|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.227|13269|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|30151|Canada|Montreal|GloboTech Communications|
-|20|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|72.10.164.178|15965|Canada|Montreal|GloboTech Communications|
+|3|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|4|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
+|5|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|6|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|7|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
+|8|72.10.164.178|15965|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|2303|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|13957|Canada|Montreal|GloboTech Communications|
+|11|103.87.168.171|32650|India|Jaipur|Tejays|
+|12|72.10.164.178|15965|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|30151|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|2303|Canada|Montreal|GloboTech Communications|
+|16|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|16521|Canada|Montreal|GloboTech Communications|
+|19|190.14.233.45|999|Colombia|Villa de Leyva|Media Commerce Partners S.A|
+|20|67.43.236.20|16521|Canada|Montreal|GloboTech Communications|
 
 
 
