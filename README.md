@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|61.72.81.34|8080|South Korea|Seongbuk-gu|Korea Telecom|
 |2|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|3|67.43.236.20|8689|Canada|Montreal|GloboTech Communications|
-|4|103.158.220.82|82|India|Theni|Nt Cybronet Pvt Ltd|
-|5|103.155.192.91|4763|Indonesia|Jambi City|BAIKNET|
-|6|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|8|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
-|9|58.219.250.240|8089|China|Shanghai|Chinanet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|12|182.253.70.193|8080|Indonesia|Surabaya|BIZNET|
-|13|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|8699|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|16|14.207.87.186|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|18|114.97.89.75|8089|China|Rongcheng|Chinanet|
-|19|67.43.236.20|8689|Canada|Montreal|GloboTech Communications|
-|20|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|64.225.8.203|10005|United States|Clifton|DigitalOcean, LLC|
+|4|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
+|5|210.76.195.179|7890|China|Beijing|Chinese Science & Technology Network|
+|6|67.43.236.20|16321|Canada|Montreal|GloboTech Communications|
+|7|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
+|8|67.43.227.227|9863|Canada|Montreal|GloboTech Communications|
+|9|14.207.87.186|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|12|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|13|67.43.227.230|30493|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|15|72.10.160.170|30163|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|16321|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.227.230|30493|Canada|Montreal|GloboTech Communications|
+|19|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.228.253|21243|Canada|Montreal|GloboTech Communications|
 
 
 
