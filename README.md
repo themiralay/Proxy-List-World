@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.136.40.174|80|United States|Ashburn|Oracle Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|150.136.40.174|80|United States|Ashburn|Oracle Corporation|
-|4|103.166.28.63|8080|Indonesia|Bojonegoro|PT Global Media Data Prima|
-|5|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
-|6|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|7|203.175.100.133|8080|Indonesia|Karawang|NARANET|
-|8|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|9|72.10.160.171|31149|Canada|Montreal|GloboTech Communications|
-|10|94.130.64.28|16394|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.24.131.124|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|72.10.160.171|31149|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|185.200.37.121|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|72.10.160.170|11417|Canada|Montreal|GloboTech Communications|
-|18|189.204.208.197|999|Mexico|Sayula de Aleman|Operbes, S.A. de C.V.|
-|19|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|20|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|3|67.43.236.20|8689|Canada|Montreal|GloboTech Communications|
+|4|103.158.220.82|82|India|Theni|Nt Cybronet Pvt Ltd|
+|5|103.155.192.91|4763|Indonesia|Jambi City|BAIKNET|
+|6|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|8|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
+|9|58.219.250.240|8089|China|Shanghai|Chinanet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|12|182.253.70.193|8080|Indonesia|Surabaya|BIZNET|
+|13|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|8699|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|16|14.207.87.186|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
+|18|114.97.89.75|8089|China|Rongcheng|Chinanet|
+|19|67.43.236.20|8689|Canada|Montreal|GloboTech Communications|
+|20|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
