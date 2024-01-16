@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7182** proxies at the latest update. Usable proxies are below.
+> Scraper found **7177** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|790|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|662|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4772|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
-|6|103.165.58.109|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|8|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|72.10.164.178|18831|Canada|Montreal|GloboTech Communications|
-|11|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|12|67.43.227.228|30089|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|13035|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|21303|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|11975|Canada|Montreal|GloboTech Communications|
-|16|112.5.61.134|3128|China|Shenzhen|China Mobile|
-|17|183.164.242.60|8089|China|Rongcheng|Chinanet|
-|18|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|19|115.124.76.241|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|67.43.228.250|2849|Canada|Montreal|GloboTech Communications|
+|2|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|3|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|4|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|5|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM limited|
+|6|202.12.80.14|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|7|223.247.47.200|8089|China|Rongcheng|Chinanet|
+|8|183.165.227.34|8089|China|Rongcheng|Chinanet|
+|9|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|67.43.227.228|30089|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.91|13759|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18831|Canada|Montreal|GloboTech Communications|
+|14|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|104.236.195.90|10002|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.160.91|13759|Canada|Montreal|GloboTech Communications|
+|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|19|123.182.58.17|8089|China|Zhangjiakou|China Telecom|
+|20|45.11.95.165|5004|Russia|Moscow|Delta Ltd|
 
 
 
