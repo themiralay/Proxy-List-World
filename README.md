@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7025** proxies at the latest update. Usable proxies are below.
+> Scraper found **6998** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|541|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4772|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.137.110.195|7890|United States|Dublin|Amazon.com, Inc.|
-|2|144.48.190.0|8080|Hong Kong|Tseung Kwan O|CAMBO (HK) TECHNOLOGY (I.S.P) CO., LIMITED|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|3.137.110.195|7890|United States|Dublin|Amazon.com, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|67.43.236.22|6273|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|9|12.27.168.161|9080|United States|Clinton|AT&T Services, Inc.|
-|10|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|2135|Canada|Montreal|GloboTech Communications|
-|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|13|3.137.110.195|7890|United States|Dublin|Amazon.com, Inc.|
-|14|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|10517|Canada|Montreal|GloboTech Communications|
-|16|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.226|22775|Canada|Montreal|GloboTech Communications|
+|4|103.171.89.187|8082|Philippines|Magugpo Poblacion|Infinivan Incorporated|
+|5|191.102.254.9|8081|Argentina|Rosario|IP·RED|
+|6|118.179.23.82|32650|Bangladesh|Tejgaon|bdHUB|
+|7|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|10|103.114.97.98|8999|Bangladesh|Companiganj|Skynet Chowmuhani|
+|11|114.103.89.119|8089|China|Guangzhou|Chinanet|
+|12|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|13|103.89.233.226|82|India|Mangalore|Deenet Services Pvt Ltd|
+|14|67.43.227.227|15889|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|21269|Canada|Montreal|GloboTech Communications|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|3.137.110.195|7890|United States|Dublin|Amazon.com, Inc.|
+|18|67.43.227.229|24339|Canada|Montreal|GloboTech Communications|
+|19|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
+|20|180.120.210.173|8089|China|Nanjing|Chinanet|
 
 
 
