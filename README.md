@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6648** proxies at the latest update. Usable proxies are below.
+> Scraper found **6557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|456|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4642|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|149.50.238.196|8080|Turkey|Istanbul|Cogent Communications|
-|5|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|91.185.55.225|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|8|103.224.195.41|3128|Taiwan|Yingge District|kbro CO. Ltd.|
-|9|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|10|139.180.39.200|8080|United States|El Paso|Conterra|
-|11|178.237.241.81|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
-|12|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|13|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|43.153.227.51|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|17|67.43.227.227|23475|Canada|Montreal|GloboTech Communications|
-|18|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|104.42.189.43|3128|United States|San Francisco|Microsoft Corporation|
-|20|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|178.237.245.17|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
+|5|103.224.195.41|3128|Taiwan|Yingge District|kbro CO. Ltd.|
+|6|91.185.55.225|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|7|139.180.39.200|8080|United States|El Paso|Conterra|
+|8|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|9|72.10.160.171|16455|Canada|Montreal|GloboTech Communications|
+|10|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|11|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.236.20|2219|Canada|Montreal|GloboTech Communications|
+|14|43.153.227.51|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|29019|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|32455|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|15081|Canada|Montreal|GloboTech Communications|
+|19|178.237.245.17|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
+|20|72.10.160.90|32455|Canada|Montreal|GloboTech Communications|
 
 
 
