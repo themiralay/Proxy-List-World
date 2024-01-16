@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7061** proxies at the latest update. Usable proxies are below.
+> Scraper found **7052** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|861|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|852|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4772|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|116.109.35.237|2022|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|7|188.0.138.224|8080|Kazakhstan|Oral|Jusan Mobile JSC|
-|8|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|9|187.40.1.123|128|Brazil|São Paulo|V tal|
-|10|202.12.80.6|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|11|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|13|103.118.152.33|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|14|67.43.236.20|17637|Canada|Montreal|GloboTech Communications|
-|15|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|16|136.232.34.90|8080|India|Ranchi|Reliance Jio Infocomm Limited|
-|17|67.43.227.226|14233|Canada|Montreal|GloboTech Communications|
-|18|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|17637|Canada|Montreal|GloboTech Communications|
-|20|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|8|183.165.250.139|8089|China|Shenzhen|Chinanet|
+|9|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|10|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
+|11|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|12|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
+|13|129.80.194.130|8889|United States|Ashburn|Oracle Corporation|
+|14|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
+|15|103.224.195.41|3128|Taiwan|Yingge District|kbro CO. Ltd.|
+|16|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|17|114.106.173.213|8089|China|Rongcheng|Chinanet|
+|18|223.215.176.167|8089|China|Rongcheng|Chinanet|
+|19|123.182.58.238|8089|China|Zhangjiakou|China Telecom|
+|20|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
