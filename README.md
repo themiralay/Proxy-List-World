@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6865** proxies at the latest update. Usable proxies are below.
+> Scraper found **6768** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|703|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4642|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|6|77.41.146.45|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|7|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|8|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|9|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|10|67.43.228.253|12635|Canada|Montreal|GloboTech Communications|
+|3|171.250.75.71|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|188.132.221.133|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.252|32065|Canada|Montreal|GloboTech Communications|
+|8|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|72.10.160.90|6909|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|23919|Canada|Montreal|GloboTech Communications|
 |11|159.65.180.117|10010|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.236.20|15271|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|7299|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|1921|Canada|Montreal|GloboTech Communications|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|72.10.164.178|2525|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2525|Canada|Montreal|GloboTech Communications|
-|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|19|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|20|72.10.160.170|6803|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|4891|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|16|72.10.164.178|31157|Canada|Montreal|GloboTech Communications|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|19|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|20|18.230.149.138|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
