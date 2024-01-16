@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.81.34|8080|South Korea|Seongbuk-gu|Korea Telecom|
-|2|61.7.138.42|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|9|223.215.177.108|8089|China|Rongcheng|Chinanet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|72.10.160.171|2113|Canada|Montreal|GloboTech Communications|
-|13|103.24.107.102|1515|Indonesia|Depok|Quantum Dist POP GC CORP|
-|14|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
-|15|103.190.170.134|3127|Indonesia|Klaten|PT Ring Media Nusantara|
-|16|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
-|17|72.10.160.90|1687|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|4997|Canada|Montreal|GloboTech Communications|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|1|61.7.138.42|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|61.72.81.34|8080|South Korea|Seongbuk-gu|Korea Telecom|
+|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|72.10.160.90|16251|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|2185|Canada|Montreal|GloboTech Communications|
+|9|130.61.107.180|80|Germany|Frankfurt am Main|Oracle Corporation|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|185.82.99.107|9094|Lebanon|Tripoli|NET 360 S.A.R.L|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.160.92|13437|Canada|Montreal|GloboTech Communications|
+|14|60.174.1.152|8089|China|Rongcheng|Chinanet|
+|15|72.10.164.178|2185|Canada|Montreal|GloboTech Communications|
+|16|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|17|72.10.160.90|16251|Canada|Montreal|GloboTech Communications|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
+|20|67.43.236.20|19397|Canada|Montreal|GloboTech Communications|
 
 
 
