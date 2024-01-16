@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|3|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|4|45.116.230.79|8080|India|Kottayam|DWANIRINN|
-|5|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|6|103.156.140.238|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|7|103.115.20.18|8181|Indonesia|Subang|PMYNET|
-|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|9|67.43.227.228|22929|Canada|Montreal|GloboTech Communications|
-|10|183.165.244.178|8089|China|Rongcheng|Chinanet|
-|11|72.10.164.178|13727|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|6715|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|10417|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|10417|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13727|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|17|104.236.195.90|10002|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.228.251|19475|Canada|Montreal|GloboTech Communications|
-|19|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|20|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|2|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|3|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|5|67.43.227.227|10223|Canada|Montreal|GloboTech Communications|
+|6|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|7|67.43.227.228|15321|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|1739|Canada|Montreal|GloboTech Communications|
+|9|182.160.107.1|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|67.43.227.227|10223|Canada|Montreal|GloboTech Communications|
+|11|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.228.250|14939|Canada|Montreal|GloboTech Communications|
+|13|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|67.43.236.20|29279|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|29279|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|1739|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|10223|Canada|Montreal|GloboTech Communications|
+|18|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|67.43.228.253|2115|Canada|Montreal|GloboTech Communications|
 
 
 
