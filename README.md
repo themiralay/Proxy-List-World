@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7938** proxies at the latest update. Usable proxies are below.
+> Scraper found **8035** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|827|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|755|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5309|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|203.190.53.197|8080|Indonesia|Jakarta|PT POWER TELECOM|
 |3|101.109.26.32|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|167.235.6.234|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|178.237.240.94|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
-|7|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
-|8|202.40.178.50|8090|Bangladesh|Dhaka|Ranks ITT|
-|9|131.100.48.73|999|Colombia|La Argentina|Fibernet TV SAS|
-|10|103.138.27.250|6000|Bangladesh|Farīdganj|HelloTech Limited|
-|11|45.11.95.166|6005|Russia|Moscow|Delta Ltd|
-|12|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
-|13|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|62.210.119.138|3128|France|Paris|Online S.A.S.|
-|15|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|17|72.10.160.171|32337|Canada|Montreal|GloboTech Communications|
-|18|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|19|178.237.241.14|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
-|20|64.225.8.203|10004|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|45.171.109.1|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|9|45.11.95.166|6010|Russia|Moscow|Delta Ltd|
+|10|103.131.18.172|8080|Indonesia|Tigaraksa|PT Global Media Data Prima|
+|11|187.35.135.87|59871|Brazil|São Paulo|Vivo|
+|12|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|13|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
+|15|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
+|17|117.54.11.82|3128|Indonesia|Jakarta|PT IndoInternet|
+|18|64.225.8.203|10011|United States|Clifton|DigitalOcean, LLC|
+|19|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|20|103.89.233.226|82|India|Mangalore|Deenet Services Pvt Ltd|
 
 
 
