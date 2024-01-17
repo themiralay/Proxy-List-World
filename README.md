@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8194** proxies at the latest update. Usable proxies are below.
+> Scraper found **8161** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|546|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|546|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|546|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1264|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1231|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|827|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.166.10.136|82|Indonesia|Tulungagung|PT. Yasmin Amanah Media|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|38.7.2.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|190.242.45.164|999|Colombia|Mogotes|Liberty Networks De Colombia|
-|9|69.63.78.199|3129|Eswatini|Manzini|Swaziland Posts & Telecommunications Corp.|
-|10|103.26.108.254|84|India|Tirunelveli|Niss Networks|
-|11|183.88.196.41|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|13|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
-|18|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|19|103.152.232.84|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
-|20|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|101.109.26.32|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|5|178.237.240.94|8090|Russia|Moscow|Federal State Unitary Enterprise of the Order of the Red Banner of Labour "Russ|
+|6|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
+|8|74.48.66.101|3128|United States|Los Angeles|Multacom Corporation|
+|9|67.43.236.20|18441|Canada|Montreal|GloboTech Communications|
+|10|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|11|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|12|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|13|72.10.164.178|3109|Canada|Montreal|GloboTech Communications|
+|14|194.233.74.230|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|16|67.43.228.253|3847|Canada|Montreal|GloboTech Communications|
+|17|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|19|139.255.213.58|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|20|67.43.236.20|18441|Canada|Montreal|GloboTech Communications|
 
 
 
