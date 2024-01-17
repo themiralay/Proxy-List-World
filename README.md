@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7824** proxies at the latest update. Usable proxies are below.
+> Scraper found **7672** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1005|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|716|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|200.6.190.147|999|Colombia|Popayán|EPM Telecomunicaciones S.A. E.S.P.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|5|119.76.142.234|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|6|113.176.118.255|7654|Vietnam|Tam Ky|VNPT|
-|7|146.196.40.146|8888|Indonesia|Karawang|UNINA|
-|8|103.26.110.202|84|India|Tirunelveli|Niss Networks|
-|9|172.232.235.188|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
-|10|54.199.11.46|9001|Japan|Tokyo|Amazon.com, Inc.|
-|11|103.158.220.82|82|India|Theni|Nt Cybronet Pvt Ltd|
-|12|101.255.17.6|8033|Indonesia|Tangerang|PT Remala Abadi|
-|13|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|17|204.199.120.28|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|72.10.160.90|13709|Canada|Montreal|GloboTech Communications|
-|20|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|113.176.118.255|7654|Vietnam|Tam Ky|VNPT|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|200.6.190.147|999|Colombia|Popayán|EPM Telecomunicaciones S.A. E.S.P.|
+|11|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|12|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|13|223.29.224.228|1122|Pakistan|Lahore|Orient Express LDI Limited|
+|14|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|15|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
+|16|67.43.227.227|24849|Canada|Montreal|GloboTech Communications|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|72.10.160.90|10771|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|32193|Canada|Montreal|GloboTech Communications|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
