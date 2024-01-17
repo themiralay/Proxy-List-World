@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|2|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|3|41.205.24.188|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|4|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|2|114.103.89.169|8089|China|Guangzhou|Chinanet|
+|3|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|4|190.6.23.219|999|Venezuela|Maracay|Net Uno|
 |5|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|6|183.165.227.62|8089|China|Rongcheng|Chinanet|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|183.165.227.100|8089|China|Rongcheng|Chinanet|
-|9|67.43.236.20|14525|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|13327|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|27335|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14525|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|15|183.165.248.23|8089|China|Shenzhen|Chinanet|
-|16|58.20.82.114|2323|China|Yueyang|CNC Group CHINA169 Hunan Province Network|
-|17|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|18|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|20|109.175.9.201|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
+|6|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|7|41.205.24.188|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|8|64.225.8.203|10015|United States|Clifton|DigitalOcean, LLC|
+|9|223.247.47.55|8089|China|Rongcheng|Chinanet|
+|10|114.106.137.67|8089|China|Guangzhou|Chinanet|
+|11|58.20.82.114|2323|China|Yueyang|CNC Group CHINA169 Hunan Province Network|
+|12|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|13|103.89.233.226|83|India|Mangalore|Deenet Services Pvt Ltd|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
+|16|188.34.140.205|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|183.165.248.108|8089|China|Shenzhen|Chinanet|
+|18|104.236.195.90|10014|United States|Clifton|DigitalOcean, LLC|
+|19|183.165.248.23|8089|China|Shenzhen|Chinanet|
+|20|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
