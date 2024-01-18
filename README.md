@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7400** proxies at the latest update. Usable proxies are below.
+> Scraper found **7428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|522|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|515|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5014|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|85.95.173.73|3154|Russia|Saransk|Dynamic IP Poools customers in the|
-|5|171.97.116.219|8080|Thailand|Chiang Mai|True Internet Corporation CO. Ltd.|
-|6|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|9|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|171.97.116.219|8080|Thailand|Chiang Mai|True Internet Corporation CO. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|7|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|20.235.104.105|3729|India|Pune|Microsoft Corporation|
 |10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|11|167.172.238.15|10000|United States|Clifton|DigitalOcean, LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|12|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
 |13|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|67.43.228.252|9351|Canada|Montreal|GloboTech Communications|
-|16|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|17|67.43.228.252|9351|Canada|Montreal|GloboTech Communications|
-|18|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|67.43.228.253|28133|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|15259|Canada|Montreal|GloboTech Communications|
+|14|103.133.222.220|102|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|15|67.43.227.227|28341|Canada|Montreal|GloboTech Communications|
+|16|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|17|72.10.164.178|16951|Canada|Montreal|GloboTech Communications|
+|18|112.109.16.51|8080|Indonesia|Beji|DATAUTAMANET|
+|19|67.43.227.227|28341|Canada|Montreal|GloboTech Communications|
+|20|45.11.95.165|5027|Russia|Moscow|Delta Ltd|
 
 
 
