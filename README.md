@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7017** proxies at the latest update. Usable proxies are below.
+> Scraper found **7075** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|766|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|817|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|479|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|486|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4814|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.125.63.128|8080|Japan|Chiyoda|SAKURA Internet Inc.|
+|1|193.191.148.189|443|Belgium|Antwerp|BELNET|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|4|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|5|67.43.236.20|8169|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|18475|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|18475|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.171|26659|Canada|Montreal|GloboTech Communications|
-|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
-|11|72.10.160.90|18265|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.236.18|11277|Canada|Montreal|GloboTech Communications|
-|14|217.100.18.204|8080|The Netherlands|Almere Stad|ZIGGO|
-|15|72.10.164.178|18475|Canada|Montreal|GloboTech Communications|
-|16|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|58.20.82.114|2323|China|Yueyang|CNC Group CHINA169 Hunan Province Network|
-|18|50.204.36.138|60808|United States|Chicago|Comcast Cable Communications, LLC|
-|19|123.182.59.213|8089|China|Zhangjiakou|China Telecom|
-|20|109.175.9.201|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
+|4|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|5|133.125.63.128|8080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|168.181.81.225|9090|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|7|67.43.227.227|23675|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|27015|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|15353|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|23675|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|23675|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|4307|Canada|Montreal|GloboTech Communications|
+|13|175.106.8.18|7979|Indonesia|Jakarta|Quantum Dist POP KBJ PS-SH|
+|14|113.107.4.198|7015|China|Xiaolou|Chinanet|
+|15|67.43.227.229|16341|Canada|Montreal|GloboTech Communications|
+|16|103.87.168.164|32650|India|Jaipur|Tejays|
+|17|117.69.237.36|8089|China|Rongcheng|Chinanet|
+|18|72.10.160.91|11051|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|16919|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|15353|Canada|Montreal|GloboTech Communications|
 
 
 
