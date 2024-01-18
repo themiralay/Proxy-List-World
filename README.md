@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7193** proxies at the latest update. Usable proxies are below.
+> Scraper found **7446** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|959|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|549|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4719|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5001|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|27.77.151.108|10027|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|9|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|152.67.0.109|80|India|Mumbai|Oracle Corporation|
+|7|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|8|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
+|9|27.77.151.108|10027|Vietnam|Ho Chi Minh City|Viettel Group|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|45.147.99.213|8080|France|Paris|Serverd SAS|
-|14|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|15|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
-|16|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|17|176.124.199.31|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|11|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|12|186.31.95.4|3128|Colombia|Bogotá|ETB - Colombia|
+|13|69.160.223.33|8181|United States|Lapel|Swayzee Telephone Company, Inc.|
+|14|82.115.223.137|3128|The Netherlands|Amsterdam|WAIcore Hosting LTD.|
+|15|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
+|16|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
+|17|173.209.66.178|16099|United States|San Juan|Smartcom Telephone|
 |18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|104.236.195.90|10011|United States|Clifton|DigitalOcean, LLC|
-|20|209.141.48.31|3128|United States|Las Vegas|FranTech Solutions|
+|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|20|103.131.18.172|8080|Indonesia|Tigaraksa|PT Global Media Data Prima|
 
 
 
