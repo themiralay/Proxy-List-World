@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7309** proxies at the latest update. Usable proxies are below.
+> Scraper found **7395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|952|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4888|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|2|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|3|72.10.160.170|10127|Canada|Montreal|GloboTech Communications|
-|4|67.43.236.20|10713|Canada|Montreal|GloboTech Communications|
-|5|114.106.134.187|8089|China|Guangzhou|Chinanet|
-|6|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|7|45.71.184.239|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|8|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|9|119.39.68.88|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|67.43.227.227|28775|Canada|Montreal|GloboTech Communications|
-|11|120.46.130.16|3128|China|Beijing|Huawei Cloud Service data center|
-|12|67.43.227.228|23211|Canada|Montreal|GloboTech Communications|
-|13|14.103.26.198|8000|China|Beijing|BITNET|
-|14|51.159.0.236|2020|France|Paris|SCALEWAY|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|72.10.160.90|16757|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16757|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10713|Canada|Montreal|GloboTech Communications|
-|19|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.32.249|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|67.43.236.20|10075|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|15105|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.173|13067|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|1187|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|10075|Canada|Montreal|GloboTech Communications|
+|12|45.22.209.157|8888|United States|Hollywood|AT&T Services, Inc.|
+|13|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
+|14|60.174.0.114|8089|China|Rongcheng|Chinanet|
+|15|36.6.144.162|8089|China|Rongcheng|Chinanet|
+|16|190.5.96.6|999|Honduras|Ciudad Choluteca|Columbus Networks de Honduras S. de R.L.|
+|17|111.225.153.104|8089|China|Zhoutou|China Telecom|
+|18|67.43.227.227|28775|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|15127|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31499|Canada|Montreal|GloboTech Communications|
 
 
 
