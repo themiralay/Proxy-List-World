@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|6|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|7|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|8|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|9|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|10|103.167.68.75|6363|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|11|180.131.242.221|48678|Japan|Tokyo|GLBB Japan KK|
-|12|223.215.177.136|8089|China|Rongcheng|Chinanet|
-|13|117.69.191.99|41122|China|Shanghai|Chinanet|
-|14|72.10.164.178|2039|Canada|Montreal|GloboTech Communications|
-|15|183.164.242.50|8089|China|Rongcheng|Chinanet|
-|16|189.223.195.130|999|Mexico|Ensenada|Uninet S.A. de C.V.|
-|17|72.10.160.90|13067|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|20|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.245.204.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|7|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|8|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|9|114.106.134.31|8089|China|Guangzhou|Chinanet|
+|10|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.231.240.83|8990|Philippines|Batangas|De La Salle University|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|103.164.213.78|8088|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|16|177.87.250.13|999|Argentina|San Juan|Twainsat SRL|
+|17|72.10.164.178|4447|Canada|Montreal|GloboTech Communications|
+|18|183.166.136.203|41122|China|Rongcheng|Chinanet|
+|19|191.252.184.53|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|20|190.80.188.90|999|Dominican Republic|Tamayo|Compañía Dominicana de Teléfonos S. A|
 
 
 
