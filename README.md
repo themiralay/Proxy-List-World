@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7515** proxies at the latest update. Usable proxies are below.
+> Scraper found **7581** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1032|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1098|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|637|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4888|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|4|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
-|5|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|6|112.109.16.51|8080|Indonesia|Beji|DATAUTAMANET|
-|7|134.65.48.134|3128|Brazil|Vinhedo|Oracle Corporation|
-|8|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|6|103.105.76.249|8080|Indonesia|Malang|GARUDA|
+|7|103.178.2.191|3128|Indonesia|Bandung|RSTNET|
+|8|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |9|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|10|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|11|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|13|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|211.222.98.67|24019|South Korea|Seoul|Korea Telecom|
-|15|42.193.179.113|8118|China|Shenzhen|China Internet Network Information Center|
-|16|67.43.227.227|29703|Canada|Montreal|GloboTech Communications|
-|17|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
-|18|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|19|183.165.224.255|8089|China|Rongcheng|Chinanet|
-|20|112.78.170.251|8080|Indonesia|Central Java|BIZNET|
+|10|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|11|118.99.73.201|8080|Indonesia|Kebon Pala|BIZNET|
+|12|38.50.165.55|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L.|
+|13|51.159.0.236|2020|France|Paris|SCALEWAY|
+|14|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|15|167.249.227.221|8080|Brazil|Sao Jose|Unifique Telecomunicações SA|
+|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|17|114.106.172.84|8089|China|Rongcheng|Chinanet|
+|18|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|19|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|20|72.10.160.173|13543|Canada|Montreal|GloboTech Communications|
 
 
 
