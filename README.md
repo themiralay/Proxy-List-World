@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7291** proxies at the latest update. Usable proxies are below.
+> Scraper found **7180** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|601|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4857|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|113.176.118.255|7654|Vietnam|Tam Ky|VNPT|
-|7|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|187.245.214.7|999|Mexico|Joaquin Miguel Gutierrez|Mega Cable, S.A. de C.V.|
-|11|72.10.164.178|25325|Canada|Montreal|GloboTech Communications|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.170|21551|Canada|Montreal|GloboTech Communications|
-|14|103.192.158.199|8080|Bangladesh|Tongi|City Online Ltd.|
-|15|67.43.228.253|2457|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|26357|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2457|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|12103|Canada|Montreal|GloboTech Communications|
-|19|94.131.106.196|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|103.136.106.34|80|Bangladesh|Dhaka|Jagobd IT|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.174|29129|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|1211|Canada|Montreal|GloboTech Communications|
+|14|125.87.86.11|8089|China|Chongqing|China Telecom|
+|15|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|16|67.43.227.227|13539|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13539|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
 
 
 
