@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7346** proxies at the latest update. Usable proxies are below.
+> Scraper found **7293** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|517|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4863|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|3|109.111.151.102|53281|Russia|Kaliningrad|TIS Dialog LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|139.180.39.205|8080|United States|El Paso|Conterra|
-|6|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|2573|Canada|Montreal|GloboTech Communications|
-|8|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|9|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|10|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
-|11|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|12767|Canada|Montreal|GloboTech Communications|
-|13|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|14|154.79.252.174|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|103.52.6.40|8080|Indonesia|Tangkilsari|PT Nanaka Network Communication|
-|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|17|67.43.236.20|19937|Canada|Montreal|GloboTech Communications|
-|18|58.20.82.114|2323|China|Yueyang|CNC Group CHINA169 Hunan Province Network|
-|19|67.43.236.20|19937|Canada|Montreal|GloboTech Communications|
-|20|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|45.119.85.85|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
+|3|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
+|4|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|103.146.184.138|1111|Indonesia|Sragen|YAMNET|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|51.38.238.99|3128|France|Gravelines|OVH SAS|
+|9|129.151.246.167|3128|France|Marseille|Oracle Corporation|
+|10|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|109.111.151.102|53281|Russia|Kaliningrad|TIS Dialog LLC|
+|12|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
+|13|162.0.238.147|80|United States|Los Angeles|Namecheap, Inc.|
+|14|121.1.3.178|8888|Philippines|Makati City|Smart Broadband, Inc.|
+|15|172.104.46.119|3128|Singapore|Singapore|Akamai Technologies|
+|16|162.0.238.147|80|United States|Los Angeles|Namecheap, Inc.|
+|17|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|18|162.19.255.48|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|187.249.20.153|8081|Mexico|Ciudad Guzmán|Transtelco Inc|
 
 
 
