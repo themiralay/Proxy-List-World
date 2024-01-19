@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|103.136.106.34|80|Bangladesh|Dhaka|Jagobd IT|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|29129|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|1211|Canada|Montreal|GloboTech Communications|
-|14|125.87.86.11|8089|China|Chongqing|China Telecom|
-|15|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|16|67.43.227.227|13539|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|13539|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|22181|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|45.11.95.165|5010|Russia|Moscow|Delta Ltd|
+|10|103.153.136.93|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|14|72.10.164.178|10735|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|16|67.43.227.226|29899|Canada|Montreal|GloboTech Communications|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|72.10.160.174|29129|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1557|Canada|Montreal|GloboTech Communications|
 
 
 
