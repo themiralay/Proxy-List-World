@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7372** proxies at the latest update. Usable proxies are below.
+> Scraper found **7394** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|883|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|520|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5011|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|1|209.79.65.132|8080|United States|Orange|Orange County Department of Education|
 |2|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|3|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|6|197.159.16.165|8080|Cameroon|Yaoundé|Cameroon Telecommunications|
-|7|154.83.29.105|3030|Venezuela|Barinas|internautas system|
-|8|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|9|162.243.184.21|10005|United States|Clifton|DigitalOcean, LLC|
-|10|67.43.227.227|26259|Canada|Montreal|GloboTech Communications|
-|11|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|12|72.10.160.90|17253|Canada|Montreal|GloboTech Communications|
-|13|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|14|67.43.227.228|5935|Canada|Montreal|GloboTech Communications|
-|15|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|16|177.159.120.74|58080|Brazil|Porto Alegre|Vivo|
-|17|117.65.58.36|8089|China|Shanghai|Chinanet|
-|18|183.165.249.7|8089|China|Rongcheng|Chinanet|
-|19|191.252.191.254|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|20|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|209.79.65.132|8080|United States|Orange|Orange County Department of Education|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|7|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|8|137.184.6.37|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|10|67.43.227.226|33215|Canada|Montreal|GloboTech Communications|
+|11|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|72.10.164.178|25025|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|26159|Canada|Montreal|GloboTech Communications|
+|14|211.222.98.67|24001|South Korea|Seoul|Korea Telecom|
+|15|149.86.142.48|8080|Türkiye|Reyhanli|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|179.50.90.166|8500|Colombia|Medellín|GTD COLOMBIA|
+|17|67.43.227.226|33215|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|11251|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.21|23863|Canada|Montreal|GloboTech Communications|
+|20|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 
 
 
