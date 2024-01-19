@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7326** proxies at the latest update. Usable proxies are below.
+> Scraper found **7395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|528|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4863|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.239.227|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|2|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|3|103.178.194.234|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
-|5|139.180.39.205|8080|United States|El Paso|Conterra|
-|6|139.180.39.205|8080|United States|El Paso|Conterra|
-|7|72.10.160.90|29129|Canada|Montreal|GloboTech Communications|
-|8|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|9|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|72.10.160.171|32087|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|18221|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18221|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3293|Canada|Montreal|GloboTech Communications|
-|15|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|181.209.80.134|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|17|67.43.228.253|21649|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|10003|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|28273|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|7049|Canada|Montreal|GloboTech Communications|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|139.180.39.200|8080|United States|El Paso|Conterra|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|38.49.138.140|999|Mexico|Pachuca|Ientc S De RL De CV|
+|6|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|190.120.176.197|999|Argentina|Quilmes|Coseidi S.A.|
+|8|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|139.180.39.200|8080|United States|El Paso|Conterra|
+|11|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|12|139.180.39.205|8080|United States|El Paso|Conterra|
+|13|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
+|14|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|15|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|16|72.10.160.90|24535|Canada|Montreal|GloboTech Communications|
+|17|181.209.82.202|999|Argentina|Villa San Agustin|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|129.80.194.130|8889|United States|Ashburn|Oracle Corporation|
+|19|202.12.80.10|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|20|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
