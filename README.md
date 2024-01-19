@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|4|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
-|5|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|7|181.205.241.227|999|Colombia|Medellín|Colombia Móvil|
-|8|67.43.236.21|18477|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|5321|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|3633|Canada|Montreal|GloboTech Communications|
-|11|117.69.236.73|8089|China|Rongcheng|Chinanet|
-|12|67.43.228.253|1459|Canada|Montreal|GloboTech Communications|
-|13|114.106.136.46|8089|China|Guangzhou|Chinanet|
-|14|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|15|38.183.144.66|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|16|64.225.8.203|10014|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.236.20|12389|Canada|Montreal|GloboTech Communications|
-|18|162.243.184.21|10010|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|12389|Canada|Montreal|GloboTech Communications|
-|20|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|2|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|3|160.19.94.188|5671|The Netherlands|Amsterdam|Xantho UAB|
+|4|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|5|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|6|112.109.16.51|8080|Indonesia|Beji|DATAUTAMANET|
+|7|134.65.48.134|3128|Brazil|Vinhedo|Oracle Corporation|
+|8|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|9|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|10|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|11|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|103.90.81.102|3128|Hong Kong|Wanchai|Lonlife Technology Co.|
+|13|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|14|211.222.98.67|24019|South Korea|Seoul|Korea Telecom|
+|15|42.193.179.113|8118|China|Shenzhen|China Internet Network Information Center|
+|16|67.43.227.227|29703|Canada|Montreal|GloboTech Communications|
+|17|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
+|18|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|19|183.165.224.255|8089|China|Rongcheng|Chinanet|
+|20|112.78.170.251|8080|Indonesia|Central Java|BIZNET|
 
 
 
