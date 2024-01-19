@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|4|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|5|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|7|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|120.28.218.151|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.228.251|24109|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|25423|Canada|Montreal|GloboTech Communications|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|5|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|6|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.252|11469|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|22371|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|183.165.224.248|8089|China|Rongcheng|Chinanet|
+|13|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|14|190.6.23.222|999|Venezuela|Maracay|Net Uno|
 |15|67.43.236.20|22371|Canada|Montreal|GloboTech Communications|
-|16|183.165.224.141|8089|China|Rongcheng|Chinanet|
-|17|72.10.164.178|1689|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|22371|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
 |18|67.43.236.20|22371|Canada|Montreal|GloboTech Communications|
-|19|139.180.39.205|8080|United States|El Paso|Conterra|
-|20|183.165.244.70|8089|China|Rongcheng|Chinanet|
+|19|72.10.160.90|12383|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|26919|Canada|Montreal|GloboTech Communications|
 
 
 
