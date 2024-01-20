@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8560** proxies at the latest update. Usable proxies are below.
+> Scraper found **8442** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|589|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|589|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|589|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1500|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|858|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5125|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|139.162.32.249|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|4|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|139.162.32.249|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
 |5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|6|185.252.232.242|58612|Germany|Düsseldorf|Contabo GmbH|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|10|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|11|190.14.233.45|999|Colombia|Villa de Leyva|Media Commerce Partners S.A|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|142.93.72.28|10005|United States|Clifton|DigitalOcean, LLC|
-|14|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|15|81.91.140.210|3128|Iran|Tehran|Datak Company LLC|
-|16|103.148.201.67|8080|Indonesia|Surakarta|WORTEL|
-|17|139.162.32.249|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|103.169.149.9|8080|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|20|109.175.9.201|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|8|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|9|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|12|142.93.72.28|10005|United States|Clifton|DigitalOcean, LLC|
+|13|78.38.93.21|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|14|103.164.235.53|21251|Indonesia|Tasikmalaya|PT Bantani Media Utama|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|17|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|18|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
+|19|190.14.233.45|999|Colombia|Villa de Leyva|Media Commerce Partners S.A|
+|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
 
 
 
