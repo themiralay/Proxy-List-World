@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8427** proxies at the latest update. Usable proxies are below.
+> Scraper found **8482** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1523|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|801|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|180.183.213.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
+|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|144.91.124.112|80|Germany|Nuremberg|Contabo GmbH|
-|11|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|171.100.139.27|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|13|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|14|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
-|15|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|18|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|20|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|23.116.18.154|3128|United States|Danville|AT&T Services, Inc.|
+|8|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|9|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|10|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|180.183.213.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|17|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|135.181.34.237|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|47.242.232.1|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|67.43.228.253|26821|Canada|Montreal|GloboTech Communications|
 
 
 
