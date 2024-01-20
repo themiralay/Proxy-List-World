@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7962** proxies at the latest update. Usable proxies are below.
+> Scraper found **7861** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1063|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|695|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|4|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|9|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|103.48.68.102|84|India|Hyderabad|Country Online Services PVT LTD|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.90|4539|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|67.43.227.228|22719|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13061|Canada|Montreal|GloboTech Communications|
-|18|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|19|72.10.164.178|13061|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|17335|Canada|Montreal|GloboTech Communications|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|5|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
+|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|7|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|10|103.106.219.47|3125|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|11|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|12|103.36.10.199|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|14|162.243.184.16|10014|United States|Clifton|DigitalOcean, LLC|
+|15|64.225.4.17|10000|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.94|10887|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|9747|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13061|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9747|Canada|Montreal|GloboTech Communications|
+|20|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
