@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
-|4|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|6|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|7|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|72.10.160.90|24907|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|24907|Canada|Montreal|GloboTech Communications|
-|12|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|13|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|14|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|15|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.227|1775|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2243|Canada|Montreal|GloboTech Communications|
-|18|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|2243|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|30151|Canada|Montreal|GloboTech Communications|
+|3|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|4|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|5|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|9|223.247.47.17|8089|China|Rongcheng|Chinanet|
+|10|72.10.160.90|4917|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|29043|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|4917|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|20997|Canada|Montreal|GloboTech Communications|
+|14|60.191.244.14|3128|China|Jinhua|Chinanet|
+|15|191.252.102.117|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|17|67.43.236.20|10801|Canada|Montreal|GloboTech Communications|
+|18|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.227.227|1775|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1775|Canada|Montreal|GloboTech Communications|
 
 
 
