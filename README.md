@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
-|3|180.183.213.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|5|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|180.183.213.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
 |6|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|10|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|7|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|144.91.124.112|80|Germany|Nuremberg|Contabo GmbH|
 |11|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
-|16|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|12|171.100.139.27|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|13|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|14|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|15|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
 |17|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|18|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|183.165.226.6|8089|China|Shenzhen|Chinanet|
+|18|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|20|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
