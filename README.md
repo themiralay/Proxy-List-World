@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8492** proxies at the latest update. Usable proxies are below.
+> Scraper found **8645** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|649|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|649|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|649|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1613|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1766|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|776|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.92.92.80|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
 |2|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|103.244.163.116|3128|Hong Kong|Kwai Chung|404 Network Information Co.|
-|6|64.23.152.240|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|164.92.92.80|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|190.167.44.131|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|9|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|103.1.51.204|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|103.165.155.108|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
+|3|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|64.23.152.240|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|9|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
+|10|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|103.1.51.204|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|12|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|103.183.119.147|3128|Vietnam|Tay Ho|MYCLOUD|
+|14|162.243.184.21|10006|United States|Clifton|DigitalOcean, LLC|
 |15|64.23.152.240|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|128.199.244.96|1234|Singapore|Singapore|DigitalOcean, LLC|
-|19|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|20|185.153.44.74|8080|Russia|Makhachkala|OOO "Intercom"|
+|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|17|114.5.163.229|8080|Indonesia|Curup|PT. INDOSAT Tbk|
+|18|190.167.44.131|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|19|103.39.51.21|8080|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|20|8.218.131.113|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
