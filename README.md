@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7708** proxies at the latest update. Usable proxies are below.
+> Scraper found **7565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1138|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|587|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5024|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
-|3|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|5|186.3.155.25|8080|Ecuador|Guayaquil|Telconet S.A|
-|6|130.162.224.168|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|7|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|9|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|10|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|13|109.175.9.201|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
-|14|67.43.228.253|3385|Canada|Montreal|GloboTech Communications|
-|15|103.169.255.196|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|16|67.43.227.227|25087|Canada|Montreal|GloboTech Communications|
-|17|103.36.10.85|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|18|67.43.228.253|3385|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25087|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27473|Canada|Montreal|GloboTech Communications|
+|1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|7|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|8|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|11|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|12|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|142.93.72.28|10005|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.227.227|31353|Canada|Montreal|GloboTech Communications|
+|17|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|72.10.164.178|25333|Canada|Montreal|GloboTech Communications|
+|19|162.243.184.21|10005|United States|Clifton|DigitalOcean, LLC|
+|20|190.6.23.221|999|Venezuela|Maracay|Net Uno|
 
 
 
