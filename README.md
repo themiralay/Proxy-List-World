@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8497** proxies at the latest update. Usable proxies are below.
+> Scraper found **8427** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1593|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1523|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|801|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5145|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
 |3|180.183.213.136|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|6|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|116.108.93.115|2022|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|178.154.244.216|3128|Russia|Moscow|Yandex Cloud|
+|9|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|10|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
+|11|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
 |12|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|97.78.161.170|8123|United States|Livonia|Charter Communications, Inc|
-|14|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|15|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|34.207.118.194|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|19|47.242.232.1|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|20|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|13|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
+|16|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|17|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|18|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|183.165.226.6|8089|China|Shenzhen|Chinanet|
 
 
 
