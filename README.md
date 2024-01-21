@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7613** proxies at the latest update. Usable proxies are below.
+> Scraper found **7514** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|983|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|884|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5166|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.180.39.201|8080|United States|El Paso|Conterra|
-|2|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|3|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|4|139.180.39.200|8080|United States|El Paso|Conterra|
-|5|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|3|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|4|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|6|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|197.13.21.10|3128|Tunisia|Gabès|EO DATACENTER|
 |8|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|9|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|16|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|17|139.180.39.201|8080|United States|El Paso|Conterra|
-|18|139.180.39.200|8080|United States|El Paso|Conterra|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|9|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|10|47.242.232.1|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|13|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|14|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|15|41.57.46.1|6060|South Africa|Meyerton|FTH SCR P7|
+|16|190.110.97.172|999|Chile|Vilcun|Silica Networks Argentina S.A.|
+|17|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|18|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
+|19|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|20|72.10.160.90|14509|Canada|Montreal|GloboTech Communications|
 
 
 
