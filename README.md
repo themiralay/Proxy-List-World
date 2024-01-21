@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8483** proxies at the latest update. Usable proxies are below.
+> Scraper found **8882** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|721|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|721|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|721|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1321|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1720|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|756|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5447|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|6|162.243.184.16|10012|United States|Clifton|DigitalOcean, LLC|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|9|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|13|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|15|103.163.13.112|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|16|162.243.184.16|10012|United States|Clifton|DigitalOcean, LLC|
-|17|43.243.140.58|10001|Indonesia|Bekasi|CEPATNET|
-|18|103.167.170.6|3125|Indonesia|Cibeber|PT Rajeg Media Telekomunikasi|
-|19|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.9.213|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|209.126.86.43|3128|United States|St Louis|Nubes, LLC|
+|3|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|113.176.118.255|7654|Vietnam|Tam Ky|VNPT|
+|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|103.38.104.195|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|12|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|195.206.51.22|3113|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|16|209.126.86.43|3128|United States|St Louis|Nubes, LLC|
+|17|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|190.120.254.241|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|20|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
