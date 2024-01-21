@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7566** proxies at the latest update. Usable proxies are below.
+> Scraper found **7751** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|907|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1092|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|597|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5104|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|5|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
-|8|72.10.160.170|19153|Canada|Montreal|GloboTech Communications|
-|9|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
-|10|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|11|72.10.160.171|21419|Canada|Montreal|GloboTech Communications|
-|12|186.194.119.205|5566|Brazil|Sirinhaem|Goonet Telecomunicacoes Ltda - ME|
-|13|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|14|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|15|186.96.96.131|999|Colombia|Purificacion|TV AZTECA SUCURSAL COLOMBIA|
-|16|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|17|85.95.173.73|3154|Russia|Saransk|Dynamic IP Poools customers in the|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|142.93.72.28|10011|United States|Clifton|DigitalOcean, LLC|
-|20|65.21.35.155|3574|Finland|Helsinki|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|3|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|136.239.176.66|8080|Philippines|Mandaluyong City|ComClark Network & Technology Corp|
+|6|67.43.236.20|13887|Canada|Montreal|GloboTech Communications|
+|7|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
+|8|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|9|197.13.21.10|3128|Tunisia|Gabès|EO DATACENTER|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|12|142.93.72.28|10011|United States|Clifton|DigitalOcean, LLC|
+|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|72.10.164.178|6353|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|6353|Canada|Montreal|GloboTech Communications|
+|16|223.27.144.51|80|Indonesia|Jakarta|PT Cyber Network Indonesia|
+|17|65.21.35.155|1403|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.228.251|27191|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|17157|Canada|Montreal|GloboTech Communications|
+|20|103.152.101.72|1122|Pakistan|Kahna Nau|KK Networks (Pvt) Ltd.|
 
 
 
