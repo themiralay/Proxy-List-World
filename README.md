@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1006|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1006|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1006|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|970|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|970|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|970|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.245.33.29|3128|South Korea|Gangbuk-gu|SK Broadband Co Ltd|
-|4|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|185.55.40.196|8282|Russia|Voronezh|LLC Real|
-|11|125.27.96.168|8080|Thailand|Pattaya|TOT Public Company Limited|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|15|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|18|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|19|209.141.48.31|3128|United States|Las Vegas|FranTech Solutions|
-|20|180.250.143.189|16|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|211.245.33.29|3128|South Korea|Gangbuk-gu|SK Broadband Co Ltd|
+|2|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|3|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|125.27.96.168|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|10|103.167.15.213|82|Bangladesh|Dhaka|Sajid Trading Limited|
+|11|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|12|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|159.65.176.77|10006|United States|Clifton|DigitalOcean, LLC|
+|14|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
+|16|103.110.34.43|8081|Indonesia|Grobogan|PT RECONET SEMESTA INDONESIA|
+|17|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|19|180.250.143.189|16|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|124.105.180.29|8082|Philippines|Polomolok|Philippine Long Distance Telephone Co.|
 
 
 
