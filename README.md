@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7274** proxies at the latest update. Usable proxies are below.
+> Scraper found **7116** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|974|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|427|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4915|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|190.238.231.44|1994|Peru|Ica|Telefonica Del Peru|
-|12|45.188.76.238|999|Mexico|Teapa|ONT NETWORKS SA de CV|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
+|9|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |13|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|14|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|72.10.160.90|1541|Canada|Montreal|GloboTech Communications|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
-|20|72.10.160.174|17269|Canada|Montreal|GloboTech Communications|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|67.43.236.20|32973|Canada|Montreal|GloboTech Communications|
+|18|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|19|67.43.227.227|10493|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11997|Canada|Montreal|GloboTech Communications|
 
 
 
