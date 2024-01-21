@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|93.188.206.180|3128|Kazakhstan|Astana|LLP "Kompaniya Hoster.KZ"|
-|5|103.163.134.162|8088|Indonesia|Banyuwangi|PROVITEL|
-|6|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|154.212.7.249|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
-|8|125.25.32.86|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|103.152.232.84|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
-|10|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|9569|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9569|Canada|Montreal|GloboTech Communications|
-|15|160.19.94.188|5671|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|1939|Canada|Montreal|GloboTech Communications|
-|18|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|20|69.75.140.157|8080|United States|Ontario|Spectrum|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|154.212.7.249|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|3|93.188.206.180|3128|Kazakhstan|Astana|LLP "Kompaniya Hoster.KZ"|
+|4|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|6|14.207.67.9|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
+|7|125.25.32.86|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|9|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|20021|Canada|Montreal|GloboTech Communications|
+|11|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|13|72.10.164.178|28185|Canada|Montreal|GloboTech Communications|
+|14|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|16|34.154.161.152|80|Italy|Milan|Google LLC|
+|17|67.43.236.20|18907|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|18907|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|20021|Canada|Montreal|GloboTech Communications|
+|20|183.165.224.41|8089|China|Rongcheng|Chinanet|
 
 
 
