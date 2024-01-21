@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6300** proxies at the latest update. Usable proxies are below.
+> Scraper found **7274** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|974|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|427|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4915|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|190.238.231.44|1994|Peru|Ica|Telefonica Del Peru|
-|14|158.180.50.131|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|61.216.156.222|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|16|201.71.3.58|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|142.147.114.50|8080|United States|Reno|Nextlink Broadband|
-|18|167.172.238.15|10007|United States|Clifton|DigitalOcean, LLC|
-|19|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|20|105.112.83.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|190.238.231.44|1994|Peru|Ica|Telefonica Del Peru|
+|12|45.188.76.238|999|Mexico|Teapa|ONT NETWORKS SA de CV|
+|13|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|14|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|72.10.160.90|1541|Canada|Montreal|GloboTech Communications|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
+|20|72.10.160.174|17269|Canada|Montreal|GloboTech Communications|
 
 
 
