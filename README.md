@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|49.49.168.74|8889|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|67.43.227.227|16709|Canada|Montreal|GloboTech Communications|
+|1|159.138.122.91|18081|Singapore|Singapore|Huawei International Pte. LTD|
+|2|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|67.43.227.228|5053|Canada|Montreal|GloboTech Communications|
 |8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|9|94.237.74.164|19102|Singapore|Singapore|UpCloud Ltd|
-|10|103.51.205.20|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
-|11|170.80.203.45|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|12|67.43.227.227|16709|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
-|14|111.225.153.108|8089|China|Zhoutou|China Telecom|
-|15|142.93.72.28|10013|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16709|Canada|Montreal|GloboTech Communications|
-|18|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|19|103.105.76.249|8080|Indonesia|Malang|GARUDA|
-|20|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
+|12|123.182.59.113|8089|China|Zhangjiakou|China Telecom|
+|13|181.49.177.198|8080|Colombia|Barranquilla|Telmex Colombia S.A.|
+|14|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
+|15|123.182.58.193|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
+|18|45.234.61.4|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|19|72.10.164.178|8727|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
 
 
 
