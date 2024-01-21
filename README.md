@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|114.5.199.208|8080|Indonesia|Padang|PT. INDOSAT Tbk|
-|5|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|6|67.43.228.253|4735|Canada|Montreal|GloboTech Communications|
-|7|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|8|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
-|9|72.10.164.178|17587|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|4735|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|13|67.43.228.253|4735|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|3569|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|3569|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|4735|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3569|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17587|Canada|Montreal|GloboTech Communications|
-|19|103.159.194.249|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|20|189.15.10.184|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|112.78.134.134|7777|Indonesia|Jakarta|Biznet Networks|
+|6|67.43.236.20|9515|Canada|Montreal|GloboTech Communications|
+|7|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
+|8|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|9|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|67.43.236.20|9515|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|9515|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|9515|Canada|Montreal|GloboTech Communications|
+|13|8.212.4.168|8081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|200.7.11.154|8080|Brazil|Bom Jesus de Goias|Conexao Telematica LTDA|
+|15|103.20.90.121|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|16|67.43.227.227|24291|Canada|Montreal|GloboTech Communications|
+|17|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|18|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|19|202.154.18.29|8080|Indonesia|Lamongan|DIGITNET|
+|20|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
