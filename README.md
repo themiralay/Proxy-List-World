@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|806|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|806|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|806|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|850|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|850|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|850|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|2|183.89.115.240|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|14.207.19.33|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.64.208.189|53281|Russia|Kstovo|Svyazist LLC|
-|6|38.54.81.96|3128|Philippines|Manila|Kaopu Cloud HK Limited|
-|7|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|8|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|9|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|10|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|213.231.12.165|53281|Ukraine|Odesa|TOV TRK "Briz"|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|138.185.15.140|999|Peru|Lima|LOA AMERICAS|
-|14|62.113.97.196|3128|Russia|St Petersburg|BEGET.RU|
-|15|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|17|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|1|183.89.115.240|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|14.207.19.33|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|3|185.64.208.189|53281|Russia|Kstovo|Svyazist LLC|
+|4|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
+|6|135.181.221.83|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.127.220.78|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|12|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|13|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
+|15|187.145.85.144|999|Mexico|Querétaro City|Uninet S.A. de C.V.|
+|16|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|18|111.225.152.195|8089|China|Zhoutou|China Telecom|
+|19|120.33.126.200|3128|China|Gaosha|Chinanet|
+|20|67.43.236.18|33159|Canada|Montreal|GloboTech Communications|
 
 
 
