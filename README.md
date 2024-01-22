@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9165** proxies at the latest update. Usable proxies are below.
+> Scraper found **9325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1104|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2150|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5113|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.144.60|3128|United States|Ashburn|Oracle Corporation|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|193.122.144.60|3128|United States|Ashburn|Oracle Corporation|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|6|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|7|154.64.231.208|8081|United States|Los Angeles|Cogent Communications|
-|8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|9|154.64.231.208|8081|United States|Los Angeles|Cogent Communications|
-|10|183.165.227.179|8089|China|Shenzhen|Chinanet|
-|11|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|12|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|13|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|14|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|15|67.43.228.253|4603|Canada|Montreal|GloboTech Communications|
-|16|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|18|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|5|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|38.159.231.62|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|202.154.36.57|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|9|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|10|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|11|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|12|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|14|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|15|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|67.43.236.20|12613|Canada|Montreal|GloboTech Communications|
+|18|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.236.20|12613|Canada|Montreal|GloboTech Communications|
 |20|72.10.160.90|25893|Canada|Montreal|GloboTech Communications|
 
 
