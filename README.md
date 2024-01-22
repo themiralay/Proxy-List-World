@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8796** proxies at the latest update. Usable proxies are below.
+> Scraper found **8658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|752|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|752|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|752|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1152|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1014|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1693|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4993|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.139.1.215|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
 |3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
-|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|10|67.43.228.251|29361|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
-|12|168.196.126.230|999|Dominican Republic|Santiago de los Caballeros|COMCAST-SRL|
-|13|103.38.104.197|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|23289|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12917|Canada|Montreal|GloboTech Communications|
-|18|124.105.205.12|3128|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|19|72.10.160.170|2365|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28719|Canada|Montreal|GloboTech Communications|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.84.177.212|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|9|47.242.232.1|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|186.166.204.118|999|Venezuela|Yaritagua|TELEFONICA VENEZOLANA, C.A.|
+|11|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31481|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|23977|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|31481|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|20153|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
 
 
 
