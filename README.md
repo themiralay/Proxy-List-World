@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8825** proxies at the latest update. Usable proxies are below.
+> Scraper found **8747** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|716|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|716|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|716|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|815|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|815|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|815|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1677|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5206|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
-|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|5|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
+|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|158.140.184.237|8080|Indonesia|Jakarta|MYREPUBLIC|
+|8|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|67.43.236.20|19457|Canada|Montreal|GloboTech Communications|
-|12|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|67.43.236.20|19457|Canada|Montreal|GloboTech Communications|
-|14|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|15|162.243.184.16|10008|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.228.250|28331|Canada|Montreal|GloboTech Communications|
-|17|177.93.45.154|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|166.111.61.199|26001|China|Haidian|China Education and Research Network Center|
-|19|72.10.160.90|19077|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19077|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.160.90|19077|Canada|Montreal|GloboTech Communications|
+|15|144.48.110.208|8085|Bangladesh|Dhaka|ICC Communication|
+|16|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|17|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.227.227|5313|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.179|10003|United States|Clifton|DigitalOcean, LLC|
+|20|65.21.35.155|11386|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
