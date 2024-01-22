@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11716** proxies at the latest update. Usable proxies are below.
+> Scraper found **11772** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1969|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1969|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1969|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1758|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1758|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1758|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|3717|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5454|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|15|137.184.1.155|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|137.184.1.155|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
-|19|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|20|223.27.144.51|80|Indonesia|Jakarta|PT Cyber Network Indonesia|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|12|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|13|38.7.30.129|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|15|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
+|16|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|69.160.223.129|8181|United States|Lapel|Swayzee Telephone Company, Inc.|
+|18|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|19|103.110.11.122|3128|Indonesia|Ciamis|PT Citra Jelajah Informatika|
+|20|190.97.238.81|999|Venezuela|Maracaibo||
 
 
 
