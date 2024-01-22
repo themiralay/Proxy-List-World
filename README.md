@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9967** proxies at the latest update. Usable proxies are below.
+> Scraper found **10008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1017|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1017|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1017|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1660|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1701|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2194|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5155|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|1|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|103.156.248.133|8085|Indonesia|Percut|Trans Media Telekomunikasi|
-|7|103.151.177.105|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|8|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
 |9|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|10|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|158.180.50.131|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|118.175.206.4|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
-|14|221.144.29.131|8228|South Korea|Damyang-gun|Korea Telecom|
-|15|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|16|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|19|67.43.227.228|6969|Canada|Montreal|GloboTech Communications|
-|20|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|10|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|11|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|12|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|13|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
+|16|103.89.233.226|82|India|Mangalore|Deenet Services Pvt Ltd|
+|17|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|18|72.10.160.90|25315|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|13663|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|9139|Canada|Montreal|GloboTech Communications|
 
 
 
