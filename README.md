@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **11492** proxies at the latest update. Usable proxies are below.
+> Scraper found **11118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1577|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1577|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1577|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1561|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1870|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|3210|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5454|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|183.89.161.151|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|5.161.191.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|183.89.117.119|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|1|103.166.10.136|202|Indonesia|Tulungagung|PT. Yasmin Amanah Media|
+|2|114.9.24.174|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|3|103.217.216.66|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|4|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
 |7|27.76.101.67|3128|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|5.161.191.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
-|10|158.180.50.131|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|11|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
-|12|201.20.94.93|8080|Brazil|Petrolina|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|13|181.225.107.189|999|Colombia|Facatativá|TV AZTECA SUCURSAL COLOMBIA|
-|14|5.161.191.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|72.10.164.178|7007|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|124.104.10.252|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|18|72.10.160.171|16503|Canada|Montreal|GloboTech Communications|
-|19|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|20|14.103.26.53|8000|China|Beijing|BITNET|
+|8|89.147.155.228|8080|Oman|Muscat|Awaser Oman LLC|
+|9|183.89.161.151|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|103.153.149.221|8181|Indonesia|Tekikbanyuurip|JARINGANKU|
+|11|5.161.191.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|158.180.50.131|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|200.45.73.115|3188|Argentina|San Miguel de Tucumán|Telecom Argentina S.A.|
+|14|140.238.34.53|8080|Japan|Tokyo|Oracle Corporation|
+|15|183.89.117.119|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|45.11.95.165|5025|Russia|Moscow|Delta Ltd|
+|18|67.43.227.228|7445|Canada|Montreal|GloboTech Communications|
+|19|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|20|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
