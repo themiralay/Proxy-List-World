@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8200** proxies at the latest update. Usable proxies are below.
+> Scraper found **8425** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|650|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|650|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|650|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|936|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1161|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1205|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5101|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|45.147.99.213|8080|France|Paris|Serverd SAS|
-|3|64.225.8.203|10010|United States|Clifton|DigitalOcean, LLC|
-|4|64.225.4.17|10005|United States|Clifton|DigitalOcean, LLC|
-|5|101.109.35.162|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|139.180.39.200|8080|United States|El Paso|Conterra|
-|7|64.225.8.203|10010|United States|Clifton|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.227.227|9939|Canada|Montreal|GloboTech Communications|
-|10|65.21.35.155|3238|Finland|Helsinki|Hetzner Online GmbH|
-|11|45.147.99.213|8080|France|Paris|Serverd SAS|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|67.43.227.228|13105|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|15451|Canada|Montreal|GloboTech Communications|
-|15|183.166.136.167|41122|China|Rongcheng|Chinanet|
-|16|67.43.227.227|9939|Canada|Montreal|GloboTech Communications|
-|17|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|162.55.95.91|56787|Germany|Falkenstein|Hetzner Online GmbH|
-|19|65.21.35.155|3238|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.227.227|9939|Canada|Montreal|GloboTech Communications|
+|1|45.147.99.213|8080|France|Paris|Serverd SAS|
+|2|162.55.95.91|24211|Germany|Falkenstein|Hetzner Online GmbH|
+|3|139.180.39.200|8080|United States|El Paso|Conterra|
+|4|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|5|138.2.35.50|3128|Japan|Osaka|Oracle Corporation|
+|6|190.80.188.90|999|Dominican Republic|Tamayo|Compañía Dominicana de Teléfonos S. A|
+|7|183.165.226.188|8089|China|Shenzhen|Chinanet|
+|8|67.43.227.227|2589|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|2589|Canada|Montreal|GloboTech Communications|
+|10|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|11|72.10.164.178|11351|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|2589|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|12089|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|5573|Canada|Montreal|GloboTech Communications|
+|15|162.243.184.21|10004|United States|Clifton|DigitalOcean, LLC|
+|16|183.165.244.154|8089|China|Rongcheng|Chinanet|
+|17|72.10.160.93|9765|Canada|Montreal|GloboTech Communications|
+|18|183.165.227.2|8089|China|Shenzhen|Chinanet|
+|19|72.10.160.90|27321|Canada|Montreal|GloboTech Communications|
+|20|103.48.68.102|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
