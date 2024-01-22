@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|869|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|869|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|869|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|949|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|949|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|949|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|5|5.161.191.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|193.191.148.189|443|Belgium|Antwerp|BELNET|
-|8|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|10|178.162.199.213|3333|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|11|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|12|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|14|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
-|15|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|16|162.243.184.16|10010|United States|Clifton|DigitalOcean, LLC|
-|17|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
-|18|162.243.184.16|10010|United States|Clifton|DigitalOcean, LLC|
-|19|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
-|20|5.161.206.125|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|195.246.109.42|3128|United Kingdom|Bristol|Bristol City Council|
+|7|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|8|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|9|42.114.89.184|3128|Vietnam|Hanoi|FPT Telecom Company|
+|10|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|11|166.111.61.199|26001|China|Haidian|China Education and Research Network Center|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|64.225.8.179|10012|United States|Clifton|DigitalOcean, LLC|
+|15|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.227.227|3731|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|3731|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|22999|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|11407|Canada|Montreal|GloboTech Communications|
+|20|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
 
 
 
