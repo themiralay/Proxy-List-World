@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9567** proxies at the latest update. Usable proxies are below.
+> Scraper found **9460** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2185|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5352|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
-|8|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|9|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
-|11|162.243.184.21|10001|United States|Clifton|DigitalOcean, LLC|
-|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|13|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|14|103.70.79.3|8080|Indonesia|Sukoharjo|Diskominfo Kabupaten Sukoharjo|
-|15|72.10.160.174|5025|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|17|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|18|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|5185|Canada|Montreal|GloboTech Communications|
-|20|213.91.232.94|8080|Bulgaria|Dolni Chiflik|Vivacom Bulgaria EAD|
+|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|67.43.236.20|19167|Canada|Montreal|GloboTech Communications|
+|14|152.32.187.164|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|67.43.236.20|19167|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16921|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16921|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.118|10011|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|16921|Canada|Montreal|GloboTech Communications|
 
 
 
