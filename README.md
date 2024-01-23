@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7708** proxies at the latest update. Usable proxies are below.
+> Scraper found **7650** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1037|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|979|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5222|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|103.213.218.24|2311|Vietnam|Lê Chân District|V9ERP|
+|1|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
+|2|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
 |3|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
-|4|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
-|5|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|6|72.10.160.170|29601|Canada|Montreal|GloboTech Communications|
-|7|5.161.206.125|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|72.10.160.170|29601|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|4013|Canada|Montreal|GloboTech Communications|
-|10|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|11|64.225.8.179|10006|United States|Clifton|DigitalOcean, LLC|
-|12|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
-|13|103.213.218.24|2311|Vietnam|Lê Chân District|V9ERP|
-|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.21.35.155|11059|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.228.253|26361|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26361|Canada|Montreal|GloboTech Communications|
-|19|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|67.43.236.18|10433|Canada|Montreal|GloboTech Communications|
+|4|67.43.227.227|18733|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.170|7409|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|18959|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|13735|Canada|Montreal|GloboTech Communications|
+|8|177.93.45.156|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|67.43.228.253|10283|Canada|Montreal|GloboTech Communications|
+|10|95.216.181.107|8128|Finland|Helsinki|Hetzner Online GmbH|
+|11|67.43.228.253|10283|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|7409|Canada|Montreal|GloboTech Communications|
+|13|103.76.151.122|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|72.10.164.178|13735|Canada|Montreal|GloboTech Communications|
+|15|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|16|103.1.50.51|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|17|45.179.200.129|999|Colombia|Casabianca|NET&COM LTDA.|
+|18|72.10.164.178|13735|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|18959|Canada|Montreal|GloboTech Communications|
+|20|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
 
 
 
