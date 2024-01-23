@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9662** proxies at the latest update. Usable proxies are below.
+> Scraper found **9594** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|835|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|835|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|835|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|837|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|837|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|837|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1262|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1215|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2069|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5373|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5352|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|6|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|7|103.165.222.190|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|9|67.43.228.253|23627|Canada|Montreal|GloboTech Communications|
-|10|103.172.1.35|8080|Indonesia|Surabaya|PT Cubiespot Pilar Data Nusantara|
-|11|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
-|13|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|27.147.24.205|8080|Taiwan|Taipei|Extra-Lan Technologies Co., LTD|
-|15|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
-|16|64.225.8.179|10005|United States|Clifton|DigitalOcean, LLC|
-|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|18|117.69.232.199|8089|China|Rongcheng|Chinanet|
-|19|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|20|223.247.47.116|8089|China|Rongcheng|Chinanet|
+|2|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|7|159.203.104.153|8200|United States|Clifton|DigitalOcean, LLC|
+|8|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|11|35.199.90.225|8888|Brazil|Sao Paulo|Google LLC|
+|12|103.30.182.116|80|Indonesia|Semarang|PT DES Teknologi Informasi|
+|13|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.227.228|11119|Canada|Montreal|GloboTech Communications|
+|15|138.197.20.244|10012|United States|Clifton|DigitalOcean, LLC|
+|16|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
+|18|45.188.164.3|1994|Mexico|Atotonilco el Alto|Velocom SA De CV|
+|19|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|20|72.10.160.174|24107|Canada|Montreal|GloboTech Communications|
 
 
 
