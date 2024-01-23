@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10424** proxies at the latest update. Usable proxies are below.
+> Scraper found **10287** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1550|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1413|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2543|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5373|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|3|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|202.5.59.102|5020|Bangladesh|Chittagong|BBTS-NEW|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|38.52.220.194|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|8|203.177.133.236|8080|Philippines|Taguig|Globe Telecom|
-|9|103.105.76.249|8080|Indonesia|Malang|GARUDA|
-|10|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|11|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|13|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|15|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|16|200.32.51.179|8080|Argentina|San Juan Bautista|Telefonica de Argentina|
-|17|103.147.247.171|8080|Indonesia|Tangerang|PLBNET|
-|18|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|35.200.161.98|80|India|Mumbai|Google LLC|
-|20|103.189.197.10|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|1|158.140.184.237|8080|Indonesia|Jakarta|MYREPUBLIC|
+|2|152.67.0.109|80|India|Mumbai|Oracle Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|64.225.8.203|10013|United States|Clifton|DigitalOcean, LLC|
+|8|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|202.162.43.182|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
+|11|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|12|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|13|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.163.13.112|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|17|156.244.64.36|40066|Hong Kong|Hong Kong|Shenzhen Jizhan Technology Co|
+|18|85.95.173.73|3154|Russia|Saransk|Dynamic IP Poools customers in the|
+|19|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
 
 
 
