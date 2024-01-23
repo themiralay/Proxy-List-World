@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7332** proxies at the latest update. Usable proxies are below.
+> Scraper found **7415** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|815|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|337|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5222|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|5|72.10.160.90|27097|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.228|5671|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.253|12549|Canada|Montreal|GloboTech Communications|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|1041|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|24963|Canada|Montreal|GloboTech Communications|
-|12|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|13|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.227.228|5671|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|24963|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
+|3|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|67.43.227.228|24125|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
+|8|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|72.10.160.90|27097|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|24125|Canada|Montreal|GloboTech Communications|
+|11|201.71.2.149|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|12|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
+|13|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
+|16|102.68.136.1|82|Zambia|Ndola|AirLink Broadband Limited|
+|17|67.43.228.253|12549|Canada|Montreal|GloboTech Communications|
 |18|67.43.228.253|12549|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24963|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24963|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2939|Canada|Montreal|GloboTech Communications|
+|20|62.205.169.74|53281|Russia|Moscow|CORBINA|
 
 
 
