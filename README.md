@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10045** proxies at the latest update. Usable proxies are below.
+> Scraper found **9899** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1077|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1077|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1077|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1045|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1045|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1045|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1411|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5373|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|36.88.11.215|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|187.95.124.108|3128|Brazil|Cascavel|Ligga Telecomunicações S.A|
-|7|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|8|185.64.208.19|53281|Russia|Kstovo|Svyazist LLC|
-|9|103.153.149.17|8080|Indonesia|Kendal|JARINGANKU|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|13|143.198.208.53|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|121.101.134.214|1111|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
-|15|61.8.70.114|2023|Indonesia|Jombang|PT Aplikanusa Lintasarta|
-|16|190.6.204.143|999|Honduras|Tegucigalpa|Cablecolor S.A.|
-|17|65.21.35.155|25991|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.166.29.119|32650|Indonesia|Bojonegoro|PT Global Media Data Prima|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|7|185.64.208.19|53281|Russia|Kstovo|Svyazist LLC|
+|8|187.95.124.108|3128|Brazil|Cascavel|Ligga Telecomunicações S.A|
+|9|85.95.173.73|3154|Russia|Saransk|Dynamic IP Poools customers in the|
+|10|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|162.243.184.16|10007|United States|Clifton|DigitalOcean, LLC|
+|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|16|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|17|167.172.238.15|10009|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.228.251|31751|Canada|Montreal|GloboTech Communications|
+|19|187.95.124.108|3128|Brazil|Cascavel|Ligga Telecomunicações S.A|
+|20|143.198.208.53|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
