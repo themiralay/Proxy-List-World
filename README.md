@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5765** proxies at the latest update. Usable proxies are below.
+> Scraper found **5845** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1045|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3260|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|2|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|36.93.133.170|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|4|114.5.199.206|8080|Indonesia|Padang|PT. INDOSAT Tbk|
 |5|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|187.40.1.123|128|Brazil|São Paulo|V tal|
-|11|80.78.68.87|8080|Albania|Shkoder|ABCom Network|
-|12|116.109.9.152|2023|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|181.228.149.59|8080|Argentina|Bahía Blanca|Telecom Argentina S.A.|
-|15|67.43.227.227|27483|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|32643|Canada|Montreal|GloboTech Communications|
-|17|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|18|202.137.8.150|8080|Indonesia|South Tangerang|LINKNET|
-|19|72.10.164.178|4441|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|28455|Canada|Montreal|GloboTech Communications|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|65.0.129.53|3128|India|Mumbai|Amazon.com|
+|9|67.43.227.228|8063|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|2115|Canada|Montreal|GloboTech Communications|
+|11|94.130.64.28|16315|Germany|Falkenstein|Hetzner Online GmbH|
+|12|67.43.228.253|25125|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|2115|Canada|Montreal|GloboTech Communications|
+|14|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|16|67.43.228.253|25125|Canada|Montreal|GloboTech Communications|
+|17|185.86.81.27|8080|Türkiye|Bursa|Speed NET Internet Iletisim Haberlesme Tic.ltd.sti|
+|18|67.43.236.20|28455|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |20|67.43.227.228|8063|Canada|Montreal|GloboTech Communications|
 
 
