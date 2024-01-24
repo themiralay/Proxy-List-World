@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8042** proxies at the latest update. Usable proxies are below.
+> Scraper found **8039** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1162|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1159|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|498|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5424|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|171.237.93.42|4006|Vietnam|Hung Yen|Viettel Corporation|
-|3|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|6|187.134.178.37|999|Mexico|Los Mochis|Uninet S.A. de C.V.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|116.58.232.90|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
-|9|203.150.199.58|80|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|182.253.112.187|80|Indonesia|Weleri|BIZNET|
-|14|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|15|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|16|128.199.177.68|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|18|103.213.218.24|2311|Vietnam|Lê Chân District|V9ERP|
-|19|142.93.72.28|10001|United States|Clifton|DigitalOcean, LLC|
-|20|223.112.53.2|1025|China|Nanjing|China Mobile communications corporation|
+|1|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|7|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|182.253.112.187|80|Indonesia|Weleri|BIZNET|
+|10|103.186.35.138|8181|Indonesia|Bekasi|VIBERLINK|
+|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|12|139.180.39.205|8080|United States|El Paso|Conterra|
+|13|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|14|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|159.65.0.189|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|52.230.98.217|3128|Singapore|Singapore|Microsoft Corporation|
+|18|47.184.157.50|3128|United States|Garland|Frontier Communications Solutions|
+|19|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
