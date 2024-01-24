@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7780** proxies at the latest update. Usable proxies are below.
+> Scraper found **7776** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1051|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1047|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|538|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|184.168.124.245|27017|Singapore|Singapore|GoDaddy.com, LLC|
-|4|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|192.46.233.69|8090|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|103.53.185.8|8058|Indonesia|Makassar|BOSOWA|
-|10|45.5.117.77|999|Guatemala|Chiquimula|Inversiones Grajeda Andrade S.A|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|187.145.85.144|999|Mexico|Querétaro City|Uninet S.A. de C.V.|
-|15|158.180.50.131|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|17|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|18|35.213.89.8|3128|Japan|Tokyo|Google LLC|
-|19|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|20|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|10|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|16|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|17|190.80.188.91|999|Dominican Republic|Tamayo|Compañía Dominicana de Teléfonos S. A|
+|18|67.43.228.253|13627|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25273|Canada|Montreal|GloboTech Communications|
+|20|112.111.28.74|3128|China|Fuzhou|China Unicom CHINA169 Fujian Province Network|
 
 
 
