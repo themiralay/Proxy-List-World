@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7818** proxies at the latest update. Usable proxies are below.
+> Scraper found **7736** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1005|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5502|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.198.241.44|3128|United States|Ashburn|Amazon.com|
-|2|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|44.198.241.44|3128|United States|Ashburn|Amazon.com|
-|5|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|6|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|7|44.198.241.44|3128|United States|Ashburn|Amazon.com|
 |8|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|67.43.228.253|3409|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|29849|Canada|Montreal|GloboTech Communications|
-|11|183.165.249.51|8089|China|Rongcheng|Chinanet|
-|12|72.10.160.90|27773|Canada|Montreal|GloboTech Communications|
-|13|183.165.250.95|8089|China|Rongcheng|Chinanet|
-|14|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.164.178|14617|Canada|Montreal|GloboTech Communications|
-|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|17|181.78.11.218|999|Colombia|Guacari|IFX Networks Argentina S.R.L|
-|18|67.43.236.20|29849|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14617|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14617|Canada|Montreal|GloboTech Communications|
+|9|44.198.241.44|3128|United States|Ashburn|Amazon.com|
+|10|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|11|5.161.193.98|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|125.87.88.221|8089|China|Chongqing|China Telecom|
+|13|202.51.118.206|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|14|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|15|72.10.164.178|21853|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|21853|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|15249|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|2025|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|15249|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|29957|Canada|Montreal|GloboTech Communications|
 
 
 
