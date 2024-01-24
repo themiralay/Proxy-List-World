@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|2|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|139.59.48.12|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
-|7|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|8|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|9|182.253.112.187|80|Indonesia|Weleri|BIZNET|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|103.213.218.24|2311|Vietnam|Lê Chân District|V9ERP|
-|12|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|13|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
-|14|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|15|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|16|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|17|67.43.227.227|30261|Canada|Montreal|GloboTech Communications|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|67.43.227.227|30261|Canada|Montreal|GloboTech Communications|
-|20|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|1|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
+|4|86.57.133.127|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|5|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|139.59.48.12|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|72.10.160.92|26077|Canada|Montreal|GloboTech Communications|
+|11|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|12|120.33.126.200|3128|China|Gaosha|Chinanet|
+|13|180.131.242.221|48678|Japan|Tokyo|GLBB Japan KK|
+|14|72.10.164.178|25261|Canada|Montreal|GloboTech Communications|
+|15|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|16|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|190.6.23.218|999|Venezuela|Maracay|Net Uno|
+|18|72.10.160.90|4007|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|1747|Canada|Montreal|GloboTech Communications|
+|20|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
