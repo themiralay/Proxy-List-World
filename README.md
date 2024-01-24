@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5110** proxies at the latest update. Usable proxies are below.
+> Scraper found **5104** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|831|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2962|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|14.207.23.9|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|190.43.92.252|999|Peru|Tacna|Telefonica Del Peru|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|51.158.202.82|3128|The Netherlands|Haarlem|Online S.A.S.|
-|8|67.43.228.253|9679|Canada|Montreal|GloboTech Communications|
-|9|190.6.23.219|999|Venezuela|Maracay|Net Uno|
-|10|183.165.246.122|8089|China|Rongcheng|Chinanet|
-|11|171.253.102.137|8080|Vietnam|Hanoi|Viettel Corporation|
-|12|67.43.227.228|18823|Canada|Montreal|GloboTech Communications|
-|13|91.107.143.233|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|183.165.245.149|8089|China|Rongcheng|Chinanet|
-|15|102.214.104.56|8080|Libya|Masallātah|Rawafed|
-|16|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.90|6689|Canada|Montreal|GloboTech Communications|
-|18|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
-|19|67.43.227.226|8743|Canada|Montreal|GloboTech Communications|
-|20|82.218.176.25|32650|Austria|Vienna|kabelplus GmbH|
+|2|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|104.238.180.96|443|United States|Santa Clara|Choopa|
+|4|67.43.227.227|2545|Canada|Montreal|GloboTech Communications|
+|5|67.43.236.20|12797|Canada|Montreal|GloboTech Communications|
+|6|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|7|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
+|8|139.180.39.200|8080|United States|El Paso|Conterra|
+|9|67.43.236.20|12797|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|3655|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|10801|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|12797|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|12797|Canada|Montreal|GloboTech Communications|
+|14|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|15|205.201.49.144|53281|United States|Dexter|BPS Networks|
+|16|72.10.160.90|3655|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|10801|Canada|Montreal|GloboTech Communications|
+|18|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|19|72.10.164.178|26439|Canada|Montreal|GloboTech Communications|
+|20|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
