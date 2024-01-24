@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|2|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.213.218.34|2311|Vietnam|Lê Chân District|V9ERP|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.145.160.3|8080|Indonesia|Bogor|PT Indonesia Comnets Plus|
-|5|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|8|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|9|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
-|10|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|11|146.190.163.20|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|13|67.43.236.20|10333|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|25633|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|5695|Canada|Montreal|GloboTech Communications|
-|17|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|4|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|7|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|8|60.191.244.14|3128|China|Jinhua|Chinanet|
+|9|49.50.162.5|3128|South Korea|Seongnam-si|NBP|
+|10|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
+|11|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|12|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
+|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|38.156.75.45|8080|Turkey|Ataköy|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
 |18|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
-|19|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
-|20|183.165.249.97|8089|China|Rongcheng|Chinanet|
+|19|67.43.227.227|8169|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|8169|Canada|Montreal|GloboTech Communications|
 
 
 
