@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7694** proxies at the latest update. Usable proxies are below.
+> Scraper found **7758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1014|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1078|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|489|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|1|20.6.0.172|80|Singapore|Singapore|Microsoft Corporation|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|86.109.3.23|80|United States|Southfield|Packet Host, Inc.|
-|7|142.93.72.28|10008|United States|Clifton|DigitalOcean, LLC|
-|8|36.255.86.115|82|India|Bengaluru|Gatik Business Solutions|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|147.75.101.247|80|The Netherlands|Amsterdam|Equinix Services|
-|11|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
-|12|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|86.109.3.23|80|United States|Southfield|Packet Host, Inc.|
-|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|16|139.59.234.0|3128|Singapore|Singapore|DIGITALOCEAN|
-|17|172.174.143.211|3128|United States|Boydton|Microsoft|
-|18|86.109.3.23|80|United States|Southfield|Packet Host, Inc.|
-|19|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|20|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|7|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|8|147.75.101.247|80|The Netherlands|Amsterdam|Equinix Services|
+|9|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|10|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|11|35.213.89.8|3128|Japan|Tokyo|Google LLC|
+|12|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|13|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|14|67.43.227.227|24341|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|30533|Canada|Montreal|GloboTech Communications|
+|16|103.78.36.163|46977|Indonesia|Jakarta|MORATELINDO|
+|17|60.191.244.14|3128|China|Jinhua|Chinanet|
+|18|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|19|67.43.227.227|24341|Canada|Montreal|GloboTech Communications|
+|20|64.225.8.203|10005|United States|Clifton|DigitalOcean, LLC|
 
 
 
