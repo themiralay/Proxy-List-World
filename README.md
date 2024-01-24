@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8065** proxies at the latest update. Usable proxies are below.
+> Scraper found **8000** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1218|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1153|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5502|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|2|139.180.223.164|3128|Singapore|Singapore|Choopa|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|203.190.42.146|8090|Indonesia|Kediri|PT Jaring Lintas Utara|
-|5|99.62.41.65|3126|United States|Oklahoma City|AT&T Services, Inc.|
-|6|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|7|99.62.41.65|3126|United States|Oklahoma City|AT&T Services, Inc.|
-|8|200.106.116.22|999|Peru|Lima|Telefonica del Peru|
-|9|38.56.23.1|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|10|117.86.13.199|8089|China|Nanjing|Chinanet|
-|11|72.10.160.90|30389|Canada|Montreal|GloboTech Communications|
-|12|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|13|60.191.244.14|3128|China|Jinhua|Chinanet|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|72.10.164.178|11425|Canada|Montreal|GloboTech Communications|
-|16|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|17|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|23.116.18.154|3128|United States|Danville|AT&T Services, Inc.|
-|19|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|20|67.43.227.226|23281|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|8|103.224.92.165|3128|Taiwan|Taipei|404 Network Information Co.|
+|9|183.165.248.100|8089|China|Rongcheng|Chinanet|
+|10|72.10.164.178|5363|Canada|Montreal|GloboTech Communications|
+|11|103.115.31.3|8080|Indonesia|Depok|HSPNET|
+|12|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|67.43.228.253|13897|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.251|15905|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|31831|Canada|Montreal|GloboTech Communications|
+|16|138.197.20.244|10002|United States|Clifton|DigitalOcean, LLC|
+|17|102.50.252.231|8181|Morocco|Salé|Rabat 4G MarocTelecom|
+|18|111.225.153.198|8089|China|Zhoutou|China Telecom|
+|19|86.57.133.127|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|20|183.165.249.81|8089|China|Rongcheng|Chinanet|
 
 
 
