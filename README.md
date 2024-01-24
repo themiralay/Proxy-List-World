@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7844** proxies at the latest update. Usable proxies are below.
+> Scraper found **7837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1172|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1165|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|531|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5183|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|128.199.253.60|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|5|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|45.173.12.86|999|Colombia|Bogotá|Atenea Telecomunicaciones S.A.S|
+|7|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
 |8|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|9|61.8.70.114|2023|Indonesia|Jombang|PT Aplikanusa Lintasarta|
-|10|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|15|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|16|118.99.122.79|8080|Indonesia|Depok|BIZNET|
-|17|108.181.23.101|3128|United States|Los Angeles|Psychz Networks|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|5.161.180.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|183.165.224.65|8089|China|Rongcheng|Chinanet|
+|13|139.180.223.164|3128|Singapore|Singapore|Choopa|
+|14|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|15|114.9.24.210|8080|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|16|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|17|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|67.43.228.250|27293|Canada|Montreal|GloboTech Communications|
+|20|190.6.23.219|999|Venezuela|Maracay|Net Uno|
 
 
 
