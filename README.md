@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7210** proxies at the latest update. Usable proxies are below.
+> Scraper found **7111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1001|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|902|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|508|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4743|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.79.155.186|8080|Indonesia|Jakarta|MORATELINDO|
-|3|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|143.208.152.60|3180|Brazil|Niterói|ultraconexão soluçoes eireli|
-|7|181.78.19.248|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|8|190.14.249.174|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|9|125.229.149.169|65100|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|203.142.69.68|8080|Indonesia|Gambir|BIZNET|
-|13|67.43.228.253|25967|Canada|Montreal|GloboTech Communications|
-|14|103.235.34.114|8584|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|15|69.160.223.33|8181|United States|Lapel|Swayzee Telephone Company, Inc.|
-|16|65.21.35.155|58755|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.228.253|25967|Canada|Montreal|GloboTech Communications|
-|18|204.199.120.28|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|19|72.10.164.178|28327|Canada|Montreal|GloboTech Communications|
-|20|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
+|5|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|6|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|7|14.160.26.105|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|8|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|9|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|10|183.165.224.242|8089|China|Rongcheng|Chinanet|
+|11|197.13.21.8|3128|Tunisia|Gabès|EO DATACENTER|
+|12|203.188.251.227|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|13|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|14|103.156.140.252|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|15|142.93.239.162|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|67.43.236.20|9523|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
+|18|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|19|103.167.171.235|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|20|67.43.228.254|32651|Canada|Montreal|GloboTech Communications|
 
 
 
