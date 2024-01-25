@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|6|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
+|4|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|86.57.133.127|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|9|162.243.184.21|10007|United States|Clifton|DigitalOcean, LLC|
-|10|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|11|27.54.71.234|8080|Australia|Arthurs Creek|CNTC|
-|12|60.191.244.14|3128|China|Jinhua|Chinanet|
-|13|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|162.243.184.21|10007|United States|Clifton|DigitalOcean, LLC|
-|15|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
-|16|197.13.21.8|3128|Tunisia|Gabès|EO DATACENTER|
-|17|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
-|18|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|4817|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6349|Canada|Montreal|GloboTech Communications|
+|8|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|9|103.26.110.125|84|India|Tirunelveli|Niss Networks|
+|10|67.43.236.20|31167|Canada|Montreal|GloboTech Communications|
+|11|162.243.184.21|10001|United States|Clifton|DigitalOcean, LLC|
+|12|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|13|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|14|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|15|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|16|67.43.236.19|17929|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|183.165.249.62|8089|China|Rongcheng|Chinanet|
+|19|185.64.208.87|53281|Russia|Kstovo|Svyazist LLC|
+|20|67.43.227.227|22695|Canada|Montreal|GloboTech Communications|
 
 
 
