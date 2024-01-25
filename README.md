@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8878** proxies at the latest update. Usable proxies are below.
+> Scraper found **8681** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|787|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|787|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|787|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|800|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|800|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|800|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1851|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1654|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|836|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|6|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|140.238.18.180|21000|South Korea|Seoul|Oracle Corporation|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.89.233.226|84|India|Mangalore|Deenet Services Pvt Ltd|
-|11|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|12|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|13|182.253.10.19|8080|Indonesia|Jakarta|BIZNET|
-|14|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
-|17|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|19|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|20|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|1|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|4|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|5|27.147.148.173|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|103.172.71.5|8090|Indonesia|Karawang|AZNET|
+|9|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|10|65.1.244.232|80|India|Mumbai|Amazon.com|
+|11|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|5.161.178.205|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|5.161.220.242|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|23.226.117.165|8080|United States|Anaheim|ContentKeeper Technologies|
+|20|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
 
 
 
