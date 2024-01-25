@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8017** proxies at the latest update. Usable proxies are below.
+> Scraper found **7934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1081|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1055|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|444|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5534|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|1.10.229.141|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|94.23.84.25|8118|Spain|Madrid|OVH ISP|
-|7|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|8|64.225.8.179|10007|United States|Clifton|DigitalOcean, LLC|
-|9|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|72.10.164.178|19499|Canada|Montreal|GloboTech Communications|
-|12|35.199.90.225|8888|Brazil|Sao Paulo|Google LLC|
-|13|67.43.227.227|24091|Canada|Montreal|GloboTech Communications|
-|14|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|15|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|16|103.126.173.163|8080|Indonesia|Bandar Lampung|MEGARAP|
-|17|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|18|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.228|20349|Canada|Montreal|GloboTech Communications|
-|20|65.21.35.155|61738|Finland|Helsinki|Hetzner Online GmbH|
+|1|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|1.10.229.141|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|181.10.117.254|999|Argentina|La Cocha|Telecom Argentina S.A.|
+|7|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
+|8|193.248.35.153|3128|France|Paris|Orange|
+|9|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
+|10|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|11|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.236.20|18131|Canada|Montreal|GloboTech Communications|
+|13|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.228.253|12683|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|16|67.43.228.253|12683|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|31159|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|3129|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|18131|Canada|Montreal|GloboTech Communications|
+|20|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
