@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|101.109.19.22|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|7|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|8|60.191.244.14|3128|China|Jinhua|Chinanet|
-|9|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|67.43.236.20|5783|Canada|Montreal|GloboTech Communications|
-|11|107.172.137.42|8000|United States|Buffalo|HostPapa|
-|12|72.10.164.178|21437|Canada|Montreal|GloboTech Communications|
-|13|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|14|72.10.160.90|2085|Canada|Montreal|GloboTech Communications|
-|15|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
-|16|72.10.164.178|21437|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|18311|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|3729|Canada|Montreal|GloboTech Communications|
-|19|183.165.244.55|8089|China|Rongcheng|Chinanet|
-|20|191.97.18.153|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|103.172.70.28|9191|Indonesia|Karawang|AZNET|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|102.38.31.8|80|Libya|Tripoli|GZA|
+|9|45.128.144.149|3129|Hong Kong|Hong Kong|Zenlayer Inc|
+|10|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|12|60.191.244.14|3128|China|Jinhua|Chinanet|
+|13|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|190.6.23.221|999|Venezuela|Maracay|Net Uno|
+|16|67.43.228.254|10869|Canada|Montreal|GloboTech Communications|
+|17|103.147.246.115|8080|Indonesia|Tangerang|PLBNET|
+|18|103.169.255.177|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|19|67.43.227.227|14133|Canada|Montreal|GloboTech Communications|
+|20|187.94.16.59|39665|Brazil|Irece|Holistica Provedor Internet Ltda|
 
 
 
