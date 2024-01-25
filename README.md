@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7297** proxies at the latest update. Usable proxies are below.
+> Scraper found **7326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1088|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1117|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|508|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4743|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.79.155.186|8080|Indonesia|Jakarta|MORATELINDO|
-|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
 |5|190.6.23.221|999|Venezuela|Maracay|Net Uno|
-|6|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
-|7|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|10|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|11|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.228.253|15971|Canada|Montreal|GloboTech Communications|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|15|72.10.160.170|28985|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|15971|Canada|Montreal|GloboTech Communications|
-|17|183.165.251.192|8089|China|Rongcheng|Chinanet|
-|18|67.43.236.20|1915|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1915|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1915|Canada|Montreal|GloboTech Communications|
+|6|209.79.65.132|8080|United States|Orange|Orange County Department of Education|
+|7|124.104.10.252|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|8|103.169.194.250|8181|Indonesia|Banyuwangi|PT Aderani Multi Akses|
+|9|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|11|168.119.15.154|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|103.156.140.252|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|15|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|16|72.10.164.178|29601|Canada|Montreal|GloboTech Communications|
+|17|65.21.35.155|51123|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.227.227|28399|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|19829|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|28399|Canada|Montreal|GloboTech Communications|
 
 
 
