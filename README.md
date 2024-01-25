@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7414** proxies at the latest update. Usable proxies are below.
+> Scraper found **7319** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4977|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|72.10.160.90|31539|Canada|Montreal|GloboTech Communications|
-|3|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|4|72.10.160.90|31539|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.227|20519|Canada|Montreal|GloboTech Communications|
-|6|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|7|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
-|8|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|9|45.225.184.206|999|Chile|Melipilla|MJL NETWORK EIRL|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|162.55.95.91|9149|Germany|Falkenstein|Hetzner Online GmbH|
+|2|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
+|3|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
+|4|14.63.228.239|80|South Korea|Iksan|Korea Telecom|
+|5|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.64.210|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|67.43.228.253|28915|Canada|Montreal|GloboTech Communications|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|190.6.23.222|999|Venezuela|Maracay|Net Uno|
+|10|162.55.95.91|62975|Germany|Falkenstein|Hetzner Online GmbH|
+|11|72.10.160.90|6379|Canada|Montreal|GloboTech Communications|
 |12|67.43.236.20|24953|Canada|Montreal|GloboTech Communications|
-|13|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|14|8.217.118.156|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|16|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
-|17|190.6.23.218|999|Venezuela|Maracay|Net Uno|
-|18|67.43.236.19|12381|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|17411|Canada|Montreal|GloboTech Communications|
-|20|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|13|181.81.245.194|4128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|67.43.228.253|28915|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.254|8955|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|12407|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.179|10006|United States|Clifton|DigitalOcean, LLC|
+|18|181.214.152.54|3128|United States|Dallas|Tier.Net Technologies LLC|
+|19|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|20|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
 
 
 
