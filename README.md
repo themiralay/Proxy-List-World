@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7648** proxies at the latest update. Usable proxies are below.
+> Scraper found **6472** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1176|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|537|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4977|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
 |3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|200.74.254.130|172|Costa Rica|San José|ADN Solutions S.A. (Rokru Int.)|
-|8|139.255.33.242|8080|Indonesia|Bandung|PT. LINKNET|
-|9|119.76.142.212|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|49.13.117.90|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|13|182.253.112.187|80|Indonesia|Weleri|BIZNET|
-|14|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|15|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|16|67.43.228.253|3221|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|29715|Canada|Montreal|GloboTech Communications|
-|18|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
-|19|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
-|20|67.43.227.228|24015|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|8.212.4.168|8081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|49.13.117.90|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|11|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|12|102.222.116.186|8080|Nigeria|Lagos|Tecpoint Global Solution limited|
+|13|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|14|103.131.18.194|8080|Indonesia|Tigaraksa|PT Global Media Data Prima|
+|15|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|16|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|17|182.253.112.187|80|Indonesia|Weleri|BIZNET|
+|18|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|19|13.57.245.9|3128|United States|San Jose|Amazon.com, Inc.|
+|20|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
