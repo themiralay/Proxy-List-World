@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8579** proxies at the latest update. Usable proxies are below.
+> Scraper found **8534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|585|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|585|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|585|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1487|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5570|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|103.115.20.18|8181|Indonesia|Subang|PMYNET|
+|1|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
 |4|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|103.111.39.95|8080|Pakistan|Islamabad|GH Wireless Internet Service|
-|6|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|45.184.124.9|1985|Mexico|Chihuahua City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
-|8|139.180.39.201|8080|United States|El Paso|Conterra|
-|9|187.102.236.161|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|10|178.115.242.11|8080|Austria|Vienna|customers with static IP|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|13|67.43.227.228|1653|Canada|Montreal|GloboTech Communications|
-|14|201.77.108.48|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|15|77.81.30.250|8080|Romania|Bucharest|UPC Romania|
-|16|190.6.23.222|999|Venezuela|Maracay|Net Uno|
-|17|72.10.160.94|10799|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2285|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13313|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|23895|Canada|Montreal|GloboTech Communications|
+|5|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|7|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|185.25.116.86|31288|Ukraine|Kyiv|Hosting Ukraine LTD|
+|10|124.122.1.25|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|11|67.43.228.253|2645|Canada|Montreal|GloboTech Communications|
+|12|103.138.27.250|6000|Bangladesh|Farīdganj|HelloTech Limited|
+|13|196.251.221.20|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|14|209.170.74.162|999|Mexico|Querétaro|Arelion|
+|15|190.6.23.219|999|Venezuela|Maracay|Net Uno|
+|16|67.43.236.20|23895|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|23895|Canada|Montreal|GloboTech Communications|
+|18|101.255.158.42|8080|Indonesia|Bogor|PT Remala Abadi|
+|19|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|20|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
