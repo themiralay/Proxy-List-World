@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7991** proxies at the latest update. Usable proxies are below.
+> Scraper found **8124** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1420|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|636|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4977|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
 |2|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
 |4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|138.68.180.182|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |8|5.161.58.226|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|10|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|11|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|203.113.152.30|8118|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|15|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|16|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|103.172.144.46|8080|Indonesia|Batang|IKI INDONESIA|
-|18|2.139.187.83|3128|Spain|Barcelona|RIMA (Red IP Multi Acceso)|
-|19|67.43.228.253|21939|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1123|Canada|Montreal|GloboTech Communications|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|5.161.215.12|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|5.161.97.253|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|8.212.4.168|8081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|16|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|18|24.112.3.220|8080|United States|Calera|Vyve Broadband|
+|19|64.225.4.17|10004|United States|Clifton|DigitalOcean, LLC|
+|20|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
 
 
 
