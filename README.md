@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|72.10.160.90|12689|Canada|Montreal|GloboTech Communications|
-|4|103.179.252.49|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
-|5|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|8|72.10.160.170|1519|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|6355|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|30237|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|30237|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|4409|Canada|Montreal|GloboTech Communications|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|36.6.145.9|8089|China|Rongcheng|Chinanet|
-|15|67.43.227.227|15585|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6355|Canada|Montreal|GloboTech Communications|
-|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|18|67.43.227.227|15585|Canada|Montreal|GloboTech Communications|
-|19|203.150.128.66|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|72.10.164.178|6355|Canada|Montreal|GloboTech Communications|
+|1|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|128.199.204.169|1337|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|5|72.10.164.178|20255|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.170|30171|Canada|Montreal|GloboTech Communications|
+|7|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|8|183.166.136.226|41122|China|Guangzhou|Chinanet|
+|9|67.43.227.227|29741|Canada|Montreal|GloboTech Communications|
+|10|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|11|72.10.164.178|20255|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|20255|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|29741|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|29741|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|20255|Canada|Montreal|GloboTech Communications|
+|16|190.238.231.44|1994|Peru|Ica|Telefonica Del Peru|
+|17|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|18|67.43.236.18|22849|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|30237|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|25639|Canada|Montreal|GloboTech Communications|
 
 
 
