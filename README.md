@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8159** proxies at the latest update. Usable proxies are below.
+> Scraper found **8202** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1124|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1167|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|507|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5570|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
-|7|5.161.229.162|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|5.161.229.162|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|139.180.39.201|8080|United States|El Paso|Conterra|
-|12|113.254.178.187|8888|Hong Kong|Central|HGC Global Communications Limited|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|15|67.43.228.253|2159|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|18649|Canada|Montreal|GloboTech Communications|
-|17|193.205.161.49|3128|Italy|Mercato San Severino|GARR|
-|18|67.43.236.20|17959|Canada|Montreal|GloboTech Communications|
-|19|117.65.26.72|8089|China|Shanghai|Chinanet|
-|20|67.43.236.20|17959|Canada|Montreal|GloboTech Communications|
+|2|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|5|103.162.50.13|80|Bangladesh|Azimpur|Exabyte Ltd.|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|186.156.161.235|3128|Chile|Penalolen|VTR BANDA ANCHA S.A.|
+|9|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|10|49.13.117.90|8000|Germany|Falkenstein|Hetzner Online GmbH|
+|11|5.161.231.158|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|5.161.229.162|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|14|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|15|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|16|5.161.229.162|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|139.180.39.201|8080|United States|El Paso|Conterra|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|103.138.70.159|3125|Indonesia|Pelalawan|PT Centronet Data Indonesia|
+|20|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
