@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7533** proxies at the latest update. Usable proxies are below.
+> Scraper found **7569** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1212|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1248|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4969|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|3|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|1|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|2|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|3|34.83.143.6|3128|United States|The Dalles|Google LLC|
 |4|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|5|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|139.180.39.205|8080|United States|El Paso|Conterra|
-|7|139.180.39.201|8080|United States|El Paso|Conterra|
-|8|103.146.38.53|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|9|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|10|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|51.79.229.202|3128|Singapore|Singapore|OVH Hosting|
-|13|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|14|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|16|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|19|139.180.39.205|8080|United States|El Paso|Conterra|
-|20|139.180.39.201|8080|United States|El Paso|Conterra|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|9|139.180.39.201|8080|United States|El Paso|Conterra|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|12|103.160.207.42|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|13|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|14|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|15|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|16|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
+|17|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|18|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|19|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|20|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
 
 
 
