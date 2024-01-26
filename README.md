@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6966** proxies at the latest update. Usable proxies are below.
+> Scraper found **6943** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|357|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4949|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|3.36.212.182|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|5|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|3.36.212.182|3128|South Korea|Seoul|Amazon.com, Inc.|
-|7|139.180.39.201|8080|United States|El Paso|Conterra|
-|8|3.36.212.182|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|119.110.86.225|8080|Indonesia|Tebet Timur|PT. Solusindo Bintang Pratama|
-|13|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|14|177.93.39.73|999|Colombia|Fresno|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
-|15|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|16|67.43.236.20|3641|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16967|Canada|Montreal|GloboTech Communications|
+|4|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|5|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|8|186.195.33.22|5151|Brazil|Brasília|R2 Telecom Com. Prod. Inform. Ltda|
+|9|186.167.81.125|999|Venezuela|Barinas|Corporacion Digitel C.A|
+|10|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|11|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|12|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|13|67.43.228.253|18627|Canada|Montreal|GloboTech Communications|
+|14|180.149.232.198|8080|Bangladesh|Narsingdi|Digi Jadoo Broadband Ltd|
+|15|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|17|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
 |18|67.43.236.20|3641|Canada|Montreal|GloboTech Communications|
-|19|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|20|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|19|65.108.250.159|80|Finland|Helsinki|Hetzner Online GmbH|
+|20|97.64.70.2|16099|United States|College Station|PRONSS|
 
 
 
