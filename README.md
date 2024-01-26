@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|2|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
-|3|139.180.39.201|8080|United States|El Paso|Conterra|
-|4|185.64.208.87|53281|Russia|Kstovo|Svyazist LLC|
-|5|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|8|38.52.220.196|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|72.10.160.90|17799|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|10965|Canada|Montreal|GloboTech Communications|
-|11|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|72.10.164.178|21243|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|18273|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|24597|Canada|Montreal|GloboTech Communications|
-|15|103.48.71.102|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|67.43.228.253|10965|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|18273|Canada|Montreal|GloboTech Communications|
-|18|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|19|72.10.160.90|17799|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21243|Canada|Montreal|GloboTech Communications|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|4|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|179.96.28.58|80|Brazil|Goiânia|G8 NETWORKS LTDA|
+|6|45.179.203.65|999|Colombia|Marmato|NET&COM LTDA.|
+|7|81.91.140.210|3128|Iran|Tehran|Datak Company LLC|
+|8|139.180.39.201|8080|United States|El Paso|Conterra|
+|9|72.10.160.170|9443|Canada|Montreal|GloboTech Communications|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|72.10.160.90|13105|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|13105|Canada|Montreal|GloboTech Communications|
+|14|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|72.10.160.173|1981|Canada|Montreal|GloboTech Communications|
+|17|114.67.113.118|45212|China|Chaowai|China Unicom|
+|18|67.43.236.20|24597|Canada|Montreal|GloboTech Communications|
+|19|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|72.10.160.170|9443|Canada|Montreal|GloboTech Communications|
 
 
 
