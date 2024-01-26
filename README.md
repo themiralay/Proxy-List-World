@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8559** proxies at the latest update. Usable proxies are below.
+> Scraper found **8610** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1649|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1599|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|610|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|711|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5342|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|10|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|94.156.144.228|3128|Bulgaria|Sofia|Belcloud LTD|
-|13|212.154.82.52|9090|Turkey|Şişli|TurkNet Iletisim Hizmetleri|
-|14|103.239.175.90|1111|India|Puducherry|One Eight Technologies Private Limited|
-|15|103.87.169.182|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|190.242.181.59|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|18|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|12.68.66.125|16099|United States|Madisonville|AT&T Services, Inc.|
-|20|101.255.165.130|1111|Indonesia|Bogor|PT Remala Abadi|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|11|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|13|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|38.52.220.197|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|16|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|38.46.222.60|3128|United States|Draper|FiberState, LLC|
+|19|38.46.222.60|3128|United States|Draper|FiberState, LLC|
+|20|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
 
 
 
