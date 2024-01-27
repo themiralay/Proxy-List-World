@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|2|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|3|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|4|67.43.228.253|26357|Canada|Montreal|GloboTech Communications|
-|5|69.63.78.199|3129|Eswatini|Manzini|Swaziland Posts & Telecommunications Corp.|
-|6|103.143.139.128|8090|Bangladesh|Dhaka|Windstream Communication Limited|
-|7|67.43.228.253|26357|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|25073|Canada|Montreal|GloboTech Communications|
-|9|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|10|103.81.214.254|83|India|Faridabad|Hps Digital Broadband|
-|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|72.10.164.178|20807|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|5037|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|7645|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20807|Canada|Montreal|GloboTech Communications|
-|16|139.180.39.200|8080|United States|El Paso|Conterra|
-|17|67.43.227.227|25073|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|25073|Canada|Montreal|GloboTech Communications|
-|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|128.199.254.71|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|19|139.180.39.200|8080|United States|El Paso|Conterra|
+|20|190.6.23.221|999|Venezuela|Caracas|Net Uno|
 
 
 
