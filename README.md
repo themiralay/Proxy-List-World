@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8366** proxies at the latest update. Usable proxies are below.
+> Scraper found **8375** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|693|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|693|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|693|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|939|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|939|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|939|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1481|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|702|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5234|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|137.184.0.30|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|7|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|10|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|11|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|174.138.108.125|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|15|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|16|67.43.236.19|20909|Canada|Montreal|GloboTech Communications|
-|17|65.21.35.155|4189|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.227.227|31345|Canada|Montreal|GloboTech Communications|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|124.107.144.249|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|137.184.0.30|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|209.126.2.143|2323|United States|St Louis|Nubes, LLC|
+|11|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.169.128.152|8080|Indonesia|Cirebon|PT Media Akses Data|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|164.163.190.70|999|Mexico|Tingambato|Internet Telefonia Y TV De Michoacan SA De CV|
+|15|103.163.110.5|8181|Indonesia|Tasikmalaya|PT Galunggung Access Solutions|
+|16|142.171.63.155|3128|United States|Los Angeles|Multacom Corporation|
+|17|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|67.43.228.253|12605|Canada|Montreal|GloboTech Communications|
 |19|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|20|72.10.164.178|8253|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|31345|Canada|Montreal|GloboTech Communications|
 
 
 
