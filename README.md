@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7261** proxies at the latest update. Usable proxies are below.
+> Scraper found **7245** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|960|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4925|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|3|27.73.45.143|4006|Vietnam|Hanoi|Newass2011xDSLHN|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|171.237.112.23|1001|Vietnam|Hanoi|Viettel Corporation|
-|10|52.236.146.49|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|15|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|16|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|17|64.225.8.203|10002|United States|Clifton|DigitalOcean, LLC|
-|18|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|19|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|20|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|38.51.243.201|999|Colombia|Tuquerres|INTERCOMM DE NARIÑO SAS|
+|7|75.84.199.80|80|United States|Valley Village|Spectrum|
+|8|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|10|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
+|11|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|12|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|13|72.10.160.92|13401|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.252|29849|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|16|67.43.228.251|30947|Canada|Montreal|GloboTech Communications|
+|17|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.160.90|1789|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1033|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|21839|Canada|Montreal|GloboTech Communications|
 
 
 
