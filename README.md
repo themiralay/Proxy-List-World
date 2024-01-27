@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7245** proxies at the latest update. Usable proxies are below.
+> Scraper found **7218** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|884|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|409|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4967|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|5|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|200.251.41.61|8002|Brazil|Contagem|Claro S.A|
-|9|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|10|101.51.55.153|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|11|60.191.244.14|3128|China|Jinhua|Chinanet|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|14|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|15|67.43.236.20|31579|Canada|Montreal|GloboTech Communications|
-|16|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|17|142.171.63.139|3128|United States|Los Angeles|Multacom Corporation|
-|18|72.10.160.90|21481|Canada|Montreal|GloboTech Communications|
-|19|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|20|67.43.228.253|2487|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|5|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|7|67.43.227.227|4759|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|4759|Canada|Montreal|GloboTech Communications|
+|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|10|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|11|67.43.236.20|16039|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|2487|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|21235|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|16273|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|16039|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|16273|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|16039|Canada|Montreal|GloboTech Communications|
+|18|45.11.95.165|5220|Russia|Moscow|Delta Ltd|
+|19|67.43.227.227|4759|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|16273|Canada|Montreal|GloboTech Communications|
 
 
 
