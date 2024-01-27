@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|103.35.108.194|5020|Bangladesh|Dhaka|Ranks ITT|
+|1|116.98.98.133|4006|Vietnam|Hanoi|Viettel Corporation|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |8|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|101.51.139.219|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|11|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.176.116.34|82|India|Murshidābād|Gbpl Global Broadband Private Limited|
-|13|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|14|52.236.146.49|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|15|86.201.61.237|5575|France|Creissels|France Telecom|
-|16|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|81.0.221.90|3128|United Kingdom|Portsmouth|Casablanca INT fraction|
-|18|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|19|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
-|20|139.180.39.210|8080|United States|El Paso|Conterra|
+|9|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|11|103.35.108.194|5020|Bangladesh|Dhaka|Ranks ITT|
+|12|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|182.78.42.112|84|India|Chīrāla|Bharti Airtel|
+|14|121.101.134.22|8080|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
+|15|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|16|103.99.27.132|8181|Indonesia|South Tangerang|PT Lintas Network Solusi|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|103.146.170.193|82|India|Nalgonda|Thrishul Broadband Private Ltd|
+|19|23.94.214.8|9054|United States|Los Angeles|HostPapa|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
