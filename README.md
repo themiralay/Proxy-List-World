@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|4|139.180.39.205|8080|United States|El Paso|Conterra|
-|5|139.180.39.200|8080|United States|El Paso|Conterra|
-|6|139.180.39.201|8080|United States|El Paso|Conterra|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|139.180.39.210|8080|United States|El Paso|Conterra|
-|9|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|10|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|11|139.180.39.201|8080|United States|El Paso|Conterra|
-|12|139.180.39.210|8080|United States|El Paso|Conterra|
-|13|139.180.39.205|8080|United States|El Paso|Conterra|
-|14|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|15|139.180.39.200|8080|United States|El Paso|Conterra|
-|16|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|17|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|208.79.11.97|9080|United States|Newellton|Skyrider Communications LLC|
-|20|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|3|62.210.114.201|8080|France|Paris|Online SAS|
+|4|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|5|67.43.227.227|26471|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|31455|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|26471|Canada|Montreal|GloboTech Communications|
+|8|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|11|67.43.236.20|28373|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|4285|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31455|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|26471|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31455|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|28373|Canada|Montreal|GloboTech Communications|
+|17|139.180.39.210|8080|United States|El Paso|Conterra|
+|18|139.180.39.210|8080|United States|El Paso|Conterra|
+|19|67.43.236.20|28373|Canada|Montreal|GloboTech Communications|
+|20|139.180.39.201|8080|United States|El Paso|Conterra|
 
 
 
