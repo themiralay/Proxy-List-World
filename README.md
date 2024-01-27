@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6996** proxies at the latest update. Usable proxies are below.
+> Scraper found **7012** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|787|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4933|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.180.39.200|8080|United States|El Paso|Conterra|
-|3|139.180.39.201|8080|United States|El Paso|Conterra|
-|4|139.180.39.205|8080|United States|El Paso|Conterra|
-|5|139.180.39.210|8080|United States|El Paso|Conterra|
-|6|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|1|139.180.39.201|8080|United States|El Paso|Conterra|
+|2|139.180.39.205|8080|United States|El Paso|Conterra|
+|3|139.180.39.200|8080|United States|El Paso|Conterra|
+|4|139.180.39.210|8080|United States|El Paso|Conterra|
+|5|62.210.114.201|8080|France|Paris|Online SAS|
+|6|139.180.39.210|8080|United States|El Paso|Conterra|
 |7|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|9|62.210.114.201|8080|France|Paris|Online SAS|
-|10|139.180.39.200|8080|United States|El Paso|Conterra|
-|11|139.180.39.201|8080|United States|El Paso|Conterra|
+|8|139.180.39.201|8080|United States|El Paso|Conterra|
+|9|139.180.39.200|8080|United States|El Paso|Conterra|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|37.53.103.4|3128|Ukraine|Ternivka|UKRTELECOM|
 |12|139.180.39.205|8080|United States|El Paso|Conterra|
-|13|193.248.35.153|3128|France|Paris|Orange|
-|14|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|15|139.180.39.210|8080|United States|El Paso|Conterra|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|51.75.145.145|7783|Germany|Limburg an der Lahn|OVH SAS|
-|19|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|13|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|14|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|8.219.106.117|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|17|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|20|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
