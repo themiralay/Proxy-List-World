@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|171.238.64.215|5004|Vietnam|Ninh Binh|Viettel Corporation|
-|9|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|15|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|16|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|2|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|45.87.68.17|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|13|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|14|144.24.138.210|3128|India|Hyderabad|Oracle Corporation|
+|15|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|16|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
 |17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|18|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|142.93.72.28|10009|United States|Clifton|DigitalOcean, LLC|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|139.180.39.200|8080|United States|El Paso|Conterra|
+|20|139.180.39.210|8080|United States|El Paso|Conterra|
 
 
 
