@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|139.59.224.57|8888|Singapore|Singapore|DIGITALOCEAN|
-|4|116.101.245.13|4005|Vietnam|Hanoi|Viettel Corporation|
-|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|6|191.6.15.104|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|7|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|10|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|11|183.165.250.202|8089|China|Rongcheng|Chinanet|
-|12|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|13|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|15|45.11.95.165|5041|Russia|Moscow|Delta Ltd|
-|16|72.10.164.178|9249|Canada|Montreal|GloboTech Communications|
-|17|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.227.227|22677|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22677|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31947|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|139.59.224.57|8888|Singapore|Singapore|DIGITALOCEAN|
+|6|116.101.245.13|4005|Vietnam|Hanoi|Viettel Corporation|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|10|201.222.83.146|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|11|171.238.64.215|4006|Vietnam|Ninh Binh|Viettel Corporation|
+|12|67.43.227.226|3129|Canada|Montreal|GloboTech Communications|
+|13|103.170.22.52|8089|Indonesia|Cilacap|PT Puskomedia Indonesia Kreatif|
+|14|72.10.164.178|16085|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|1213|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1807|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16085|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|10363|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|1807|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|16085|Canada|Montreal|GloboTech Communications|
 
 
 
