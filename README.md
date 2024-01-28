@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7493** proxies at the latest update. Usable proxies are below.
+> Scraper found **7406** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1095|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|428|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5012|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
 |2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.142.170.236|3128|Singapore|Singapore|Google LLC|
-|4|88.99.85.194|6772|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
-|7|62.210.114.201|8080|France|Paris|Online SAS|
-|8|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|12|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|67.43.236.20|6805|Canada|Montreal|GloboTech Communications|
-|15|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.65.214.144|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
-|18|200.170.210.238|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|19|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
-|20|171.235.163.45|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|103.1.51.204|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|4|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|5|36.90.61.168|8080|Indonesia|Ponorogo|PT. Telekomunikasi Indonesia|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|10|116.106.0.114|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|12|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|13|34.142.170.236|3128|Singapore|Singapore|Google LLC|
+|14|142.93.72.28|10006|United States|Clifton|DigitalOcean, LLC|
+|15|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|16|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|17|67.43.236.20|19527|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|2939|Canada|Montreal|GloboTech Communications|
+|19|111.225.152.172|8089|China|Zhoutou|China Telecom|
+|20|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
 
 
 
