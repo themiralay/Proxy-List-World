@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7610** proxies at the latest update. Usable proxies are below.
+> Scraper found **7635** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1062|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|578|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5012|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|8|8.219.106.117|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.242.75.250|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|195.90.216.75|8889|Germany|Weyhe|EVANZO e-commerce GmbH|
-|12|200.55.244.124|999|Argentina|Palermo|Servicios y Telecomunicaciones S.A.|
-|13|165.16.31.18|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|202.46.70.171|8080|Indonesia|Magelang|PT. Indonesia Comnet Plus|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|47.242.75.250|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|185.132.134.41|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|67.43.227.228|30709|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|15|36.6.145.176|8089|China|Rongcheng|Chinanet|
+|16|201.89.89.34|8080|Brazil|Curitiba|V tal|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|72.10.160.174|10353|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|31011|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|18103|Canada|Montreal|GloboTech Communications|
 
 
 
