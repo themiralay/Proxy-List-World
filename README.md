@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|62.210.114.201|8080|France|Paris|Online SAS|
 |4|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
 |5|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|8|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|62.210.114.201|8080|France|Paris|Online SAS|
-|10|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|12|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|139.180.39.210|8080|United States|El Paso|Conterra|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|18|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|19|80.14.47.254|3128|France|Tacoignières|France Telecom|
-|20|72.10.160.170|12043|Canada|Montreal|GloboTech Communications|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
+|9|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|10|139.180.39.210|8080|United States|El Paso|Conterra|
+|11|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|13|67.43.228.253|6805|Canada|Montreal|GloboTech Communications|
+|14|94.41.124.91|8080|Russia|Ufa|JSC "Ufanet"|
+|15|119.110.72.70|3888|Indonesia|Ciputat|Maxindo|
+|16|103.38.104.197|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|17|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|18|8.222.130.195|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|20|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
