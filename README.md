@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7392** proxies at the latest update. Usable proxies are below.
+> Scraper found **7361** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1056|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5012|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.234.0|3128|Singapore|Singapore|DIGITALOCEAN|
-|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|3|62.210.114.201|8080|France|Paris|Online SAS|
-|4|45.129.199.196|3128|Estonia|Tallinn|BlueVPS OU|
-|5|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|6|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|64.227.142.133|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
 |7|203.150.128.83|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|9|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|12|103.172.144.46|8080|Indonesia|Batang|IKI INDONESIA|
-|13|111.225.152.110|8089|China|Zhoutou|China Telecom|
-|14|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|15|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|16|191.252.113.27|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|72.10.164.178|1817|Canada|Montreal|GloboTech Communications|
-|19|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|20|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|8|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
+|9|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|10|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|13|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|14|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|15|103.53.170.199|3128|Vietnam|Phường Mười Lăm|VCIC|
+|16|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
+|17|111.225.152.34|8089|China|Zhoutou|China Telecom|
+|18|64.225.8.142|10011|United States|Clifton|DigitalOcean, LLC|
+|19|123.182.59.105|8089|China|Zhangjiakou|China Telecom|
+|20|72.10.160.170|8295|Canada|Montreal|GloboTech Communications|
 
 
 
