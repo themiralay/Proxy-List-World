@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7396** proxies at the latest update. Usable proxies are below.
+> Scraper found **7417** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1018|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1039|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|472|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4948|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.217.111.42|4434|Finland|Helsinki|Hetzner Online GmbH|
-|2|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|3|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
-|4|78.47.35.35|3312|Germany|Nuremberg|Hetzner Online GmbH|
-|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|65.21.131.54|6889|Finland|Helsinki|Hetzner Online GmbH|
-|7|5.9.78.166|9716|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|213.133.123.122|3218|Germany|Falkenstein|Hetzner Online GmbH|
-|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|11|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
-|12|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
-|13|88.99.85.194|6772|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.236.20|9235|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9235|Canada|Montreal|GloboTech Communications|
-|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|17|67.43.228.251|29173|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9235|Canada|Montreal|GloboTech Communications|
-|19|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.236.20|9235|Canada|Montreal|GloboTech Communications|
+|1|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|2|88.99.85.194|6772|Germany|Falkenstein|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
+|5|95.217.111.42|4434|Finland|Helsinki|Hetzner Online GmbH|
+|6|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|7|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|176.9.113.246|8027|Germany|Falkenstein|Hetzner Online GmbH|
+|9|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|10|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.114.52.126|8080|Indonesia|Sukoharjo|Proxy-registered|
+|12|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|13|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
+|14|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|15|67.43.227.227|6737|Canada|Montreal|GloboTech Communications|
+|16|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|103.159.194.249|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|18|103.162.154.200|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
+|19|72.10.164.178|18413|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
