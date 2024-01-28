@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.157.83.77|8080|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
-|3|103.215.71.15|999|Indonesia|Lamongan|PT Persada Data Multimedia|
-|4|62.210.114.201|8080|France|Paris|Online SAS|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|62.210.114.201|8080|France|Paris|Online SAS|
+|4|190.217.23.2|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
 |5|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|6|52.236.146.49|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|7|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|8|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|10|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|11|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|12|72.10.160.93|11827|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|19427|Canada|Montreal|GloboTech Communications|
-|14|91.227.66.139|8080|Poland|Starachowice|Klikom.net Sp.z o.o|
-|15|67.43.228.253|21233|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|25749|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25749|Canada|Montreal|GloboTech Communications|
-|18|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|19|67.43.228.253|21233|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19427|Canada|Montreal|GloboTech Communications|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|139.180.39.210|8080|United States|El Paso|Conterra|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|10|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
+|11|194.124.36.74|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|13|67.43.228.253|21233|Canada|Montreal|GloboTech Communications|
+|14|203.79.29.150|8080|Indonesia|Ciputat|PT Surya Global Teknologi|
+|15|67.43.227.228|19941|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|19941|Canada|Montreal|GloboTech Communications|
+|17|162.55.95.91|7476|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.164.178|19427|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|11971|Canada|Montreal|GloboTech Communications|
+|20|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
