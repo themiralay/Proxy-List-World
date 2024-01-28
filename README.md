@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7427** proxies at the latest update. Usable proxies are below.
+> Scraper found **7458** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1017|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|513|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4970|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.109.18.77|6060|Indonesia|Semarang|DATAUTAMANET|
-|2|139.59.224.57|8888|Singapore|Singapore|DIGITALOCEAN|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|8|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|9|139.180.39.210|8080|United States|El Paso|Conterra|
-|10|67.43.236.20|12881|Canada|Montreal|GloboTech Communications|
-|11|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|12|72.10.160.174|7443|Canada|Montreal|GloboTech Communications|
-|13|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|14|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|15|124.158.186.254|8080|Indonesia|Demak|PT Jala Lintas Media|
-|16|36.67.7.74|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|18|72.10.160.90|6667|Canada|Montreal|GloboTech Communications|
-|19|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|20|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|1|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|2|139.180.39.210|8080|United States|El Paso|Conterra|
+|3|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|190.109.205.253|999|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|60.174.1.84|8089|China|Guangzhou|Chinanet|
+|8|205.196.184.69|50704|United States|Houston|Phonoscope|
+|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|72.10.160.171|2049|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|23301|Canada|Montreal|GloboTech Communications|
+|14|162.55.95.91|54786|Germany|Falkenstein|Hetzner Online GmbH|
+|15|67.43.236.20|12881|Canada|Montreal|GloboTech Communications|
+|16|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|17|116.101.245.13|4005|Vietnam|Hanoi|Viettel Corporation|
+|18|188.132.221.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|67.43.236.20|12881|Canada|Montreal|GloboTech Communications|
+|20|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
