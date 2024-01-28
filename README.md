@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6543** proxies at the latest update. Usable proxies are below.
+> Scraper found **7502** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|959|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5251|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.224.57|8888|Singapore|Singapore|DIGITALOCEAN|
-|2|62.210.114.201|8080|France|Paris|Online SAS|
-|3|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|7|45.22.209.157|8888|United States|Hollywood|AT&T Services, Inc.|
-|8|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|9|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|10|139.180.39.210|8080|United States|El Paso|Conterra|
-|11|142.171.63.126|3128|United States|Los Angeles|Multacom Corporation|
-|12|200.108.197.2|8080|Uruguay|Florida|Tecnowind S.A.|
-|13|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|14|23.142.83.247|39388|United States|Bend|Netfee|
-|15|104.129.192.183|8800|United States|Long Beach|ZSCALER, INC.|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|147.28.145.212|80|United States|Ashburn|Packet Host, Inc.|
-|19|189.232.81.106|8080|Mexico|Tezontepec de Aldama|Uninet S.A. de C.V.|
-|20|202.179.188.178|8080|Indonesia|Bogor|Telemedia Dinamika Sarana, PT|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|139.59.224.57|8888|Singapore|Singapore|DIGITALOCEAN|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|62.210.114.201|8080|France|Paris|Online SAS|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|112.109.18.77|6060|Indonesia|Semarang|DATAUTAMANET|
+|7|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|8|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|12|35.200.161.98|80|India|Mumbai|Google LLC|
+|13|162.55.95.91|6003|Germany|Falkenstein|Hetzner Online GmbH|
+|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|15|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|16|51.159.0.236|2020|France|Paris|SCALEWAY|
+|17|117.69.233.246|8089|China|Rongcheng|Chinanet|
+|18|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|19|35.200.161.98|80|India|Mumbai|Google LLC|
+|20|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
 
 
 
