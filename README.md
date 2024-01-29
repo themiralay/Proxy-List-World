@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7909** proxies at the latest update. Usable proxies are below.
+> Scraper found **7943** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1214|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1248|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5232|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 |2|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
 |3|14.207.0.153|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|62.210.114.201|8080|France|Paris|Online SAS|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|45.5.117.77|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|10|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|11|223.247.47.179|8089|China|Shanghai|Chinanet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|15|123.182.58.107|8089|China|Zhangjiakou|China Telecom|
-|16|120.33.126.200|3128|China|Quanzhou|Chinanet|
-|17|45.231.133.49|443|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|18|183.164.243.148|8089|China|Hefei|Chinanet|
-|19|117.69.233.223|8089|China|Rongcheng|Chinanet|
-|20|60.191.244.14|3128|China|Jinhua|Chinanet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|161.246.52.56|3128|Thailand|Lat Krabang|King Mongkut's Institute of Technology Ladkrabang|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|9|140.227.201.157|32153|Japan|Chiyoda|InfoSphere|
+|10|206.189.77.238|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|147.28.145.212|80|United States|Ashburn|Packet Host, Inc.|
+|12|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|13|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|14|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|123.182.59.52|8089|China|Zhangjiakou|China Telecom|
+|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|18|67.43.236.20|2983|Canada|Montreal|GloboTech Communications|
+|19|120.33.126.200|3128|China|Quanzhou|Chinanet|
+|20|67.43.236.18|23389|Canada|Montreal|GloboTech Communications|
 
 
 
