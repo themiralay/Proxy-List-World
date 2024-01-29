@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7569** proxies at the latest update. Usable proxies are below.
+> Scraper found **7641** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1085|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1233|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|488|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|412|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5038|✅|
 
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|182.74.243.47|3128|India|Chennai|Bharti Airtel Limited|
-|4|62.210.114.201|8080|France|Paris|Online SAS|
-|5|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|74.91.17.204|3128|United States|Kansas City|Nocix, LLC|
-|8|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|9|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|10|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|14|67.43.228.253|14109|Canada|Montreal|GloboTech Communications|
-|15|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|74.91.17.204|3128|United States|Kansas City|Nocix, LLC|
-|17|129.158.60.188|3128|United States|Ashburn|Oracle Corporation|
-|18|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|19|72.10.164.178|23973|Canada|Montreal|GloboTech Communications|
-|20|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
