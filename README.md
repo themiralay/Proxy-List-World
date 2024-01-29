@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8327** proxies at the latest update. Usable proxies are below.
+> Scraper found **8272** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1326|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|545|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5443|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.248.158.151|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
 |4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 |5|119.76.142.166|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|6|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|8|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|9|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|11|36.92.140.113|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|16|49.0.91.7|8080|Thailand|Ratchathewi|AIS-Fibre|
-|17|104.236.195.90|10009|United States|Clifton|DigitalOcean, LLC|
-|18|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|7|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|8|40.76.160.143|9002|United States|Boydton|Microsoft Corporation|
+|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|10|132.145.48.185|80|United Kingdom|London|Oracle Corporation|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|49.0.91.7|8080|Thailand|Ratchathewi|AIS-Fibre|
+|13|146.56.98.158|3128|South Korea|Chuncheon|Oracle Corporation|
+|14|203.194.108.23|3129|India|Bhadrāchalam|In2cable|
+|15|138.121.160.152|1978|Argentina|Rosario|WICORP SA|
+|16|72.10.160.90|4709|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|13277|Canada|Montreal|GloboTech Communications|
+|18|117.57.92.45|8089|China|Guangzhou|Chinanet|
+|19|67.43.228.253|29367|Canada|Montreal|GloboTech Communications|
+|20|111.225.153.118|8089|China|Zhoutou|China Telecom|
 
 
 
