@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7299** proxies at the latest update. Usable proxies are below.
+> Scraper found **7347** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|917|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|965|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5070|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|2|171.238.73.160|4006|Vietnam|Ninh Binh|Viettel Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
-|6|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|7|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|8|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|9|139.180.39.200|8080|United States|El Paso|Conterra|
-|10|103.144.38.67|8080|Indonesia|Batam|BIG|
-|11|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|15439|Canada|Montreal|GloboTech Communications|
-|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|14|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
-|15|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|16|72.10.160.90|9093|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.4|8089|China|Zhangjiakou|China Telecom|
-|19|123.182.59.201|8089|China|Zhangjiakou|China Telecom|
-|20|123.182.58.156|8089|China|Zhangjiakou|China Telecom|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|62.210.114.201|8080|France|Paris|Online SAS|
+|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|212.231.230.141|20500|Spain|Badalona|Xtra Telecom S.A|
+|5|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|6|139.180.39.200|8080|United States|El Paso|Conterra|
+|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|8|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|9|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|10|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|15|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|16|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|17|111.225.153.175|8089|China|Zhoutou|China Telecom|
+|18|67.43.236.18|29255|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|12863|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14593|Canada|Montreal|GloboTech Communications|
 
 
 
