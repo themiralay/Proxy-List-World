@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8472** proxies at the latest update. Usable proxies are below.
+> Scraper found **8499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|600|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5443|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|125.26.128.186|8080|Thailand|Wang Noi|TOT Public Company Limited|
-|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.49.138.202|999|Mexico|Agua Blanca Iturbide|Ientc S De RL De CV|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|8|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
-|9|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|12|125.25.32.115|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|14|213.165.72.16|80|Germany|Frankfurt am Main|IONOS SE|
-|15|8.210.38.162|8082|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|67.43.236.20|14397|Canada|Montreal|GloboTech Communications|
-|17|183.165.227.42|8089|China|Shenzhen|Chinanet|
-|18|67.43.227.227|17279|Canada|Montreal|GloboTech Communications|
-|19|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|20|183.165.251.87|8089|China|Rongcheng|Chinanet|
+|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|3|125.26.128.186|8080|Thailand|Wang Noi|TOT Public Company Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|6|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|38.49.138.202|999|Mexico|Agua Blanca Iturbide|Ientc S De RL De CV|
+|8|40.76.160.143|9002|United States|Boydton|Microsoft Corporation|
+|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|10|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|11|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|12|40.76.160.143|9002|United States|Boydton|Microsoft Corporation|
+|13|103.41.90.17|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|14|101.101.219.56|3128|South Korea|Seongnam-si|NBP|
+|15|206.189.77.238|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|87.255.12.183|3129|Russia|Khimki|BIG TELECOM CLOSED JSC|
+|17|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|18|72.10.160.170|1757|Canada|Montreal|GloboTech Communications|
+|19|147.182.163.223|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|72.10.160.170|1757|Canada|Montreal|GloboTech Communications|
 
 
 
