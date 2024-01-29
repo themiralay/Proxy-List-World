@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7278** proxies at the latest update. Usable proxies are below.
+> Scraper found **7182** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|896|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|800|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5070|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|2|182.74.243.47|3128|India|Chennai|Bharti Airtel Limited|
-|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|4|103.146.196.13|8080|Indonesia|Banyuwangi|RIYADNETWORK|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|139.180.39.200|8080|United States|El Paso|Conterra|
-|7|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|8|103.132.52.210|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|9|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
-|10|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|11|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|12|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.228.253|18939|Canada|Montreal|GloboTech Communications|
-|15|183.165.247.94|8089|China|Rongcheng|Chinanet|
-|16|72.10.160.172|22975|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|4485|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12727|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|1577|Canada|Montreal|GloboTech Communications|
-|20|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|6|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|7|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|8|118.67.128.148|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|9|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|10|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|11|139.180.39.200|8080|United States|El Paso|Conterra|
+|12|182.74.243.47|3128|India|Chennai|Bharti Airtel Limited|
+|13|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.96.147.181|3128|Indonesia|Jakarta Pusat|PT Era Awan Digital|
+|15|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|16|67.43.228.253|28557|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|1527|Canada|Montreal|GloboTech Communications|
+|18|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|19|118.99.96.170|8080|Indonesia|Jimbaran|Biznet Networks|
+|20|67.43.227.228|1527|Canada|Montreal|GloboTech Communications|
 
 
 
