@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1045|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|379|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5070|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5038|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
-|2|62.210.114.201|8080|France|Paris|Online SAS|
-|3|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
-|4|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.227.228|31315|Canada|Montreal|GloboTech Communications|
-|11|88.198.135.234|5135|Germany|Falkenstein|Hetzner Online GmbH|
-|12|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
-|13|67.43.228.253|28489|Canada|Montreal|GloboTech Communications|
-|14|113.160.214.209|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|15|67.43.228.253|28489|Canada|Montreal|GloboTech Communications|
-|16|114.106.136.88|8089|China|Shenzhen|Chinanet|
-|17|67.43.236.20|8095|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|33069|Canada|Montreal|GloboTech Communications|
-|19|190.128.201.235|3128|Paraguay|Asunción|Telecel S.A.|
-|20|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|1|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|3|62.210.114.201|8080|France|Paris|Online SAS|
+|4|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|5|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|132.145.197.145|80|United States|Ashburn|Oracle Corporation|
+|7|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
+|8|67.43.227.228|32231|Canada|Montreal|GloboTech Communications|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|79.124.77.148|3128|Bulgaria|Sofia|DA International Group Ltd.|
+|11|67.43.227.227|1271|Canada|Montreal|GloboTech Communications|
+|12|191.101.78.207|3128|Brazil|São Paulo|Hostinger International Limited|
+|13|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|14|95.217.198.163|5838|Finland|Helsinki|Hetzner Online GmbH|
+|15|67.43.236.20|16993|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|13109|Canada|Montreal|GloboTech Communications|
+|17|138.201.51.183|9099|Germany|Esslingen am Neckar|Hetzner Online GmbH|
+|18|67.43.236.20|16993|Canada|Montreal|GloboTech Communications|
+|19|181.44.225.203|999|Argentina|La Plata|Telecentro S.A.|
+|20|38.180.54.174|8081|Italy|Milan|M247 Europe SRL|
 
 
 
