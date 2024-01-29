@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8248** proxies at the latest update. Usable proxies are below.
+> Scraper found **8162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1518|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1432|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|616|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5156|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|40.76.160.143|9002|United States|Boydton|Microsoft Corporation|
-|3|45.76.244.114|8888|United States|Kent|The Constant Company|
-|4|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|103.189.123.149|80|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|62.72.32.208|3128|Lithuania|Vilnius|HOSTINGER LT|
-|10|117.1.252.143|9002|Vietnam|Hanoi|Viettel Corporation|
-|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|12|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|14|101.101.216.157|3128|South Korea|Seongnam-si|NBP|
-|15|91.107.143.233|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|17|206.189.77.238|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|5.158.123.231|8181|Russia|Nizhnevartovsk|Pride Limited company|
-|19|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|20|40.76.160.143|9002|United States|Boydton|Microsoft Corporation|
+|1|45.76.244.114|8888|United States|Kent|The Constant Company|
+|2|203.190.119.48|9010|Indonesia|Lampung|Internet Service Provider|
+|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|5|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|45.76.244.114|8888|United States|Kent|The Constant Company|
+|8|62.72.32.208|3128|Lithuania|Vilnius|HOSTINGER LT|
+|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|10|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|12|103.189.123.149|80|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|13|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|14|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|15|190.217.20.109|999|Colombia|Choachi|Level 3 Colombia S.A|
+|16|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|72.10.164.178|29325|Canada|Montreal|GloboTech Communications|
+|19|45.231.133.49|443|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|20|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
 
 
 
