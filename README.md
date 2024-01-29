@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7822** proxies at the latest update. Usable proxies are below.
+> Scraper found **7888** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1235|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1301|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5232|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
 |4|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|5|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
-|7|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|14.207.0.153|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|161.246.52.56|3128|Thailand|Lat Krabang|King Mongkut's Institute of Technology Ladkrabang|
-|11|62.210.114.201|8080|France|Paris|Online SAS|
-|12|121.101.131.67|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|13|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|161.246.52.56|3128|Thailand|Lat Krabang|King Mongkut's Institute of Technology Ladkrabang|
-|15|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
-|16|103.231.177.120|5020|Bangladesh|Nārāyanganj|Sayed Farhad Ahmed|
-|17|72.10.164.178|16121|Canada|Montreal|GloboTech Communications|
-|18|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|19|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|5|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.157.116.186|8080|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
+|7|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|103.162.63.125|3128|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|9|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
+|12|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
+|13|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|15|67.43.236.20|20549|Canada|Montreal|GloboTech Communications|
+|16|62.210.114.201|8080|France|Paris|Online SAS|
+|17|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|18|101.101.219.56|3128|South Korea|Seongnam-si|NBP|
+|19|62.210.114.201|8080|France|Paris|Online SAS|
+|20|190.6.23.219|999|Venezuela|Caracas|Net Uno|
 
 
 
