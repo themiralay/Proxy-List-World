@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8061** proxies at the latest update. Usable proxies are below.
+> Scraper found **8098** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5232|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.157.116.186|8080|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 |3|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|5|118.67.143.142|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|6|89.39.105.181|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
-|8|172.113.71.158|8118|United States|Lake Elsinore|Charter Communications|
-|9|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|62.210.114.201|8080|France|Paris|Online SAS|
+|6|118.67.143.142|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |10|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|118.67.128.227|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|13|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|161.246.52.56|3128|Thailand|Lat Krabang|King Mongkut's Institute of Technology Ladkrabang|
-|17|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|72.10.160.90|14563|Canada|Montreal|GloboTech Communications|
+|11|165.232.66.201|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.99.27.146|8181|Indonesia|South Tangerang|PT Lintas Network Solusi|
+|14|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|15|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|16|206.189.77.238|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|18|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|114.103.89.102|8089|China|Rongcheng|Chinanet|
+|20|62.210.114.201|8080|France|Paris|Online SAS|
 
 
 
