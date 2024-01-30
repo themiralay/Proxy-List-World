@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.87.169.186|32650|India|Sīkar|Tejays Industries Pvt Ltd|
-|2|124.105.183.81|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|7|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|12433|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|13|36.89.212.250|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
-|15|60.191.244.14|3128|China|Jinhua|Chinanet|
-|16|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
-|17|72.10.160.170|1563|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
+|2|87.255.10.60|8080|Russia|Khimki|BIG TELECOM CLOSED JSC|
+|3|46.4.108.72|5235|Germany|Falkenstein|Hetzner Online GmbH|
+|4|123.182.58.234|8089|China|Zhangjiakou|China Telecom|
+|5|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|6|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|7|123.182.58.254|8089|China|Zhangjiakou|China Telecom|
+|8|195.201.42.194|6699|Germany|Gunzenhausen|Hetzner Online GmbH|
+|9|72.10.160.174|12407|Canada|Montreal|GloboTech Communications|
+|10|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|11|67.43.227.230|4551|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|13025|Canada|Montreal|GloboTech Communications|
+|13|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
+|14|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|15|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1325|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13025|Canada|Montreal|GloboTech Communications|
+|18|201.77.108.72|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
 |19|67.43.227.227|13025|Canada|Montreal|GloboTech Communications|
-|20|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|20|72.10.160.170|5739|Canada|Montreal|GloboTech Communications|
 
 
 
