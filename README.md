@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
-|6|64.225.8.203|10003|United States|Clifton|DigitalOcean, LLC|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|103.87.169.160|32650|India|Sīkar|Tejays Industries Pvt Ltd|
-|10|66.135.13.125|1111|United States|Piscataway|The Constant Company, LLC|
-|11|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|191.96.100.33|3128|United States|Los Angeles|NovoServe B.V.|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|6|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|7|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|8|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|111.225.152.218|8089|China|Zhoutou|China Telecom|
+|10|67.43.227.227|31345|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|15785|Canada|Montreal|GloboTech Communications|
 |12|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|13|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|72.10.164.178|26143|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|7851|Canada|Montreal|GloboTech Communications|
-|17|36.6.145.69|8089|China|Rongcheng|Chinanet|
-|18|45.248.66.55|8080|India|Mumbai|Snet Networks Private Limited|
-|19|67.43.236.21|18875|Canada|Montreal|GloboTech Communications|
-|20|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|72.10.160.93|2295|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|22665|Canada|Montreal|GloboTech Communications|
+|15|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|16|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|17|165.16.27.36|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|67.43.236.20|22665|Canada|Montreal|GloboTech Communications|
+|19|149.5.36.217|8080|Ireland|Dublin|Carnsore Broadband Limited|
+|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
 
 
 
