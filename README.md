@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|183.89.159.53|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
-|4|152.67.35.194|80|Brazil|São Paulo|Oracle Corporation|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|95.214.11.163|3128|Germany|Frankfurt am Main|First Server Limited|
-|7|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|8|202.150.153.218|8080|Indonesia|Bandung|PT Comtronics Systems|
-|9|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|10|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|11|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|72.10.160.90|30493|Canada|Montreal|GloboTech Communications|
-|13|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
-|14|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|15|67.43.236.20|1593|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|21445|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1593|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|26937|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|72.10.160.92|1851|Canada|Montreal|GloboTech Communications|
+|6|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|7|138.197.20.244|10003|United States|Clifton|DigitalOcean, LLC|
+|8|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
+|9|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|21209|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|21209|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|21209|Canada|Montreal|GloboTech Communications|
+|13|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|14|67.43.227.227|17831|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|19851|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21209|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|20|67.43.228.250|8321|Canada|Montreal|GloboTech Communications|
 
 
 
