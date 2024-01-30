@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|731|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|731|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|731|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|729|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|729|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|729|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|62.210.114.201|8080|France|Paris|Online SAS|
-|7|183.89.115.140|8080|Thailand|Ban Phan Thong Luang|Triple T Broadband Public Company Limited|
-|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|9|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|183.89.115.140|8080|Thailand|Ban Phan Thong Luang|Triple T Broadband Public Company Limited|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
 |10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|12|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|13|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|14|88.205.239.218|3128|Russia|Novy Urengoy|A Yamalo-Nenetsk branch of JSC Uralsvyazinform Autonomus System|
-|15|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.159.90.14|83|India|Bhagwāngola|Pegasuswave Private Limited|
-|18|194.213.208.226|8180|Czechia|Kralupy nad Vltavou|T-Mobile Czech Republic a.s.|
-|19|103.187.113.165|3125|Indonesia|Tubanan|PT Adi Solusindo Teknologi|
-|20|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|11|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|88.205.239.218|3128|Russia|Novy Urengoy|A Yamalo-Nenetsk branch of JSC Uralsvyazinform Autonomus System|
+|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|118.67.143.135|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|18|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|19|86.216.245.29|3128|France|Bastia|Orange|
+|20|101.101.217.155|3128|South Korea|Seongnam-si|NBP|
 
 
 
