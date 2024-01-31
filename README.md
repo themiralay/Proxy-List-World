@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7486** proxies at the latest update. Usable proxies are below.
+> Scraper found **7521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1030|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|2|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|3|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
-|4|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|5|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|9|45.95.232.128|3128|Switzerland|Zurich|Global Internet Solutions LLC|
-|10|45.189.118.92|999|Peru|Callao|Fiber Digital S.R.L|
-|11|72.10.160.174|21881|Canada|Montreal|GloboTech Communications|
-|12|68.134.19.81|3129|United States|Columbia|Verizon Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|183.166.171.92|41122|China|Rongcheng|Chinanet|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|17|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|18|183.165.244.32|8089|China|Rongcheng|Chinanet|
-|19|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|62.210.114.201|8080|France|Paris|Online SAS|
+|2|50.204.36.138|60808|United States|Chicago|Comcast Cable Communications, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|8|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|9|183.165.247.151|8089|China|Rongcheng|Chinanet|
+|10|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|11|72.10.160.170|23857|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|32407|Canada|Montreal|GloboTech Communications|
+|13|103.117.194.69|8080|Bangladesh|Khilgaon|DigiCon Telecommunication Ltd|
+|14|123.182.58.62|8089|China|Zhangjiakou|China Telecom|
+|15|67.43.228.254|4307|Canada|Montreal|GloboTech Communications|
+|16|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|17|72.10.160.90|2477|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|2085|Canada|Montreal|GloboTech Communications|
+|19|183.165.247.11|8089|China|Rongcheng|Chinanet|
+|20|103.150.116.209|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
 
 
 
