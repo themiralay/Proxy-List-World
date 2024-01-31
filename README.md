@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.28.68.194|8888|United States|Los Angeles|The Constant Company|
-|2|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|149.28.68.194|8888|United States|Los Angeles|The Constant Company|
-|9|104.129.192.183|8800|United States|Long Beach|ZSCALER, INC.|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|149.28.68.194|8888|United States|Los Angeles|The Constant Company|
+|3|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|5|149.28.68.194|8888|United States|Los Angeles|The Constant Company|
+|6|195.112.98.217|60916|Russia|Obninsk|MAXnet Systems Ltd.|
+|7|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|139.180.39.205|8080|United States|El Paso|Conterra|
 |10|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|11|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|104.129.192.183|8800|United States|Long Beach|ZSCALER, INC.|
 |12|139.180.39.200|8080|United States|El Paso|Conterra|
-|13|198.199.87.124|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|139.180.39.205|8080|United States|El Paso|Conterra|
+|13|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|14|147.182.163.223|3128|United States|North Bergen|DigitalOcean, LLC|
 |15|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|16|121.160.185.164|3128|South Korea|Seongnam-si|Korea Telecom|
-|17|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|19|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|20|123.182.59.197|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.227.227|26813|Canada|Montreal|GloboTech Communications|
+|17|183.165.244.196|8089|China|Rongcheng|Chinanet|
+|18|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|19|162.55.95.91|59749|Germany|Falkenstein|Hetzner Online GmbH|
+|20|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
 
 
 
