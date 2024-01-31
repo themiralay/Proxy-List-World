@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9148** proxies at the latest update. Usable proxies are below.
+> Scraper found **9384** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|964|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|964|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|964|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|908|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|908|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|908|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1747|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1983|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|2|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|49.51.228.144|8080|United States|San Jose|OPHL|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
-|7|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|172.188.28.148|3128|Singapore|Singapore|Microsoft|
-|10|188.166.82.178|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|12|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|51.158.231.194|3128|France|Paris|Online S.A.S.|
-|16|62.171.156.179|3128|Germany|Nuremberg|Research Machines|
-|17|49.51.228.144|8080|United States|San Jose|OPHL|
-|18|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|19|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
+|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|12|88.255.65.104|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|14|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|15|5.104.87.169|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|16|103.28.112.126|8080|Indonesia|Bantul|PT Lintas Data Prima|
+|17|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|19|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
+|20|103.171.244.64|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
 
 
 
