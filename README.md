@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8153** proxies at the latest update. Usable proxies are below.
+> Scraper found **8115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|954|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5786|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.189.36|8080|Singapore|Singapore|Akamai Technologies|
-|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|89.39.105.181|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|172.104.189.36|8080|Singapore|Singapore|Akamai Technologies|
-|7|183.165.227.122|8089|China|Shenzhen|Chinanet|
-|8|223.215.176.32|8089|China|Guangzhou|Chinanet|
-|9|67.43.236.20|10775|Canada|Montreal|GloboTech Communications|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|12|67.43.236.20|10775|Canada|Montreal|GloboTech Communications|
-|13|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|14|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
-|15|114.103.80.133|8089|China|Rongcheng|Chinanet|
-|16|183.165.225.138|8089|China|Rongcheng|Chinanet|
-|17|114.103.80.17|8089|China|Rongcheng|Chinanet|
-|18|125.87.90.236|8089|China|Shanghai|China Telecom|
-|19|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.20|10775|Canada|Montreal|GloboTech Communications|
+|1|178.128.124.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|3|172.104.189.36|8080|Singapore|Singapore|Akamai Technologies|
+|4|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
+|5|203.150.128.209|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|89.39.105.181|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|10|60.191.244.14|3128|China|Jinhua|Chinanet|
+|11|67.43.227.228|21559|Canada|Montreal|GloboTech Communications|
+|12|169.53.22.19|3128|United States|Dallas|SoftLayer|
+|13|67.43.227.228|21559|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|2023|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|21883|Canada|Montreal|GloboTech Communications|
+|16|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|18|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|19|123.182.58.88|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.227.227|21883|Canada|Montreal|GloboTech Communications|
 
 
 
