@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7403** proxies at the latest update. Usable proxies are below.
+> Scraper found **7364** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|954|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.214.8|9054|United States|Los Angeles|HostPapa|
-|2|119.76.173.157|8118|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
-|6|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|8|223.247.47.5|8089|China|Shanghai|Chinanet|
-|9|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|10|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|11|67.43.228.253|6497|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|18095|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|12255|Canada|Montreal|GloboTech Communications|
-|14|183.165.247.57|8089|China|Rongcheng|Chinanet|
-|15|38.253.95.73|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|16|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
-|17|72.10.164.178|12435|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12255|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|177.87.15.141|8080|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|1|119.76.173.157|8118|Thailand|Bangkok|True Internet Co., Ltd.|
+|2|210.211.113.35|80|Vietnam|Ho Chi Minh City|VTDC|
+|3|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|5|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|7|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|8|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|9|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|10|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|12|23.94.214.8|9054|United States|Los Angeles|HostPapa|
+|13|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|15|23.94.214.8|9054|United States|Los Angeles|HostPapa|
+|16|72.10.160.94|29069|Canada|Montreal|GloboTech Communications|
+|17|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|67.43.228.253|20005|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
+|20|183.165.244.211|8089|China|Rongcheng|Chinanet|
 
 
 
