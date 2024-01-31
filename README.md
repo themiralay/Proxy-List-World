@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8739** proxies at the latest update. Usable proxies are below.
+> Scraper found **8929** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|843|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|843|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|843|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|801|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|801|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|801|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1495|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1685|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1072|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|168.119.119.45|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|103.250.70.214|8080|Bangladesh|Sakhipur|Next Online Ltd.|
-|12|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.125.138.206|8080|Bangladesh|Dhaka|Rupali Bank Limited|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|185.64.208.62|53281|Russia|Moscow|Svyazist LLC|
-|16|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|17|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|18|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|181.209.82.196|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|6|170.64.206.114|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|94.241.173.37|8080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|103.44.116.90|8000|India|Mumbai|Swastik Internet and Cables pvt. ltd|
+|11|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|12|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|13|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|27.147.220.110|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|180.131.242.221|48678|Japan|Tokyo|GLBB Japan KK|
+|17|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|18|213.91.232.94|8080|Bulgaria|Dolni Chiflik|Vivacom Bulgaria EAD|
+|19|202.12.80.14|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|20|172.233.146.207|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 
 
 
