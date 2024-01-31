@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1006|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1006|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1006|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1001|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1001|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1001|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|168.119.119.45|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|18|121.101.134.22|80|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
-|19|101.255.117.94|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|103.75.117.21|4443|Hong Kong|Tseung Kwan O|BrainStorm Network|
+|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|5.161.82.64|5654|United States|Ashburn|Hetzner Online GmbH|
+|10|103.75.117.21|4443|Hong Kong|Tseung Kwan O|BrainStorm Network|
+|11|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|50.84.48.130|8080|United States|Dallas|Spectrum|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|20|75.119.138.90|3128|Germany|Düsseldorf|BroadbandONE|
 
 
 
