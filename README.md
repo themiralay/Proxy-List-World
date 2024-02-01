@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7745** proxies at the latest update. Usable proxies are below.
+> Scraper found **7798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|954|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|33|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5466|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|178.128.123.114|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|36.73.140.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|72.10.160.170|1587|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|17875|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24449|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|27585|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|20223|Canada|Montreal|GloboTech Communications|
-|17|190.217.20.109|999|Colombia|Choachi|Level 3 Colombia S.A|
-|18|72.10.164.178|24449|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8585|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24449|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|178.128.123.114|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|104.236.195.90|10003|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.173|13271|Canada|Montreal|GloboTech Communications|
+|16|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|18|36.73.140.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|20|67.43.236.20|10143|Canada|Montreal|GloboTech Communications|
 
 
 
