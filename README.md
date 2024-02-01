@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9149** proxies at the latest update. Usable proxies are below.
+> Scraper found **9166** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1341|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1316|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|512|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|554|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6337|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|5|177.53.153.14|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|6|139.180.39.200|8080|United States|El Paso|Conterra|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|46.17.63.166|10000|United Kingdom|Bristol|HighSpeed Office Limited|
-|9|183.165.246.193|8089|China|Rongcheng|Chinanet|
-|10|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|12|104.238.140.80|8888|United States|Los Angeles|Choopa|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|72.10.160.173|20687|Canada|Montreal|GloboTech Communications|
-|15|123.182.58.240|8089|China|Zhangjiakou|China Telecom|
-|16|168.119.119.45|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|17|183.165.250.202|8089|China|Rongcheng|Chinanet|
-|18|72.10.160.90|10319|Canada|Montreal|GloboTech Communications|
-|19|179.189.48.253|8080|Brazil|Sinop|EVO Networks|
-|20|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|4|116.203.131.14|4142|Germany|Hamburg|Hetzner Online GmbH|
+|5|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|6|38.54.81.96|3128|Philippines|Manila|Kaopu Cloud HK Limited|
+|7|139.180.39.200|8080|United States|El Paso|Conterra|
+|8|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|46.17.63.166|10000|United Kingdom|Bristol|HighSpeed Office Limited|
+|10|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|11|149.28.75.112|8888|United States|Los Angeles|The Constant Company|
+|12|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|13|64.225.8.142|10000|United States|Clifton|DigitalOcean, LLC|
+|14|72.10.164.178|29895|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|19399|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|13173|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29895|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.229|4833|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.203|10001|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.236.20|19399|Canada|Montreal|GloboTech Communications|
 
 
 
