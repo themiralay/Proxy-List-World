@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8680** proxies at the latest update. Usable proxies are below.
+> Scraper found **8561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1251|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|538|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5933|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.127.97.173|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|104.129.192.183|8800|United States|Long Beach|ZSCALER, INC.|
-|8|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|67.43.228.254|4995|Canada|Montreal|GloboTech Communications|
-|11|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|114.30.79.165|3128|India|New Delhi|Spacenet  Pvt Ltd|
-|13|52.230.17.215|3128|Singapore|Singapore|Microsoft Corporation|
-|14|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|15|72.10.160.90|28693|Canada|Montreal|GloboTech Communications|
-|16|111.224.212.124|8089|China|Zhoutou|Chinanet|
-|17|128.199.177.68|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|19|103.244.163.197|3128|Hong Kong|Kwai Chung|404 Network Information Co.|
-|20|129.151.246.167|3128|France|Marseille|Oracle Corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|6|104.129.192.183|8800|United States|Long Beach|ZSCALER, INC.|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|8|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|9|205.196.184.69|50704|United States|Houston|Phonoscope|
+|10|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|146.190.156.201|8118|United States|Santa Clara|DigitalOcean, LLC|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|38.48.113.130|28080|United States|Huntsville|Wavefly|
+|14|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|15|60.191.244.14|3128|China|Jinhua|Chinanet|
+|16|123.182.59.190|8089|China|Zhangjiakou|China Telecom|
+|17|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|18|77.37.130.80|3128|Russia|Moscow|NCNET|
+|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|20|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
 
 
 
