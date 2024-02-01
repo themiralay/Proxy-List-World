@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9186** proxies at the latest update. Usable proxies are below.
+> Scraper found **9243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|897|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|897|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|897|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|745|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|745|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|745|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1577|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|695|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5953|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.180.45.171|8118|Mexico|Querétaro City|UNINET|
+|1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
 |2|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|180.190.186.239|8082|Philippines|Lahug|Globe Telecom|
+|4|45.79.123.204|3128|India|Mumbai|Akamai Technologies, Inc.|
+|5|65.21.99.70|7444|Finland|Helsinki|Hetzner Online GmbH|
 |6|125.25.32.62|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|189.165.216.25|999|Mexico|Puebla City|UNINET|
-|8|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|9|122.3.103.17|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|10|103.1.50.56|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|64.176.165.143|701|Israel|Rosh Ha‘Ayin|The Constant Company, LLC|
-|12|201.76.0.32|8090|Brazil|Ararangua|Contato Internet EIRELI|
-|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
-|15|203.76.220.60|8888|Bangladesh|Kāliganj|BUSINESSNETWORK|
-|16|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|17|190.63.35.30|9812|Ecuador|Quito|CONECEL|
-|18|135.125.241.1|3128|Germany|Limburg an der Lahn|OVH SAS|
-|19|93.157.196.58|8080|Bosnia and Herzegovina|Gradacac|Telesat d.o.o.|
-|20|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
+|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|190.63.35.30|9812|Ecuador|Quito|CONECEL|
+|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|14|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|15|67.43.236.19|4029|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1535|Canada|Montreal|GloboTech Communications|
+|17|116.105.166.197|10005|Vietnam|Hanoi|Viettel Corporation|
+|18|45.76.244.114|8888|United States|Kent|The Constant Company|
+|19|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
