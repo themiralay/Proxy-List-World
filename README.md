@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9309** proxies at the latest update. Usable proxies are below.
+> Scraper found **9366** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|801|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|801|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|801|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|867|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|867|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|867|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1655|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1712|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|743|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5953|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|27.79.224.23|3128|Vietnam|Hanoi|Viettel Corporation|
-|4|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
 |5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|170.64.206.114|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|168.119.119.45|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|10|24.152.50.130|8080|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
-|11|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|97.76.251.138|8080|United States|Tampa|Spectrum|
-|13|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|19|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|195.175.29.38|9090|Turkey|Reyhanli|Turk Telekomunikasyon A.S|
+|6|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|27.79.224.23|3128|Vietnam|Hanoi|Viettel Corporation|
+|8|170.64.206.114|8000|Australia|Sydney|DigitalOcean, LLC|
+|9|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|198.199.87.124|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|136.54.41.203|8118|United States|Cary|Google Fiber Inc.|
+|16|103.179.139.81|1111|Indonesia|Ketos Dua|PT. Fiber Networks Indonesia|
+|17|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
+|18|24.152.50.130|8080|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
+|19|64.189.106.6|3129|United States|Commerce|Apogee Telecom Inc.|
+|20|8.222.130.195|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
