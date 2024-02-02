@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|116.106.3.228|1020|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|67.43.228.253|30215|Canada|Montreal|GloboTech Communications|
-|4|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|5|67.43.227.227|32229|Canada|Montreal|GloboTech Communications|
-|6|113.178.37.34|8080|Vietnam|Hanoi|VNPT|
-|7|72.10.160.171|5891|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.173|19973|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|32229|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|30215|Canada|Montreal|GloboTech Communications|
-|11|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|12|72.10.164.178|27199|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.5|8089|China|Zhoutou|China Telecom|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.227.227|32229|Canada|Montreal|GloboTech Communications|
-|16|43.128.2.177|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|200.179.83.144|3128|Brazil|Rio de Janeiro|Claro S.A.|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|183.165.249.10|8089|China|Rongcheng|Chinanet|
-|20|223.247.47.230|8089|China|Shanghai|Chinanet|
+|2|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|5|67.43.227.227|15375|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|29927|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|15375|Canada|Montreal|GloboTech Communications|
+|8|188.93.125.94|3128|Serbia|Belgrade|mCloud VMs|
+|9|67.43.228.253|1271|Canada|Montreal|GloboTech Communications|
+|10|114.106.134.108|8089|China|Guangzhou|Chinanet|
+|11|51.79.161.128|3128|Singapore|Singapore|OVH SAS|
+|12|67.43.228.253|1271|Canada|Montreal|GloboTech Communications|
+|13|200.179.83.144|3128|Brazil|Rio de Janeiro|Claro S.A.|
+|14|72.10.164.178|14803|Canada|Montreal|GloboTech Communications|
+|15|217.23.11.194|47695|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|67.43.227.227|15375|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|14803|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|72.10.160.171|5891|Canada|Montreal|GloboTech Communications|
 
 
 
