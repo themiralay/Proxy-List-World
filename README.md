@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9616** proxies at the latest update. Usable proxies are below.
+> Scraper found **9538** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|729|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|729|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|729|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1740|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1662|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|786|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|43.226.14.131|32650|Cambodia|Kandal|TURBOTECH CO., LTD.|
-|4|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|103.141.180.254|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
-|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|190.128.225.114|999|Paraguay|Asunción|Telecel S.A.|
-|9|187.16.37.194|8080|Brazil|Sorriso|Nova Fibra Telecom S.A|
-|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|11|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|12|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|179.43.8.16|8088|Brazil|Jaicos|Voex Telecom Ltda|
-|14|190.43.92.36|999|Peru|Tacna|Telefonica Del Peru|
-|15|192.210.200.8|38080|United States|Chicago|HostPapa|
-|16|101.255.62.130|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|18|103.44.116.90|3128|India|Mumbai|Swastik Internet and Cables pvt. ltd|
-|19|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|1|172.233.146.207|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|2|45.5.117.42|999|Guatemala|Chiquimula|Inversiones Grajeda Andrade S.A|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|5|192.210.200.8|38080|United States|Chicago|HostPapa|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|172.233.146.207|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|9|103.105.228.35|8080|India|Mumbai|Mnk Infoway Private Limited|
+|10|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
+|11|88.255.185.246|8080|Turkey|Reyhanli|Turk Telekomunikasyon Anonim Sirketi|
+|12|103.132.52.122|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|187.16.37.194|8080|Brazil|Sorriso|Nova Fibra Telecom S.A|
+|15|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|16|161.156.199.78|80|United Kingdom|London|SoftLayer|
+|17|185.25.23.163|3128|Greece|Thessaloniki|POINTER-CLOUD2|
+|18|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|19|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
