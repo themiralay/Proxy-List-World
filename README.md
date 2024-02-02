@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7874** proxies at the latest update. Usable proxies are below.
+> Scraper found **9400** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|783|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
-|2|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|3|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|41.207.249.166|8080|Nigeria|Abuja|Winrock Nigeria Limited|
-|7|103.250.70.214|8080|Bangladesh|Sakhipur|Next Online Ltd.|
-|8|177.93.50.106|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|9|139.180.39.205|8080|United States|El Paso|Conterra|
-|10|38.253.80.32|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|11|192.210.200.8|38080|United States|Chicago|HostPapa|
-|12|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|13|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.115.31.39|8181|Indonesia|Jember|HSPNET|
-|15|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|16|72.10.164.178|8643|Canada|Montreal|GloboTech Communications|
-|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|18|190.217.20.106|999|Colombia|Choachi|TECNOLOGÍA|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|103.138.71.29|3125|Indonesia|Pelalawan|PT Centronet Data Indonesia|
+|4|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|6|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|103.35.108.194|5020|Bangladesh|Dhaka|Ranks ITT|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
+|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|11|103.58.95.5|8080|Bangladesh|Dhaka|Metaphor Digital Media|
+|12|51.159.0.236|2020|France|Paris|SCALEWAY|
+|13|62.40.157.231|32650|Austria|Mödling|Kabelsignal AG|
+|14|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|15|213.244.91.179|8080|Palestine|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|16|194.124.36.178|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.177.93.32|1111|Indonesia|Tangerang|PT Jalur Satu Aman|
+|18|103.75.117.21|4443|Hong Kong|Tseung Kwan O|BrainStorm Network|
+|19|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
