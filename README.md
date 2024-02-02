@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|68.183.111.170|80|United States|North Bergen|DigitalOcean, LLC|
 |4|44.213.196.246|8080|United States|Ashburn|Amazon.com|
 |5|44.213.196.246|8080|United States|Ashburn|Amazon.com|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|51.79.161.128|3128|Singapore|Singapore|OVH SAS|
-|8|44.213.196.246|8080|United States|Ashburn|Amazon.com|
-|9|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|10|67.43.228.253|12767|Canada|Montreal|GloboTech Communications|
-|11|131.0.235.10|55555|Argentina|Villa Jose Leon Suarez|MUSURIT|
-|12|67.43.236.20|10005|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|12767|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|12455|Canada|Montreal|GloboTech Communications|
-|15|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.227|16913|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5831|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|27463|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|18753|Canada|Montreal|GloboTech Communications|
-|20|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|6|103.173.139.2|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|7|200.95.184.62|999|Chile|Chillan|Comunicaciones Cablevision Ltda.|
+|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|9|103.174.236.105|8090|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|10|14.103.24.20|8000|China|Beijing|BITNET|
+|11|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|18153|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|6147|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|6247|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|18153|Canada|Montreal|GloboTech Communications|
+|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|18|72.10.160.173|31995|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
 
 
 
