@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.26.207.134|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|186.156.161.235|3128|Chile|Penalolen|VTR BANDA ANCHA S.A.|
-|6|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|7|72.10.160.170|6011|Canada|Montreal|GloboTech Communications|
-|8|72.183.138.54|8089|United States|Buda|Charter Communications|
-|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|10|223.215.177.159|8089|China|Guangzhou|Chinanet|
-|11|124.106.228.30|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|12|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|32187|Canada|Montreal|GloboTech Communications|
-|16|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|67.43.236.20|20803|Canada|Montreal|GloboTech Communications|
-|18|203.170.67.206|8080|Pakistan|Karachi|ITI Karachi NetSol|
-|19|123.182.58.157|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
+|7|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|13|72.10.164.178|32187|Canada|Montreal|GloboTech Communications|
+|14|95.216.163.108|7867|Finland|Helsinki|Hetzner Online GmbH|
+|15|67.43.227.227|18549|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|17213|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|33269|Canada|Montreal|GloboTech Communications|
+|18|223.215.176.224|8089|China|Guangzhou|Chinanet|
+|19|123.182.58.167|8089|China|Zhangjiakou|China Telecom|
+|20|72.10.160.90|17213|Canada|Montreal|GloboTech Communications|
 
 
 
