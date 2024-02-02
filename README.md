@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|2|79.22.193.249|3128|Italy|Naples|INTERBUSINESS|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|219.65.42.163|80|India|New Delhi|Tata Communications Limited|
-|5|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|6|72.10.164.178|32965|Canada|Montreal|GloboTech Communications|
-|7|162.55.95.91|50438|Germany|Falkenstein|Hetzner Online GmbH|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|67.43.227.227|7297|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.19|11873|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|7297|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|5495|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|4773|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|8861|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|28977|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|32965|Canada|Montreal|GloboTech Communications|
-|17|114.106.173.160|8089|China|Guangzhou|Chinanet|
-|18|67.43.227.227|7297|Canada|Montreal|GloboTech Communications|
-|19|54.193.73.31|8080|United States|San Jose|Amazon.com, Inc.|
-|20|72.10.164.178|32965|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|177.93.39.73|999|Colombia|Fresno|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
+|4|54.193.73.31|8080|United States|San Jose|Amazon.com, Inc.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|35.210.167.87|3128|Belgium|Brussels|Google LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|67.43.228.253|29157|Canada|Montreal|GloboTech Communications|
+|10|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|11|36.90.161.73|3128|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|12|72.10.160.91|29179|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|12847|Canada|Montreal|GloboTech Communications|
+|14|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
+|15|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|16|111.225.152.65|8089|China|Zhoutou|China Telecom|
+|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|183.164.243.217|8089|China|Hefei|Chinanet|
+|19|105.29.65.70|8080|South Africa|Sandton|SEACOM Limited Networks|
+|20|67.43.228.251|32213|Canada|Montreal|GloboTech Communications|
 
 
 
