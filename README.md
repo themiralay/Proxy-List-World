@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9663** proxies at the latest update. Usable proxies are below.
+> Scraper found **9646** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|801|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|801|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|801|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|855|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|855|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|855|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1790|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1773|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|783|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|2|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|23.94.214.8|9054|United States|Los Angeles|HostPapa|
-|6|89.39.105.181|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|9|139.180.39.205|8080|United States|El Paso|Conterra|
-|10|121.101.135.46|8089|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|11|203.177.133.236|8080|Philippines|Taguig|Globe Telecom|
-|12|190.217.20.106|999|Colombia|Choachi|TECNOLOGÍA|
-|13|41.207.249.166|8080|Nigeria|Abuja|Winrock Nigeria Limited|
-|14|167.172.238.15|10002|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.236.20|1345|Canada|Montreal|GloboTech Communications|
-|16|103.169.194.250|8181|Indonesia|Banyuwangi|PT Aderani Multi Akses|
-|17|67.43.236.20|1345|Canada|Montreal|GloboTech Communications|
-|18|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|19|192.210.200.8|38080|United States|Chicago|HostPapa|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|103.181.168.197|8080|India|Madurai|Mrkr Communications Private Limited|
+|3|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|4|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|5|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|190.238.231.71|1994|Peru|Ica|Telefonica Del Peru|
+|7|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|8|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|118.172.187.127|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|38.253.80.32|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
+|12|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|139.180.39.205|8080|United States|El Paso|Conterra|
+|14|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|15|41.207.249.166|8080|Nigeria|Abuja|Winrock Nigeria Limited|
+|16|8.222.130.195|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|18|111.90.143.184|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|72.10.160.173|30709|Canada|Montreal|GloboTech Communications|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
