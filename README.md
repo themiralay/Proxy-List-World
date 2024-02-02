@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8524** proxies at the latest update. Usable proxies are below.
+> Scraper found **8557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|607|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|607|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|607|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1384|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1543|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|616|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|488|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5537|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.180.39.210|8080|United States|El Paso|Conterra|
-|2|139.180.39.201|8080|United States|El Paso|Conterra|
-|3|103.20.90.121|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|139.180.39.210|8080|United States|El Paso|Conterra|
-|8|198.199.87.124|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|139.180.39.201|8080|United States|El Paso|Conterra|
-|10|190.7.138.78|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|11|181.206.84.190|8080|Colombia|Bogotá|Colombia Móvil|
-|12|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|13|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|14|190.94.212.151|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|49.51.228.144|8080|United States|San Jose|OPHL|
-|16|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|17|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|18|67.43.236.20|4493|Canada|Montreal|GloboTech Communications|
-|19|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|20|67.43.228.251|23745|Canada|Montreal|GloboTech Communications|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
+|3|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|4|31.43.52.176|41890|Ukraine|Borova|Ukrainian Telecommunication Group LLC|
+|5|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|6|209.126.86.43|7126|United States|St Louis|Nubes, LLC|
+|7|72.10.160.90|19173|Canada|Montreal|GloboTech Communications|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|67.43.227.227|30485|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|11899|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|12051|Canada|Montreal|GloboTech Communications|
+|12|8.222.130.195|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|167.172.238.6|10000|United States|Clifton|DigitalOcean, LLC|
+|14|138.197.185.148|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|147.28.145.212|10012|United States|Ashburn|Packet Host, Inc.|
+|16|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
+|17|67.43.236.20|12051|Canada|Montreal|GloboTech Communications|
+|18|123.182.58.196|8089|China|Zhangjiakou|China Telecom|
+|19|200.11.216.93|666|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|20|72.10.160.90|19173|Canada|Montreal|GloboTech Communications|
 
 
 
