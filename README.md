@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8998** proxies at the latest update. Usable proxies are below.
+> Scraper found **8992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|704|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|704|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|704|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1296|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1290|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|612|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.174.236.105|8090|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|2|38.52.209.42|999|Guatemala|Mixco|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|103.105.228.66|8080|India|Mumbai|Mnk Infoway Private Limited|
-|5|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|46.198.132.231|21231|Greece|Athens|Vodafone-panafon Hellenic Telecommunications Company SA|
-|8|45.56.84.254|55123|United States|Fremont|Akamai Technologies, Inc.|
-|9|107.151.253.164|8089|United States|Los Angeles|Zenlayer Inc|
-|10|43.128.2.177|8443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
-|13|67.43.236.20|27707|Canada|Montreal|GloboTech Communications|
-|14|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|15|181.188.206.62|999|Ecuador|Quito|Otecel S.A|
-|16|67.43.227.227|8881|Canada|Montreal|GloboTech Communications|
-|17|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|67.43.227.229|8045|Canada|Montreal|GloboTech Communications|
-|20|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|1|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|95.217.12.58|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|193.231.40.182|16099|Romania|Craiova|Romanian Education Network|
+|6|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.167.69.94|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|9|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|189.90.249.80|8090|Brazil|Ponte Nova|Companhia Itabirana Telecomunicações Ltda|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|183.88.71.217|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|16|103.48.71.102|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|45.176.95.38|999|Dominican Republic|Santo Domingo Este|Exito Vision Cable S.A.S|
+|20|72.10.160.90|15747|Canada|Montreal|GloboTech Communications|
 
 
 
