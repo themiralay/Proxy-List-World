@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|95.17.164.40|8118|Spain|Olot|Orange Spain|
-|5|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|10|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|11|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|12|171.235.178.207|1013|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|72.10.164.178|24633|Canada|Montreal|GloboTech Communications|
-|14|64.225.8.179|10000|United States|Clifton|DigitalOcean, LLC|
-|15|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.160.90|6233|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8293|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6233|Canada|Montreal|GloboTech Communications|
-|19|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|20|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|8|171.235.187.241|3019|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|72.10.164.178|24633|Canada|Montreal|GloboTech Communications|
+|10|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|11|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|12|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|72.10.160.172|19625|Canada|Montreal|GloboTech Communications|
+|15|58.20.20.87|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|67.43.227.227|11337|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|1939|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|19357|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|3091|Canada|Montreal|GloboTech Communications|
+|20|64.225.8.179|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
