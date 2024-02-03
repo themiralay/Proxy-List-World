@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.174.22.65|8085|Argentina|Boca Toma|DIAZ MARCELA ALEJANDRA(PATAGONIA DIGITAL)|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|5|103.87.169.191|32650|India|Sīkar|Tejays Industries Pvt Ltd|
-|6|85.234.120.77|32650|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
-|7|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
-|8|67.43.227.227|24207|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|8509|Canada|Montreal|GloboTech Communications|
-|10|65.21.35.155|4785|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.10.164.178|9157|Canada|Montreal|GloboTech Communications|
-|12|120.89.91.222|8182|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|13|72.10.160.91|25125|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|6049|Russia|Moscow|Delta Ltd|
-|15|67.43.227.227|24207|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9157|Canada|Montreal|GloboTech Communications|
-|17|65.21.35.155|4785|Finland|Helsinki|Hetzner Online GmbH|
-|18|111.225.152.100|8089|China|Zhoutou|China Telecom|
-|19|67.43.227.227|24207|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24207|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|200.179.83.144|3128|Brazil|Rio de Janeiro|Claro S.A.|
+|5|72.10.164.178|14459|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.227|3471|Canada|Montreal|GloboTech Communications|
+|7|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|162.55.95.91|9303|Germany|Falkenstein|Hetzner Online GmbH|
+|10|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|11|103.160.68.72|3000|Indonesia|Blitar|PT Gayatri Lintas Nusantara|
+|12|67.43.227.228|10341|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|3471|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|14459|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|72.10.160.171|19033|Canada|Montreal|GloboTech Communications|
 
 
 
