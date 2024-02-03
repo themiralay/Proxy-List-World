@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7611** proxies at the latest update. Usable proxies are below.
+> Scraper found **7730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|775|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|885|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|328|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5550|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.191.155.46|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
+|1|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|121.101.134.22|8080|Indonesia|Wonosobo|PT SELARAS CITRA TERABIT|
 |5|139.180.39.205|8080|United States|El Paso|Conterra|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|67.43.227.227|20385|Canada|Montreal|GloboTech Communications|
-|8|187.95.124.108|3128|Brazil|Cascavel|Ligga Telecomunicações S.A|
-|9|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|16521|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|1429|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|20385|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
-|16|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|67.43.227.227|20385|Canada|Montreal|GloboTech Communications|
-|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1429|Canada|Montreal|GloboTech Communications|
+|6|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|36.88.170.170|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|67.43.228.253|10547|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|1987|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.92|20493|Canada|Montreal|GloboTech Communications|
+|14|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|72.10.164.178|24401|Canada|Montreal|GloboTech Communications|
+|16|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|17|72.10.164.178|24401|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|12215|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|11865|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24401|Canada|Montreal|GloboTech Communications|
 
 
 
