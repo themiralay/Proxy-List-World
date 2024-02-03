@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8199** proxies at the latest update. Usable proxies are below.
+> Scraper found **8213** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1264|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1227|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|514|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5514|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|170.64.206.114|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|89.248.204.178|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|9|86.104.40.166|3128|Iran|Tehran|Afranet|
-|10|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|11|63.141.244.218|3128|United States|Kansas City|Nocix, LLC|
-|12|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|191.240.153.165|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|17|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|181.10.117.254|999|Argentina|La Cocha|Telecom Argentina S.A.|
+|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.233.170.74|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|5|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|198.199.87.124|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|1.20.201.77|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|63.141.244.218|3128|United States|Kansas City|Nocix, LLC|
+|9|177.184.199.36|80|Brazil|Poa|Wireless Comm Services LTDA|
+|10|86.104.40.166|3128|Iran|Tehran|Afranet|
+|11|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|12|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|185.164.163.135|8118|The Netherlands|Dronten|MIRholding B.V.|
+|14|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|15|190.56.241.170|999|Guatemala|Peten|Telgua|
+|16|88.255.65.103|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|17|167.172.238.15|10006|United States|Clifton|DigitalOcean, LLC|
+|18|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|19|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
