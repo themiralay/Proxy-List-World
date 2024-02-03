@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9202** proxies at the latest update. Usable proxies are below.
+> Scraper found **9285** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|922|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|922|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|922|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|918|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|918|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|918|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1640|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1723|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|772|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5830|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|118.99.119.38|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|4|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|182.52.155.137|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|8|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|9|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|10|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
-|11|79.137.204.40|10000|The Netherlands|Amsterdam|Aeza International LTD|
-|12|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|13|139.180.39.200|8080|United States|El Paso|Conterra|
-|14|138.197.20.244|10007|United States|Clifton|DigitalOcean, LLC|
-|15|142.93.72.28|10000|United States|Clifton|DigitalOcean, LLC|
-|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|17|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|18|72.10.164.178|26129|Canada|Montreal|GloboTech Communications|
-|19|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|72.10.164.178|26129|Canada|Montreal|GloboTech Communications|
+|2|103.189.123.149|80|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|3|118.99.119.38|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|6|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
+|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|20.107.167.80|80|Ireland|Dublin|Microsoft Corporation|
+|13|88.150.15.30|80|Germany|Magdeburg|MDlink online service center GmbH|
+|14|144.126.141.115|1010|United States|St Louis|Nubes, LLC|
+|15|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|16|64.225.4.17|10005|United States|Clifton|DigitalOcean, LLC|
+|17|185.79.115.129|3128|The Netherlands|Dronten|Serverius Holding B.V.|
+|18|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|139.180.39.200|8080|United States|El Paso|Conterra|
+|20|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
