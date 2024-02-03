@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.119.96.195|8080|Cambodia|Phnom Penh|Mega Truenet Communication Co., Ltd.|
-|6|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
-|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|95.17.164.40|8118|Spain|Olot|Orange Spain|
+|5|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |9|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|10|64.225.8.203|10004|United States|Clifton|DigitalOcean, LLC|
-|11|64.225.8.203|10004|United States|Clifton|DigitalOcean, LLC|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|60.191.244.14|3128|China|Jinhua|Chinanet|
-|14|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|15|182.253.66.148|8989|Indonesia|Jakarta Pusat|BIZNET|
-|16|120.33.126.200|3128|China|Quanzhou|Chinanet|
-|17|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|18|186.168.153.181|999|Colombia|Santiago de Cali|Colombia Telecomunicaciones S.a. ESP|
-|19|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|176.57.69.131|5905|The Netherlands|Meppel|Zomro B.V.|
+|10|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|11|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|12|171.235.178.207|1013|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|72.10.164.178|24633|Canada|Montreal|GloboTech Communications|
+|14|64.225.8.179|10000|United States|Clifton|DigitalOcean, LLC|
+|15|167.172.238.15|10004|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.90|6233|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8293|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|6233|Canada|Montreal|GloboTech Communications|
+|19|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|20|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
 
 
 
