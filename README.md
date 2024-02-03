@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7753** proxies at the latest update. Usable proxies are below.
+> Scraper found **7714** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5550|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.159.96.26|8080|Indonesia|Bojonegoro|PT Jinde Grup Indonesia|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|138.99.150.130|999|Mexico|Panindicuaro|Internet Telefonia Y TV De Michoacan SA De CV|
-|6|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|177.37.100.253|31288|Brazil|Dores do Indaia|Indagraf Ltda|
-|8|188.132.221.169|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|67.43.227.227|21151|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|21151|Canada|Montreal|GloboTech Communications|
-|11|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|168.195.203.250|999|Mexico|Huixtla|Level 3 Communications, Inc.|
-|13|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|67.43.236.20|4321|Canada|Montreal|GloboTech Communications|
-|15|103.77.51.221|8080|Indonesia|Bandung|STARNET|
-|16|67.43.236.20|4321|Canada|Montreal|GloboTech Communications|
-|17|45.189.118.92|999|Peru|Callao|Fiber Digital S.R.L|
-|18|172.233.163.118|3128|United States|Miami|Akamai Technologies, Inc.|
-|19|67.43.227.226|26535|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|10553|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
+|3|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|4|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|5|80.95.10.208|8082|South Africa|Stellenbosch|HERO TELECOMS (PTY) LTD|
+|6|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
+|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|8|131.100.51.252|999|Colombia|Garzón|Fibernet TV SAS|
+|9|72.10.164.178|17135|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|17135|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
+|13|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|67.43.227.226|26535|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|18999|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
+|18|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|5071|Canada|Montreal|GloboTech Communications|
 
 
 
