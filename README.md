@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9292** proxies at the latest update. Usable proxies are below.
+> Scraper found **9204** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1324|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|236|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1230|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6201|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|44.213.196.246|8080|United States|Ashburn|Amazon.com|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|94.131.106.196|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|5|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|6|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|7|172.104.172.200|8000|Singapore|Singapore|Akamai Technologies|
-|8|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|11|44.213.196.246|8080|United States|Ashburn|Amazon.com|
-|12|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|13|182.253.112.187|80|Indonesia|Weleri|BIZNET|
-|14|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|15|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|16|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
-|18|162.14.109.243|80|China|Chengdu|Shenzhen Tencent Computer Systems Company Limited|
-|19|58.20.82.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|1|44.213.196.246|8080|United States|Ashburn|Amazon.com|
+|2|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|3|91.185.58.230|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|4|1.0.171.213|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|44.213.196.246|8080|United States|Ashburn|Amazon.com|
+|6|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
+|7|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|9|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
+|10|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|49.145.243.247|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|13|124.121.86.140|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|14|119.39.68.87|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|182.253.112.187|80|Indonesia|Weleri|BIZNET|
+|16|58.20.82.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|103.137.108.61|8090|Bangladesh|Noākhāli|Creation Online|
+|18|8.242.85.3|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|19|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|67.43.227.227|26599|Canada|Montreal|GloboTech Communications|
 
 
 
