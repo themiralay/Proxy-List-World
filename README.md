@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7770** proxies at the latest update. Usable proxies are below.
+> Scraper found **7815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1037|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1082|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5458|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|3|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|4|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|6|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|7|67.43.228.253|3227|Canada|Montreal|GloboTech Communications|
-|8|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|67.43.228.253|3227|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|23177|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|3227|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|23177|Canada|Montreal|GloboTech Communications|
-|13|114.106.171.86|8089|China|Guangzhou|Chinanet|
-|14|45.64.169.7|3128|Malaysia|Kuala Lumpur|IPSERVERONE|
-|15|67.43.236.20|1833|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1833|Canada|Montreal|GloboTech Communications|
-|17|111.225.153.108|8089|China|Zhoutou|China Telecom|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|36.6.144.199|8089|China|Rongcheng|Chinanet|
-|20|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|1|103.18.46.253|80|Indonesia|Cipete Utara|PT. Fiber Networks Indonesia|
+|2|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|4|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|172.104.172.93|8000|Singapore|Singapore|Akamai Technologies|
+|7|183.165.244.101|8089|China|Rongcheng|Chinanet|
+|8|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|223.215.176.204|8089|China|Guangzhou|Chinanet|
+|10|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|11|47.229.171.150|3128|United States|Glendale|Charter Communications|
+|12|67.43.236.20|18717|Canada|Montreal|GloboTech Communications|
+|13|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|14|111.225.152.121|8089|China|Zhoutou|China Telecom|
+|15|72.10.160.171|28207|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|2729|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|18717|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|18717|Canada|Montreal|GloboTech Communications|
+|19|117.57.92.238|8089|China|Guangzhou|Chinanet|
+|20|72.10.160.90|2729|Canada|Montreal|GloboTech Communications|
 
 
 
