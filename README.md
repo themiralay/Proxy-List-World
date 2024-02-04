@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10141** proxies at the latest update. Usable proxies are below.
+> Scraper found **10143** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1199|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1970|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1972|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1062|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6151|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
 |2|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|74.105.127.162|8118|United States|Ramsey|Verizon Business|
-|6|58.69.124.137|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|7|183.88.241.167|8080|Thailand|Chanthaburi|Triple T Broadband Public Company Limited|
-|8|103.136.82.252|84|India|Ranchi|Protoact Digital Network Pvt. Ltd|
-|9|107.155.56.228|80|Singapore|Singapore|Zenlayer Inc|
-|10|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|11|187.40.1.123|128|Brazil|São Paulo|V tal|
-|12|92.207.253.226|38157|United Kingdom|Oxford|Gamma Telecom Holdings Ltd|
-|13|115.73.180.71|4014|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|44.222.51.66|80|United States|Ashburn|Amazon.com|
-|15|88.99.131.6|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|16|140.238.246.67|3128|India|Mumbai|Oracle Corporation|
-|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|18|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|19|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|85.132.11.208|3128|Azerbaijan|Baku|Delta|
+|4|172.105.51.126|3128|India|Mumbai|Akamai Technologies|
+|5|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|8|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|187.40.1.123|128|Brazil|São Paulo|V tal|
+|10|189.186.130.192|999|Mexico|Culiacán|UNINET|
+|11|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|12|202.154.19.218|8081|Indonesia|Jombang|DIGITNET|
+|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|14|64.23.131.209|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|115.73.180.71|4014|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
