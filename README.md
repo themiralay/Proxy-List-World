@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7666** proxies at the latest update. Usable proxies are below.
+> Scraper found **7718** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1044|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5437|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|94.228.162.118|10000|France|Paris|Aeza International LTD|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|161.156.199.78|80|United Kingdom|London|SoftLayer|
-|10|5.104.75.214|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|11|123.182.58.111|8089|China|Zhangjiakou|China Telecom|
-|12|183.165.225.55|8089|China|Rongcheng|Chinanet|
-|13|67.43.227.228|2503|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|2041|Canada|Montreal|GloboTech Communications|
-|15|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|17|165.16.58.32|19000|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|19|67.43.227.227|11393|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|2503|Canada|Montreal|GloboTech Communications|
+|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|7|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|183.165.227.109|8089|China|Shenzhen|Chinanet|
+|12|91.107.143.161|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|67.43.228.252|3889|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|33217|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|12605|Canada|Montreal|GloboTech Communications|
+|16|183.165.245.233|8089|China|Rongcheng|Chinanet|
+|17|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|18|114.103.88.128|8089|China|Rongcheng|Chinanet|
+|19|67.43.228.253|2977|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|33217|Canada|Montreal|GloboTech Communications|
 
 
 
