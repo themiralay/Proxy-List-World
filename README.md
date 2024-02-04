@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7608** proxies at the latest update. Usable proxies are below.
+> Scraper found **7634** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|934|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|960|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5437|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.228.251|4395|Canada|Montreal|GloboTech Communications|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|72.10.164.178|26441|Canada|Montreal|GloboTech Communications|
-|13|123.182.59.185|8089|China|Zhangjiakou|China Telecom|
-|14|200.179.83.144|3128|Brazil|Rio de Janeiro|Claro S.A.|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|67.43.236.20|25791|Canada|Montreal|GloboTech Communications|
+|8|192.144.30.200|8080|Russia|Moscow|SE Khan Aleksandr Ilich|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|67.43.227.227|25393|Canada|Montreal|GloboTech Communications|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|114.106.134.118|8089|China|Guangzhou|Chinanet|
 |15|67.43.236.20|25791|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1985|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26441|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|25791|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4555|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|20409|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|25791|Canada|Montreal|GloboTech Communications|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|67.43.227.227|25393|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29717|Canada|Montreal|GloboTech Communications|
+|20|123.182.59.163|8089|China|Zhangjiakou|China Telecom|
 
 
 
