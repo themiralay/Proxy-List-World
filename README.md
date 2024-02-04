@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7794** proxies at the latest update. Usable proxies are below.
+> Scraper found **7704** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|900|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5567|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |3|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
 |4|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|67.43.228.251|29361|Canada|Montreal|GloboTech Communications|
-|6|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|7|5.196.111.30|20022|France|Gravelines|OVH SAS|
-|8|67.43.228.253|2011|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|10515|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.252|32065|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|2011|Canada|Montreal|GloboTech Communications|
-|12|223.215.177.224|8089|China|Guangzhou|Chinanet|
-|13|67.43.236.20|18957|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|10515|Canada|Montreal|GloboTech Communications|
-|15|123.182.58.17|8089|China|Zhangjiakou|China Telecom|
-|16|183.165.250.112|8089|China|Rongcheng|Chinanet|
-|17|67.43.227.228|12827|Canada|Montreal|GloboTech Communications|
+|5|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|223.215.177.197|8089|China|Guangzhou|Chinanet|
+|7|20.107.167.80|80|Ireland|Dublin|Microsoft Corporation|
+|8|67.43.227.228|12827|Canada|Montreal|GloboTech Communications|
+|9|91.107.143.161|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|72.10.160.90|7667|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|2803|Canada|Montreal|GloboTech Communications|
+|12|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|13|72.10.160.90|7667|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|26073|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.22|3449|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|17853|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|7667|Canada|Montreal|GloboTech Communications|
 |18|67.43.227.227|31455|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.149|8089|China|Zhoutou|China Telecom|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|19|67.43.228.253|2011|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|7667|Canada|Montreal|GloboTech Communications|
 
 
 
