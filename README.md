@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8189** proxies at the latest update. Usable proxies are below.
+> Scraper found **8086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1228|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|368|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5635|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5722|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.214.217|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|3|139.59.251.248|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|7|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|8|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|10|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.160.90|14893|Canada|Montreal|GloboTech Communications|
-|13|198.252.101.251|8090|Singapore|Singapore|Leaseweb Asia Pacific pte. ltd.|
-|14|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|15|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|72.10.164.178|2355|Canada|Montreal|GloboTech Communications|
-|17|103.61.116.146|5050|Indonesia|Ciputat|PT Media Televisi Indonesia|
-|18|72.10.164.178|2355|Canada|Montreal|GloboTech Communications|
-|19|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
-|20|67.43.227.227|4373|Canada|Montreal|GloboTech Communications|
+|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|2|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|3|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|5|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|6|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
+|8|27.76.70.89|4001|Vietnam|Haiphong|Newass2011xDSLHCMC|
+|9|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|10|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|11|162.243.184.21|10000|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.228.253|30893|Canada|Montreal|GloboTech Communications|
+|13|128.199.214.217|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|72.10.160.170|25957|Canada|Montreal|GloboTech Communications|
+|15|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|16|67.43.228.253|30893|Canada|Montreal|GloboTech Communications|
+|17|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|72.10.164.178|22507|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22507|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|13133|Canada|Montreal|GloboTech Communications|
 
 
 
