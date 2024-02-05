@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8307** proxies at the latest update. Usable proxies are below.
+> Scraper found **8300** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1160|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1153|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5683|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.172.93|8000|Singapore|Singapore|Akamai Technologies|
-|2|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|7|103.132.52.57|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|8|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|12|103.171.83.206|1111|Indonesia|Bekasi|PT Multi Network Indonesia|
-|13|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|103.5.18.86|84|India|Visakhapatnam|CityOnline|
-|15|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|16|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|18|180.211.158.122|58375|Bangladesh|Wari|Bangladesh Telecommunications Company Ltd.|
-|19|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|20|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|6|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|85.214.190.195|3128|Germany|Berlin|Strato AG|
+|9|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|79.137.204.40|10000|The Netherlands|Amsterdam|Aeza International LTD|
+|11|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|12|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|14|146.190.232.76|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|134.209.30.88|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|67.43.236.20|21549|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|9315|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21549|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|21549|Canada|Montreal|GloboTech Communications|
+|20|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
