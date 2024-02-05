@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8262** proxies at the latest update. Usable proxies are below.
+> Scraper found **8027** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1234|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1088|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5664|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5575|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.4.94.2|8080|Pakistan|Lahore|HEC|
-|5|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|8|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|9|72.10.160.91|20157|Canada|Montreal|GloboTech Communications|
-|10|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.164.178|1963|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.253|2389|Canada|Montreal|GloboTech Communications|
+|9|45.134.141.83|3128|Brazil|São Paulo|Datacamp Limited|
+|10|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|11|190.6.23.218|999|Venezuela|Caracas|Net Uno|
 |12|72.10.160.172|2041|Canada|Montreal|GloboTech Communications|
-|13|223.247.46.155|8089|China|Shanghai|Chinanet|
-|14|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
-|15|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|16|72.10.164.178|1963|Canada|Montreal|GloboTech Communications|
-|17|219.144.80.144|3128|China|Fengcheng|CHINANET SHAANXI province Cloud Base network|
-|18|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
-|20|111.225.152.155|8089|China|Zhoutou|China Telecom|
+|13|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|14|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|72.10.160.90|31591|Canada|Montreal|GloboTech Communications|
+|16|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|17|183.165.249.220|8089|China|Rongcheng|Chinanet|
+|18|8.141.235.66|3128|China|Beijing|Hangzhou Alibaba Advertising Co., Ltd.|
+|19|210.165.117.173|8080|Japan|Yokohama|InfoSphere|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
