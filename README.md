@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7820** proxies at the latest update. Usable proxies are below.
+> Scraper found **7835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|952|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|967|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5689|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 |4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|187.234.33.11|3128|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
-|7|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|10|143.198.54.202|3128|United States|Santa Clara|DigitalOcean, LLC|
 |11|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|12|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|14|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|15|65.21.35.155|64971|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.227.227|8611|Canada|Montreal|GloboTech Communications|
-|17|65.21.35.155|64971|Finland|Helsinki|Hetzner Online GmbH|
-|18|123.182.59.184|8089|China|Zhangjiakou|China Telecom|
-|19|72.10.160.91|26937|Canada|Montreal|GloboTech Communications|
-|20|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|12|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|14|65.21.35.155|64971|Finland|Helsinki|Hetzner Online GmbH|
+|15|183.165.250.225|8089|China|Rongcheng|Chinanet|
+|16|72.10.160.91|19159|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|21039|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|14415|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30685|Canada|Montreal|GloboTech Communications|
+|20|190.6.23.219|999|Venezuela|Caracas|Net Uno|
 
 
 
