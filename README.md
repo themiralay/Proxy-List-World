@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8267** proxies at the latest update. Usable proxies are below.
+> Scraper found **8292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1036|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1061|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|577|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5696|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|2|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
 |4|110.77.246.43|8080|Thailand|Chang Klang|CAT Telecom Public Company Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|8|103.177.93.32|1111|Indonesia|Tangerang|PT Jalur Satu Aman|
-|9|190.238.231.71|1994|Peru|Ica|Telefonica Del Peru|
-|10|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|14|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
-|15|201.222.83.146|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|17|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|18|172.233.163.118|3128|United States|Miami|Akamai Technologies, Inc.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|5|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|7|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|154.212.7.246|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|11|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|12|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|13|67.43.228.253|8037|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|10995|Canada|Montreal|GloboTech Communications|
+|15|223.205.108.177|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|51.159.0.236|2020|France|Paris|SCALEWAY|
+|17|67.43.236.20|21925|Canada|Montreal|GloboTech Communications|
+|18|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|19|123.182.58.181|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.236.20|21925|Canada|Montreal|GloboTech Communications|
 
 
 
