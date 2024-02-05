@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8310** proxies at the latest update. Usable proxies are below.
+> Scraper found **8385** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1167|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1140|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|489|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|591|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5696|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|3|206.204.223.244|1337|United States|Gaylord|Great Lakes Energy Connections Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |5|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|9|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
-|10|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|206.204.223.244|1337|United States|Gaylord|Great Lakes Energy Connections Inc.|
-|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|15|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|16|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|64.225.8.179|10002|United States|Clifton|DigitalOcean, LLC|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|20|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|7|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|9|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|103.190.171.137|8080|Indonesia|Jakarta|WMS|
+|11|103.153.62.221|3125|Indonesia|Bekasi|IMEDIANET|
+|12|36.93.61.193|65432|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|17|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|18|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|113.250.189.4|3128|China|Chongqing|Chongqing Telecom|
+|20|67.43.228.253|5241|Canada|Montreal|GloboTech Communications|
 
 
 
