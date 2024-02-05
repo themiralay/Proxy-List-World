@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8565** proxies at the latest update. Usable proxies are below.
+> Scraper found **8441** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1450|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1326|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|474|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5683|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.231.105|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
-|7|203.190.44.225|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|5.104.87.170|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|172.104.172.200|8000|Singapore|Singapore|Akamai Technologies|
+|8|161.132.174.165|3128|Peru|Lima|Fibertel Peru S.A.|
+|9|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
 |10|198.13.47.204|10721|Japan|Shinagawa|The Constant Company, LLC|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
 |13|139.180.39.201|8080|United States|El Paso|Conterra|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|119.207.95.158|8080|South Korea|Jeju City|Korea Telecom|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|200.37.107.197|999|Peru|Moquegua|Telefonica del Peru S.A.A.|
-|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|80.209.240.16|3128|United States|New York|HOSTKEY|
-|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|213.149.182.98|8080|Cyprus|Nicosia|CYTANET - Cyprus Telecommunications Authority|
+|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 
 
 
