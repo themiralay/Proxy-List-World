@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8061** proxies at the latest update. Usable proxies are below.
+> Scraper found **8076** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|444|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5664|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|2|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|111.225.153.248|8089|China|Zhoutou|China Telecom|
-|8|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|9|72.10.160.90|27483|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|22273|Canada|Montreal|GloboTech Communications|
-|11|123.182.58.142|8089|China|Zhangjiakou|China Telecom|
-|12|123.182.59.213|8089|China|Zhangjiakou|China Telecom|
-|13|181.78.22.13|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|14|72.10.160.90|27483|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18989|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18989|Canada|Montreal|GloboTech Communications|
-|17|111.225.153.39|8089|China|Zhoutou|China Telecom|
-|18|67.43.228.251|15463|Canada|Montreal|GloboTech Communications|
-|19|183.165.251.5|8089|China|Rongcheng|Chinanet|
-|20|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|187.50.29.242|8080|Brazil|Itirapina|Vivo|
+|4|142.93.213.200|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|111.224.10.252|8089|China|Zhoutou|Chinanet|
+|10|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|11|114.106.173.182|8089|China|Guangzhou|Chinanet|
+|12|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|13|67.43.236.20|17569|Canada|Montreal|GloboTech Communications|
+|14|123.182.59.45|8089|China|Zhangjiakou|China Telecom|
+|15|67.43.228.253|2281|Canada|Montreal|GloboTech Communications|
+|16|111.225.152.59|8089|China|Zhoutou|China Telecom|
+|17|72.10.160.90|27483|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|20959|Canada|Montreal|GloboTech Communications|
+|19|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|91.107.143.161|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
