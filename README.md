@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8005** proxies at the latest update. Usable proxies are below.
+> Scraper found **8160** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1023|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1178|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|449|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5575|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|3|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|4|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
-|5|64.225.8.142|10000|United States|Clifton|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.236.20|23483|Canada|Montreal|GloboTech Communications|
-|9|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|5.196.111.30|20022|France|Gravelines|OVH SAS|
-|11|72.10.160.90|30389|Canada|Montreal|GloboTech Communications|
-|12|183.165.251.133|8089|China|Rongcheng|Chinanet|
-|13|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|143.198.54.202|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|16|64.225.8.142|10000|United States|Clifton|DigitalOcean, LLC|
-|17|64.225.8.142|10000|United States|Clifton|DigitalOcean, LLC|
-|18|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|19|67.43.236.20|23483|Canada|Montreal|GloboTech Communications|
-|20|183.165.246.1|8089|China|Rongcheng|Chinanet|
+|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|2|142.93.213.200|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|115.127.13.154|8880|Bangladesh|Dhaka|BRACNet Limited|
+|5|138.197.20.244|10004|United States|Clifton|DigitalOcean, LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|8|67.43.227.230|5583|Canada|Montreal|GloboTech Communications|
+|9|111.172.239.145|3128|China|Wuhan|China Telecom|
+|10|143.198.54.202|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|183.165.226.38|8089|China|Shenzhen|Chinanet|
+|12|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|13|67.43.227.227|1125|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|11783|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|10963|Canada|Montreal|GloboTech Communications|
+|16|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|111.225.152.251|8089|China|Zhoutou|China Telecom|
+|19|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|20|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
