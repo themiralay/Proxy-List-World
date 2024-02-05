@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7918** proxies at the latest update. Usable proxies are below.
+> Scraper found **8072** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|413|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5575|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|2|183.88.134.115|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
-|6|72.10.160.90|14385|Canada|Montreal|GloboTech Communications|
-|7|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|8|223.247.47.23|8089|China|Shanghai|Chinanet|
-|9|137.184.0.30|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|67.43.228.253|12777|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
-|13|183.165.225.244|8089|China|Rongcheng|Chinanet|
-|14|162.243.184.21|10008|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|17|123.182.58.181|8089|China|Zhangjiakou|China Telecom|
-|18|103.165.241.58|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|20|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|3|142.93.209.134|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|7|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|8|183.88.192.244|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
+|11|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
+|12|117.70.49.57|8089|China|Rongcheng|Chinanet|
+|13|14.103.26.53|8000|China|Beijing|BITNET|
+|14|149.28.141.240|3129|Singapore|Singapore|The Constant Company|
+|15|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|16|67.43.228.253|31661|Canada|Montreal|GloboTech Communications|
+|17|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|26807|Canada|Montreal|GloboTech Communications|
+|19|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|20|114.106.135.175|8089|China|Guangzhou|Chinanet|
 
 
 
