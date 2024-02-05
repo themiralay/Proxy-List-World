@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7988** proxies at the latest update. Usable proxies are below.
+> Scraper found **8037** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1028|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|338|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5664|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|5|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|6|45.134.141.83|3128|Brazil|São Paulo|Datacamp Limited|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|142.93.213.200|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|6|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
+|9|115.236.144.234|3128|China|Hangzhou|Chinanet|
 |10|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|11|67.43.236.20|11121|Canada|Montreal|GloboTech Communications|
-|12|223.247.47.247|8089|China|Shanghai|Chinanet|
-|13|114.103.80.181|8089|China|Rongcheng|Chinanet|
-|14|190.6.23.221|999|Venezuela|Caracas|Net Uno|
-|15|111.225.153.128|8089|China|Zhoutou|China Telecom|
-|16|223.247.47.222|8089|China|Shanghai|Chinanet|
-|17|123.182.59.220|8089|China|Zhangjiakou|China Telecom|
-|18|196.189.44.49|1234|Ethiopia|Addis Ababa|Ethiotelecom|
-|19|114.106.173.182|8089|China|Guangzhou|Chinanet|
-|20|162.246.248.214|80|United States|O'Fallon|CDM|
+|11|72.10.160.170|13467|Canada|Montreal|GloboTech Communications|
+|12|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|183.165.224.121|8089|China|Rongcheng|Chinanet|
+|15|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|16|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
+|17|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|18|140.238.197.4|3128|Australia|Sydney|Oracle Corporation|
+|19|111.225.152.130|8089|China|Zhoutou|China Telecom|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
