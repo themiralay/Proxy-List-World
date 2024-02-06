@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8515** proxies at the latest update. Usable proxies are below.
+> Scraper found **8473** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1218|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|144|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1179|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|490|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5702|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|139.180.39.200|8080|United States|El Paso|Conterra|
-|3|103.53.170.199|3128|Vietnam|Phường Mười Lăm|VCIC|
-|4|103.180.123.141|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|6|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|139.180.39.200|8080|United States|El Paso|Conterra|
-|8|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
-|9|165.227.221.83|8080|United States|Clifton|DigitalOcean, LLC|
-|10|88.208.34.131|18081|The Netherlands|Amsterdam|DataWeb Global Group B.V.|
-|11|186.65.104.20|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|139.180.39.205|8080|United States|El Paso|Conterra|
-|14|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|1|139.180.39.200|8080|United States|El Paso|Conterra|
+|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|103.76.148.198|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
+|6|165.16.58.32|19000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|7|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|139.180.39.200|8080|United States|El Paso|Conterra|
+|9|103.180.123.141|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|10|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|11|139.180.39.205|8080|United States|El Paso|Conterra|
+|12|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|13|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
+|14|24.152.50.115|999|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
 |15|190.6.23.219|999|Venezuela|Caracas|Net Uno|
 |16|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|18|111.172.239.145|3128|China|Wuhan|China Telecom|
-|19|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.131.233.1|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|17|43.226.14.131|32650|Cambodia|Kandal|TURBOTECH CO., LTD.|
+|18|88.208.34.131|18081|The Netherlands|Amsterdam|DataWeb Global Group B.V.|
+|19|103.28.114.157|66|Indonesia|Mojokerto|PT Lintas Data Prima|
+|20|185.64.208.176|53281|Russia|Moscow|Svyazist LLC|
 
 
 
