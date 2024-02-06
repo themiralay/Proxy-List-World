@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8483** proxies at the latest update. Usable proxies are below.
+> Scraper found **8407** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1333|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1257|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|448|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5744|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|35.243.227.100|80|United States|North Charleston|Google LLC|
-|3|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|4|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.243.227.100|80|United States|North Charleston|Google LLC|
+|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.172.42.82|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |5|181.225.68.26|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|6|181.143.11.158|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|190.6.32.84|8080|Venezuela|Turmero|Net Uno, C.A.|
-|9|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.227.227|1225|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|1869|Canada|Montreal|GloboTech Communications|
-|15|77.37.130.80|3127|Russia|Moscow|NCNET|
-|16|72.10.164.178|27245|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27245|Canada|Montreal|GloboTech Communications|
-|18|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|103.105.76.49|8080|Indonesia|Malang|GARUDA|
-|20|123.182.58.223|8089|China|Zhangjiakou|China Telecom|
+|6|1.10.140.0|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|189.203.201.146|8080|Mexico|Tlaxcoapan|Total Play Telecomunicaciones SA De CV|
+|8|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|9|35.243.227.100|80|United States|North Charleston|Google LLC|
+|10|187.102.236.161|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|11|143.198.54.202|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|13|67.43.227.227|1893|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|14647|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|24729|Canada|Montreal|GloboTech Communications|
+|16|5.196.111.30|20013|France|Gravelines|OVH SAS|
+|17|223.215.177.14|8089|China|Guangzhou|Chinanet|
+|18|60.191.244.14|3128|China|Jinhua|Chinanet|
+|19|67.43.236.20|14647|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24729|Canada|Montreal|GloboTech Communications|
 
 
 
