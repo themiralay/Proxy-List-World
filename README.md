@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8015** proxies at the latest update. Usable proxies are below.
+> Scraper found **7952** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|895|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5874|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
-|2|139.180.39.201|8080|United States|El Paso|Conterra|
-|3|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|67.43.227.227|12701|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|2385|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.228|7037|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|12701|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|12701|Canada|Montreal|GloboTech Communications|
-|11|38.242.244.29|80|Germany|Düsseldorf|Contabo GmbH|
-|12|67.43.227.228|7037|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|20985|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32063|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12701|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10081|Canada|Montreal|GloboTech Communications|
-|20|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|3|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|139.180.39.201|8080|United States|El Paso|Conterra|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|8|101.255.116.161|33333|Indonesia|Bekasi|PT Remala Abadi|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|13|72.10.160.90|20605|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|20399|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|18329|Canada|Montreal|GloboTech Communications|
+|19|123.182.59.6|8089|China|Zhangjiakou|China Telecom|
+|20|192.99.102.7|3838|Canada|Beauharnois|OVH SAS|
 
 
 
