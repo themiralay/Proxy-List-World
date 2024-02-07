@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8759** proxies at the latest update. Usable proxies are below.
+> Scraper found **8668** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1464|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1373|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|687|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5650|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|119.76.142.196|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
 |4|139.180.39.205|8080|United States|El Paso|Conterra|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
-|8|45.70.14.62|999|Ecuador|Baba|Airmaxtelecom Soluciones Tecnologicas S.A|
+|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.180.247.21|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|139.180.39.205|8080|United States|El Paso|Conterra|
-|10|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|101.255.208.18|3129|Indonesia|Jakarta|PT Remala Abadi|
-|13|185.44.232.30|53281|Spain|Benalmádena|AVATEL TELECOM, SA|
-|14|172.104.172.200|8000|Singapore|Singapore|Akamai Technologies|
-|15|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.160.90|19765|Canada|Montreal|GloboTech Communications|
-|17|61.29.96.146|80|Australia|Clarence Gardens|AAPT Limited|
-|18|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|72.10.160.91|21731|Canada|Montreal|GloboTech Communications|
-|20|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|103.165.157.123|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|11|45.70.14.62|999|Ecuador|Baba|Airmaxtelecom Soluciones Tecnologicas S.A|
+|12|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
+|13|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|14|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
+|15|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|16|14.103.26.53|8000|China|Beijing|BITNET|
+|17|72.10.164.178|32357|Canada|Montreal|GloboTech Communications|
+|18|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
