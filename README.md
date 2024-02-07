@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8003** proxies at the latest update. Usable proxies are below.
+> Scraper found **7875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1120|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5531|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|190.236.156.21|999|Peru|Miraflores District|TDP-GRS|
-|5|190.239.163.75|999|Peru|Arequipa|Telefonica Del Peru|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|190.239.163.114|999|Peru|Arequipa|Telefonica Del Peru|
-|8|190.239.163.30|999|Peru|Arequipa|Telefonica Del Peru|
-|9|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|103.172.70.138|9191|Indonesia|Karawang|AZNET|
-|13|37.27.0.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.227.227|22149|Canada|Montreal|GloboTech Communications|
-|15|190.6.23.219|999|Venezuela|Caracas|Net Uno|
-|16|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|17|45.87.68.7|15321|Germany|Frankfurt am Main|Cogent Communications|
-|18|67.43.227.228|22649|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29855|Canada|Montreal|GloboTech Communications|
-|20|181.225.68.28|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|2|209.25.142.67|8080|Japan|Chiyoda|Developed Methods LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|181.225.68.28|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|190.239.163.114|999|Peru|Arequipa|Telefonica Del Peru|
+|7|179.1.192.37|999|Colombia|Ibague|InterNexa Global Network|
+|8|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|9|103.87.228.185|8080|Indonesia|Jakarta|ZITLINE|
+|10|183.165.246.41|8089|China|Rongcheng|Chinanet|
+|11|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|12|190.6.23.221|999|Venezuela|Caracas|Net Uno|
+|13|190.239.163.75|999|Peru|Arequipa|Telefonica Del Peru|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|176.241.143.197|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|16|181.225.68.28|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|17|190.236.156.21|999|Peru|Miraflores District|TDP-GRS|
+|18|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|19|162.14.109.243|80|China|Chengdu|Shenzhen Tencent Computer Systems Company Limited|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
