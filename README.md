@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8024** proxies at the latest update. Usable proxies are below.
+> Scraper found **8040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1019|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1032|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5627|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|134.236.102.3|8080|Thailand|Pattaya|CAT-BB|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|64.225.4.17|10004|United States|Clifton|DigitalOcean, LLC|
-|5|103.247.21.101|3125|Indonesia|Bekasi|PT wifian Solution|
-|6|72.10.160.90|19979|Canada|Montreal|GloboTech Communications|
-|7|183.164.243.52|8089|China|Hefei|Chinanet|
-|8|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|9|67.43.227.228|13947|Canada|Montreal|GloboTech Communications|
-|10|123.182.58.201|8089|China|Zhangjiakou|China Telecom|
-|11|147.75.34.86|10010|The Netherlands|Amsterdam|Equinix Services|
-|12|67.43.227.228|13947|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|7131|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|23281|Canada|Montreal|GloboTech Communications|
-|15|114.106.134.216|8089|China|Guangzhou|Chinanet|
-|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|17|72.10.164.178|7131|Canada|Montreal|GloboTech Communications|
-|18|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|19|67.43.228.253|22853|Canada|Montreal|GloboTech Communications|
-|20|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
+|1|134.236.102.3|8080|Thailand|Pattaya|CAT-BB|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|147.75.92.244|10089|Japan|Koto-ku|Packet Host, Inc.|
+|4|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
+|5|147.75.92.244|10089|Japan|Koto-ku|Packet Host, Inc.|
+|6|114.67.249.7|8080|China|Chaowai|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|8|72.10.160.92|8185|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|5321|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|23281|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|5321|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|19921|Canada|Montreal|GloboTech Communications|
+|13|147.75.34.86|10000|The Netherlands|Amsterdam|Equinix Services|
+|14|72.10.160.172|15641|Canada|Montreal|GloboTech Communications|
+|15|177.93.40.51|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|183.88.123.47|8080|Thailand|Phitsanulok|Triple T Broadband Public Company Limited|
+|17|147.75.92.244|10089|Japan|Koto-ku|Packet Host, Inc.|
+|18|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|67.43.236.20|28639|Canada|Montreal|GloboTech Communications|
+|20|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
 
 
 
