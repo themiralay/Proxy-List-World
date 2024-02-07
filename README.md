@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9413** proxies at the latest update. Usable proxies are below.
+> Scraper found **9346** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|737|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|737|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|737|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|774|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|774|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|774|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1770|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1703|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|784|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5900|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|188.166.215.30|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|120.28.252.152|8085|Philippines|Davao City|Globe Telecom|
-|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|185.89.156.2|44224|Albania|Elbasan|ATU|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|202.88.251.73|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|15|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|16|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|17|4.194.138.111|3128|Singapore|Singapore|Microsoft Corporation|
-|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.174.248.8|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|12|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|14|49.0.91.7|3128|Thailand|Ratchathewi|AIS-Fibre|
+|15|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
+|16|103.147.246.23|8181|Indonesia|Tangerang|PLBNET|
+|17|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|20|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
