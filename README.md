@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8860** proxies at the latest update. Usable proxies are below.
+> Scraper found **8971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1523|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1635|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|728|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5650|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.153.135.252|8083|Indonesia|Tangerang|WMINET|
-|4|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|142.93.217.205|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|9|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|10|43.252.238.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|103.153.135.255|8083|Indonesia|Tangerang|WMINET|
-|14|172.104.172.93|8000|Singapore|Singapore|Akamai Technologies|
-|15|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|203.190.44.203|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
-|19|142.93.213.176|3128|India|Bengaluru|DigitalOcean, LLC|
-|20|193.111.124.123|8080|Indonesia|Jakarta|CV Atha Media Prima|
+|4|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|5|74.105.127.162|8118|United States|Ramsey|Verizon Business|
+|6|103.132.53.146|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|37.228.65.107|32052|Kazakhstan|Oral|Jusan Mobile JSC|
+|10|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|172.104.172.93|8000|Singapore|Singapore|Akamai Technologies|
+|13|118.173.242.189|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|15|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|43.252.238.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|19|103.188.168.46|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
 
 
 
