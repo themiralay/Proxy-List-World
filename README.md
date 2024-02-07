@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7841** proxies at the latest update. Usable proxies are below.
+> Scraper found **7868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5531|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|190.236.156.21|999|Peru|Miraflores District|TDP-GRS|
-|4|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|5|142.93.209.134|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|103.188.168.3|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|190.6.23.222|999|Venezuela|Caracas|Net Uno|
-|8|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|103.172.70.138|9191|Indonesia|Karawang|AZNET|
-|12|223.247.47.5|8089|China|Shanghai|Chinanet|
-|13|190.239.163.75|999|Peru|Arequipa|Telefonica Del Peru|
-|14|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|67.43.227.227|25211|Canada|Montreal|GloboTech Communications|
+|2|103.131.16.108|8080|Indonesia|Tangerang|PT Global Media Inti Semesta|
+|3|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|4|103.61.116.147|5050|Indonesia|Ciputat|PT Media Televisi Indonesia|
+|5|190.236.156.21|999|Peru|Miraflores District|TDP-GRS|
+|6|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|7|103.141.109.157|8080|Indonesia|Surabaya|Data Buana Nusantara|
+|8|190.239.163.75|999|Peru|Arequipa|Telefonica Del Peru|
+|9|103.87.228.185|8080|Indonesia|Jakarta|ZITLINE|
+|10|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|11|183.89.118.86|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|103.78.96.18|8080|Indonesia|Jakarta|MORATELINDO|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|190.6.23.222|999|Venezuela|Caracas|Net Uno|
+|15|72.10.160.171|21681|Canada|Montreal|GloboTech Communications|
+|16|103.141.109.237|8080|Indonesia|Surabaya|Data Buana Nusantara|
 |17|67.43.228.253|2299|Canada|Montreal|GloboTech Communications|
-|18|190.239.163.114|999|Peru|Arequipa|Telefonica Del Peru|
-|19|187.102.216.219|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
-|20|114.103.81.99|8089|China|Rongcheng|Chinanet|
+|18|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|67.43.236.20|23729|Canada|Montreal|GloboTech Communications|
+|20|123.182.59.85|8089|China|Zhangjiakou|China Telecom|
 
 
 
