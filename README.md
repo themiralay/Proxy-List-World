@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8453** proxies at the latest update. Usable proxies are below.
+> Scraper found **8438** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1392|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1377|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5671|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|180.183.201.192|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|4|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|5|14.233.210.11|4001|Vietnam|Hanoi|VNPT|
-|6|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|183.89.188.66|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|180.183.201.192|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|5|103.87.169.175|32650|India|Sīkar|Tejays Industries Pvt Ltd|
+|6|46.29.76.71|8080|Russia|Samara|SEVEREN-VOLGA|
+|7|59.15.28.76|3128|South Korea|Gangnam-gu|Korea Telecom|
 |8|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
-|9|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|10|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|11|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
-|12|72.10.164.178|26923|Canada|Montreal|GloboTech Communications|
-|13|125.87.91.179|8089|China|Shanghai|China Telecom|
-|14|223.247.46.90|8089|China|Shanghai|Chinanet|
-|15|147.75.34.85|80|The Netherlands|Amsterdam|Equinix Services|
-|16|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|17|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|147.75.34.86|80|The Netherlands|Amsterdam|Equinix Services|
-|19|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|20|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|185.255.135.228|3128|Russia|Moscow|First Server Limited|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|223.247.46.21|8089|China|Shanghai|Chinanet|
+|14|118.117.189.237|8089|China|Muping|Chinanet|
+|15|72.10.164.178|26923|Canada|Montreal|GloboTech Communications|
+|16|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|103.155.199.54|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
+|18|183.164.243.0|8089|China|Hefei|Chinanet|
+|19|111.225.152.130|8089|China|Zhoutou|China Telecom|
+|20|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
 
 
 
