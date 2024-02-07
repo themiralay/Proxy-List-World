@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8549** proxies at the latest update. Usable proxies are below.
+> Scraper found **8510** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1307|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1268|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|613|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5671|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|183.89.188.66|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |3|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
 |4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|180.183.201.192|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|6|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|7|103.87.169.175|32650|India|Sīkar|Tejays Industries Pvt Ltd|
-|8|190.6.23.218|999|Venezuela|Caracas|Net Uno|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.70.48.107|8089|China|Rongcheng|Chinanet|
-|11|59.15.28.76|3128|South Korea|Gangnam-gu|Korea Telecom|
-|12|72.10.164.178|15737|Canada|Montreal|GloboTech Communications|
-|13|123.182.59.231|8089|China|Zhangjiakou|China Telecom|
-|14|123.182.59.234|8089|China|Zhangjiakou|China Telecom|
-|15|147.75.34.85|80|The Netherlands|Amsterdam|Equinix Services|
-|16|183.164.242.89|8089|China|Hefei|Chinanet|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|67.43.227.227|20721|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20721|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|154.26.159.221|3128|Australia|Sydney|Cogent Communications|
+|6|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|107.173.148.173|3128|United States|San Jose|ColoCrossing|
+|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|181.189.246.88|999|Honduras|Olanchito|Columbus Networks de Honduras S. de R.L.|
+|10|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|180.183.10.114|8080|Thailand|Chatuchak|Triple T Broadband Public Company Limited|
+|12|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|190.6.23.218|999|Venezuela|Caracas|Net Uno|
+|16|72.10.160.90|20149|Canada|Montreal|GloboTech Communications|
+|17|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
+|19|211.20.17.194|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|67.43.236.20|27361|Canada|Montreal|GloboTech Communications|
 
 
 
