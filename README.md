@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8830** proxies at the latest update. Usable proxies are below.
+> Scraper found **8895** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1567|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|687|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5650|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|3|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|119.76.142.196|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|211.20.17.194|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|9|139.180.39.205|8080|United States|El Paso|Conterra|
-|10|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|49.0.91.7|8080|Thailand|Ratchathewi|AIS-Fibre|
-|12|4.227.160.71|3128|United States|Boydton|Microsoft Corporation|
-|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|139.180.39.205|8080|United States|El Paso|Conterra|
-|15|31.146.180.218|8080|Georgia|Tbilisi|JSC "Silknet"|
-|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.227.227|10505|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15309|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|10505|Canada|Montreal|GloboTech Communications|
-|20|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|2|124.217.226.9|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|101.255.165.130|1111|Indonesia|Bogor|PT Remala Abadi|
+|5|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|7|137.184.22.92|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|208.79.8.245|9080|United States|Grayson|Skyrider Communications LLC|
+|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.180.39.205|8080|United States|El Paso|Conterra|
+|12|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|67.43.227.227|15747|Canada|Montreal|GloboTech Communications|
+|14|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|15|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|17|39.62.10.188|8082|Pakistan|Islamabad|KK Networks (Pvt) Ltd.|
+|18|190.6.23.219|999|Venezuela|Caracas|Net Uno|
+|19|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|20|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
