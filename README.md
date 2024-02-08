@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8494** proxies at the latest update. Usable proxies are below.
+> Scraper found **8488** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1263|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1257|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|488|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5785|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |2|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|87.255.200.103|3128|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|203.150.128.137|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|45.231.220.78|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|7|112.78.181.210|8080|Indonesia|Malang|BIZNET|
-|8|190.216.234.186|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|96.92.64.213|3128|United States|Albuquerque|Comcast Cable Communications, LLC|
-|10|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
-|11|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|12|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|13|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|14|72.10.160.170|3869|Canada|Montreal|GloboTech Communications|
-|15|49.48.88.92|8080|Thailand|Phanom Dong Rak|Triple T Broadband Public Company Limited|
-|16|96.92.64.213|3128|United States|Albuquerque|Comcast Cable Communications, LLC|
-|17|72.10.164.178|25067|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|16503|Canada|Montreal|GloboTech Communications|
-|19|103.124.139.170|8080|Indonesia|Sukoharjo|Global Media Data Prima|
-|20|72.10.164.178|25067|Canada|Montreal|GloboTech Communications|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|96.92.64.213|3128|United States|Albuquerque|Comcast Cable Communications, LLC|
+|5|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|6|142.93.213.200|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|96.92.64.213|3128|United States|Albuquerque|Comcast Cable Communications, LLC|
+|8|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|9|64.157.16.43|8080|United States|Francesville|Level 3|
+|10|203.150.128.137|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
+|12|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|13|189.203.18.58|3128|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|35.243.227.100|80|United States|North Charleston|Google LLC|
+|15|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|18|223.247.46.13|8089|China|Shanghai|Chinanet|
+|19|67.43.236.20|5263|Canada|Montreal|GloboTech Communications|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
