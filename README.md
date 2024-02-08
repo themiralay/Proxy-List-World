@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8816** proxies at the latest update. Usable proxies are below.
+> Scraper found **8827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|633|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|633|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|633|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|755|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|755|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|755|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1417|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1399|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|603|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|630|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5836|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|223.205.108.177|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|4|43.252.238.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|5|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|6|139.180.39.200|8080|United States|El Paso|Conterra|
-|7|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|202.5.35.13|5020|Bangladesh|Chittagong|BBTS-NEW|
-|9|45.127.56.194|82|India|Hyderabad|Pioneer Elabs Ltd|
-|10|97.64.69.41|16099|United States|College Station|PRONSS|
-|11|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|12|202.57.2.20|8080|Indonesia|Jakarta|Primanet - ISP|
-|13|139.180.39.200|8080|United States|El Paso|Conterra|
-|14|119.94.91.16|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|15|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
-|16|91.240.211.180|8081|Russia|Kursk|AVANT Ltd.|
-|17|188.132.222.52|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|147.75.92.244|10089|Japan|Koto-ku|Packet Host, Inc.|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|1|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|139.180.39.200|8080|United States|El Paso|Conterra|
+|3|164.163.190.70|999|Mexico|Tingambato|Internet Telefonia Y TV De Michoacan SA De CV|
+|4|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|5|139.180.39.200|8080|United States|El Paso|Conterra|
+|6|43.252.238.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|188.132.222.52|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
+|9|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.25.195.114|3030|Indonesia|Karawang|UNINA|
+|11|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|12|147.75.92.244|10089|Japan|Koto-ku|Packet Host, Inc.|
+|13|200.122.204.106|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|14|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|188.166.251.162|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.159.46.14|83|India|Ahmedabad|King Netsol Private Limited|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|185.25.205.141|80|Italy|Scarperia e San Piero|Servereasy Italy|
+|20|67.43.228.253|30709|Canada|Montreal|GloboTech Communications|
 
 
 
