@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7759** proxies at the latest update. Usable proxies are below.
+> Scraper found **7764** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|953|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|446|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|418|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5435|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|103.189.197.20|3030|Indonesia|Serang|PT Graha Sumber Teknologi|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|103.153.35.85|3127|Indonesia|Subang|JMExpress|
-|8|104.248.166.132|1003|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.38.102.176|1080|Indonesia|Nganjuk|LAXONET|
-|10|67.43.236.20|3455|Canada|Montreal|GloboTech Communications|
-|11|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|12|202.152.51.44|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|13|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
-|14|103.153.247.70|3125|Indonesia|Jakarta|PRIMAHOME|
-|15|114.103.88.100|8089|China|Rongcheng|Chinanet|
-|16|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
-|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|18|96.92.64.213|3128|United States|Albuquerque|Comcast Cable Communications, LLC|
-|19|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|103.125.17.5|8088|Indonesia|Tangerang|JAVAMEDIA|
+|2|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|3|103.153.35.85|3127|Indonesia|Subang|JMExpress|
+|4|223.205.108.177|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|5|67.43.228.253|11455|Canada|Montreal|GloboTech Communications|
+|6|190.6.23.218|999|Venezuela|Guacara|Net Uno|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|123.182.58.161|8089|China|Zhoutou|China Telecom|
+|9|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|10|103.156.17.83|8080|Indonesia|Indramayu|RSTNET|
+|11|111.225.152.123|8089|China|Zhoutou|China Telecom|
+|12|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|13|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
+|15|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|190.43.92.83|999|Peru|Tacna|Telefonica Del Peru|
+|18|123.182.58.224|8089|China|Zhoutou|China Telecom|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|192.142.22.159|8118|Italy|Milan|Hbing Limited|
 
 
 
