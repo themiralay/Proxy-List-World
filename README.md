@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8304** proxies at the latest update. Usable proxies are below.
+> Scraper found **8206** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1204|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1106|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|565|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5577|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|3|142.93.209.134|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|180.183.130.135|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|115.236.144.234|3128|China|Hangzhou|Chinanet|
-|10|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
-|11|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
-|12|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|72.10.160.90|20225|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|20225|Canada|Montreal|GloboTech Communications|
-|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.160.90|20225|Canada|Montreal|GloboTech Communications|
-|20|77.37.130.80|3128|Russia|Moscow|NCNET|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|159.192.168.159|8080|Thailand|Bangkok|CAT-BB|
+|8|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|9|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
+|10|72.10.164.178|27143|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|30789|Canada|Montreal|GloboTech Communications|
+|12|185.25.205.141|80|Italy|Sterzing|Servereasy Italy|
+|13|72.10.160.173|5563|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.21|13637|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|27143|Canada|Montreal|GloboTech Communications|
+|16|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
+|17|67.43.236.20|3245|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|3245|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|2081|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|6911|Canada|Montreal|GloboTech Communications|
 
 
 
