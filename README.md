@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8376** proxies at the latest update. Usable proxies are below.
+> Scraper found **8662** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1590|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1876|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|654|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5172|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|209.126.2.143|2323|United States|St Louis|Nubes, LLC|
-|5|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|116.206.234.131|1987|Indonesia|Surabaya|PT Cyberindo Aditama|
-|8|187.102.236.177|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|9|5.136.239.156|8090|Russia|Ulan-Ude|Rostelecom networks|
-|10|67.205.132.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|137.184.22.92|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.124.139.184|8080|Indonesia|Sukoharjo|Global Media Data Prima|
-|13|103.111.137.241|8080|Indonesia|Gading|PT Mitra Lintas Multimedia|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
-|17|72.10.164.178|11911|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|1463|Canada|Montreal|GloboTech Communications|
-|19|201.148.85.52|999|Mexico|San Luis Potosí City|Operbes, S.A. de C.V.|
-|20|51.91.76.186|8080|France|Strasbourg|OVH SAS|
+|1|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|7|142.93.213.211|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|142.93.217.205|3128|India|Bengaluru|DigitalOcean, LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|5.136.239.156|8090|Russia|Ulan-Ude|Rostelecom networks|
+|12|46.245.77.53|3128|Iran|Tehran|Asiatech Data Transmission company|
+|13|206.0.172.35|999|Venezuela|Cabimas|Colnetwork C.A.|
+|14|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
+|15|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|16|205.196.184.69|50704|United States|Houston|Phonoscope|
+|17|137.184.22.92|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|20|103.122.1.74|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
 
 
 
