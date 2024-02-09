@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7881** proxies at the latest update. Usable proxies are below.
+> Scraper found **7893** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|998|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5500|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|103.147.128.65|84|India|Bānka|Xpress Fiber Private Limited|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
-|7|67.43.236.20|15611|Canada|Montreal|GloboTech Communications|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|183.89.111.198|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|72.10.160.173|18383|Canada|Montreal|GloboTech Communications|
-|11|182.160.107.1|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|67.43.236.20|15611|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|21251|Canada|Montreal|GloboTech Communications|
-|14|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.164.178|14079|Canada|Montreal|GloboTech Communications|
-|16|101.255.118.89|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|190.6.23.222|999|Venezuela|Guacara|Net Uno|
-|19|67.43.227.226|31469|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|17509|Canada|Montreal|GloboTech Communications|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|67.43.228.253|2223|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.250|18631|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|77.37.130.80|3128|Russia|Moscow|NCNET|
+|10|117.69.232.47|8089|China|Rongcheng|Chinanet|
+|11|38.183.144.117|8085|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|12|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
+|13|112.109.18.77|6060|Indonesia|Semarang|DATAUTAMANET|
+|14|67.43.236.21|27929|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|20953|Canada|Montreal|GloboTech Communications|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|5.196.111.30|20060|France|Gravelines|OVH SAS|
+|18|67.43.227.227|5673|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
+|20|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
 
 
 
