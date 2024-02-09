@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7782** proxies at the latest update. Usable proxies are below.
+> Scraper found **7591** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|284|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|845|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|938|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|523|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5172|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|5|139.180.39.210|8080|United States|El Paso|Conterra|
-|6|112.78.131.6|8080|Indonesia|Jagakarsa|Biznet Networks|
-|7|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|8|146.190.156.201|8118|United States|Santa Clara|DigitalOcean, LLC|
-|9|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|13|107.151.253.164|8089|United States|Los Angeles|Zenlayer Inc|
-|14|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|17|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|18|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|19|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|67.43.227.227|16973|Canada|Montreal|GloboTech Communications|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|139.180.39.210|8080|United States|El Paso|Conterra|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|172.104.172.177|8000|Singapore|Singapore|Akamai Technologies|
+|10|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|11|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|12|67.43.228.253|7679|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|7679|Canada|Montreal|GloboTech Communications|
+|14|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|67.43.236.20|29695|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|15465|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|15465|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|15465|Canada|Montreal|GloboTech Communications|
+|19|107.148.100.72|58394|Japan|Koto-ku|PEG TECH INC|
+|20|67.43.227.227|15465|Canada|Montreal|GloboTech Communications|
 
 
 
