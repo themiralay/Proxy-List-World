@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8333** proxies at the latest update. Usable proxies are below.
+> Scraper found **8360** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1515|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|55|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1521|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|654|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5172|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
 |4|61.7.191.202|8080|Thailand|Ban Thepha|CAT Telecom Public Company Limited|
 |5|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|9|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|163.43.210.196|8080|Japan|Osaka|SAKURA Internet Inc.|
+|7|213.247.209.185|3128|Russia|Moscow|JSC Macomnet|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|5.136.239.156|8090|Russia|Ulan-Ude|Rostelecom networks|
 |11|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|12|5.136.239.156|8090|Russia|Ulan-Ude|Rostelecom networks|
+|12|38.252.209.95|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
 |13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|72.10.160.90|2093|Canada|Montreal|GloboTech Communications|
-|15|96.126.124.106|3128|United States|Richardson|Akamai Technologies, Inc.|
-|16|172.233.255.11|3128|France|Paris|Akamai Technologies, Inc.|
+|14|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|15|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|16|115.147.38.172|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 |17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|14.103.26.53|8000|China|Beijing|BITNET|
-|19|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|190.6.23.219|999|Venezuela|Guacara|Net Uno|
+|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|19|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|202.154.36.57|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
 
 
 
