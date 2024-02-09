@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |4|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|61.7.191.20|8080|Thailand|Ban Thepha|CAT Telecom Public Company Limited|
-|7|117.102.76.252|8080|Indonesia|Surabaya|Biznet Networks|
-|8|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|67.43.228.253|24613|Canada|Montreal|GloboTech Communications|
-|12|146.190.163.20|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|5.196.111.30|20022|France|Gravelines|OVH SAS|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.227.227|14213|Canada|Montreal|GloboTech Communications|
-|18|185.25.205.141|80|Italy|Sterzing|Servereasy Italy|
-|19|67.43.227.228|5915|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17823|Canada|Montreal|GloboTech Communications|
+|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|8|67.43.228.253|14421|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|16857|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|21575|Canada|Montreal|GloboTech Communications|
+|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|67.43.236.20|21575|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|21575|Canada|Montreal|GloboTech Communications|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|67.43.227.227|14377|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|14377|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.164.178|8661|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|14377|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8661|Canada|Montreal|GloboTech Communications|
 
 
 
