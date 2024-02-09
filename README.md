@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8088** proxies at the latest update. Usable proxies are below.
+> Scraper found **8173** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1123|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|515|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5577|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|142.93.217.205|3128|India|Bengaluru|DigitalOcean, LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
-|8|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|9|49.12.235.243|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|11|212.5.193.219|8880|Slovakia|Dubovany|Slovak Telecom, a. s.|
-|12|72.10.164.178|15319|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|4693|Canada|Montreal|GloboTech Communications|
-|14|201.77.108.48|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|16|67.43.236.20|6057|Canada|Montreal|GloboTech Communications|
-|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|18|72.10.164.178|15319|Canada|Montreal|GloboTech Communications|
-|19|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|20|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|142.93.209.134|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|51.195.246.56|1080|United Kingdom|Purfleet|OVH|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|50.204.36.138|60808|United States|Wilmington|Comcast Cable Communications, LLC|
+|11|115.74.246.138|8080|Vietnam|Bien Hoa|VIETELxdsl|
+|12|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|13|49.12.235.243|80|Germany|Nuremberg|Hetzner Online GmbH|
+|14|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|18|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|19|72.10.160.171|22349|Canada|Montreal|GloboTech Communications|
+|20|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
