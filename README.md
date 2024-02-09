@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7703** proxies at the latest update. Usable proxies are below.
+> Scraper found **7788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|854|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|391|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5500|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|77.37.130.80|3128|Russia|Moscow|NCNET|
-|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|72.10.160.90|29331|Canada|Montreal|GloboTech Communications|
-|11|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
-|12|67.43.227.227|6489|Canada|Montreal|GloboTech Communications|
-|13|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|82.165.208.126|3128|United States|New York|ionos-cloud nj1.pil.us|
-|16|68.233.108.57|3128|India|Hyderabad|Oracle Corporation|
-|17|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|103.180.251.12|8080|Indonesia|Wonosobo|PT Rintis Berkah Akamila|
-|19|67.43.236.20|2059|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|4009|Canada|Montreal|GloboTech Communications|
+|1|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|179.1.192.54|999|Colombia|Neiva|InterNexa Global Network|
+|9|84.21.164.217|8080|Russia|Voronezh|OJSC Telecom-Service|
+|10|222.96.0.242|8080|South Korea|Jung-gu|Korea Telecom|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|103.41.88.182|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|13|38.242.244.29|80|Germany|Düsseldorf|Contabo GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|111.225.152.181|8089|China|Zhoutou|China Telecom|
+|17|67.43.227.227|27863|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|29053|Canada|Montreal|GloboTech Communications|
+|19|103.168.44.114|3127|Indonesia|Boyolali|PT CYB Media Group|
+|20|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
 
 
 
