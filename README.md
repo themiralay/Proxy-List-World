@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7893** proxies at the latest update. Usable proxies are below.
+> Scraper found **7940** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1054|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5500|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|67.43.228.253|2223|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.250|18631|Canada|Montreal|GloboTech Communications|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|77.37.130.80|3128|Russia|Moscow|NCNET|
-|10|117.69.232.47|8089|China|Rongcheng|Chinanet|
-|11|38.183.144.117|8085|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|12|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
-|13|112.109.18.77|6060|Indonesia|Semarang|DATAUTAMANET|
-|14|67.43.236.21|27929|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|20953|Canada|Montreal|GloboTech Communications|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|5.196.111.30|20060|France|Gravelines|OVH SAS|
-|18|67.43.227.227|5673|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
-|20|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|1|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|72.10.164.178|18379|Canada|Montreal|GloboTech Communications|
+|6|138.197.20.244|10000|United States|Clifton|DigitalOcean, LLC|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|72.10.160.90|20511|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|20511|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|5673|Canada|Montreal|GloboTech Communications|
+|12|181.198.75.155|999|Ecuador|Hacienda Santa Isabel|Telconet S.A|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|67.43.236.20|10529|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|10529|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|18379|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|18379|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|18383|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|10529|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|5673|Canada|Montreal|GloboTech Communications|
 
 
 
