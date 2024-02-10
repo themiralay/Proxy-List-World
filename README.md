@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.200.161.98|80|India|Mumbai|Google LLC|
-|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|3|172.104.172.200|8000|Singapore|Singapore|Akamai Technologies|
-|4|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|5|159.65.217.197|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|8|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|9|159.65.217.197|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|203.150.128.148|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|2|172.104.172.177|8000|Singapore|Singapore|Akamai Technologies|
+|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|8|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|9|172.104.172.200|8000|Singapore|Singapore|Akamai Technologies|
+|10|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |11|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|12|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|201.54.179.1|8080|Brazil|Piquet Carneiro|Lucas De Souza Silva|
-|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|17|198.154.186.89|3129|Canada|Montreal|Videotron Ltee|
-|18|116.102.19.179|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|67.43.236.20|24801|Canada|Montreal|GloboTech Communications|
-|20|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|14|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|15|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|16|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|18|27.254.123.203|8443|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|93.190.24.119|443|Iran|Tehran|Press TV|
 
 
 
