@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8441** proxies at the latest update. Usable proxies are below.
+> Scraper found **8310** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1152|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|530|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|3|116.102.19.179|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.132.52.122|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|7|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|10|103.164.13.148|8080|Indonesia|Bekasi|PT Milenial Inti Telekomunikasi|
-|11|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
-|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|13|181.191.11.160|9090|Brazil|Ituverava|Ftth Telecom|
-|14|116.102.19.179|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|16|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|26005|Canada|Montreal|GloboTech Communications|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
+|2|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|116.102.19.179|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|10|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|13|161.156.199.78|80|United Kingdom|London|SoftLayer|
+|14|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|15|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
+|16|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|18|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|19|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|67.43.236.18|18791|Canada|Montreal|GloboTech Communications|
 
 
 
