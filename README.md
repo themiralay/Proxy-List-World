@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9488** proxies at the latest update. Usable proxies are below.
+> Scraper found **9178** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|718|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|718|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|718|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|706|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|706|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|706|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1499|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|968|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|644|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6063|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
-|2|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|3|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
-|4|45.87.68.4|15321|Germany|Frankfurt am Main|Cogent Communications|
-|5|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
+|2|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|8|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
 |10|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|14|72.10.164.178|29443|Canada|Montreal|GloboTech Communications|
-|15|103.180.124.116|3128|Indonesia|Jakarta|PT TOKO MIRING BERJAYA|
-|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|17|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|18|67.43.227.228|7037|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|12|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|80.194.38.106|3333|United Kingdom|Oldham|Virgin Media Limited|
+|16|72.10.160.170|24271|Canada|Montreal|GloboTech Communications|
+|17|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.160.90|9187|Canada|Montreal|GloboTech Communications|
+|19|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|20|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
 
 
 
