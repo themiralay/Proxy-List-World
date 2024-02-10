@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8298** proxies at the latest update. Usable proxies are below.
+> Scraper found **8284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1171|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1157|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|498|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5670|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.93.213.81|3128|India|Bengaluru|DigitalOcean, LLC|
-|2|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
-|5|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|6|142.93.213.81|3128|India|Bengaluru|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|38.47.120.51|8080|Hong Kong|Hong Kong|WAP.AC LTD|
+|3|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|6|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
 |7|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|8|198.154.186.89|3129|Canada|Montreal|Videotron Ltee|
-|9|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|111.225.152.186|8089|China|Zhoutou|China Telecom|
-|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|13|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|14|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|15|107.148.97.216|58394|Japan|Koto-ku|PEG TECH INC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|18|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|19|190.122.99.68|3128|Dominican Republic|Concepción de la Vega|WIND Telecom S.A|
-|20|107.148.97.215|58394|Japan|Koto-ku|PEG TECH INC|
+|8|115.236.144.234|3128|China|Hangzhou|Chinanet|
+|9|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|10|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|11|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
+|12|142.93.213.81|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|14|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|18|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|72.10.164.178|12951|Canada|Montreal|GloboTech Communications|
 
 
 
