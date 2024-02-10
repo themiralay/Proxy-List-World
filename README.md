@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9202** proxies at the latest update. Usable proxies are below.
+> Scraper found **9094** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1053|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1053|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1053|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|925|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|925|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|925|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1788|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|860|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5596|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|4|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.165.155.108|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|110.78.149.75|8080|Thailand|Bangkok|CAT-BB|
-|7|136.54.39.34|8118|United States|Cary|Google Fiber Inc.|
-|8|202.51.118.206|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|11|88.255.185.246|8080|Turkey|Reyhanli|Turk Telekomunikasyon Anonim Sirketi|
-|12|103.25.195.114|3030|Indonesia|Karawang|UNINA|
-|13|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|1|146.190.83.3|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|7|103.17.244.114|8080|Indonesia|Semarang|PT Media Sarana Data|
+|8|41.111.206.167|80|Algeria|Belcourt|Algerie Telecom|
+|9|181.204.177.66|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|11|107.148.98.193|58394|Japan|Koto-ku|PEG TECH INC|
+|12|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|13|110.78.28.94|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
 |14|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|15|209.14.119.34|999|Colombia|Bogotá|AGIS|
+|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|202.162.43.182|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
-|19|41.139.197.163|8080|Kenya|Nairobi|Converged services Western|
-|20|200.116.230.210|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P|
+|17|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|18|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
