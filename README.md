@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9342** proxies at the latest update. Usable proxies are below.
+> Scraper found **9404** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|942|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|942|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|942|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1149|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1691|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1750|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|898|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5795|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.236.111.103|666|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|27.111.83.207|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|7|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
 |8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|103.173.164.10|8082|Indonesia|Babatan|PT Pusat Net Media|
-|10|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
-|11|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|12|162.19.117.247|3131|France|Gravelines|OVH SAS|
-|13|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|103.127.38.46|7070|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|17|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|18|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|79.142.95.90|55443|Kazakhstan|Almaty|Obit Telecommunications|
-|20|27.111.83.207|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|185.125.202.210|8888|The Netherlands|Amsterdam|Mamaev|
+|12|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|18|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|19|208.102.25.178|80|United States|Harrison|Fuse Internet Access|
+|20|85.132.11.208|3128|Azerbaijan|Baku|Delta|
 
 
 
