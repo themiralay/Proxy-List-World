@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8599** proxies at the latest update. Usable proxies are below.
+> Scraper found **8926** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1240|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|559|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5842|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|203.190.44.225|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|45.5.119.27|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|7|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|167.71.18.75|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|103.156.75.42|8181|Indonesia|Singaraja|PT Trika Global Media|
+|10|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|201.77.108.64|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|12|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|91.92.249.84|8080|The Netherlands|Amsterdam|Limenet|
 |14|139.180.39.205|8080|United States|El Paso|Conterra|
 |15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|16|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|17|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|18|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|45.70.202.233|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|20|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
