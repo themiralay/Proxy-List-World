@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9567** proxies at the latest update. Usable proxies are below.
+> Scraper found **9552** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1365|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1340|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1045|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6105|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|3|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|2|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |7|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
-|10|103.179.253.202|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
-|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.166.8.238|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|13|213.142.156.121|3128|Turkey|Bükrüce|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|14|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
-|15|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|16|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|8|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|9|185.249.202.123|3128|Turkey|Panderma|Tres Teknoloji Anonim Sirketi|
+|10|190.202.111.202|8080|Venezuela|Urbanizacion Miranda|CANTV Servicios, Venezuela|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|172.234.87.103|8000|Japan|Osaka|Akamai Technologies, Inc.|
+|13|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
+|15|195.250.92.58|8080|Armenia|Yerevan|GNC-Alfa CJSC|
+|16|185.5.251.142|3128|Russia|Moscow|I-servers LTD|
+|17|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
+|18|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.236.20|30915|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|30915|Canada|Montreal|GloboTech Communications|
 
 
 
