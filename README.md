@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8941** proxies at the latest update. Usable proxies are below.
+> Scraper found **8966** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1436|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1461|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|808|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5739|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|1|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|2|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|95.165.65.140|3128|Russia|Dolgoprudny|Moscow Local Telephone Network (OAO MGTS)|
-|16|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|186.156.161.235|3128|Chile|Santiago|VTR BANDA ANCHA S.A.|
-|19|91.92.249.84|8080|The Netherlands|Amsterdam|Limenet|
-|20|182.253.235.121|8080|Indonesia|Karet|BIZNET|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|121.101.134.22|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|12|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|18|182.253.235.121|8080|Indonesia|Karet|BIZNET|
+|19|91.92.249.84|8443|The Netherlands|Amsterdam|Limenet|
+|20|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
 
 
 
