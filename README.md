@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8693** proxies at the latest update. Usable proxies are below.
+> Scraper found **8449** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1444|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1199|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|600|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5686|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|6|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|8|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|11|157.245.203.15|9900|Singapore|Singapore|DigitalOcean, LLC|
-|12|142.93.213.176|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|67.43.236.20|4881|Canada|Montreal|GloboTech Communications|
-|14|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|15|65.21.228.58|3136|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.227.227|5259|Canada|Montreal|GloboTech Communications|
-|17|103.84.207.179|3128|Indonesia|Sleman|Rumahweb|
-|18|67.43.227.227|5259|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32813|Canada|Montreal|GloboTech Communications|
-|20|60.191.244.14|3128|China|Jinhua|Chinanet|
+|3|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|8|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|12|45.87.68.3|15321|Germany|Frankfurt am Main|Cogent Communications|
+|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|14|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
+|15|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|16|67.43.227.228|28181|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|3993|Canada|Montreal|GloboTech Communications|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.236.20|3993|Canada|Montreal|GloboTech Communications|
+|20|120.92.16.161|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
