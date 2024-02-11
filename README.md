@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8961** proxies at the latest update. Usable proxies are below.
+> Scraper found **9091** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|900|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|900|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|900|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1008|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1008|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1008|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1770|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1887|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|690|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5427|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|115.147.38.172|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 |7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|51.91.76.186|8080|France|Strasbourg|OVH SAS|
-|9|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|10|181.129.243.34|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|11|139.180.39.210|8080|United States|El Paso|Conterra|
-|12|139.180.39.201|8080|United States|El Paso|Conterra|
-|13|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|15|139.180.39.201|8080|United States|El Paso|Conterra|
-|16|139.180.39.210|8080|United States|El Paso|Conterra|
-|17|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|139.180.39.205|8080|United States|El Paso|Conterra|
-|19|139.180.39.200|8080|United States|El Paso|Conterra|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|165.22.103.5|443|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|16|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|129.21.49.108|3128|United States|Rochester|Rochester Institute of Technology|
+|18|49.48.67.114|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
