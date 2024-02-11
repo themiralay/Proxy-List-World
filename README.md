@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9731** proxies at the latest update. Usable proxies are below.
+> Scraper found **10016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1081|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1081|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1081|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1252|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1049|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6105|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|2|107.155.65.11|3128|Singapore|Singapore|HIVELOCITY, Inc.|
-|3|162.212.152.9|31280|United States|Chicago|tzulo, inc.|
-|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|162.19.154.7|3128|Germany|Limburg an der Lahn|OVH SAS|
-|11|43.156.32.56|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|13|156.244.64.187|40064|Hong Kong|Hong Kong|Shenzhen Jizhan Technology Co|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|19|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|20|162.212.152.9|31280|United States|Chicago|tzulo, inc.|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|188.166.215.30|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|43.156.32.56|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|10|45.224.22.29|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|11|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|14|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|15|165.232.89.116|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.206.80.71|80|Iraq|Erbil|DIL Technology Limited|
+|18|142.93.213.35|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|161.97.104.117|3128|Germany|Nuremberg|Contabo GmbH|
+|20|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
 
 
 
