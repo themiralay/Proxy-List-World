@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8894** proxies at the latest update. Usable proxies are below.
+> Scraper found **8663** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1533|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1302|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|670|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5733|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|221.146.127.139|8080|South Korea|Jungnang-gu|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.86.159.25|6969|Indonesia|Jakarta|PT Cyberindo Aditama|
-|4|221.146.127.139|8080|South Korea|Jungnang-gu|Korea Telecom|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.243.227.100|80|United States|North Charleston|Google LLC|
-|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|158.140.57.157|8080|United States|Death Valley|Valley Electric Association|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|187.188.16.209|999|Mexico|Puerto Juárez|Total Play Telecomunicaciones SA De CV|
-|17|90.188.38.80|3128|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|195.250.39.34|7269|Hungary|Celldomolk|Pannon Pipics Ltd.|
-|20|67.43.227.228|24151|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|6|158.140.57.157|8080|United States|Death Valley|Valley Electric Association|
+|7|213.133.123.122|3218|Germany|Falkenstein|Hetzner Online GmbH|
+|8|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|9|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|10|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|11|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.153.149.17|8080|Indonesia|Kendal|JARINGANKU|
+|13|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|35.243.227.100|80|United States|North Charleston|Google LLC|
+|17|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|18|94.130.181.59|32770|Germany|Nuremberg|Hetzner Online GmbH|
+|19|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|20|61.7.149.4|8080|Thailand|Rayong|CAT Telecom Public Company Limited|
 
 
 
