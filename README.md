@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8992** proxies at the latest update. Usable proxies are below.
+> Scraper found **9037** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|701|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|701|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|701|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1575|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1620|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|692|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5767|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.209.98.48|3128|South Korea|Seoul|Amazon Technologies Inc.|
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|5.75.171.241|3918|Germany|Nuremberg|Hetzner Online GmbH|
-|6|27.254.162.101|80|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|23.225.72.124|3502|United States|Portland|Cnservers LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|171.101.129.219|8080|Thailand|Nakhon Pathom|True Internet Corporation CO. Ltd.|
-|13|67.43.236.20|9157|Canada|Montreal|GloboTech Communications|
-|14|37.120.187.59|80|Germany|Karlsruhe|netcup GmbH|
-|15|88.99.161.57|8678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.228.251|10879|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|21213|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|28847|Canada|Montreal|GloboTech Communications|
-|19|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|3|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|4|77.77.64.116|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
+|8|94.74.120.192|443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|47.89.240.232|56682|United States|Minkler|Alibaba.com LLC|
+|11|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|12|5.59.145.129|8080|Russia|Rostov-on-Don|Timer, LLC|
+|13|72.10.160.171|21419|Canada|Montreal|GloboTech Communications|
+|14|146.190.90.1|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|5.104.75.214|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
+|16|165.140.166.182|3128|United States|Chicago|Dedicated.com|
+|17|72.10.160.173|1313|Canada|Montreal|GloboTech Communications|
+|18|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
+|19|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|20|194.35.118.243|3128|Poland|Warsaw|TimeWeb Ltd.|
 
 
 
