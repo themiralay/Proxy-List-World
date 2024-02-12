@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|7|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|10|103.184.56.133|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|11|129.205.106.42|8080|Nigeria|Lagos|Globacom Limited|
-|12|221.146.127.139|8080|South Korea|Jungnang-gu|Korea Telecom|
-|13|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|14|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|16|72.10.164.178|4859|Canada|Montreal|GloboTech Communications|
-|17|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|18|1.0.171.213|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
-|20|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
+|2|162.84.213.17|80|United States|Queens|Verizon Business|
+|3|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|212.41.18.12|3128|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|10|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|11|45.87.68.6|15321|Germany|Frankfurt am Main|Cogent Communications|
+|12|162.84.213.17|80|United States|Queens|Verizon Business|
+|13|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|221.146.127.139|8080|South Korea|Jungnang-gu|Korea Telecom|
+|16|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|17|80.78.237.2|55443|Bulgaria|Sandanski|UltraNET - Halil Network|
+|18|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|19|43.156.47.167|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|190.6.23.221|999|Venezuela|Guacara|Net Uno|
 
 
 
