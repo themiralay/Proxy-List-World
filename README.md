@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.64.227.81|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|18.140.56.192|3128|Singapore|Singapore|Amazon.com, Inc.|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|88.99.66.31|3128|Germany|Hachenburg|Hetzner Online GmbH|
-|6|54.152.122.135|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|18.140.56.192|3128|Singapore|Singapore|Amazon.com, Inc.|
+|4|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
+|7|54.152.122.135|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
 |9|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|66.96.218.152|3128|Singapore|Singapore|Myrepublic Limited|
-|13|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|14|54.152.122.135|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|38.45.44.51|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|16|169.53.22.19|3128|United States|Dallas|SoftLayer|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|54.255.8.244|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|67.43.227.227|17831|Canada|Montreal|GloboTech Communications|
-|20|132.248.159.223|3128|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|12|192.142.22.159|8118|Italy|Milan|Hbing Limited|
+|13|54.152.122.135|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|107.172.86.101|8080|United States|Rancho Cucamonga|HostPapa|
+|15|54.255.8.244|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|17|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|18|129.80.190.215|3128|United States|Ashburn|Oracle Corporation|
+|19|72.10.160.90|21457|Canada|Montreal|GloboTech Communications|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
