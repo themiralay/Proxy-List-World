@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7982** proxies at the latest update. Usable proxies are below.
+> Scraper found **8164** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1093|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1275|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|473|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5458|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
-|13|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|14|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|15|13.127.66.173|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|67.43.236.20|16029|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.83|8089|China|Zhoutou|China Telecom|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
+|6|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|31.220.97.51|3128|United States|Newark|Nubes, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|103.169.130.36|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|15|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|16|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
+|17|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|18|154.26.154.149|3128|Australia|Sydney|Cogent Communications|
+|19|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|115.132.167.108|8123|Malaysia|Marabu|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
