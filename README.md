@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7643** proxies at the latest update. Usable proxies are below.
+> Scraper found **7735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|390|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5395|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
-|2|67.43.227.227|23461|Canada|Montreal|GloboTech Communications|
-|3|72.10.160.90|15333|Canada|Montreal|GloboTech Communications|
-|4|72.10.164.178|2585|Canada|Montreal|GloboTech Communications|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|72.10.160.90|15333|Canada|Montreal|GloboTech Communications|
-|7|117.70.49.123|8089|China|Rongcheng|Chinanet|
-|8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|9|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|10|67.43.228.254|26119|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|45.176.95.38|999|Dominican Republic|San Cristobal|Exito Vision Cable S.A.S|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.106.171.147|8089|China|Guangzhou|Chinanet|
-|15|72.10.160.90|15333|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|27791|Canada|Montreal|GloboTech Communications|
-|17|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|18|117.57.93.214|8089|China|Rongcheng|Chinanet|
-|19|67.43.236.20|5195|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5195|Canada|Montreal|GloboTech Communications|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|103.168.44.114|3127|Indonesia|Boyolali|PT CYB Media Group|
+|4|103.178.2.191|3128|Indonesia|Bandung|RSTNET|
+|5|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|38.46.222.60|3128|United States|Draper|FiberState, LLC|
+|8|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|9|67.43.236.20|15383|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|22363|Canada|Montreal|GloboTech Communications|
+|11|188.132.222.51|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|67.43.227.228|29001|Canada|Montreal|GloboTech Communications|
+|13|117.70.49.123|8089|China|Rongcheng|Chinanet|
+|14|111.225.153.113|8089|China|Zhoutou|China Telecom|
+|15|112.111.28.74|3128|China|Fuzhou|China Unicom CHINA169 Fujian Province Network|
+|16|67.43.227.228|29001|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|15985|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|29001|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
