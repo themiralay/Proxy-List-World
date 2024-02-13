@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8377** proxies at the latest update. Usable proxies are below.
+> Scraper found **8463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|711|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|711|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|711|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|14|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1723|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1809|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|554|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5128|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
-|2|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|183.88.2.248|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|79.132.192.13|3128|Iran|Tehran|Engineering company Morva System Plc.|
-|7|203.150.128.148|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|182.253.94.241|8080|Indonesia|Jakarta Pusat|BIZNET|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
-|11|181.205.243.146|999|Colombia|Medellín|Colombia Móvil|
-|12|3.1.78.194|80|Singapore|Singapore|Amazon Technologies Inc.|
-|13|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|14|157.245.203.15|10909|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.253|19711|Canada|Montreal|GloboTech Communications|
-|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|223.247.46.210|8089|China|Shanghai|Chinanet|
-|18|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|19|103.153.127.47|8080|Indonesia|Pati|MANDALANET|
-|20|72.10.164.178|32929|Canada|Montreal|GloboTech Communications|
+|1|182.253.94.241|8080|Indonesia|Jakarta Pusat|BIZNET|
+|2|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|3|183.88.2.248|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|4|62.76.33.93|3128|Russia|Essentuki Urban District|OOO "Post ltd"|
+|5|184.22.0.132|8080|Thailand|Ratchathewi|AIS-Fibre|
+|6|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|10|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|120.28.216.147|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
+|14|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|15|34.176.28.220|443|Chile|Santiago|Google LLC|
+|16|13.127.66.173|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|103.124.251.71|8081|Bangladesh|Kushtia|Earth Telecommunication|
+|18|67.43.227.227|2571|Canada|Montreal|GloboTech Communications|
+|19|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|20|67.43.227.227|2571|Canada|Montreal|GloboTech Communications|
 
 
 
