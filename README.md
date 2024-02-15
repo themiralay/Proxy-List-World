@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7645** proxies at the latest update. Usable proxies are below.
+> Scraper found **7648** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|934|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|398|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5358|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.231.133.55|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
 |2|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|3|45.231.133.51|443|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|4|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|223.215.177.55|8089|China|Guangzhou|Chinanet|
-|7|67.43.227.228|2651|Canada|Montreal|GloboTech Communications|
-|8|183.165.247.15|8089|China|Rongcheng|Chinanet|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|11|67.43.236.20|33241|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|33241|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|12933|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|12933|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|14765|Canada|Montreal|GloboTech Communications|
-|16|114.103.88.119|8089|China|Rongcheng|Chinanet|
-|17|72.10.160.93|7585|Canada|Montreal|GloboTech Communications|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|19|67.43.227.227|18867|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|3785|Canada|Montreal|GloboTech Communications|
+|3|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|4|45.231.133.51|443|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|5|64.62.200.198|3128|United States|Kingsburg|Hurricane Electric LLC|
+|6|72.10.160.90|12933|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.171|9927|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|72.10.160.90|12933|Canada|Montreal|GloboTech Communications|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|72.10.164.178|24855|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|24855|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|1749|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|15|67.43.236.20|12341|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|24855|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1749|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|1749|Canada|Montreal|GloboTech Communications|
+|19|45.231.133.55|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|20|67.43.236.20|12341|Canada|Montreal|GloboTech Communications|
 
 
 
