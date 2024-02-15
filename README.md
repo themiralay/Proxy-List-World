@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|692|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|692|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|692|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
-|3|182.253.62.223|8080|Indonesia|Bandar Lampung|BIZNET|
-|4|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.189.96.232|8080|Indonesia|Karanggeneng|Lintas Data Prima, PT|
-|7|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|8|162.246.248.214|80|United States|O'Fallon|CDM|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|12|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|13|72.10.164.178|4507|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|103.179.253.202|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
-|16|103.165.157.7|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
-|17|72.10.164.178|4507|Canada|Montreal|GloboTech Communications|
-|18|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.227.227|21303|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|182.253.62.223|8080|Indonesia|Bandar Lampung|BIZNET|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|192.237.188.102|80|United States|Chicago|Rackspace Hosting|
+|10|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|11|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|12|190.6.23.218|999|Venezuela|Guacara|Net Uno|
+|13|67.43.227.227|21965|Canada|Montreal|GloboTech Communications|
+|14|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|15|67.43.227.227|21965|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|31317|Canada|Montreal|GloboTech Communications|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|103.165.157.7|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|19|67.43.227.228|30883|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 
 
 
