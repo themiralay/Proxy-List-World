@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9135** proxies at the latest update. Usable proxies are below.
+> Scraper found **9204** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|626|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|626|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|626|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1343|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1412|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|963|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5871|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|2|142.117.73.77|8118|Canada|Toronto|Bell Canada|
-|3|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|103.106.243.153|8090|Bangladesh|Dhaka|Md. Saddam Hossain|
-|6|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|181.129.243.34|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|139.180.39.201|8080|United States|El Paso|Conterra|
-|10|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|11|188.121.147.18|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|12|67.43.227.228|28009|Canada|Montreal|GloboTech Communications|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|14|67.43.227.227|19509|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|28009|Canada|Montreal|GloboTech Communications|
-|16|111.225.153.132|8089|China|Zhoutou|China Telecom|
-|17|72.10.160.90|28189|Canada|Montreal|GloboTech Communications|
-|18|51.222.97.84|8080|Canada|Beauharnois|OVH SAS|
-|19|67.43.227.227|19509|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1745|Canada|Montreal|GloboTech Communications|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|3|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|6|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|46.246.86.7|8118|Sweden|Stockholm|Portlane Network|
+|9|118.103.233.235|8080|Pakistan|Karachi|Connect Communication|
+|10|139.180.39.201|8080|United States|El Paso|Conterra|
+|11|124.16.123.3|3128|China|Haidian|CNIC-CAS|
+|12|66.29.156.100|80|United States|Phoenix|Namecheap, Inc.|
+|13|146.190.51.181|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|15|111.225.153.88|8089|China|Zhoutou|China Telecom|
+|16|67.43.236.20|8171|Canada|Montreal|GloboTech Communications|
+|17|223.247.46.235|8089|China|Shanghai|Chinanet|
+|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|103.168.254.62|8085|Indonesia|Kudus|PT Fahasa Tri Data|
+|20|103.191.155.62|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
 
 
 
