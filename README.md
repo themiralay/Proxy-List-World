@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7988** proxies at the latest update. Usable proxies are below.
+> Scraper found **7986** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1062|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5591|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|2|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|94.103.90.127|8080|Russia|Moscow|Hosting technology LTD|
-|5|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|89.39.105.181|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|9|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|139.180.39.210|8080|United States|El Paso|Conterra|
-|13|67.43.236.20|28963|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|30025|Canada|Montreal|GloboTech Communications|
-|15|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|16|67.43.236.20|28963|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|18|72.10.160.93|7783|Canada|Montreal|GloboTech Communications|
-|19|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|67.205.132.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|5|67.205.132.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|94.183.230.166|3128|Iran|Tehran|Aria Shatel Company Ltd|
+|10|5.104.87.170|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|11|139.180.39.210|8080|United States|El Paso|Conterra|
+|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|13|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|14|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|15|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
+|16|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|17|67.43.236.20|28963|Canada|Montreal|GloboTech Communications|
+|18|51.159.0.236|3128|France|Paris|SCALEWAY|
+|19|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|20|67.43.227.227|9105|Canada|Montreal|GloboTech Communications|
 
 
 
