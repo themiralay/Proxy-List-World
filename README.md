@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8270** proxies at the latest update. Usable proxies are below.
+> Scraper found **8244** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1047|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5800|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|3|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.92.223.122|3128|United States|Atlanta|Centrilogic|
-|6|137.184.22.92|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
-|10|67.43.236.20|3033|Canada|Montreal|GloboTech Communications|
-|11|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
+|1|202.154.191.234|9933|Indonesia|Batam|PT SOLNET INDONESIA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|10|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
+|11|106.51.62.106|8080|India|Bengaluru|ACT Fibernet|
 |12|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|13|67.43.236.20|3033|Canada|Montreal|GloboTech Communications|
-|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|15|72.10.160.174|24667|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|111.224.213.245|8089|China|Zhoutou|Chinanet|
-|18|67.43.227.227|25817|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3033|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|25817|Canada|Montreal|GloboTech Communications|
+|13|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|14|183.165.250.232|8089|China|Rongcheng|Chinanet|
+|15|47.229.171.150|3128|United States|Glendale|Charter Communications|
+|16|67.43.236.20|11827|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|18|111.225.152.196|8089|China|Zhoutou|China Telecom|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|67.43.227.227|32889|Canada|Montreal|GloboTech Communications|
 
 
 
