@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.154.191.234|9933|Indonesia|Batam|PT SOLNET INDONESIA|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|201.77.108.130|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
 |4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
 |6|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.66.10.101|8080|India|Kharar|Nitya Internet Private Limited|
 |9|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
-|11|106.51.62.106|8080|India|Bengaluru|ACT Fibernet|
-|12|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|13|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|14|183.165.250.232|8089|China|Rongcheng|Chinanet|
-|15|47.229.171.150|3128|United States|Glendale|Charter Communications|
-|16|67.43.236.20|11827|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|18|111.225.152.196|8089|China|Zhoutou|China Telecom|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.227.227|32889|Canada|Montreal|GloboTech Communications|
+|10|46.122.7.149|8080|Slovenia|Podkum|A1 Slovenija|
+|11|67.43.227.226|5679|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|67.55.186.25|8080|United States|Bloomfield|Aureon Network Services|
+|14|67.43.227.227|17371|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13541|Canada|Montreal|GloboTech Communications|
+|16|117.57.93.68|8089|China|Rongcheng|Chinanet|
+|17|123.182.58.104|8089|China|Zhoutou|China Telecom|
+|18|123.182.58.252|8089|China|Zhoutou|China Telecom|
+|19|36.255.86.115|84|India|Bengaluru|Gatik Business Solutions|
+|20|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
 
 
 
