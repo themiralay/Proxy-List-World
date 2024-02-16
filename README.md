@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8837** proxies at the latest update. Usable proxies are below.
+> Scraper found **8768** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|623|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|623|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|623|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|621|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|621|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|621|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1499|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|647|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5733|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|183.89.190.62|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|31.41.216.82|24000|Ukraine|Chortkiv|ON-LINE Ltd|
-|5|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|89.147.155.228|8080|Oman|Muscat|Awaser Oman LLC|
-|8|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|165.232.166.151|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|149.28.75.112|8888|United States|Los Angeles|The Constant Company|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|5.59.145.129|8080|Russia|Rostov-on-Don|Timer, LLC|
-|14|165.16.27.43|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|103.78.171.10|84|India|Pune|SCC NETWORK PVT LTD|
-|16|69.160.223.129|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|17|67.43.227.227|17811|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17811|Canada|Montreal|GloboTech Communications|
+|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|201.234.186.234|999|Colombia|Pereira|Level 3 Colombia S.A|
+|7|87.255.200.103|3128|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|8|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|95.165.65.140|3128|Russia|Dolgoprudny|Moscow Local Telephone Network (OAO MGTS)|
+|10|59.15.28.76|3128|South Korea|Gangnam-gu|Korea Telecom|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|103.74.100.190|3128|Vietnam|Quận Thanh Khê|Viet Digital Technology Liability Company|
+|14|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
+|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|16|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|18|223.215.177.237|8089|China|Guangzhou|Chinanet|
 |19|67.43.236.20|32767|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|24461|Canada|Montreal|GloboTech Communications|
+|20|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
