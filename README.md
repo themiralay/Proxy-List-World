@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|5|192.99.102.7|3838|Canada|Montreal|OVH SAS|
-|6|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|139.180.39.200|8080|United States|El Paso|Conterra|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|17|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|20|190.6.23.219|999|Venezuela|Guacara|Net Uno|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|3|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|139.180.39.200|8080|United States|El Paso|Conterra|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|13|183.165.224.217|8089|China|Rongcheng|Chinanet|
+|14|72.10.164.178|24343|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|25999|Canada|Montreal|GloboTech Communications|
+|16|47.184.171.117|3128|United States|Garland|Frontier Communications Solutions|
+|17|67.43.228.253|24695|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|9187|Canada|Montreal|GloboTech Communications|
+|19|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|20|72.10.160.91|4685|Canada|Montreal|GloboTech Communications|
 
 
 
