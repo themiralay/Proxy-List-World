@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8519** proxies at the latest update. Usable proxies are below.
+> Scraper found **8565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1249|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1295|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5800|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|49.48.107.161|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|4|61.8.70.114|2023|Indonesia|Jombang|PT Aplikanusa Lintasarta|
-|5|209.45.40.33|999|Peru|Lima|Red Cientifica Peruana|
-|6|103.234.28.11|8181|Indonesia|Blora|PT Agung Barokah Network|
-|7|51.91.76.186|8080|France|Strasbourg|OVH SAS|
-|8|47.184.171.117|3128|United States|Garland|Frontier Communications Solutions|
+|2|49.48.107.161|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|3|87.255.200.103|3128|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|4|47.184.171.117|3128|United States|Garland|Frontier Communications Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|47.184.171.117|3128|United States|Garland|Frontier Communications Solutions|
+|8|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|112.109.18.77|6060|Indonesia|Semarang|DATAUTAMANET|
-|15|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|16|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|87.247.186.157|3128|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|18|47.184.171.117|3128|United States|Garland|Frontier Communications Solutions|
-|19|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|72.10.160.90|25521|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.160.90|23039|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|17407|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|17407|Canada|Montreal|GloboTech Communications|
+|14|123.182.58.207|8089|China|Zhoutou|China Telecom|
+|15|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
+|16|201.77.108.149|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|17|72.10.160.90|23039|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|31869|Canada|Montreal|GloboTech Communications|
+|19|123.182.59.165|8089|China|Zhoutou|China Telecom|
+|20|182.253.109.148|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
