@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|573|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.203.136.67|1081|Germany|Hamburg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|107.172.86.101|8080|United States|Rancho Cucamonga|HostPapa|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
-|10|217.182.153.29|12000|France|Gravelines|OVH SAS|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|45.11.95.165|5012|Russia|Moscow|Delta Ltd|
-|13|116.105.39.64|19059|Vietnam|Da Nang|Viettel Corporation|
-|14|103.229.82.165|8080|Bangladesh|Dhaka|Fiber@Home Global Limited|
-|15|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|170.79.36.60|8081|Peru|Camana|Telefonica del Peru S.A.A.|
-|17|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.48.68.75|82|India|Hyderabad|Country Online Services PVT LTD|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|45.117.177.41|2001|Vietnam|Phường Mười Lăm|NHANHOA|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|182.253.175.226|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|177.93.43.155|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|18|82.218.176.25|32650|Austria|Korneuburg|kabelplus GmbH|
+|19|85.117.56.91|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
