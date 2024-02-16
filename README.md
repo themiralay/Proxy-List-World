@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|710|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|710|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|710|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|758|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|758|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|758|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|116.105.39.64|19059|Vietnam|Da Nang|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|7|35.200.161.98|80|India|Mumbai|Google LLC|
+|8|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
 |9|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
-|10|23.225.72.124|3502|United States|Portland|Cnservers LLC|
-|11|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|163.43.210.197|8080|Japan|Osaka|SAKURA Internet Inc.|
-|20|35.200.161.98|80|India|Mumbai|Google LLC|
+|10|158.101.28.215|80|United States|Phoenix|Oracle Corporation|
+|11|161.35.88.210|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|13|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|158.101.28.215|80|United States|Phoenix|Oracle Corporation|
+|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|107.148.99.65|58394|Japan|Koto-ku|PEG TECH INC|
 
 
 
