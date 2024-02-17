@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9263** proxies at the latest update. Usable proxies are below.
+> Scraper found **9254** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|991|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|991|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|991|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|975|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|975|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|975|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|782|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5846|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|209.145.51.125|3128|United States|St Louis|Nubes, LLC|
-|9|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|10|185.164.163.135|8118|The Netherlands|Dronten|MIRholding B.V.|
-|11|86.107.178.103|3128|The Netherlands|Amsterdam|Interkvm Host SRL|
-|12|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
-|13|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
-|14|115.241.154.51|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|15|141.8.195.143|3128|Russia|Pargolovo Tretye|Sprinthost P17|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|23.225.72.122|3500|United States|Portland|Cnservers LLC|
-|18|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
-|19|103.169.187.188|8081|Indonesia|Probolinggo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|20|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|8|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
+|9|200.24.135.244|999|Ecuador|Puyo|Ufinet Panama S.A.|
+|10|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|15|191.102.254.9|8081|Argentina|Rosario|IP·RED|
+|16|45.190.248.90|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
+|17|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|18|111.90.182.125|8080|Cambodia|Phnom Penh|MekongNet|
+|19|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|20|94.153.163.226|81|Ukraine|Kyiv|Kyivstar UA|
 
 
 
