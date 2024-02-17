@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8166** proxies at the latest update. Usable proxies are below.
+> Scraper found **8125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1216|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1175|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5603|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|118.27.13.66|3128|Japan|Chiyoda|GMO Internet, Inc.|
-|3|139.180.39.210|8080|United States|El Paso|Conterra|
-|4|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
-|5|146.190.51.181|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|8.219.40.125|10028|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|67.43.227.227|2595|Canada|Montreal|GloboTech Communications|
-|9|141.94.19.216|3128|France|Gravelines|OVH SAS|
-|10|67.43.236.20|25775|Canada|Montreal|GloboTech Communications|
-|11|152.89.244.29|8000|Germany|Frankfurt am Main|aurologic GmbH|
-|12|114.103.88.3|8089|China|Rongcheng|Chinanet|
-|13|72.10.160.173|19721|Canada|Montreal|GloboTech Communications|
-|14|45.93.17.108|3133|Germany|Frankfurt am Main|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|15|67.43.228.253|5529|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|8171|Canada|Montreal|GloboTech Communications|
-|17|89.235.78.18|3128|Iran|Tehran|AvaBarid|
-|18|45.11.96.41|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.164.178|11537|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|5|139.180.39.210|8080|United States|El Paso|Conterra|
+|6|103.150.117.48|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|7|103.27.237.24|3131|Vietnam|Thu GJuc|Long Van System Solution|
+|8|140.238.246.67|3128|India|Mumbai|Oracle Corporation|
+|9|154.38.187.159|3128|United States|New York|Nubes, LLC|
+|10|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|12|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|209.141.48.31|3128|United States|Las Vegas|FranTech Solutions|
+|14|89.117.19.40|3128|United States|Seattle|Nubes, LLC|
+|15|185.110.188.246|3128|Germany|Frankfurt am Main|BitCommand|
+|16|72.10.160.90|6733|Canada|Montreal|GloboTech Communications|
+|17|78.47.35.35|3312|Germany|Nuremberg|Hetzner Online GmbH|
+|18|223.247.46.173|8089|China|Shanghai|Chinanet|
+|19|67.43.227.227|2595|Canada|Montreal|GloboTech Communications|
+|20|93.190.24.119|443|Iran|Tehran|Press TV|
 
 
 
