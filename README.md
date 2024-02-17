@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8488** proxies at the latest update. Usable proxies are below.
+> Scraper found **8478** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1239|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1229|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|509|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5782|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|61.7.138.115|8080|Thailand|Kanchanaburi|CAT Telecom Public Company Limited|
-|3|203.150.128.244|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|103.206.253.162|8080|Indonesia|Batam|Server Farm2 Jakarta|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|81.95.11.85|45678|Germany|Nuremberg|Core-Backbone GmbH|
 |9|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|10|182.253.233.161|8080|Indonesia|Jakarta|BIZNET|
-|11|180.191.36.77|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
-|13|36.91.173.11|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|14|103.84.177.27|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|103.156.17.83|8080|Indonesia|Indramayu|RSTNET|
-|16|72.10.164.178|30197|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|30197|Canada|Montreal|GloboTech Communications|
-|18|111.225.152.92|8089|China|Zhoutou|China Telecom|
-|19|67.43.236.22|27613|Canada|Montreal|GloboTech Communications|
-|20|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|10|91.241.21.17|9812|Iran|Bandar Abbas|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|11|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|12|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
+|13|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|14|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|15|194.233.69.226|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|154.38.187.159|3128|United States|New York|Nubes, LLC|
+|17|182.253.166.14|8080|Indonesia|Banjar Galiran|BIZNET|
+|18|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|19|114.106.137.234|8089|China|Rongcheng|Chinanet|
+|20|190.6.23.218|999|Venezuela|Guacara|Net Uno|
 
 
 
