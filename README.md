@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|110.164.132.235|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|3|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|4|72.10.160.170|2471|Canada|Montreal|GloboTech Communications|
-|5|103.194.70.102|84|India|Patna|Hostaxis Network Private Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
-|8|72.10.160.170|2471|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|26259|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|24191|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|24191|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|13499|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|111.225.153.163|8089|China|Zhoutou|China Telecom|
-|18|93.177.229.164|9812|Latvia|Riga|BALTKOM Riga|
-|19|181.204.156.66|41890|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|20|67.43.227.227|26259|Canada|Montreal|GloboTech Communications|
+|1|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|3|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|5|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|6|111.225.153.49|8089|China|Zhoutou|China Telecom|
+|7|123.182.59.181|8089|China|Zhoutou|China Telecom|
+|8|123.182.59.197|8089|China|Zhoutou|China Telecom|
+|9|67.43.227.227|31163|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|3319|Canada|Montreal|GloboTech Communications|
+|11|103.76.148.92|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|12|72.10.160.91|10059|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|31163|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|31817|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|13499|Canada|Montreal|GloboTech Communications|
+|16|143.208.152.61|3180|Brazil|Niterói|ultraconexão soluçoes eireli|
+|17|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|18|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|72.10.160.170|3319|Canada|Montreal|GloboTech Communications|
 
 
 
