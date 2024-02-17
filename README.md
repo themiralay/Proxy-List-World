@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|180.183.121.121|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|5|109.123.231.232|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|6|139.180.39.201|8080|United States|El Paso|Conterra|
-|7|129.153.101.227|3128|United States|Phoenix|Oracle Corporation|
-|8|36.95.27.225|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|9|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|10|51.195.252.130|8888|United Kingdom|Rainham|OVH SAS|
-|11|117.69.237.36|8089|China|Rongcheng|Chinanet|
-|12|67.43.227.227|26773|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|29157|Canada|Montreal|GloboTech Communications|
-|14|95.51.18.49|443|Poland|Wieluń|Orange Polska Spolka Akcyjna|
-|15|67.43.236.20|29157|Canada|Montreal|GloboTech Communications|
-|16|87.247.251.240|3128|Bulgaria|Sofia|xxx|
-|17|72.10.160.173|22249|Canada|Montreal|GloboTech Communications|
-|18|183.165.251.186|8089|China|Rongcheng|Chinanet|
+|2|139.180.39.205|8080|United States|El Paso|Conterra|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|190.6.23.219|999|Venezuela|Guacara|Net Uno|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|139.180.39.205|8080|United States|El Paso|Conterra|
+|8|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|9|14.163.45.72|443|Vietnam|Bac Giang|VNPT-VNNIC|
+|10|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|11|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|12|139.180.39.201|8080|United States|El Paso|Conterra|
+|13|146.190.232.76|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|142.117.73.77|8118|Canada|Toronto|Bell Canada|
+|15|190.6.23.221|999|Venezuela|Guacara|Net Uno|
+|16|72.10.160.174|2463|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|18|190.6.23.221|999|Venezuela|Guacara|Net Uno|
 |19|67.43.236.20|29157|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9963|Canada|Montreal|GloboTech Communications|
+|20|89.117.19.40|3128|United States|Seattle|Nubes, LLC|
 
 
 
