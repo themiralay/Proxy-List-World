@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8066** proxies at the latest update. Usable proxies are below.
+> Scraper found **8098** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1031|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5695|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |3|159.65.217.197|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|159.65.217.197|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|36.88.11.215|80|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|8|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|11|190.6.23.222|999|Venezuela|Guacara|Net Uno|
-|12|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|14|120.92.16.161|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|16|123.182.58.194|8089|China|Zhoutou|China Telecom|
-|17|72.10.160.170|13001|Canada|Montreal|GloboTech Communications|
-|18|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|19|67.43.227.227|5485|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|13001|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|159.65.217.197|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|85.215.188.168|3128|Germany|Berlin|Strato AG|
+|7|142.93.120.158|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|111.225.153.184|8089|China|Zhoutou|China Telecom|
+|10|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|187.204.86.53|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
+|12|67.43.236.20|19187|Canada|Montreal|GloboTech Communications|
+|13|103.20.90.117|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|14|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|15|45.224.149.230|999|Ecuador|Limones|Ufinet Panama S.A.|
+|16|67.43.227.227|5485|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|5485|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|14593|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|19187|Canada|Montreal|GloboTech Communications|
 
 
 
