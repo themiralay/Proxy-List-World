@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|5|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.116.199.179|6969|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|50.84.48.130|8080|United States|Carrollton|Spectrum|
-|14|72.10.160.90|6667|Canada|Montreal|GloboTech Communications|
-|15|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|16|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|17|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|19|221.146.127.139|8080|South Korea|Jungnang-gu|Korea Telecom|
-|20|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|4|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|5|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|6|103.173.164.10|8082|Indonesia|Babatan|PT Pusat Net Media|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|165.16.27.42|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
+|10|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|201.77.108.5|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|15|72.10.160.90|23003|Canada|Montreal|GloboTech Communications|
+|16|103.106.219.87|8085|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|17|50.84.48.130|8080|United States|Carrollton|Spectrum|
+|18|72.10.164.178|12727|Canada|Montreal|GloboTech Communications|
+|19|103.172.70.153|2022|Indonesia|Gemolong|AZNET|
+|20|192.140.34.227|8080|Brazil|Porto Alegre|Vero S.A|
 
 
 
