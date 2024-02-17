@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|119.110.86.222|8080|Indonesia|Tebet Timur|PT. Solusindo Bintang Pratama|
-|9|202.47.189.106|8080|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|10|139.180.39.210|8080|United States|El Paso|Conterra|
-|11|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
-|12|72.10.160.90|5181|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2477|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2477|Canada|Montreal|GloboTech Communications|
-|15|211.222.98.67|24001|South Korea|Bucheon-si|Korea Telecom|
-|16|72.10.164.178|2477|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|26509|Canada|Montreal|GloboTech Communications|
-|18|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
-|19|72.10.164.178|2477|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7161|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|94.232.123.67|8118|Lithuania|Garliava|UAB "Airnet"|
+|5|139.180.39.210|8080|United States|El Paso|Conterra|
+|6|165.227.47.136|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|72.10.160.90|5181|Canada|Montreal|GloboTech Communications|
+|8|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|154.26.154.149|3128|Australia|Sydney|Cogent Communications|
+|10|67.43.236.20|10769|Canada|Montreal|GloboTech Communications|
+|11|123.182.59.97|8089|China|Zhoutou|China Telecom|
+|12|72.10.160.174|24817|Canada|Montreal|GloboTech Communications|
+|13|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|14|67.43.236.20|10769|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4025|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.22|3241|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|12319|Canada|Montreal|GloboTech Communications|
+|18|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|19|72.10.164.178|4025|Canada|Montreal|GloboTech Communications|
+|20|58.20.82.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
