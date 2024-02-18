@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8551** proxies at the latest update. Usable proxies are below.
+> Scraper found **8481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1409|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|581|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5603|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|5.153.234.91|3128|Sweden|Stockholm|Angelnet Limited|
+|3|5.153.234.91|3128|Sweden|Stockholm|Angelnet Limited|
+|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
 |5|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
-|10|89.147.108.154|80|Iceland|Reykjavik|1984 ehf|
+|6|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|192.34.63.88|8000|United States|North Bergen|DigitalOcean, LLC|
 |11|93.190.24.119|443|Iran|Tehran|Press TV|
-|12|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|13|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
-|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|139.180.39.210|8080|United States|El Paso|Conterra|
-|17|181.81.245.194|4128|Argentina|Palermo|Telecom Argentina S.A.|
-|18|103.171.244.64|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|19|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|20|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|158.247.202.58|80|South Korea|Seoul|The Constant Company, LLC|
+|14|51.159.0.236|2020|France|Paris|SCALEWAY|
+|15|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|16|103.191.165.202|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|222.127.75.23|8085|Philippines|Lahug|INNOVE|
+|18|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
+|19|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|20|139.180.39.210|8080|United States|El Paso|Conterra|
 
 
 
