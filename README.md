@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7039** proxies at the latest update. Usable proxies are below.
+> Scraper found **7074** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|843|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|399|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|369|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4839|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.167.171.235|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|189.90.249.80|8090|Brazil|Ponte Nova|Companhia Itabirana Telecomunicações Ltda|
-|9|103.167.70.130|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|12|49.235.127.178|8000|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
-|13|181.209.82.202|999|Argentina|Villa San Agustin|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|16|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|190.6.23.218|999|Venezuela|Guacara|Net Uno|
-|18|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|19|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|67.43.227.227|23359|Canada|Montreal|GloboTech Communications|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|216.98.13.31|3128|United States|Santa Clara|Atlantic.net|
+|9|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|10|189.90.249.80|8090|Brazil|Ponte Nova|Companhia Itabirana Telecomunicações Ltda|
+|11|139.180.39.210|8080|United States|El Paso|Conterra|
+|12|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|13|179.1.95.197|999|Colombia|Neiva|Internexa S.a. E.S.P|
+|14|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|15|67.43.236.20|23271|Canada|Montreal|GloboTech Communications|
+|16|190.6.23.219|999|Venezuela|Guacara|Net Uno|
+|17|72.10.160.90|16837|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|19|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|20|181.52.247.113|8085|Colombia|Pasto|Telmex Colombia S.A.|
 
 
 
