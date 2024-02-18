@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7140** proxies at the latest update. Usable proxies are below.
+> Scraper found **7261** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|914|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|430|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|320|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5068|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|178.73.192.12|3128|Sweden|Stockholm|Portlane Network|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
-|9|78.188.81.57|8080|Türkiye|Gaziosmanpasa|TurkTelecom|
-|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|11|103.211.82.92|8080|Indonesia|Batu|Badan Pengelola Keuangan dan Aset Daerah Kota Batu|
-|12|190.6.23.222|999|Venezuela|Guacara|Net Uno|
-|13|72.10.164.178|13099|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5212|Russia|Moscow|Delta Ltd|
-|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|16|190.6.23.219|999|Venezuela|Guacara|Net Uno|
-|17|67.43.236.20|1027|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13099|Canada|Montreal|GloboTech Communications|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|67.43.236.20|1027|Canada|Montreal|GloboTech Communications|
+|1|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|142.93.49.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|103.79.35.6|34525|India|Bargarh|Smartlink Solutions Pvt. Ltd.|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|139.180.39.210|8080|United States|El Paso|Conterra|
+|16|72.10.164.178|21383|Canada|Montreal|GloboTech Communications|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|72.10.160.171|1041|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17631|Canada|Montreal|GloboTech Communications|
 
 
 
