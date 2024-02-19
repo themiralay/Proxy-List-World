@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8437** proxies at the latest update. Usable proxies are below.
+> Scraper found **8680** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|611|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1423|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|634|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5662|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|7|205.196.184.69|50704|United States|Houston|Phonoscope|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|41.57.16.171|6060|South Africa|Johannesburg|Sanlam SCR|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|103.141.180.254|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
-|14|139.180.39.210|8080|United States|El Paso|Conterra|
-|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|16|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|42.62.177.62|8080|Indonesia|Bandung|ANDIRA|
-|18|160.251.19.23|3128|Japan|Hiyoshi|GMO Internet Group, Inc.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|4|103.213.116.4|8080|Indonesia|Bengkulu|Telemedia Dinamika Sarana, PT|
+|5|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|9|124.156.219.100|80|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|12|103.244.163.116|3128|Hong Kong|Kwai Chung|404 Network Information Co.|
+|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|14|103.127.97.173|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|17|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|18|103.231.249.107|3128|Vietnam|Tây Hồ|MTD|
+|19|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|149.28.42.43|1111|United States|Piscataway|The Constant Company|
 
 
 
