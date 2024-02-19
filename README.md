@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|27.111.83.207|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|3|104.248.158.220|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.150.128.200|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|139.180.39.210|8080|United States|El Paso|Conterra|
-|8|115.77.148.253|2019|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|13|190.6.23.221|999|Venezuela|Guacara|Net Uno|
-|14|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|3587|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|17433|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|9265|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|15889|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12781|Canada|Montreal|GloboTech Communications|
+|6|139.180.39.210|8080|United States|El Paso|Conterra|
+|7|37.152.172.84|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|8|103.156.249.35|8181|Indonesia|Malang|Trans Media Telekomunikasi|
+|9|42.116.115.5|8080|Vietnam|Hanoi|FPT Telecom Company|
+|10|200.229.224.221|8080|Brazil|Rio de Janeiro|Wireless Comm Services LTDA|
+|11|190.6.23.218|999|Venezuela|Guacara|Net Uno|
+|12|5.161.179.239|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|123.182.58.64|8089|China|Zhoutou|China Telecom|
+|14|67.43.227.228|13259|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1783|Canada|Montreal|GloboTech Communications|
+|16|116.214.24.188|8888|Cambodia|Phnom Penh|Xinwei (Cambodia) Telecom Co. Ltd|
+|17|72.10.164.178|26305|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|21507|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|20197|Canada|Montreal|GloboTech Communications|
+|20|3.126.135.206|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
