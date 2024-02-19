@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9408** proxies at the latest update. Usable proxies are below.
+> Scraper found **9162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|808|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|808|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|808|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|951|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|951|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|951|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1962|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|825|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5639|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
-|3|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|183.89.8.55|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|172.113.71.158|8118|United States|Lake Elsinore|Charter Communications|
-|7|159.65.217.192|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|9|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
-|10|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|103.155.62.158|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|12|152.231.25.214|8080|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|13|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
-|14|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|15|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|17|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|14|139.255.109.155|8080|Indonesia|South Tangerang|PT. LINKNET|
+|15|5.196.111.30|20037|France|Gravelines|OVH SAS|
+|16|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.132.179.72|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|20|186.208.248.46|8080|Brazil|Cuite|Pbnet Telecom|
 
 
 
