@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8573** proxies at the latest update. Usable proxies are below.
+> Scraper found **8465** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1316|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|634|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5662|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.213.116.4|8080|Indonesia|Bengkulu|Telemedia Dinamika Sarana, PT|
-|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|12|139.180.39.210|8080|United States|El Paso|Conterra|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|18|185.167.59.215|443|Moldova|Chisinau|Caghet-plus SRL|
-|19|185.10.16.186|3128|France|Le Cap D'Agde|NSC-SOLUTIONS|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
+|4|205.196.184.69|50704|United States|Houston|Phonoscope|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|139.180.39.210|8080|United States|El Paso|Conterra|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|12|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|13|86.107.178.102|3128|The Netherlands|Amsterdam|Interkvm Host SRL|
+|14|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|16|72.10.160.173|11509|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|190.6.23.218|999|Venezuela|Guacara|Net Uno|
+|19|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
+|20|111.225.152.128|8089|China|Zhoutou|China Telecom|
 
 
 
