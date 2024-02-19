@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8263** proxies at the latest update. Usable proxies are below.
+> Scraper found **8123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1485|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1344|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5352|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|6|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|139.180.39.210|8080|United States|El Paso|Conterra|
-|10|95.158.179.216|32799|Bulgaria|Pchelishte|Videosat 21 Vek OOD|
-|11|124.16.123.3|3128|China|Haidian|CNIC-CAS|
-|12|165.140.166.176|3128|United States|Chicago|Dedicated.com|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|185.104.63.55|3128|Austria|Vienna|Interkvm Host SRL|
-|16|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
-|17|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|103.244.145.132|3128|Afghanistan|Kabul|Interkvm Host SRL|
-|19|77.37.130.80|3127|Russia|Moscow|NCNET|
-|20|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|117.3.202.140|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|139.180.39.210|8080|United States|El Paso|Conterra|
+|9|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|10|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.127.97.173|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|13|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
+|14|103.179.27.129|8080|Indonesia|Tulangbawang|PT Primadona Media Digitalindo|
+|15|104.248.207.60|80|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|67.43.236.20|8565|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|18999|Canada|Montreal|GloboTech Communications|
+|18|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|14.245.200.147|8080|Vietnam|Bồng Sơn|VNPT|
+|20|67.43.228.254|13669|Canada|Montreal|GloboTech Communications|
 
 
 
