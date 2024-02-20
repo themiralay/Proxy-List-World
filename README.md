@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
-|5|116.105.64.160|10089|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|180.183.115.187|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|136.233.80.157|4480|India|Gurugram|Reliance Jio Infocomm Limited|
-|8|165.22.15.212|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|183.89.162.225|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|13|139.180.39.210|8080|United States|El Paso|Conterra|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|179.184.224.91|3128|Brazil|São Paulo|TELEFÔNICA BRASIL S.A|
-|18|72.10.160.90|14079|Canada|Montreal|GloboTech Communications|
-|19|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|20|111.225.152.241|8089|China|Zhoutou|China Telecom|
+|11|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|13|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|14|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|15|139.180.39.210|8080|United States|El Paso|Conterra|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|180.183.115.187|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
+|20|67.43.227.227|30043|Canada|Montreal|GloboTech Communications|
 
 
 
