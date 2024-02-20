@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.81.223.12|3128|Pakistan|Karachi|Worldcall Multimedia Limited|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |5|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|8|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|9|139.180.39.210|8080|United States|El Paso|Conterra|
-|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|11|124.83.39.215|3128|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|12|67.43.227.227|23883|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|18823|Canada|Montreal|GloboTech Communications|
-|14|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|15|67.43.236.20|7481|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|12153|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7481|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7725|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|30041|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|9349|Canada|Montreal|GloboTech Communications|
+|6|199.188.92.15|8000|United States|Los Angeles|Vivid-hosting LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|139.180.39.210|8080|United States|El Paso|Conterra|
+|9|67.43.227.227|22653|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|11|67.43.236.20|15873|Canada|Montreal|GloboTech Communications|
+|12|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
+|13|67.43.236.20|15873|Canada|Montreal|GloboTech Communications|
+|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|15|67.43.227.228|22335|Canada|Montreal|GloboTech Communications|
+|16|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|67.43.227.227|22653|Canada|Montreal|GloboTech Communications|
+|18|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|19|72.10.160.90|15697|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1883|Canada|Montreal|GloboTech Communications|
 
 
 
