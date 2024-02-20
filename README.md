@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.58.254.49|3128|Philippines|Antipolo City|Converge ICT Solution Inc|
-|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|121.58.254.49|3128|Philippines|Antipolo City|Converge ICT Solution Inc|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|5|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|6|13.215.241.229|80|Singapore|Singapore|Amazon Technologies Inc.|
-|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|4|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|13.215.241.229|80|Singapore|Singapore|Amazon Technologies Inc.|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|116.102.247.86|2019|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|14|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|15|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|17|139.180.39.210|8080|United States|El Paso|Conterra|
-|18|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|19|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|20|103.137.111.75|3125|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|13|139.180.39.210|8080|United States|El Paso|Conterra|
+|14|159.65.219.126|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|154.53.60.204|3128|United States|Seattle|Nubes, LLC|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|124.105.21.141|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|18|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|19|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
