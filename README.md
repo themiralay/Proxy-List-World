@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8105** proxies at the latest update. Usable proxies are below.
+> Scraper found **8102** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1093|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|510|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5541|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|67.205.132.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|122.50.6.62|80|Indonesia|Kampung Susukan|PT Mora Telematika Indonesia|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.153.35.163|8181|Indonesia|Subang|JMExpress|
-|9|67.205.132.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|139.180.39.200|8080|United States|El Paso|Conterra|
-|11|139.180.39.210|8080|United States|El Paso|Conterra|
-|12|139.180.39.201|8080|United States|El Paso|Conterra|
-|13|89.117.17.120|3128|United States|Seattle|Nubes, LLC|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|16|67.43.228.251|30143|Canada|Montreal|GloboTech Communications|
-|17|52.76.70.173|80|Singapore|Singapore|Amazon.com, Inc.|
-|18|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|19|111.225.153.26|8089|China|Zhoutou|China Telecom|
-|20|3.126.135.206|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|91.108.130.111|32650|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|207.188.130.38|8080|Spain|Madrid|Xtra Telecom S.A|
+|12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|13|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|14|139.180.39.200|8080|United States|El Paso|Conterra|
+|15|139.180.39.201|8080|United States|El Paso|Conterra|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|139.180.39.210|8080|United States|El Paso|Conterra|
+|18|103.166.8.238|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|19|72.10.164.178|19103|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|1935|Canada|Montreal|GloboTech Communications|
 
 
 
