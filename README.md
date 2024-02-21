@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7355** proxies at the latest update. Usable proxies are below.
+> Scraper found **7326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|900|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5154|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|9|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|13|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
+|10|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|12|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|13|139.180.39.210|8080|United States|El Paso|Conterra|
 |14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|139.180.39.210|8080|United States|El Paso|Conterra|
-|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|17|72.10.160.90|32261|Canada|Montreal|GloboTech Communications|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|67.43.236.20|8131|Canada|Montreal|GloboTech Communications|
-|20|202.12.82.1|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|103.78.0.44|3129|Vietnam|Quận Nam Từ Liêm|Megacore Technology Company Limited|
+|16|67.43.228.253|22703|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|16527|Canada|Montreal|GloboTech Communications|
+|18|51.159.0.236|2020|France|Paris|SCALEWAY|
+|19|67.43.228.253|22703|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2407|Canada|Montreal|GloboTech Communications|
 
 
 
