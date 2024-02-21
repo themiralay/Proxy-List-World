@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8711** proxies at the latest update. Usable proxies are below.
+> Scraper found **8651** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1027|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1027|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1027|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|912|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|912|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|912|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1776|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|854|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5121|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.156.17.114|3128|Indonesia|Indramayu|RSTNET|
-|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|144.217.180.238|8888|Canada|Beauharnois|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|202.51.118.206|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|66.135.13.125|1111|United States|Piscataway|The Constant Company, LLC|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|15|38.52.160.155|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|20|123.26.227.16|32650|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|8|103.169.130.36|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|10|103.172.70.153|2022|Indonesia|Gemolong|AZNET|
+|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
+|16|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|17|37.156.146.163|3128|Iran|Tehran|Asiatech Data Transmission company|
+|18|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
