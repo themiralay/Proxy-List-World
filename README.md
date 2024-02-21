@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|203.81.223.12|3128|Pakistan|Karachi|Worldcall Multimedia Limited|
+|2|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.180.123.141|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|10|139.180.39.210|8080|United States|El Paso|Conterra|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|67.43.236.20|2743|Canada|Montreal|GloboTech Communications|
-|15|47.184.139.206|3128|United States|Garland|Frontier Communications Solutions|
-|16|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
-|17|67.43.227.227|14305|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|12953|Canada|Montreal|GloboTech Communications|
-|19|152.70.139.52|8080|United States|Phoenix|Oracle Corporation|
-|20|43.218.43.58|3128|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|10|47.184.139.206|3128|United States|Garland|Frontier Communications Solutions|
+|11|139.180.39.210|8080|United States|El Paso|Conterra|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|167.99.233.164|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|15|23.152.40.15|5050|United States|North Miami|Host-Engine.com|
+|16|183.165.250.131|8089|China|Rongcheng|Chinanet|
+|17|67.43.227.227|29117|Canada|Montreal|GloboTech Communications|
+|18|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|19|67.43.227.227|29117|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
