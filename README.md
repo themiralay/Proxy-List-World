@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|103.180.123.197|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|77.77.64.120|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
-|8|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|9|154.73.29.1|8080|Libya|Tripoli|Rawafed|
-|10|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|11|139.180.39.210|8080|United States|El Paso|Conterra|
-|12|45.140.189.95|29003|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|58.69.247.70|8083|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|72.10.164.178|3239|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|32293|Canada|Montreal|GloboTech Communications|
-|17|91.149.224.168|3128|Norway|Sandefjord|K4X OU|
-|18|67.43.228.253|4885|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|4885|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|139.180.39.210|8080|United States|El Paso|Conterra|
+|9|152.70.139.52|8080|United States|Phoenix|Oracle Corporation|
+|10|114.106.173.107|8089|China|Guangzhou|Chinanet|
+|11|67.43.227.227|2703|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|11899|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|3805|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|2131|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|16593|Canada|Montreal|GloboTech Communications|
+|16|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
+|17|103.133.27.143|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|18|136.228.160.250|8080|Myanmar|Yangon|Myanma Post & Telecommunication|
+|19|67.43.236.20|2131|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11899|Canada|Montreal|GloboTech Communications|
 
 
 
