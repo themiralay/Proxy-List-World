@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7427** proxies at the latest update. Usable proxies are below.
+> Scraper found **7459** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|356|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|368|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5099|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|135.181.55.81|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|7|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|8|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
-|9|139.180.39.210|8080|United States|El Paso|Conterra|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|94.127.213.119|2095|Jordan|Amman|Batelco Jordan|
 |10|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|11|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
-|12|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|13|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|14|45.11.95.165|6006|Russia|Moscow|Delta Ltd|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
-|17|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|67.43.236.20|22477|Canada|Montreal|GloboTech Communications|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|183.165.225.59|8089|China|Rongcheng|Chinanet|
+|11|139.180.39.210|8080|United States|El Paso|Conterra|
+|12|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|13|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|14|45.11.95.165|5040|Russia|Moscow|Delta Ltd|
+|15|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|196.1.182.46|8080|Nigeria|Lagos|eStream Networks|
+|18|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|19|91.149.224.168|3128|Norway|Sandefjord|K4X OU|
+|20|95.216.94.103|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
