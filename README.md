@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7946** proxies at the latest update. Usable proxies are below.
+> Scraper found **7849** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1212|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1115|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|426|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5348|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|54.64.227.81|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|7|36.90.62.194|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.81.223.12|3128|Pakistan|Karachi|Worldcall Multimedia Limited|
-|10|23.92.223.122|3128|United States|Atlanta|Centrilogic|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|8|36.90.62.194|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.81.223.12|3128|Pakistan|Karachi|Worldcall Multimedia Limited|
 |11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|12|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |13|139.180.39.210|8080|United States|El Paso|Conterra|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.164.178|26687|Canada|Montreal|GloboTech Communications|
-|16|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|17|114.103.80.102|8089|China|Rongcheng|Chinanet|
-|18|67.43.236.20|23849|Canada|Montreal|GloboTech Communications|
-|19|83.229.61.206|3128|Italy|Milan|Interkvm Host SRL|
-|20|8.219.204.189|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|154.26.138.203|3128|Singapore|Singapore|Cogent Communications|
+|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|47.184.139.206|3128|United States|Garland|Frontier Communications Solutions|
+|18|67.43.228.251|1259|Canada|Montreal|GloboTech Communications|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|45.233.67.204|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
 
 
 
