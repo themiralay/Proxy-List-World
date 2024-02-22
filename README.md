@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7020** proxies at the latest update. Usable proxies are below.
+> Scraper found **7079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|948|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4780|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4818|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|52.236.0.6|8080|Ireland|Dublin|Microsoft Corporation|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|6|183.89.163.46|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|103.119.55.216|8080|Indonesia|Bandung|PT. Eka Mas Republik|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|54.64.227.81|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|160.248.184.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|13|202.51.212.146|8080|Indonesia|Medan|PT. Sejahtera Globalindo|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|1505|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|13075|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|52.236.0.6|8080|Ireland|Dublin|Microsoft Corporation|
+|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|8|202.51.212.146|8080|Indonesia|Medan|PT. Sejahtera Globalindo|
+|9|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|12|5.250.189.49|3128|Germany|Essen|IONOS SE|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|72.10.160.170|1465|Canada|Montreal|GloboTech Communications|
+|15|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
+|16|67.43.228.253|11953|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|4731|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|19|72.10.164.178|2937|Canada|Montreal|GloboTech Communications|
+|20|139.180.39.210|8080|United States|El Paso|Conterra|
 
 
 
