@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7061** proxies at the latest update. Usable proxies are below.
+> Scraper found **7031** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|914|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4818|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|139.180.39.210|8080|United States|El Paso|Conterra|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|139.180.39.210|8080|United States|El Paso|Conterra|
+|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |9|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |10|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|135.181.39.61|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|2269|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|1939|Canada|Montreal|GloboTech Communications|
-|17|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|72.10.160.90|13281|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23465|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1939|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.93|3701|Canada|Montreal|GloboTech Communications|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|72.10.160.170|1411|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|14193|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.236.20|29247|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|1411|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
