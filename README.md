@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|43.218.43.58|3128|Indonesia|Jakarta|Amazon.com, Inc.|
-|8|45.141.139.102|59394|South Korea|Seoul|MOACK.Co.LTD|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|14|5.196.119.174|3128|France|Gravelines|OVH SAS|
-|15|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|16|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|139.180.39.210|8080|United States|El Paso|Conterra|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|67.43.227.228|10869|Canada|Montreal|GloboTech Communications|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|45.141.139.102|59394|South Korea|Seoul|MOACK.Co.LTD|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
+|7|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|129.151.246.183|3128|France|Marseille|Oracle Corporation|
+|12|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|13|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|14|79.132.192.13|3128|Iran|Tehran|Engineering company Morva System Plc.|
+|15|5.196.119.174|3128|France|Gravelines|OVH SAS|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
