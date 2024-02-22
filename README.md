@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7594** proxies at the latest update. Usable proxies are below.
+> Scraper found **7646** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|936|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|988|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5344|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.180.39.210|8080|United States|El Paso|Conterra|
-|8|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|9|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
-|12|138.0.228.120|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|67.43.227.226|26321|Canada|Montreal|GloboTech Communications|
-|14|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|16|72.10.160.170|18789|Canada|Montreal|GloboTech Communications|
-|17|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|168.119.117.125|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|6|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|139.180.39.210|8080|United States|El Paso|Conterra|
+|9|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
+|10|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|72.10.160.90|6723|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|26321|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|6723|Canada|Montreal|GloboTech Communications|
+|18|161.156.199.78|80|United Kingdom|London|SoftLayer|
+|19|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|19201|Canada|Montreal|GloboTech Communications|
 
 
 
