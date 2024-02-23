@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7522** proxies at the latest update. Usable proxies are below.
+> Scraper found **7440** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1133|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1051|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|526|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4905|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 |3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|180.183.0.83|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|7|180.183.0.83|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |8|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|9|51.159.0.236|3128|France|Paris|SCALEWAY|
-|10|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|139.180.39.210|8080|United States|El Paso|Conterra|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|211.20.17.194|80|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|211.20.17.194|80|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|52.236.0.6|8080|Ireland|Dublin|Microsoft Corporation|
-|20|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
+|11|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|12|24.152.50.22|999|Dominican Republic|San Cristobal|Lightwave S.R.L|
+|13|185.103.26.78|3128|Russia|Moscow|MTS PJSC|
+|14|139.180.39.210|8080|United States|El Paso|Conterra|
+|15|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|19|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
+|20|122.50.6.62|80|Indonesia|Kampung Susukan|PT Mora Telematika Indonesia|
 
 
 
