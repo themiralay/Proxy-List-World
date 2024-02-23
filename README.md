@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7239** proxies at the latest update. Usable proxies are below.
+> Scraper found **7175** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4905|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.212.77|80|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.132.212.77|80|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|187.40.1.122|128|Brazil|São Paulo|V tal|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|139.180.39.210|8080|United States|El Paso|Conterra|
 |9|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|10|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|11|52.236.0.6|8080|Ireland|Dublin|Microsoft Corporation|
-|12|72.10.160.90|32637|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|2945|Canada|Montreal|GloboTech Communications|
-|14|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|15|67.43.236.20|20197|Canada|Montreal|GloboTech Communications|
-|16|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|17|72.10.160.173|19499|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|2945|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|2945|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2945|Canada|Montreal|GloboTech Communications|
+|10|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|11|67.43.227.227|22599|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|16147|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|30893|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|67.43.227.227|22599|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|1611|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|30893|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|22599|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|24571|Canada|Montreal|GloboTech Communications|
 
 
 
