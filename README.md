@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|139.180.39.210|8080|United States|El Paso|Conterra|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|35.243.227.100|80|United States|North Charleston|Google LLC|
+|1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|6|35.243.227.100|80|United States|North Charleston|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|9|139.180.39.210|8080|United States|El Paso|Conterra|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|35.243.227.100|80|United States|North Charleston|Google LLC|
+|12|67.43.227.227|7611|Canada|Montreal|GloboTech Communications|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|16|67.43.236.20|9239|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|32473|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|7611|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12095|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17989|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|26033|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|18|72.10.160.90|30809|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|7611|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
 
 
 
