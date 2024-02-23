@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|3|128.199.254.1|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|8|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|128.199.254.1|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
+|7|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|10|35.243.227.100|80|United States|North Charleston|Google LLC|
 |11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|13|139.180.39.210|8080|United States|El Paso|Conterra|
+|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |15|35.243.227.100|80|United States|North Charleston|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
-|18|72.10.160.173|27707|Canada|Montreal|GloboTech Communications|
-|19|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|111.225.153.244|8089|China|Zhoutou|China Telecom|
+|18|72.10.160.90|31359|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |20|72.10.164.178|26895|Canada|Montreal|GloboTech Communications|
 
 
