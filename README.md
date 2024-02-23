@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|5|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|6|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|3.78.78.151|3127|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|12|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|14|91.185.55.35|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|15|139.180.39.210|8080|United States|El Paso|Conterra|
-|16|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
-|19|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|20|72.10.164.178|28643|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|10|3.78.78.151|3127|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|139.180.39.210|8080|United States|El Paso|Conterra|
+|12|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|13|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|14|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|67.43.236.20|9695|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|1519|Canada|Montreal|GloboTech Communications|
+|17|89.40.142.116|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|18|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|19|72.10.160.173|29211|Canada|Montreal|GloboTech Communications|
+|20|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
