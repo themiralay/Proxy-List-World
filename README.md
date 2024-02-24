@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8354** proxies at the latest update. Usable proxies are below.
+> Scraper found **8267** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1017|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5817|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|3|14.231.217.206|8080|Vietnam|Hanoi|VNPT|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|7|125.24.59.8|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|10|85.206.13.20|80|Lithuania|Vilnius|Telia Lietuva, AB|
-|11|200.122.204.107|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|12|139.180.39.210|8080|United States|El Paso|Conterra|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|160.248.184.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|16|176.236.141.30|10001|Turkey|Umraniye|Superonline Iletisim Hizmetleri A.S.|
-|17|103.156.249.82|1111|Indonesia|Malang|Trans Media Telekomunikasi|
-|18|200.7.118.62|666|Brazil|Peruibe|Sunway Telecom Ltda|
-|19|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|14.231.217.206|8080|Vietnam|Hanoi|VNPT|
+|6|125.24.59.8|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.227.229|29003|Canada|Montreal|GloboTech Communications|
+|12|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|13|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|14|139.180.39.210|8080|United States|El Paso|Conterra|
+|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|146.190.51.181|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|19|36.50.253.70|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|20|104.225.150.168|3128|United States|Los Angeles|IT7 Networks Inc|
 
 
 
