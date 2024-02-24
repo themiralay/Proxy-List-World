@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7907** proxies at the latest update. Usable proxies are below.
+> Scraper found **7967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|956|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1016|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5587|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|9|78.38.224.102|8080|Iran|Tehran|Telecommunication Company of Iran|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|1|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.115.31.3|8080|Indonesia|East Java|HSPNET|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
+|7|119.95.226.211|8080|Philippines|Castillejos|Philippine Long Distance Telephone Co.|
+|8|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|9|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|10|49.48.68.63|8080|Thailand|Phimai|Triple T Broadband Public Company Limited|
+|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|14|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|120.28.138.60|8081|Philippines|Caloocan City|Globe Telecom|
-|16|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|139.180.39.210|8080|United States|El Paso|Conterra|
-|18|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|20|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|14|209.79.65.132|8080|United States|Fullerton|Orange County Department of Education|
+|15|210.165.117.173|8080|Japan|Yokohama|InfoSphere|
+|16|24.144.120.120|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|18|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
