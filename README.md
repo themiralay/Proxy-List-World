@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7689** proxies at the latest update. Usable proxies are below.
+> Scraper found **7727** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|836|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.140.111.119|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|78.47.195.24|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
 |6|5.75.133.171|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|7|212.119.215.13|3128|Russia|Moscow|PJSC "Vimpelcom"|
-|8|135.181.196.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|116.212.144.139|32650|Cambodia|Phnom Penh|Angkor Data Communication|
-|15|67.43.227.228|17255|Canada|Montreal|GloboTech Communications|
-|16|135.181.196.60|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|26633|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26633|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26633|Canada|Montreal|GloboTech Communications|
+|7|135.181.196.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|78.47.195.24|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|10|128.140.111.119|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|187.72.132.170|3128|Brazil|Franca|ALGAR TELECOM S/A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|212.119.215.13|3128|Russia|Moscow|PJSC "Vimpelcom"|
+|14|202.154.18.136|8080|Indonesia|Bojonegoro|DIGITNET|
+|15|139.180.39.210|8080|United States|El Paso|Conterra|
+|16|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|17|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|18|140.227.61.156|23456|Japan|Nagawa|InfoSphere|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|5.75.133.171|3128|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
