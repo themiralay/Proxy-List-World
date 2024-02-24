@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8587** proxies at the latest update. Usable proxies are below.
+> Scraper found **8628** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|667|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|667|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|667|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1273|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1314|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|539|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5817|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|9|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|10|177.241.233.3|999|Mexico|Genaro Codina|Mega Cable, S.A. de C.V.|
-|11|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|12|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|13|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|14|103.127.38.46|7070|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|8.242.176.36|999|Colombia|Santiago de Cali|CTL Colombia|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|19|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
-|20|103.14.225.158|3128|Vietnam|Hanoi|VNB|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|103.119.55.216|8080|Indonesia|Bandung|PT. Eka Mas Republik|
+|4|203.6.148.253|8080|Indonesia|Karanganyar Wetankali|Universitas Sebelas Maret, y|
+|5|182.253.175.226|8080|Indonesia|Jakarta|Biznet Metronet|
+|6|103.164.13.148|8080|Indonesia|Bekasi|PT Milenial Inti Telekomunikasi|
+|7|177.93.50.163|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|10|85.192.40.171|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|14|103.29.238.4|8090|Bangladesh|Gazipur District|Windstream Communication Limited|
+|15|103.217.224.139|8090|Indonesia|Semarang|PT Nesta Indo Media|
+|16|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|94.131.106.196|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
 
 
 
