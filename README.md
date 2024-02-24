@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7812** proxies at the latest update. Usable proxies are below.
+> Scraper found **7838** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1244|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1269|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|737|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4873|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.227.94.126|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.74.243.47|3128|India|Chennai|Bharti Airtel Limited|
-|9|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|10|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|11|188.0.2.1|8888|Russia|Krasnoyarsk|YarTV Ltd.|
-|12|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|15|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|139.180.39.210|8080|United States|El Paso|Conterra|
-|17|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|51.159.0.236|2020|France|Paris|SCALEWAY|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.227.94.126|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|182.74.243.47|3128|India|Chennai|Bharti Airtel Limited|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.159.0.236|2020|France|Paris|SCALEWAY|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|139.180.39.210|8080|United States|El Paso|Conterra|
+|16|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|67.43.236.20|22397|Canada|Montreal|GloboTech Communications|
+|19|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|20|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
 
 
 
