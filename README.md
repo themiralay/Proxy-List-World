@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8026** proxies at the latest update. Usable proxies are below.
+> Scraper found **8152** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1102|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5587|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|135.181.196.60|3128|Finland|Helsinki|Hetzner Online GmbH|
 |6|5.75.133.171|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |7|78.47.195.24|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|135.181.196.60|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |9|128.140.111.119|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|171.236.241.249|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|12|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
-|13|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|10|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|13|41.65.160.174|1981|Egypt|Al Mahallah al Kubra|Etisalat Misr Mobile BB|
+|14|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|15|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 |16|139.180.39.210|8080|United States|El Paso|Conterra|
-|17|209.79.65.132|8080|United States|Fullerton|Orange County Department of Education|
-|18|103.105.76.65|8080|Indonesia|Surabaya|GARUDA|
-|19|103.156.74.154|8080|Indonesia|Bangli|PT Trika Global Media|
-|20|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|179.1.129.134|999|Colombia|Bogotá|InterNexa Global Network|
+|19|187.49.191.73|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|20|67.43.227.227|14133|Canada|Montreal|GloboTech Communications|
 
 
 
