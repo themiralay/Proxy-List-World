@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|740|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|740|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|740|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|6|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|10|203.6.148.253|8080|Indonesia|Karanganyar Wetankali|Universitas Sebelas Maret, y|
-|11|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|185.82.98.249|8092|Lebanon|Tripoli|Protected|
-|13|139.180.39.210|8080|United States|El Paso|Conterra|
-|14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|103.119.55.216|8080|Indonesia|Bandung|PT. Eka Mas Republik|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|9|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|10|177.241.233.3|999|Mexico|Genaro Codina|Mega Cable, S.A. de C.V.|
+|11|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|12|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
+|13|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|14|103.127.38.46|7070|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.242.176.36|999|Colombia|Santiago de Cali|CTL Colombia|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.236.19|25873|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15981|Canada|Montreal|GloboTech Communications|
-|20|149.28.75.112|8888|United States|Los Angeles|The Constant Company|
+|18|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|19|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|20|103.14.225.158|3128|Vietnam|Hanoi|VNB|
 
 
 
