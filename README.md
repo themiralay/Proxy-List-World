@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|669|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|669|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|669|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|2|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|171.250.67.28|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|103.125.154.161|8080|India|Coimbatore|Live Fibernet|
-|6|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|3|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.11.96.41|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
 |8|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|9|112.201.182.220|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|11|101.255.208.22|3127|Indonesia|Jakarta|PT Remala Abadi|
-|12|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
-|13|165.16.60.231|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|16|139.180.39.210|8080|United States|El Paso|Conterra|
-|17|3.78.78.151|3127|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|3.112.35.208|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|67.43.236.20|10355|Canada|Montreal|GloboTech Communications|
+|9|203.150.128.170|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|11|3.78.78.151|3127|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|14|139.180.39.210|8080|United States|El Paso|Conterra|
+|15|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|18|67.43.236.20|24029|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|15395|Canada|Montreal|GloboTech Communications|
+|20|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
