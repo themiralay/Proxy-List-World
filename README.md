@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|800|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|800|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|800|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|10|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|187.189.175.136|999|Mexico|Ciudad Benito Juarez|Total Play Telecomunicaciones SA De CV|
-|13|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|14|103.163.103.148|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
-|15|176.124.198.97|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|16|181.129.130.18|8154|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|139.180.39.210|8080|United States|El Paso|Conterra|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|8|103.163.103.148|8080|Indonesia|Wonogiri|PT Mamura Inter Media|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|187.189.175.136|999|Mexico|Ciudad Benito Juarez|Total Play Telecomunicaciones SA De CV|
+|12|139.180.39.210|8080|United States|El Paso|Conterra|
+|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|14|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.163.13.112|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|18|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|19|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|20|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
 
 
 
