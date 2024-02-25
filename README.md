@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|121.58.254.59|3128|Philippines|Antipolo City|Converge ICT Solution Inc|
 |4|213.35.124.163|8085|Singapore|Singapore|HotRoute|
 |5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|7|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|9|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.159.0.236|3128|France|Paris|SCALEWAY|
-|13|103.145.160.3|8080|Indonesia|Bogor|PT Indonesia Comnets Plus|
-|14|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|14|51.159.0.236|3128|France|Paris|SCALEWAY|
 |15|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|17|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|18|40.127.8.243|80|South Africa|Johannesburg|Microsoft Corporation|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|17|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|72.10.160.172|6431|Canada|Montreal|GloboTech Communications|
 
 
 
