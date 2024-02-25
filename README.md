@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7743** proxies at the latest update. Usable proxies are below.
+> Scraper found **7664** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5476|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.58.254.59|3128|Philippines|Antipolo City|Converge ICT Solution Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|HotRoute|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|11|115.77.148.253|2019|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|213.35.124.163|8085|Singapore|Singapore|HotRoute|
+|2|121.58.254.59|3128|Philippines|Antipolo City|Converge ICT Solution Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|103.13.206.25|3128|Singapore|Singapore|Cloud Host Pte Ltd|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
+|10|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|139.180.39.210|8080|United States|El Paso|Conterra|
+|13|185.162.140.229|8080|Moldova|Drochia|Societatea Comerciala Click-COM SRL|
 |14|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.236.21|12089|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|27775|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|5241|Canada|Montreal|GloboTech Communications|
-|19|83.85.135.220|80|The Netherlands|Gorinchem|Vodafone Libertel B.V.|
-|20|123.182.58.151|8089|China|Zhoutou|China Telecom|
+|15|139.180.39.210|8080|United States|El Paso|Conterra|
+|16|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|18|115.77.148.253|1001|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|167.172.91.47|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.22|1957|Canada|Montreal|GloboTech Communications|
 
 
 
