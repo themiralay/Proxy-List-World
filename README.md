@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9326** proxies at the latest update. Usable proxies are below.
+> Scraper found **9162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|918|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|918|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|918|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1837|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1673|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|891|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5637|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.175.49.78|8080|Indonesia|Bandung|PT. Trans Indonesia Superkoridor|
-|2|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.165.155.219|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
-|7|45.233.67.200|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|36.94.2.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|45.163.66.247|19888|Brazil|Goiânia|CDM TELECOM|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|158.101.197.81|3128|Netherlands|Amsterdam|Oracle Corporation|
+|7|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|8|94.74.88.76|8888|Singapore|Singapore|Huawei International Pte. LTD|
+|9|72.10.160.90|12557|Canada|Montreal|GloboTech Communications|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |11|213.35.124.163|8085|Singapore|Singapore|HotRoute|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|46.245.77.52|3128|Iran|Tehran|Asiatech Data Transmission company|
-|14|204.157.251.169|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|15|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
-|16|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|38.156.75.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|72.10.160.92|4969|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28571|Canada|Montreal|GloboTech Communications|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|72.10.164.178|13953|Canada|Montreal|GloboTech Communications|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|107.152.41.86|8080|United States|Chicago|tzulo, inc.|
 
 
 
