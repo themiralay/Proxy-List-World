@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|2|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|212.77.163.196|3128|Germany|Straubing|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
 |8|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|9|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|10|67.43.228.253|15327|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.78.0.44|3129|Vietnam|Quận Nam Từ Liêm|Megacore Technology Company Limited|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.236.246.151|3128|Poland|Warsaw|Aeza International LTD|
-|17|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|18|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
-|19|183.165.244.78|8089|China|Rongcheng|Chinanet|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|10|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|11|165.232.129.72|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|13|114.106.173.242|8089|China|Guangzhou|Chinanet|
+|14|72.10.164.178|7895|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|4997|Canada|Montreal|GloboTech Communications|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|183.165.244.250|8089|China|Rongcheng|Chinanet|
+|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.227.227|19403|Canada|Montreal|GloboTech Communications|
+|20|123.182.58.243|8089|China|Zhoutou|China Telecom|
 
 
 
