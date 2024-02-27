@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7662** proxies at the latest update. Usable proxies are below.
+> Scraper found **7862** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|903|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1103|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|287|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.72.63.33|9080|Japan|Tokyo|Amazon.com, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.72.63.33|9080|Japan|Tokyo|Amazon.com, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|210.165.117.173|8080|Japan|Minato-ku|InfoSphere|
-|12|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|13|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|14|167.172.91.47|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.253|3249|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|117.57.92.33|8089|China|Rongcheng|Chinanet|
-|18|67.43.228.252|16325|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|1605|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1385|Canada|Montreal|GloboTech Communications|
+|1|35.72.63.33|9080|Japan|Tokyo|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|128.140.119.23|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|213.35.124.163|8085|Singapore|Singapore|HotRoute|
+|10|210.165.117.173|8080|Japan|Minato-ku|InfoSphere|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|121.140.217.185|3128|South Korea|Dongjak-gu|Korea Telecom|
+|14|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|15|67.43.227.228|4959|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|2093|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13285|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|4103|Canada|Montreal|GloboTech Communications|
+|19|128.140.119.23|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|67.43.227.227|13285|Canada|Montreal|GloboTech Communications|
 
 
 
