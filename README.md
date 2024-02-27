@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8405** proxies at the latest update. Usable proxies are below.
+> Scraper found **8590** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|718|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|718|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|718|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1233|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1418|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|704|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5510|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|2|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
-|3|91.149.224.168|3128|Norway|Sandefjord|K4X OU|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|167.172.91.47|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|7|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|8|201.77.96.153|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
-|9|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|10|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|64.76.106.18|8080|Peru|Lima region|LOA NETWORK JL S.A.C|
-|15|103.105.55.51|8081|Indonesia|Gedangan|PT. Mega Artha Lintas Data|
-|16|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|17|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|18|167.172.91.47|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|36.95.155.74|3126|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|89.248.204.178|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|116.105.174.86|19035|Vietnam|Da Nang|Viettel Corporation|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|167.114.107.37|80|Canada|Montreal|OVH SAS|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|89.248.204.178|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|8|91.149.224.168|3128|Norway|Sandefjord|K4X OU|
+|9|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
+|10|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|38.41.12.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|13|112.171.26.35|3128|South Korea|Gwanak-gu|Korea Telecom|
+|14|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|17|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|18|72.10.164.178|11675|Canada|Montreal|GloboTech Communications|
+|19|187.102.236.161|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|20|41.57.25.129|6060|South Africa|Johannesburg|SCR BS1034|
 
 
 
