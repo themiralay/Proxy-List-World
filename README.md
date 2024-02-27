@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9200** proxies at the latest update. Usable proxies are below.
+> Scraper found **9078** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|699|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|699|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|699|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|963|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|963|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|963|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1564|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1442|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|952|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5726|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|5|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|6|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|8|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|10|200.95.230.46|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
-|11|202.21.117.74|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|12|185.104.63.106|3128|Austria|Vienna|Interkvm Host SRL|
-|13|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
-|14|188.124.230.43|19445|Russia|Taman'|Miranda-Media B2C Static # 5|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|17|181.78.15.251|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|18|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|19|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|20|103.244.145.138|3128|Afghanistan|Kabul|Interkvm Host SRL|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|52.230.98.217|3128|Singapore|Singapore|Microsoft Corporation|
+|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|7|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|18|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|20|167.114.107.37|80|Canada|Montreal|OVH SAS|
 
 
 
