@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8351** proxies at the latest update. Usable proxies are below.
+> Scraper found **8143** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1271|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|513|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5585|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.114.107.37|80|Canada|Montreal|OVH SAS|
 |3|128.140.119.23|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|211.193.64.68|3128|South Korea|Changwon|Korea Telecom|
-|5|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|7|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|8|213.35.124.163|8085|Singapore|Singapore|HotRoute|
-|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|10|158.180.80.144|8080|South Korea|Chuncheon|Oracle Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|167.114.107.37|80|Canada|Montreal|OVH SAS|
-|14|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|15|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|16|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|17|49.48.118.101|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|18|94.237.75.138|3128|Singapore|Singapore|UpCloud Ltd|
-|19|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
-|20|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|4|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|9|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|12|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|13|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
+|14|72.10.164.178|27593|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|17817|Canada|Montreal|GloboTech Communications|
+|16|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|17|171.236.241.249|4010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
