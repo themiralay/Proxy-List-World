@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9188** proxies at the latest update. Usable proxies are below.
+> Scraper found **8923** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|835|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|835|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|835|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1812|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1547|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|692|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5726|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|2|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|4|89.248.204.178|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|24.6.214.27|3128|United States|Union City|Comcast Cable Communications, LLC|
-|6|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|8|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|185.170.238.42|8080|Iran|Tehran|Pardazeshgaran Almas Pasargad Co. Pjs|
-|11|20.232.75.110|8888|United States|Boydton|Microsoft Corporation|
-|12|218.255.3.63|1080|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|13|82.62.241.62|3128|Italy|Cogorno|Telecom Italia S.p.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|112.163.160.151|3128|South Korea|Nammyeon|Korea Telecom|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|20|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|27.111.83.207|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|2|27.111.83.204|8080|Hong Kong|Hong Kong|Dreamscape Networks PTY LTD|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|35.200.161.98|80|India|Mumbai|Google LLC|
+|10|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|14|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|15|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
+|16|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|82.62.241.62|3128|Italy|Cogorno|Telecom Italia S.p.A|
+|20|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
