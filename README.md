@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7615** proxies at the latest update. Usable proxies are below.
+> Scraper found **7596** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|953|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|934|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|325|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5379|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|77.68.111.73|3128|United Kingdom|London|IONOS SE|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|8|86.107.178.103|3128|The Netherlands|Amsterdam|Interkvm Host SRL|
-|9|210.165.117.173|8080|Japan|Minato-ku|InfoSphere|
-|10|223.247.47.199|8089|China|Shanghai|Chinanet|
-|11|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|12|114.106.171.58|8089|China|Guangzhou|Chinanet|
-|13|62.171.130.145|3128|Germany|Nuremberg|Contabo GmbH|
-|14|67.43.236.18|13793|Canada|Montreal|GloboTech Communications|
-|15|86.107.178.107|3128|The Netherlands|Amsterdam|Interkvm Host SRL|
-|16|77.68.111.73|3128|United Kingdom|London|IONOS SE|
-|17|72.10.164.178|10361|Canada|Montreal|GloboTech Communications|
-|18|159.223.174.128|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.160.90|1463|Canada|Montreal|GloboTech Communications|
-|20|111.225.152.204|8089|China|Zhoutou|China Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
+|6|72.10.160.90|27773|Canada|Montreal|GloboTech Communications|
+|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|9|111.225.152.46|8089|China|Zhoutou|China Telecom|
+|10|72.10.160.90|27773|Canada|Montreal|GloboTech Communications|
+|11|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|12|34.88.54.123|3128|Finland|Lappeenranta|Google LLC|
+|13|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
+|15|123.182.58.61|8089|China|Zhoutou|China Telecom|
+|16|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|17|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|18|113.223.212.125|8089|China|Loudi|Chinanet|
+|19|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|16749|Canada|Montreal|GloboTech Communications|
 
 
 
