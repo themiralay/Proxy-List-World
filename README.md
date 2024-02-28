@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|785|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|785|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|785|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|878|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|878|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|878|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|211.193.64.68|3128|South Korea|Changwon|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|128.140.119.23|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|103.187.99.9|8080|Bangladesh|Dhaka|Windstream Communication Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|115.127.112.74|8090|Bangladesh|Dhaka|BRACNet Limited|
-|19|190.216.234.186|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|202.131.159.26|1111|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|128.140.119.23|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|121.140.217.185|3128|South Korea|Dongjak-gu|Korea Telecom|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|103.81.222.235|8080|Indonesia|Bandung|STARNET|
+|15|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|38.65.174.129|999|Mexico|Amealco|Wantelco SAS de CV|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|20.84.7.175|3128|United States|Boydton|Microsoft Corporation|
+|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
