@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9005** proxies at the latest update. Usable proxies are below.
+> Scraper found **9039** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|783|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|783|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|783|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|33|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1833|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|37|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1863|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|622|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5559|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|86.107.178.107|3128|The Netherlands|Amsterdam|Interkvm Host SRL|
-|4|209.209.10.40|51133|Canada|Montreal|Rica Web Services|
-|5|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|103.155.199.54|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
-|9|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|185.108.141.19|8080|Bulgaria|Sofia|NetX|
-|14|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|15|94.237.73.42|3128|Singapore|Singapore|UpCloud Ltd|
-|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
-|19|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|209.209.10.40|51133|Canada|Montreal|Rica Web Services|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.209.10.40|51518|Canada|Montreal|Rica Web Services|
+|5|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|6|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|7|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|9|46.105.50.251|3128|France|Gravelines|OVH SAS|
+|10|67.43.236.20|24391|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|24391|Canada|Montreal|GloboTech Communications|
+|12|152.70.139.52|8080|United States|Phoenix|Oracle Corporation|
+|13|192.162.192.148|55443|Russia|Uglich|Sigma-Net Ltd|
+|14|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.10.160.171|8073|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|19567|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|24391|Canada|Montreal|GloboTech Communications|
+|18|121.33.148.210|9000|China|Guangzhou|Chinanet|
+|19|67.43.228.253|28541|Canada|Montreal|GloboTech Communications|
+|20|103.26.108.118|84|India|Sivakasi|Niss Networks|
 
 
 
