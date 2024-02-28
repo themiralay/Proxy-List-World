@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7857** proxies at the latest update. Usable proxies are below.
+> Scraper found **8193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1238|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1234|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|300|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|640|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5359|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|1|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|4|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|5|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|6|27.79.235.66|4006|Vietnam|Hanoi|Viettel Corporation|
-|7|182.253.70.226|8080|Indonesia|Surabaya|BIZNET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|4|181.78.194.82|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|182.253.70.226|8080|Indonesia|Surabaya|BIZNET|
+|7|138.197.124.155|3128|United States|Clifton|DigitalOcean, LLC|
+|8|103.163.80.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|138.197.124.155|3128|United States|Clifton|DigitalOcean, LLC|
-|11|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|12|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|13|24.152.50.118|999|Dominican Republic|San Cristobal|Lightwave S.R.L|
-|14|179.60.219.53|999|Argentina|Rosario|WNet Internet y Hosting|
-|15|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
-|16|67.43.227.227|30513|Canada|Montreal|GloboTech Communications|
-|17|138.197.124.155|3128|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.236.20|5545|Canada|Montreal|GloboTech Communications|
-|19|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|20|72.10.160.173|16987|Canada|Montreal|GloboTech Communications|
+|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|13|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|185.165.232.65|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
+|16|67.43.236.20|15969|Canada|Montreal|GloboTech Communications|
+|17|24.152.50.116|999|Dominican Republic|San Cristobal|Lightwave S.R.L|
+|18|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|19|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|194.44.93.102|3128|Ukraine|Rivne|CIS-RV|
 
 
 
