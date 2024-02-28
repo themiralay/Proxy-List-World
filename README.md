@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9051** proxies at the latest update. Usable proxies are below.
+> Scraper found **9032** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|795|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|795|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|795|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|45|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1867|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|46|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|622|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5559|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|5|103.153.62.191|8080|Indonesia|Bekasi|IMEDIANET|
-|6|103.173.139.222|8080|Indonesia|Tegal|PT Serayu Multi Connection|
-|7|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|160.16.133.79|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|9|103.169.187.188|8081|Indonesia|Probolinggo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|10|175.111.129.156|8080|India|Gurugram|Spiderlink Networks Pvt Ltd|
-|11|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|12|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|13|52.230.98.217|3128|Singapore|Singapore|Microsoft Corporation|
-|14|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
-|15|81.29.139.113|8080|Russia|Moscow|Data-center IMAQLIQ Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
-|18|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|20|165.22.96.68|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|179.1.198.35|999|Colombia|Medellín|Internexa S.a. E.S.P|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.65.174.129|999|Mexico|Amealco|Wantelco SAS de CV|
+|7|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|8|186.148.181.209|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|72.10.160.90|11281|Canada|Montreal|GloboTech Communications|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|203.150.128.53|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|186.125.218.163|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|13|37.148.217.234|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|14|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|67.43.236.20|18397|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|5941|Canada|Montreal|GloboTech Communications|
+|17|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|18|81.200.156.246|3128|Poland|Warsaw|TimeWeb Ltd.|
+|19|213.35.124.163|8085|Singapore|Singapore|HotRoute|
+|20|37.211.17.22|8080|Qatar|Doha|Ooredoo|
 
 
 
