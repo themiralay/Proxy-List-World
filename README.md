@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8836** proxies at the latest update. Usable proxies are below.
+> Scraper found **8600** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1447|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1211|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|872|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5559|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|14.207.13.242|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|103.166.28.63|8080|Indonesia|Bojonegoro|PT Global Media Data Prima|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|15|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
-|16|67.43.228.250|13621|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|28617|Canada|Montreal|GloboTech Communications|
-|18|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|19|67.43.227.227|9619|Canada|Montreal|GloboTech Communications|
-|20|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|2|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|8|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|38.45.36.196|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|10|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
+|11|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|17|212.200.74.139|1685|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|18|182.50.65.169|8080|Nepal|Itahari|RO-65 BroadLink|
+|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|103.173.139.222|8080|Indonesia|Tegal|PT Serayu Multi Connection|
 
 
 
