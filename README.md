@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|898|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|898|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|898|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.242.104.42|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|2|94.237.75.138|3128|Singapore|Singapore|UpCloud Ltd|
+|2|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|7|103.16.118.136|8080|Indonesia|Madiun|CV Trustnet Media|
-|8|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|11|188.132.222.3|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|13|167.172.91.47|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|37.26.86.206|47464|Albania|Elbasan|ATU|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|152.70.139.52|8080|United States|Phoenix|Oracle Corporation|
-|18|67.43.236.19|15747|Canada|Montreal|GloboTech Communications|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|107.148.146.204|6060|United States|Dallas|PEG TECH INC|
+|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|7|222.104.128.205|48678|South Korea|Nam-gu|Korea Telecom|
+|8|101.255.208.22|3127|Indonesia|Jakarta|PT Remala Abadi|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|94.237.75.138|3128|Singapore|Singapore|UpCloud Ltd|
+|11|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
+|12|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|13|103.188.168.3|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|177.55.247.174|8080|Brazil|Fortaleza|VAS Freitas Servicos de Internet Ltda|
+|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|20|103.151.177.105|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
 
 
 
