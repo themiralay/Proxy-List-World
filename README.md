@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6671** proxies at the latest update. Usable proxies are below.
+> Scraper found **7565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|894|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|415|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5298|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.119.249.146|9000|Vietnam|Binh Tan District|VinhNam Commercial informatics service corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.11.95.165|5212|Russia|Moscow|Delta Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|54.169.69.68|3128|Singapore|Singapore|Amazon.com, Inc.|
-|7|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|8|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|10|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|11|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|12|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|13|147.28.145.212|10001|United States|Ashburn|Packet Host, Inc.|
-|14|65.109.112.245|9877|Finland|Helsinki|Hetzner Online GmbH|
-|15|185.203.116.190|3128|Bulgaria|Sofia|Belcloud LTD|
-|16|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
-|17|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|78.46.65.137|32578|Germany|Falkenstein|Hetzner Online GmbH|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|4|67.43.227.227|24177|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.90|26137|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|4755|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|24177|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.22|11585|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|10|67.43.227.229|15817|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|26137|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|28171|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|5625|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.22|11585|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|26137|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|26137|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.228.253|28171|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|24177|Canada|Montreal|GloboTech Communications|
 
 
 
