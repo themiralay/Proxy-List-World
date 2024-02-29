@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8437** proxies at the latest update. Usable proxies are below.
+> Scraper found **8292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1324|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1179|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5593|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|54.169.69.68|3128|Singapore|Singapore|Amazon.com, Inc.|
-|4|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|38.156.72.195|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|72.10.164.178|31033|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.174|26139|Canada|Montreal|GloboTech Communications|
-|9|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
-|10|67.43.236.20|2031|Canada|Montreal|GloboTech Communications|
-|11|107.148.98.234|58394|Japan|Koto-ku|PEG TECH INC|
-|12|67.43.236.19|30665|Canada|Montreal|GloboTech Communications|
-|13|45.174.204.219|999|Chile|Limache|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|14|14.207.165.46|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|15|67.43.228.253|13543|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|18421|Canada|Montreal|GloboTech Communications|
-|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|18|111.225.152.74|8089|China|Zhoutou|China Telecom|
-|19|67.43.228.250|21319|Canada|Montreal|GloboTech Communications|
-|20|51.159.55.145|3129|France|Paris|SCALEWAY|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.147.118.5|9091|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|4|67.43.227.227|31437|Canada|Montreal|GloboTech Communications|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|223.25.100.234|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
+|8|27.79.140.50|4004|Vietnam|Hanoi|Viettel Corporation|
+|9|67.43.227.228|5559|Canada|Montreal|GloboTech Communications|
+|10|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|67.43.227.227|31437|Canada|Montreal|GloboTech Communications|
+|12|208.79.9.85|9080|United States|Montgomery|Skyrider Communications LLC|
+|13|67.43.228.253|29601|Canada|Montreal|GloboTech Communications|
+|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|91.149.224.168|3128|Norway|Sandefjord|K4X OU|
+|17|67.43.227.227|31437|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|18437|Canada|Montreal|GloboTech Communications|
+|19|103.78.96.146|8181|Indonesia|Jakarta|MORATELINDO|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
