@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9143** proxies at the latest update. Usable proxies are below.
+> Scraper found **9250** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|822|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|822|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|822|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1041|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1041|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1041|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1578|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1685|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|899|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5708|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|170.39.177.153|3128|United States|Atlanta|Shift Hosting LLC|
+|2|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|181.206.84.190|8080|Colombia|Medellín|Colombia Móvil|
-|8|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|170.39.177.153|3128|United States|Atlanta|Shift Hosting LLC|
-|11|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
-|12|196.251.221.20|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.236.170.166|999|Ecuador|Playas|Codgrec S.A.|
-|15|91.240.211.180|8081|Russia|Kursk|AVANT Ltd.|
-|16|103.247.21.235|1111|Indonesia|Bekasi|PT wifian Solution|
-|17|38.52.160.155|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|18|103.53.77.106|8080|Indonesia|Surabaya|INTI|
-|19|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|20|143.110.247.140|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.80.111.74|80|Bhutan|Thimphu|NANO|
+|8|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|72.10.164.178|4441|Canada|Montreal|GloboTech Communications|
+|13|103.53.77.106|8080|Indonesia|Surabaya|INTI|
+|14|143.208.152.61|3180|Brazil|Sao Goncalo|ultraconexão soluçoes eireli|
+|15|67.43.228.253|11513|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|16023|Canada|Montreal|GloboTech Communications|
+|17|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.164.178|4441|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|3275|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16023|Canada|Montreal|GloboTech Communications|
 
 
 
