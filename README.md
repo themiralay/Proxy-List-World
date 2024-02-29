@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9131** proxies at the latest update. Usable proxies are below.
+> Scraper found **9089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1318|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1771|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1729|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|860|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5542|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|4|107.173.148.173|3128|United States|Santa Clara|ColoCrossing|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|46.17.249.116|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|7|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|107.173.148.173|3128|United States|Santa Clara|ColoCrossing|
-|13|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|14|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|202.162.213.178|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
-|17|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|18|27.121.87.187|80|Indonesia|Karanganunggi|dashnet|
-|19|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|20|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|6|103.242.104.42|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.94.102.148|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|46.17.249.116|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
+|11|107.173.148.173|3128|United States|Santa Clara|ColoCrossing|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|27.121.87.187|80|Indonesia|Karanganunggi|dashnet|
+|14|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|165.16.59.225|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
+|16|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|17|179.253.8.244|12341|Brazil|Birigui|V tal|
+|18|94.182.208.169|8080|Iran|Tehran|Aria Shatel Company Ltd|
+|19|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
 
 
 
