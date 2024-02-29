@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9190** proxies at the latest update. Usable proxies are below.
+> Scraper found **9214** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|904|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|904|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|904|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1021|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5542|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|8|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|11|103.16.118.136|8080|Indonesia|Madiun|CV Trustnet Media|
-|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|202.4.119.97|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|14|103.184.19.122|3128|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|103.165.126.65|8080|Indonesia|Depok|PT iForte Global Internet|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|103.191.129.126|8080|Indonesia|Depok|PT Metro Ring Bersama|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|157.119.249.146|9000|Vietnam|Binh Tan District|VinhNam Commercial informatics service corporation|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|15|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
+|18|103.190.170.160|3128|Indonesia|Purworejo|PT Ring Media Nusantara|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
