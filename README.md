@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1082|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|431|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5298|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5414|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|103.26.110.125|84|India|Tirunelveli|Niss Networks|
-|8|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|9|78.38.93.20|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|7|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|8|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
 |10|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|12|67.43.236.20|9757|Canada|Montreal|GloboTech Communications|
-|13|135.181.230.180|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.227.227|23497|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|6765|Canada|Montreal|GloboTech Communications|
-|16|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|17|94.130.147.36|9122|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.228.253|10755|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5329|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|9757|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|12|72.10.160.90|2957|Canada|Montreal|GloboTech Communications|
+|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|14|171.236.241.249|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|10121|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.174|10213|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|32287|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
 
 
 
