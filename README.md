@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|4|54.169.69.68|3128|Singapore|Singapore|Amazon.com, Inc.|
-|5|36.103.203.50|7890|China|Hongsipu|CHINANET NINGXIA province ZHONGWEI IDC network|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|5.196.111.30|20013|France|Gravelines|OVH SAS|
-|8|72.10.160.90|31979|Canada|Montreal|GloboTech Communications|
-|9|123.182.58.155|8089|China|Zhoutou|China Telecom|
-|10|72.10.160.90|31979|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|67.43.236.20|6643|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|23325|Canada|Montreal|GloboTech Communications|
-|17|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
-|18|67.43.227.227|7093|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|13201|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27815|Canada|Montreal|GloboTech Communications|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|6|54.169.69.68|3128|Singapore|Singapore|Amazon.com, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.11.95.166|6012|Russia|Moscow|Delta Ltd|
+|9|103.57.211.92|3128|Vietnam|Phường Mười Lăm|NHANHOA|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|36.103.203.50|7890|China|Hongsipu|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|177.54.229.2|9292|Brazil|Eldorado dos Carajas|Aranet Comunicacao Ltda|
+|13|67.43.236.20|29739|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|19625|Canada|Montreal|GloboTech Communications|
+|15|168.138.231.177|3128|Brazil|São Paulo|Oracle Corporation|
+|16|27.79.18.6|4003|Vietnam|Tam Ky|Viettel Corporation|
+|17|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|190.217.20.109|999|Colombia|Choachi|Level 3 Colombia S.A|
 
 
 
