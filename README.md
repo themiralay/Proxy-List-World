@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|2|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|118.99.127.133|8080|Indonesia|Malang|Biznet Metronet|
-|5|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|9|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|12|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|67.43.227.227|18451|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|31813|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|16|190.128.152.37|8080|Paraguay|Fernando de la Mora|Telecel S.A.|
-|17|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.211.113.34|80|Vietnam|Ho Chi Minh City|VTDC|
+|11|67.43.227.227|18451|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|29233|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
+|14|183.165.225.201|8089|China|Rongcheng|Chinanet|
+|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|16|195.35.29.39|80|France|Paris|HOSTINGER FR|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.160.92|31863|Canada|Montreal|GloboTech Communications|
 |19|67.43.236.20|9005|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|4953|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|5475|Canada|Montreal|GloboTech Communications|
 
 
 
