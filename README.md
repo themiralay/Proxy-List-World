@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9146** proxies at the latest update. Usable proxies are below.
+> Scraper found **8544** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|739|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|739|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|739|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5891|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5308|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|179.1.85.202|999|Colombia|Ipiales|Internexa S.a. E.S.P|
-|8|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|11|38.45.36.196|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|12|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|13|131.100.51.252|999|Colombia|Garzón|Fibernet TV SAS|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|16|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
-|17|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|18|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
-|19|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|94.45.223.222|8080|Russia|Dolgoprudny|Lofis LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|121.140.217.185|3128|South Korea|Dongjak-gu|Korea Telecom|
+|4|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|6|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|193.196.65.24|8080|Germany|Karlsruhe|Universitaet Stuttgart|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|107.148.146.204|6060|United States|Dallas|PEG TECH INC|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|179.1.85.202|999|Colombia|Ipiales|Internexa S.a. E.S.P|
+|15|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|18|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|19|191.240.153.165|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
