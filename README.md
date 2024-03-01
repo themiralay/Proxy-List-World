@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7795** proxies at the latest update. Usable proxies are below.
+> Scraper found **7759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1084|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1048|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5410|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|183.88.74.67|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|9|183.165.226.225|8089|China|Shenzhen|Chinanet|
-|10|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|11|72.10.160.90|32455|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|11395|Canada|Montreal|GloboTech Communications|
-|13|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.228.253|2477|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|17|67.43.227.227|1963|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|6491|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.164.178|18773|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.163|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|7|189.240.60.168|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|8|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|9|103.85.114.249|8080|Bangladesh|Paltan|Apple Communication Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|23.94.240.40|3128|United States|Santa Clara|ColoCrossing|
+|12|113.53.56.89|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|72.10.160.173|2917|Canada|Montreal|GloboTech Communications|
+|16|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
+|17|67.43.227.228|18019|Canada|Montreal|GloboTech Communications|
+|18|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|103.115.31.3|8080|Indonesia|Jember|HSPNET|
+|20|183.240.208.63|8080|China|Shenzhen|China Mobile Communications Corporation|
 
 
 
