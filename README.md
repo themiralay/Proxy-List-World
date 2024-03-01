@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7693** proxies at the latest update. Usable proxies are below.
+> Scraper found **7845** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1039|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1191|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5354|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|192.210.200.8|38080|United States|Elk Grove Village|HostPapa|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|182.253.109.135|8080|Indonesia|Semarang|Biznet Metronet|
-|8|192.210.200.8|38080|United States|Elk Grove Village|HostPapa|
-|9|49.13.22.104|8000|Germany|Falkenstein|Hetzner Online GmbH|
-|10|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|192.210.200.8|38080|United States|Elk Grove Village|HostPapa|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|192.210.200.8|38080|United States|Elk Grove Village|HostPapa|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|9|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|10|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|11|103.87.169.195|32650|India|Dūdu|Tejays Industries Pvt Ltd|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|67.43.227.228|11911|Canada|Montreal|GloboTech Communications|
-|15|192.210.200.8|38080|United States|Elk Grove Village|HostPapa|
-|16|91.149.224.3|3128|Norway|Sandefjord|K4X OU|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|72.10.160.90|23003|Canada|Montreal|GloboTech Communications|
-|19|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
-|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|189.240.60.166|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|15|67.43.236.20|6349|Canada|Montreal|GloboTech Communications|
+|16|5.196.111.30|20060|France|Gravelines|OVH SAS|
+|17|72.10.164.178|15249|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|67.43.227.227|6351|Canada|Montreal|GloboTech Communications|
+|20|123.182.59.131|8089|China|Zhoutou|China Telecom|
 
 
 
