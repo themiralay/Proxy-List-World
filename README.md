@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8402** proxies at the latest update. Usable proxies are below.
+> Scraper found **8308** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|704|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|704|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|704|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1425|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1331|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|697|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5322|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|7|103.69.87.142|3128|Vietnam|Quận Hải Châu|VTDT|
-|8|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|10|107.172.0.177|666|United States|Dallas|HostPapa|
-|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|13|45.71.202.148|1993|Ecuador|La Unión|Ufinet Panama S.A.|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|16|67.43.228.253|7617|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|5147|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2507|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21463|Canada|Montreal|GloboTech Communications|
-|20|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|8|119.92.75.48|8082|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|9|37.120.187.59|80|Germany|Karlsruhe|netcup GmbH|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|38.156.75.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|5.161.213.179|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|72.10.160.171|31189|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|1179|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|2251|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|16217|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|15757|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|22691|Canada|Montreal|GloboTech Communications|
+|20|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
 
 
 
