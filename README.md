@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7419** proxies at the latest update. Usable proxies are below.
+> Scraper found **7475** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1090|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5018|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|5|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|5943|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.18|18027|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|5943|Canada|Montreal|GloboTech Communications|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|72.10.160.90|32881|Canada|Montreal|GloboTech Communications|
-|13|103.30.182.116|80|Indonesia|Semarang|PT DES Teknologi Informasi|
-|14|67.43.228.250|13229|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|22033|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|3235|Canada|Montreal|GloboTech Communications|
-|17|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
-|18|103.159.195.31|8090|Indonesia|Rembang|PT Giga Digital Nusantara|
-|19|67.43.227.228|18059|Canada|Montreal|GloboTech Communications|
-|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|8|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|9|180.183.8.61|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|72.10.160.90|5295|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|13|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|15|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|16|67.43.236.20|22283|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|22283|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|8905|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|15539|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|18061|Canada|Montreal|GloboTech Communications|
 
 
 
