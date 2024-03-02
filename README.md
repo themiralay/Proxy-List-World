@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7929** proxies at the latest update. Usable proxies are below.
+> Scraper found **8037** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1353|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1461|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|557|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5061|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|3|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
-|4|210.211.113.36|80|Vietnam|Ho Chi Minh City|VTDC|
-|5|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.173|31679|Canada|Montreal|GloboTech Communications|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|10889|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|9767|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|20709|Canada|Montreal|GloboTech Communications|
-|13|117.69.237.4|8089|China|Guangzhou|Chinanet|
-|14|212.237.218.68|3128|Finland|Helsinki|Hostkey B.V.|
-|15|72.10.160.90|6011|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|80|Japan|Osaka|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|7|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
+|8|45.182.190.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|189.240.60.169|9090|Mexico|Alvaro Obregon|Uninet S.A. de C.V.|
+|10|67.43.228.252|24151|Canada|Montreal|GloboTech Communications|
+|11|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|67.43.236.19|4167|Canada|Montreal|GloboTech Communications|
+|13|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|117.69.236.69|8089|China|Guangzhou|Chinanet|
+|15|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 |16|72.10.164.178|20709|Canada|Montreal|GloboTech Communications|
-|17|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
-|18|94.131.109.219|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|19|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|20|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|17|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
+|18|123.182.58.234|8089|China|Zhoutou|China Telecom|
+|19|95.38.75.23|8080|Iran|Bandar-e Khamīr|Fanava Group|
+|20|67.43.227.227|10889|Canada|Montreal|GloboTech Communications|
 
 
 
