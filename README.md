@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|6|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|67.43.227.227|30461|Canada|Montreal|GloboTech Communications|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|72.10.160.92|28093|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|7693|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|15055|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|67.43.236.20|9531|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|6557|Canada|Montreal|GloboTech Communications|
-|19|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|5|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|9|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|13|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|16|103.227.186.13|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|18|72.10.160.90|7693|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.229|26943|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|14077|Canada|Montreal|GloboTech Communications|
 
 
 
