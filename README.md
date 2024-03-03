@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7583** proxies at the latest update. Usable proxies are below.
+> Scraper found **7598** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1158|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1173|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4967|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|2|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|3|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|7|116.58.232.68|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|15|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
-|16|67.43.227.227|22107|Canada|Montreal|GloboTech Communications|
-|17|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|18|72.10.160.91|5951|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|5|116.58.232.68|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
+|6|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|8|202.162.43.241|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
+|9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|12|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|142.171.229.108|8080|United States|Los Angeles|Multacom Corporation|
+|15|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|16|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|17|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|18|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|19|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|201.174.13.146|999|Mexico|Hermosillo|Transtelco Inc|
 
 
 
