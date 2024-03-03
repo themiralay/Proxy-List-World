@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|2|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|6|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|7|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|8|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|9|159.65.0.189|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.236.20|21351|Canada|Montreal|GloboTech Communications|
-|11|83.118.30.224|8081|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|12|45.153.185.186|3128|United Kingdom|Maidenhead|Mvps LTD|
-|13|103.179.246.30|8080|Pakistan|Sahiwal|Orbit Networks Private Limited|
-|14|183.165.249.203|8089|China|Shenzhen|Chinanet|
-|15|111.225.152.227|8089|China|Zhoutou|China Telecom|
-|16|223.247.46.225|8089|China|Shanghai|Chinanet|
-|17|102.23.234.207|8080|South Africa|Newcastle|JENNY INTERNET (PTY) LTD|
-|18|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|103.144.38.208|8080|Indonesia|Batam|BIG|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|4|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|8|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|9|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|10|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|187.40.1.123|128|Brazil|São Paulo|V tal|
+|15|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|67.43.227.228|23649|Canada|Montreal|GloboTech Communications|
+|19|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|67.43.227.227|3699|Canada|Montreal|GloboTech Communications|
 
 
 
