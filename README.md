@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7590** proxies at the latest update. Usable proxies are below.
+> Scraper found **7528** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1195|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|634|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|559|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4808|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|6|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|67.43.236.21|16099|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|20183|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|27101|Canada|Montreal|GloboTech Communications|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|13|208.79.8.81|9080|United States|Columbia|Skyrider Communications LLC|
-|14|67.43.227.227|32697|Canada|Montreal|GloboTech Communications|
-|15|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
-|16|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|17|67.43.227.226|23671|Canada|Montreal|GloboTech Communications|
-|18|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|7|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|8|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.227.227|32697|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|2511|Canada|Montreal|GloboTech Communications|
+|12|111.225.152.97|8089|China|Zhoutou|China Telecom|
+|13|72.10.160.94|28515|Canada|Montreal|GloboTech Communications|
+|14|123.182.59.130|8089|China|Zhoutou|China Telecom|
+|15|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|16|45.153.185.186|3128|United Kingdom|Maidenhead|Mvps LTD|
+|17|72.10.164.178|2511|Canada|Montreal|GloboTech Communications|
+|18|183.164.243.31|8089|China|Hefei|Chinanet|
+|19|111.225.153.29|8089|China|Zhoutou|China Telecom|
+|20|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
 
 
 
