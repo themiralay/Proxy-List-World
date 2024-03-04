@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7253** proxies at the latest update. Usable proxies are below.
+> Scraper found **7236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1027|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|412|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4848|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|4|52.28.211.251|3128|Germany|Frankfurt am Main|Amazon.com, Inc.|
-|5|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.164.13.148|8080|Indonesia|Bekasi|PT Milenial Inti Telekomunikasi|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|10|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
-|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|103.156.17.121|8080|Indonesia|Indramayu|RSTNET|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|10|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|11|115.186.185.6|3128|Pakistan|Islamabad|Nayatel (Pvt) Ltd|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|27.121.87.187|80|Indonesia|Karanganunggi|dashnet|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.184.143.74|3128|United States|Garland|Frontier Communications Solutions|
+|17|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|183.165.247.205|8089|China|Shenzhen|Chinanet|
+|19|183.165.247.205|8089|China|Shenzhen|Chinanet|
+|20|72.10.164.178|5623|Canada|Montreal|GloboTech Communications|
 
 
 
