@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6992** proxies at the latest update. Usable proxies are below.
+> Scraper found **6967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|326|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|254|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4788|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|3|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|7|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|200.95.230.46|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
-|9|67.43.236.18|13045|Canada|Montreal|GloboTech Communications|
-|10|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|67.43.228.253|19263|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|24201|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27237|Canada|Montreal|GloboTech Communications|
-|14|45.5.136.6|8080|Brazil|Fortaleza|F.G.M. DA SILVA-ME|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|183.165.244.29|8089|China|Shenzhen|Chinanet|
-|18|72.10.164.178|27237|Canada|Montreal|GloboTech Communications|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.164.178|27237|Canada|Montreal|GloboTech Communications|
+|6|200.94.96.174|999|Mexico|El Salto|Alestra, S. de R.L. de C.V.|
+|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|36.82.236.6|8080|Indonesia|Banjarbaru|PT. TELKOM INDONESIA|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.160.174|19077|Canada|Montreal|GloboTech Communications|
+|15|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|16|72.10.164.178|20361|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|20361|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|29667|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|7905|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|29135|Canada|Montreal|GloboTech Communications|
 
 
 
