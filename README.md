@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7249** proxies at the latest update. Usable proxies are below.
+> Scraper found **7266** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1059|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|436|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4788|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|4|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|8|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|13|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|14|134.35.11.36|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|72.10.160.170|17949|Canada|Montreal|GloboTech Communications|
-|18|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.253|13837|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|5|134.35.11.36|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|7|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.228.253|6453|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|14631|Canada|Montreal|GloboTech Communications|
+|17|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|72.10.164.178|14631|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|15147|Canada|Montreal|GloboTech Communications|
 
 
 
