@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7343** proxies at the latest update. Usable proxies are below.
+> Scraper found **7154** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1146|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|957|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|383|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4848|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|3|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|4|103.166.227.36|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|5|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|109.164.38.189|2306|Czechia|Kamenny Ujezd|STARNET, s.r.o.|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|157.119.222.104|8080|Indonesia|Semarang|DESNET|
-|10|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|12|134.35.158.140|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|17|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|18|183.164.242.59|8089|China|Hefei|Chinanet|
-|19|72.10.160.94|3085|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14929|Canada|Montreal|GloboTech Communications|
+|3|95.216.108.17|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|5|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|6|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
+|9|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|14|67.43.227.227|2855|Canada|Montreal|GloboTech Communications|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|72.10.164.178|18115|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|19|67.43.236.20|1273|Canada|Montreal|GloboTech Communications|
+|20|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
 
 
 
