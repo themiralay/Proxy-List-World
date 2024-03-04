@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8031** proxies at the latest update. Usable proxies are below.
+> Scraper found **8110** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1389|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1468|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|614|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5062|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.148.112.117|8080|Indonesia|Cigugur Tengah|PT. FORIT ASTA SOLUSINDO|
-|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|13|67.79.51.210|16099|United States|Universal City|Spectrum|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
-|16|171.251.1.42|4006|Vietnam|Da Nang|Viettel Corporation|
-|17|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|18|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|19|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
+|12|58.69.117.2|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|13|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|14|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|15|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
