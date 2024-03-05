@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8377** proxies at the latest update. Usable proxies are below.
+> Scraper found **8331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1333|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1287|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|532|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5545|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|201.238.248.139|9229|Chile|Santiago|Gtd Internet S.A.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|8|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|10|41.169.79.25|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|177.103.219.51|3128|Brazil|São Paulo|Vivo|
-|16|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|17|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|18|187.40.1.122|128|Brazil|São Paulo|V tal|
-|19|72.10.160.174|19875|Canada|Montreal|GloboTech Communications|
-|20|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|103.48.70.145|82|India|Hyderabad|Country Online Services PVT LTD|
+|7|103.173.139.86|8080|Indonesia|Tegal|PT Serayu Multi Connection|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|41.169.79.25|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|10|36.64.153.2|3128|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|11|202.12.80.10|82|India|Kāsaragod|Prisac Aviation Technologies Private Limited|
+|12|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|107.172.0.177|666|United States|Dallas|HostPapa|
+|14|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|15|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|16|177.103.219.51|3128|Brazil|São Paulo|Vivo|
+|17|67.43.236.20|24015|Canada|Montreal|GloboTech Communications|
+|18|188.125.169.8|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|187.40.1.122|128|Brazil|São Paulo|V tal|
 
 
 
