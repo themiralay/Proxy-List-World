@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8252** proxies at the latest update. Usable proxies are below.
+> Scraper found **8369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1227|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1344|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|513|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5545|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|2|178.128.158.131|80|United States|North Bergen|DigitalOcean, LLC|
-|3|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|4|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|1|178.128.158.131|80|United States|North Bergen|DigitalOcean, LLC|
+|2|67.43.228.251|2219|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|4|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|5|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
 |6|178.128.158.131|80|United States|North Bergen|DigitalOcean, LLC|
-|7|115.127.112.74|8090|Bangladesh|Dhaka|BRACNet Limited|
-|8|124.105.24.80|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
+|10|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|16|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
-|17|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|18|177.103.219.51|3128|Brazil|São Paulo|Vivo|
-|19|43.252.11.68|8484|Indonesia|Depok|QUANTUMNET|
-|20|67.43.228.252|5125|Canada|Montreal|GloboTech Communications|
+|12|103.75.35.9|32650|India|Noida|Elyzium Softech|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|15|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|67.43.228.254|12227|Canada|Montreal|GloboTech Communications|
+|17|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|19|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|20|67.43.227.228|31871|Canada|Montreal|GloboTech Communications|
 
 
 
