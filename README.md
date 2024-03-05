@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8506** proxies at the latest update. Usable proxies are below.
+> Scraper found **8563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1377|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1434|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|617|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5545|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.209|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|182.253.216.133|8080|Indonesia|Madiun|BIZNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|41.169.79.25|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
-|7|179.108.209.63|8080|Brazil|Lagoa Dourada|Conecta Ltda.|
-|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|12|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|13|96.114.36.9|80|United States|Hillsboro|Comcast Cable Communications, LLC|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|16|202.47.189.106|8080|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|17|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
-|18|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|13|115.127.127.194|8080|Bangladesh|Dhaka|BRACNet Limited|
+|14|143.198.78.68|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|147.182.177.126|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|141.98.248.19|3128|Hungary|Gyenesdias|ZNET Telekom Zrt|
+|17|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|18|72.10.160.90|8811|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|67.43.228.250|30031|Canada|Montreal|GloboTech Communications|
 
 
 
