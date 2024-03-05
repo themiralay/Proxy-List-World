@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7886** proxies at the latest update. Usable proxies are below.
+> Scraper found **7934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1123|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|382|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5462|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|120.28.195.154|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|4|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|5|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|94.131.106.196|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|170.244.90.130|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|11|45.11.95.165|5005|Russia|Moscow|Delta Ltd|
-|12|114.9.24.214|8080|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|13|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|14|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|15|202.80.43.204|8080|Vanuatu|Port Vila|Telecom Vanuatu Limited|
-|16|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|17|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|24647|Canada|Montreal|GloboTech Communications|
-|19|105.112.140.218|8080|Nigeria|Ibadan|Airtel Networks Limited|
-|20|67.43.227.227|8789|Canada|Montreal|GloboTech Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|187.17.232.6|8089|Brazil|Campinas|Lantec Comunicacao Multimidia Ltda|
+|12|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
+|13|13.125.74.85|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|14|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|15|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|16|67.43.228.253|27199|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|27199|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|27199|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.172|26355|Canada|Montreal|GloboTech Communications|
 
 
 
