@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7012** proxies at the latest update. Usable proxies are below.
+> Scraper found **7029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|928|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|945|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|279|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4843|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|103.156.17.114|3128|Indonesia|Indramayu|RSTNET|
-|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.11.95.166|6012|Russia|Moscow|Delta Ltd|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|171.235.171.71|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|67.43.227.227|12135|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|8881|Canada|Montreal|GloboTech Communications|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|15|72.10.160.173|26173|Canada|Montreal|GloboTech Communications|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.156.17.114|3128|Indonesia|Indramayu|RSTNET|
-|18|123.182.59.164|8089|China|Zhoutou|China Telecom|
-|19|72.10.160.90|8881|Canada|Montreal|GloboTech Communications|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|8|67.43.227.227|27203|Canada|Montreal|GloboTech Communications|
+|9|119.29.163.80|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|72.10.160.173|26173|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|27203|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.164.178|3137|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|31077|Canada|Montreal|GloboTech Communications|
+|15|170.106.193.218|50007|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|67.43.228.253|8985|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|9969|Canada|Montreal|GloboTech Communications|
+|18|45.231.133.48|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|19|67.43.227.226|5791|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|27203|Canada|Montreal|GloboTech Communications|
 
 
 
