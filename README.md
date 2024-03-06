@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|6|134.35.19.222|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|7|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|8|183.165.250.189|8089|China|Shenzhen|Chinanet|
-|9|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
-|10|209.141.48.31|3128|United States|Las Vegas|FranTech Solutions|
-|11|114.106.173.182|8089|China|Guangzhou|Chinanet|
-|12|183.165.245.96|8089|China|Shenzhen|Chinanet|
-|13|67.43.236.20|1613|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|13043|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|13043|Canada|Montreal|GloboTech Communications|
-|17|190.220.228.147|8080|Argentina|San Telmo|AMX Argentina S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|15599|Canada|Montreal|GloboTech Communications|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|3|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|4|181.232.190.250|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
+|5|72.10.164.178|30665|Canada|Montreal|GloboTech Communications|
+|6|67.43.228.253|1379|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|21065|Canada|Montreal|GloboTech Communications|
+|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|10|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|11|72.10.160.170|32665|Canada|Montreal|GloboTech Communications|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|72.10.160.90|26625|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|30665|Canada|Montreal|GloboTech Communications|
+|15|183.165.251.228|8089|China|Shenzhen|Chinanet|
+|16|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|183.165.250.126|8089|China|Shenzhen|Chinanet|
+|18|67.43.228.253|1379|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|1379|Canada|Montreal|GloboTech Communications|
+|20|36.147.86.103|3128|China|Shenzhen|China Mobile|
 
 
 
