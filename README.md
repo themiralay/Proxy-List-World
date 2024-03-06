@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6959** proxies at the latest update. Usable proxies are below.
+> Scraper found **6941** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|267|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4850|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|125.25.33.170|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.2.97|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|125.25.33.170|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
+|4|134.35.2.97|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.43.236.20|18067|Canada|Montreal|GloboTech Communications|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|12|210.211.113.37|80|Vietnam|Ho Chi Minh City|VTDC|
-|13|67.43.227.227|1433|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|3933|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|23891|Canada|Montreal|GloboTech Communications|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|18|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|10|183.165.251.125|8089|China|Shenzhen|Chinanet|
+|11|223.215.177.126|8089|China|Guangzhou|Chinanet|
+|12|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|13|114.106.146.50|8089|China|Guangzhou|Chinanet|
+|14|117.70.49.42|8089|China|Rongcheng|Chinanet|
+|15|114.106.171.210|8089|China|Guangzhou|Chinanet|
+|16|223.215.176.17|8089|China|Guangzhou|Chinanet|
+|17|123.182.59.251|8089|China|Zhoutou|China Telecom|
+|18|72.10.164.178|31421|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|1433|Canada|Montreal|GloboTech Communications|
+|20|146.59.2.183|3128|Poland|Warsaw|OVH SAS|
 
 
 
