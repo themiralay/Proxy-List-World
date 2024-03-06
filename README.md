@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7075** proxies at the latest update. Usable proxies are below.
+> Scraper found **7046** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4850|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|3|200.94.96.174|999|Mexico|El Salto|Alestra, S. de R.L. de C.V.|
+|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |4|204.199.120.28|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|5|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
-|6|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|13|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|14|72.10.160.90|30723|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|12777|Canada|Montreal|GloboTech Communications|
-|16|69.165.66.131|3129|United States| Los Angeles|Zenlayer Inc|
-|17|183.165.248.124|8089|China|Shenzhen|Chinanet|
-|18|67.43.227.227|12777|Canada|Montreal|GloboTech Communications|
-|19|223.247.46.172|8089|China|Shanghai|Chinanet|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|5|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|6|185.165.46.208|3128|Türkiye|Istanbul|Burak Buylu trading as BurtiNET Internet Hizmetleri|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|11|36.93.32.137|8080|Indonesia|Gunung Sahari Utara|Telekomunikasi Indonesia|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|183.165.244.156|8089|China|Shenzhen|Chinanet|
+|14|72.10.164.178|9203|Canada|Montreal|GloboTech Communications|
+|15|179.60.51.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|16|72.10.160.90|2615|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|2615|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|2615|Canada|Montreal|GloboTech Communications|
+|19|128.199.74.74|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|9203|Canada|Montreal|GloboTech Communications|
 
 
 
