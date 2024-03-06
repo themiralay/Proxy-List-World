@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7907** proxies at the latest update. Usable proxies are below.
+> Scraper found **7976** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1090|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1159|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5487|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|2|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|8|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|11|72.10.160.170|8707|Canada|Montreal|GloboTech Communications|
-|12|114.106.173.129|8089|China|Guangzhou|Chinanet|
-|13|72.10.160.90|23257|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|4969|Canada|Montreal|GloboTech Communications|
-|15|123.182.58.118|8089|China|Zhoutou|China Telecom|
-|16|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|17|204.157.251.169|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|18|67.43.236.20|9919|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|20|111.225.153.195|8089|China|Zhoutou|China Telecom|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|3|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|4|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|6|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|9|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|14|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|15|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|16|72.10.160.94|2901|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|32195|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|8707|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|26221|Canada|Montreal|GloboTech Communications|
+|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
 
 
 
