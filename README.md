@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7768** proxies at the latest update. Usable proxies are below.
+> Scraper found **8061** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1138|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1269|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|276|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5392|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.59.2.183|3128|Poland|Warsaw|OVH SAS|
-|3|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|6|49.13.131.88|8000|Germany|Nuremberg|Hetzner Online GmbH|
-|7|42.200.196.208|8080|Hong Kong|Central|PCCW IMSBiz|
-|8|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|67.43.227.227|19433|Canada|Montreal|GloboTech Communications|
-|10|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|11|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|103.156.16.182|1111|Indonesia|Indramayu|RSTNET|
-|13|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
-|14|78.188.81.57|8080|Türkiye|Gaziosmanpasa|TurkTelecom|
-|15|72.10.160.174|24719|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|27997|Canada|Montreal|GloboTech Communications|
-|17|103.141.70.48|8080|Bangladesh|Demra|Digital One Broadband Internet Service|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.90|13615|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|18493|Canada|Montreal|GloboTech Communications|
+|2|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|3|146.59.2.183|3128|Poland|Warsaw|OVH SAS|
+|4|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
+|5|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|6|190.209.27.86|999|Chile|San Bernardo|Telmex Servicios Empresariales S.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.188.168.66|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|10|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|12|112.78.161.93|8080|Indonesia|Jakarta|Biznet Networks|
+|13|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|14|45.181.123.151|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|15|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|16|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|17|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|18|47.243.205.1|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
 
 
 
