@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7241** proxies at the latest update. Usable proxies are below.
+> Scraper found **7173** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|821|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|320|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5138|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|72.10.160.173|26195|Canada|Montreal|GloboTech Communications|
-|10|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|67.43.227.227|25409|Canada|Montreal|GloboTech Communications|
-|13|45.11.95.165|5000|Russia|Moscow|Delta Ltd|
-|14|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
-|15|72.10.160.171|4693|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|25409|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1885|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|31861|Canada|Montreal|GloboTech Communications|
-|19|45.174.204.220|999|Chile|Limache|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|20|72.10.160.173|26195|Canada|Montreal|GloboTech Communications|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|10|103.190.54.141|8080|India|Jaipur|Advika Web|
+|11|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|72.10.160.173|15863|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|23309|Canada|Montreal|GloboTech Communications|
+|16|50.84.48.130|8080|United States|Carrollton|Spectrum|
+|17|72.10.164.178|23309|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|10375|Canada|Montreal|GloboTech Communications|
+|19|93.190.24.119|443|Iran|Tehran|Press TV|
+|20|103.147.85.28|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
 
 
 
