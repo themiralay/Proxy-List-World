@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|51.159.0.236|2020|France|Paris|SCALEWAY|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|38.156.75.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|202.51.212.146|8080|Indonesia|Medan|PT. Sejahtera Globalindo|
-|10|181.204.184.122|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|25721|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|30163|Canada|Montreal|GloboTech Communications|
-|18|123.182.58.32|8089|China|Zhoutou|China Telecom|
-|19|72.10.164.178|25721|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|18451|Canada|Montreal|GloboTech Communications|
+|5|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|6|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|183.165.247.224|8089|China|Shenzhen|Chinanet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|13|67.43.227.227|13089|Canada|Montreal|GloboTech Communications|
+|14|181.204.184.122|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|123.182.59.211|8089|China|Zhoutou|China Telecom|
+|16|183.89.109.141|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|17|67.43.236.20|13093|Canada|Montreal|GloboTech Communications|
+|18|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|20|67.43.228.253|25353|Canada|Montreal|GloboTech Communications|
 
 
 
