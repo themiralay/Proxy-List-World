@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7878** proxies at the latest update. Usable proxies are below.
+> Scraper found **6892** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5516|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.139.14|8118|Germany|Nuremberg|Contabo GmbH|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|5.189.139.14|8118|Germany|Nuremberg|Contabo GmbH|
 |3|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
 |4|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|4.144.136.15|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.165.64.74|83|India|Kawardha|Navyug Networks Info Private Limited|
-|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|14|123.182.58.116|8089|China|Zhoutou|China Telecom|
-|15|138.84.40.117|999|Colombia|Bogota|SpaceX Starlink|
-|16|123.182.58.120|8089|China|Zhoutou|China Telecom|
-|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|72.10.160.171|3143|Canada|Montreal|GloboTech Communications|
-|19|112.78.134.132|7777|Indonesia|Jakarta|Biznet Networks|
-|20|72.10.160.174|3699|Canada|Montreal|GloboTech Communications|
+|5|119.110.75.230|3888|Indonesia|Ciputat|Maxindo|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|8|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|11|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|12|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|103.165.64.74|83|India|Kawardha|Navyug Networks Info Private Limited|
+|15|134.35.211.66|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|172.233.88.71|8000|Japan|Osaka|Akamai Technologies, Inc.|
+|19|147.28.145.212|10012|United States|Ashburn|Packet Host, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
