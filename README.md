@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7529** proxies at the latest update. Usable proxies are below.
+> Scraper found **7595** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|821|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|320|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5426|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|36.88.170.170|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|36.88.148.142|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.5.119.27|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|8|67.206.206.74|8888|Puerto Rico|Humacao|OSNET Wireless|
-|9|41.139.197.185|8080|Kenya|Nairobi|Converged services Western|
-|10|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|157.100.60.146|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|14|81.70.253.152|8080|The Netherlands|Amsterdam|EuroNet Internet|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|183.165.249.70|8089|China|Shenzhen|Chinanet|
-|17|111.225.152.112|8089|China|Zhoutou|China Telecom|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|72.10.160.172|1259|Canada|Montreal|GloboTech Communications|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
+|6|103.190.54.141|8080|India|Jaipur|Advika Web|
+|7|200.24.141.161|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|8|161.34.67.83|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|72.10.160.90|29385|Canada|Montreal|GloboTech Communications|
+|15|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|16|119.3.215.41|8888|China|Beijing|Huawei Cloud Service data center|
+|17|72.10.160.174|7309|Canada|Montreal|GloboTech Communications|
+|18|114.106.134.234|8089|China|Guangzhou|Chinanet|
+|19|37.49.228.88|3128|The Netherlands|Amsterdam|ESTOXY OU|
+|20|45.174.57.34|999|Mexico|Ayotlan|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
 
 
 
