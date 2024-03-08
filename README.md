@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7719** proxies at the latest update. Usable proxies are below.
+> Scraper found **7636** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|450|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5384|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.190.54.141|8080|India|Jaipur|Advika Web|
-|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|9|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|43.206.225.64|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|14|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|16|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|17|119.29.163.80|7890|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|13.114.120.168|3128|Japan|Tokyo|Amazon Technologies Inc|
-|20|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|146.190.85.64|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|118.99.96.28|8080|Indonesia|Jimbaran|Biznet Networks|
+|7|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|8|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.190.54.141|8080|India|Jaipur|Advika Web|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|13.114.120.168|3128|Japan|Tokyo|Amazon Technologies Inc|
+|19|113.161.56.137|3128|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
