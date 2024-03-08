@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7432** proxies at the latest update. Usable proxies are below.
+> Scraper found **7291** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|863|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|266|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5342|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|6|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|7|176.119.25.13|3128|Ukraine|Kyiv|Virtual Systems LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.64.219.2|8888|United States|Jacksonville|OSNET Wireless|
-|13|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|14|160.119.148.190|8080|Uganda|Kampala|Blue Crane Communications (U) Ltd|
-|15|72.10.164.178|11395|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|16649|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|29117|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11395|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|20473|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11395|Canada|Montreal|GloboTech Communications|
+|1|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|4|176.119.25.13|3128|Ukraine|Kyiv|Virtual Systems LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|180.191.59.6|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|217.89.118.195|3128|Germany|Berlin|Deutsche Telekom AG|
+|20|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 
 
 
