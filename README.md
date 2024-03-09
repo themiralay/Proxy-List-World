@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6969** proxies at the latest update. Usable proxies are below.
+> Scraper found **6946** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|721|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|340|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4947|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|122.51.123.219|80|China|Guangzhou|Shenzhen Tencent Computer Systems Company Limited|
-|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|72.10.160.90|30417|Canada|Montreal|GloboTech Communications|
-|10|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|217.89.118.195|3128|Germany|Berlin|Deutsche Telekom AG|
-|12|114.106.137.205|8089|China|Guangzhou|Chinanet|
-|13|111.225.153.46|8089|China|Zhoutou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|181.110.214.134|3128|Argentina|Yerba Buena|Telecom Argentina S.A.|
-|17|72.10.160.90|30417|Canada|Montreal|GloboTech Communications|
-|18|222.220.102.159|8000|China|Jianshui|Chinanet|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.190.54.141|8080|India|Jaipur|Advika Web|
+|4|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|5|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.220.175.141|8081|Hong Kong|Hong Kong|Google LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|67.43.227.226|13289|Canada|Montreal|GloboTech Communications|
+|11|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|12|111.225.152.216|8089|China|Zhoutou|China Telecom|
+|13|111.225.152.130|8089|China|Zhoutou|China Telecom|
+|14|111.225.153.57|8089|China|Zhoutou|China Telecom|
+|15|85.172.15.98|8083|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|16|123.182.58.183|8089|China|Zhoutou|China Telecom|
+|17|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|18|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
+|19|114.106.137.205|8089|China|Guangzhou|Chinanet|
+|20|103.169.187.176|8080|Indonesia|Probolinggo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
 
 
 
