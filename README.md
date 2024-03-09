@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|4|35.220.175.141|8081|Hong Kong|Hong Kong|Google LLC|
-|5|103.190.54.141|80|India|Jaipur|Advika Web|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|10|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.160.90|18971|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|123.182.58.247|8089|China|Zhoutou|China Telecom|
-|16|72.10.160.93|18725|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|22413|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|123.182.59.136|8089|China|Zhoutou|China Telecom|
-|20|111.225.152.30|8089|China|Zhoutou|China Telecom|
+|4|103.190.54.141|8080|India|Jaipur|Advika Web|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.67.83|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|72.10.164.178|11201|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|11201|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|24103|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.173|1051|Canada|Montreal|GloboTech Communications|
+|13|114.231.46.224|8089|China|Nanjing|Chinanet|
+|14|111.225.152.132|8089|China|Zhoutou|China Telecom|
+|15|67.43.228.253|31789|Canada|Montreal|GloboTech Communications|
+|16|123.182.59.202|8089|China|Zhoutou|China Telecom|
+|17|123.182.59.35|8089|China|Zhoutou|China Telecom|
+|18|67.43.236.21|1185|Canada|Montreal|GloboTech Communications|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
