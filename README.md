@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7607** proxies at the latest update. Usable proxies are below.
+> Scraper found **7626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1045|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1064|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|407|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5193|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|176.119.25.13|3128|Ukraine|Kyiv|Virtual Systems LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|176.119.25.13|3128|Ukraine|Kyiv|Virtual Systems LLC|
+|5|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
 |6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|37.156.28.43|3128|Iran|Tehran|Mobin Net Communication Company|
-|8|157.100.7.146|999|Ecuador|Ambato|Telconet S.A|
-|9|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|12|72.10.164.178|28127|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|14159|Canada|Montreal|GloboTech Communications|
-|14|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|15|203.202.248.36|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
-|18|67.43.236.20|23083|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|9|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|10|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|45.71.202.147|1993|Ecuador|Camilo Ponce Enriquez|Ufinet Panama S.A.|
+|13|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|14|123.182.59.179|8089|China|Zhoutou|China Telecom|
+|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|16|67.43.228.253|16205|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|30001|Canada|Montreal|GloboTech Communications|
+|18|123.182.59.121|8089|China|Zhoutou|China Telecom|
+|19|119.193.137.104|3128|South Korea|Dongducheon-si|Korea Telecom|
+|20|72.10.164.178|28127|Canada|Montreal|GloboTech Communications|
 
 
 
