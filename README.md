@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|7|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|8|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.190.54.141|80|India|Jaipur|Advika Web|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|115.74.246.138|8080|Vietnam|Bien Hoa|VIETELxdsl|
-|14|93.190.24.119|443|Iran|Tehran|Press TV|
-|15|45.11.95.165|6038|Russia|Moscow|Delta Ltd|
-|16|180.183.59.99|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
-|17|72.10.160.90|2393|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|22199|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8913|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|18421|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|5|103.190.54.141|8080|India|Jaipur|Advika Web|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|119.3.215.41|8888|China|Beijing|Huawei Cloud Service data center|
+|8|72.10.164.178|13539|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|23861|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|13539|Canada|Montreal|GloboTech Communications|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
+|14|67.43.236.20|10663|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13539|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|10663|Canada|Montreal|GloboTech Communications|
+|17|111.225.152.217|8089|China|Zhoutou|China Telecom|
+|18|72.10.164.178|13539|Canada|Montreal|GloboTech Communications|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|67.43.236.20|10663|Canada|Montreal|GloboTech Communications|
 
 
 
