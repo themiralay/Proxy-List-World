@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7282** proxies at the latest update. Usable proxies are below.
+> Scraper found **7246** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|918|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|458|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4945|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|67.43.228.253|29977|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|19559|Canada|Montreal|GloboTech Communications|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|11|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|72.10.160.90|25975|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|147.75.34.85|10011|The Netherlands|Amsterdam|Equinix Services|
+|19|72.10.164.178|16681|Canada|Montreal|GloboTech Communications|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
