@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|161.34.67.83|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|7|103.190.54.141|80|India|Jaipur|Advika Web|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
-|13|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|17|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
-|18|59.153.158.190|3128|Bangladesh|Tongi|Kaopu Cloud HK Limited|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|161.34.67.83|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|7|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|13|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|17|93.190.24.119|443|Iran|Tehran|Press TV|
+|18|72.10.160.174|21697|Canada|Montreal|GloboTech Communications|
+|19|217.89.118.197|3128|Germany|Berlin|Deutsche Telekom AG|
+|20|123.182.58.34|8089|China|Zhoutou|China Telecom|
 
 
 
