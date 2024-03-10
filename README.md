@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7255** proxies at the latest update. Usable proxies are below.
+> Scraper found **7228** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|795|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|768|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|321|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5180|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|6|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.190.54.141|80|India|Jaipur|Advika Web|
-|10|158.247.207.153|3030|South Korea|Seoul|The Constant Company, LLC|
-|11|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|12|67.43.236.20|5485|Canada|Montreal|GloboTech Communications|
-|13|82.157.194.44|7890|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|14|72.10.164.178|3785|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3785|Canada|Montreal|GloboTech Communications|
-|16|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.164.178|3785|Canada|Montreal|GloboTech Communications|
-|20|111.225.152.229|8089|China|Zhoutou|China Telecom|
+|5|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.218.123.227|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|14.143.145.38|80|India|New Delhi|Tata Communications Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|111.225.153.172|8089|China|Zhoutou|China Telecom|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|72.10.164.178|6271|Canada|Montreal|GloboTech Communications|
+|14|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|72.10.160.90|16235|Canada|Montreal|GloboTech Communications|
+|20|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
