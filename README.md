@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.122.1.74|4000|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
 |8|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|23.94.123.243|8888|United States|Santa Clara|HostPapa|
-|13|23.94.123.243|8888|United States|Santa Clara|HostPapa|
-|14|34.83.143.6|3128|United States|The Dalles|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.215.176.189|8089|China|Guangzhou|Chinanet|
-|17|72.10.160.90|25063|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|25063|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5335|Canada|Montreal|GloboTech Communications|
-|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|9|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|10|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.90|7909|Canada|Montreal|GloboTech Communications|
+|12|147.75.34.86|10007|The Netherlands|Amsterdam|Equinix Services|
+|13|72.10.160.90|7909|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|2439|Canada|Montreal|GloboTech Communications|
+|15|183.165.246.235|8089|China|Shenzhen|Chinanet|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|67.43.227.227|32697|Canada|Montreal|GloboTech Communications|
+|18|180.120.210.170|8089|China|Nantong|Chinanet|
+|19|72.10.160.174|20737|Canada|Montreal|GloboTech Communications|
+|20|114.106.135.237|8089|China|Guangzhou|Chinanet|
 
 
 
