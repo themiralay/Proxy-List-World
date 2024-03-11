@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7031** proxies at the latest update. Usable proxies are below.
+> Scraper found **6957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|320|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4998|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.217.95.44|8899|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|9|23.111.102.1|9002|Russia|Moscow|Edinaya SET Limited Liability Company|
-|10|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|11|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|223.215.176.110|8089|China|Guangzhou|Chinanet|
-|14|117.70.48.99|8089|China|Rongcheng|Chinanet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|183.165.250.120|8089|China|Shenzhen|Chinanet|
-|17|72.10.164.178|33215|Canada|Montreal|GloboTech Communications|
-|18|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|19|72.10.160.91|7337|Canada|Montreal|GloboTech Communications|
-|20|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|8|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|36.95.213.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
+|14|67.43.227.227|23851|Canada|Montreal|GloboTech Communications|
+|15|34.83.143.6|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.226|7757|Canada|Montreal|GloboTech Communications|
+|17|23.111.102.1|9002|Russia|Moscow|Edinaya SET Limited Liability Company|
+|18|67.43.228.253|3471|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|10353|Canada|Montreal|GloboTech Communications|
+|20|183.165.250.120|8089|China|Shenzhen|Chinanet|
 
 
 
