@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6880** proxies at the latest update. Usable proxies are below.
+> Scraper found **6835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|264|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4908|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|6|20.151.176.41|3128|Canada|Toronto|Microsoft Corporation|
-|7|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|8|111.225.153.111|8089|China|Zhoutou|China Telecom|
-|9|72.10.160.170|9105|Canada|Montreal|GloboTech Communications|
-|10|14.103.26.53|8000|China|Beijing|BITNET|
-|11|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|6453|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|21053|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|67.43.227.228|9471|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|14.232.235.13|8080|Vietnam|Hanoi|VNPT|
+|3|20.151.176.41|3128|Canada|Toronto|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
+|12|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
+|13|103.46.8.15|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|14|72.10.164.178|16655|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|17|72.10.164.178|16655|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|21453|Canada|Montreal|GloboTech Communications|
+|19|139.228.86.185|8080|Indonesia|Surabaya|PT. First Media, Tbk|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
