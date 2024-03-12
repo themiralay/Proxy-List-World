@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7621** proxies at the latest update. Usable proxies are below.
+> Scraper found **7780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1110|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1269|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|440|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5112|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|4|14.235.54.71|19132|Vietnam|Hoan Kiem|VNPT|
-|5|103.172.197.123|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|171.236.154.153|4001|Vietnam|Hanoi|Viettel Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|12|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|16|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|17|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|9|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|10|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|38.180.64.212|3128|United Kingdom|Manchester|M247 Europe SRL|
+|13|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|14|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|15|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|16|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|17|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|36.76.215.7|80|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|20|67.43.236.20|21687|Canada|Montreal|GloboTech Communications|
 
 
 
