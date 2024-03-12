@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6760** proxies at the latest update. Usable proxies are below.
+> Scraper found **6771** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5033|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|67.43.236.18|26399|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 |6|82.223.19.132|3128|Spain|Logroño|arsys.es|
-|7|65.109.233.154|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
-|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|10|67.43.228.253|7997|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|31789|Canada|Montreal|GloboTech Communications|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
-|17|114.231.106.168|8089|China|Nanjing|Chinanet|
-|18|123.182.59.218|8089|China|Zhoutou|China Telecom|
-|19|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
-|20|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|8|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|9|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|10|72.10.164.178|9191|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|20479|Canada|Montreal|GloboTech Communications|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|26077|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.94|6963|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|9191|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|9191|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
 
 
 
