@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7341** proxies at the latest update. Usable proxies are below.
+> Scraper found **7379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|368|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5042|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|132.255.50.126|3128|Brazil|Macapá|R & B Serviços de Telecomunicações Ltda.|
-|4|185.19.4.22|3128|Ukraine|Poltava|Triolan|
-|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|6|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|9|72.10.160.170|23749|Canada|Montreal|GloboTech Communications|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|72.10.160.172|3627|Canada|Montreal|GloboTech Communications|
-|12|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|13|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|14|103.190.54.141|8080|India|Jaipur|Advika Web|
-|15|67.43.228.253|8747|Canada|Montreal|GloboTech Communications|
-|16|182.53.143.200|8180|Thailand|Bang Nam Priao|TOT Public Company Limited|
-|17|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|3|103.146.185.141|1111|Indonesia|Sragen|YAMNET|
+|4|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|103.190.54.141|8080|India|Jaipur|Advika Web|
+|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|103.80.237.211|3888|Indonesia|Kebon Jeruk|PT MITRA VISIONER PRATAMA|
+|10|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
+|11|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|12|123.182.59.115|8089|China|Zhoutou|China Telecom|
+|13|171.229.141.182|4006|Vietnam|Cam Khe|Viettel Corporation|
+|14|72.10.160.173|3627|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.172|3627|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
+|17|171.229.141.182|4006|Vietnam|Cam Khe|Viettel Corporation|
 |18|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|16769|Canada|Montreal|GloboTech Communications|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|72.10.160.170|1167|Canada|Montreal|GloboTech Communications|
 
 
 
