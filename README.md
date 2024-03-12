@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|823|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
-|6|125.229.149.169|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|47.103.112.86|8899|China|Shanghai|Addresses CNNIC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|67.43.236.20|30637|Canada|Montreal|GloboTech Communications|
-|17|58.20.21.230|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.173|22683|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.106|8089|China|Zhoutou|China Telecom|
+|4|213.202.230.241|80|Germany|Düsseldorf|myLoc managed IT AG|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|11|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|183.165.249.87|8089|China|Shenzhen|Chinanet|
+|13|123.182.58.97|8089|China|Zhoutou|China Telecom|
+|14|72.10.160.170|10571|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|4447|Canada|Montreal|GloboTech Communications|
+|16|123.182.59.214|8089|China|Zhoutou|China Telecom|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|27.189.132.68|8081|China|Beijing|Chinanet|
+|20|67.43.227.227|20649|Canada|Montreal|GloboTech Communications|
 
 
 
