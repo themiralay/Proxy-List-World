@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|5|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
 |6|72.10.160.90|7893|Canada|Montreal|GloboTech Communications|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.164.178|9327|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|9327|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|32883|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.236.19|32739|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
-|15|67.43.227.226|16165|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|15363|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|7893|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9327|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9327|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|16165|Canada|Montreal|GloboTech Communications|
+|7|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|67.43.228.251|6163|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|8321|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|13207|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|13937|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|13207|Canada|Montreal|GloboTech Communications|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|72.10.160.90|7893|Canada|Montreal|GloboTech Communications|
+|15|168.138.21.250|3128|Australia|Melbourne|Oracle Corporation|
+|16|72.10.164.178|8321|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|14309|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|9685|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|15335|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.229|32183|Canada|Montreal|GloboTech Communications|
 
 
 
