@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8121** proxies at the latest update. Usable proxies are below.
+> Scraper found **8294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1077|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1250|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|602|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5482|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
-|2|217.182.129.103|3128|France|Marseille|OVH SAS|
-|3|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|4|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|5|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|6|112.201.182.220|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|7|122.144.6.66|3777|Indonesia|Ciputat|Maxindo|
-|8|103.148.216.125|8080|Bangladesh|Nārāyanganj|Little Boys|
-|9|34.129.188.117|3128|Australia|Melbourne|Google LLC|
-|10|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|11|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
-|12|123.182.59.244|8089|China|Zhoutou|China Telecom|
-|13|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|14|37.26.86.206|47464|Albania|Elbasan|ATU|
-|15|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|17|103.245.204.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|18|183.165.224.61|8089|China|Rongcheng|Chinanet|
-|19|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|20|72.10.160.171|27209|Canada|Montreal|GloboTech Communications|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|178.152.101.130|8080|Qatar|Doha|DSL|
+|6|103.105.76.249|8080|Indonesia|Cimahi|GARUDA|
+|7|103.245.204.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|103.105.125.6|82|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|10|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|11|217.182.129.103|3128|France|Marseille|OVH SAS|
+|12|138.97.37.115|8189|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
+|13|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|14|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
+|15|85.193.93.73|3128|Poland|Warsaw|TimeWeb Ltd.|
+|16|103.74.229.133|8080|Bangladesh|Dhaka|Windstream Communication Ltd|
+|17|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|18|190.121.239.195|999|Venezuela|Catia La Mar|Corporacion Digitel C.A|
+|19|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
