@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|17|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|13|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
