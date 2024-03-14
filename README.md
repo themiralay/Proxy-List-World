@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|6|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|7|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
+|8|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|9|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|91.235.75.57|8282|Russia|Chelyabinsk|New Communication Technologies LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
+|20|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
 
 
 
