@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|6|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|7|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|8|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
-|9|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|91.235.75.57|8282|Russia|Chelyabinsk|New Communication Technologies LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|20|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|5|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|6|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|9|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
+|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|11|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
+|14|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|36.91.107.245|8080|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
 
 
 
