@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|9|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
 |11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|18|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
+|16|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 
 
 
