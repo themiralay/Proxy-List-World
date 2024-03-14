@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|5|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|11|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
+|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
