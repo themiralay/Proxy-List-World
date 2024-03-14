@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7664** proxies at the latest update. Usable proxies are below.
+> Scraper found **7635** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|735|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4979|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|7|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|200.125.170.106|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|96.9.74.55|33652|Cambodia|Phnom Penh|S.I Group|
+|6|103.165.157.42|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|10|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
 |11|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.157.16.43|8080|United States|Francesville|Level 3|
-|15|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|16|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|17|23.146.184.38|3128|United States|Chicago|Atomic Networks LLC|
-|18|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|110.136.43.131|8080|Indonesia|Karet Tengsin|PT. TELKOM INDONESIA|
+|15|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|16|67.43.227.230|18763|Canada|Montreal|GloboTech Communications|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|72.10.160.170|18591|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.22|13239|Canada|Montreal|GloboTech Communications|
+|20|111.225.152.149|8089|China|Zhoutou|China Telecom|
 
 
 
