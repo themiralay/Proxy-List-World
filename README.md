@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
-|9|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|11|193.57.139.233|3128|Serbia|Belgrade|Stark Industries Solutions LTD|
-|12|209.45.40.34|999|Peru|Ica|Red Cientifica Peruana|
-|13|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
-|14|200.70.56.203|3128|Argentina|Beccar|Telefonica de Argentina|
-|15|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|19|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|20|147.139.213.199|8080|Indonesia|Jakarta|Alibaba.com LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|7|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|8|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|121.52.156.146|8080|Pakistan|Multan|HEC|
+|10|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
+|17|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|18|185.198.2.113|11223|Poland|Gmina Widawa|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
+|19|59.17.109.116|8228|South Korea|Seo-gu|Korea Telecom|
+|20|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
