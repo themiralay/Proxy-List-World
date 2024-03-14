@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|27.79.93.184|4001|Vietnam|Da Lat|Viettel Corporation|
+|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
 |8|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|10|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
-|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|17|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|131.72.137.238|999|Colombia|Bogota D.c.|Osnet SAS|
-|20|97.64.69.65|16099|United States|College Station|PRONSS|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|16|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|144.48.111.7|8674|Bangladesh|Dhaka|ICC Communication Ltd|
+|19|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|20|59.98.4.70|8080|India|Port Blair|BSNL Internet|
 
 
 
