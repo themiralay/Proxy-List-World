@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|14|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|13|103.88.90.50|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |15|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|16|213.133.98.201|1369|Germany|Nuremberg|Hetzner Online GmbH|
-|17|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|18|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|45.11.95.166|6004|Russia|Moscow|Delta Ltd|
+|20|93.126.40.12|8080|Iran|Isfahan|Asmanfaraz Sepahan Company (P.J.S)|
 
 
 
