@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|14|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|15|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
