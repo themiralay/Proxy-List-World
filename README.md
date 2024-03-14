@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|4|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|5|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|9|67.43.236.20|21491|Canada|Montreal|GloboTech Communications|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|202.12.80.11|83|India|Kāsaragod|Prisac Aviation Technologies Private Limited|
-|12|111.95.40.244|8080|Indonesia|Bekasi|Linknet-Fastnet ASN|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|15|45.4.201.91|999|Ecuador|Babahoyo|Eliana Vanessa Morocho Oña|
-|16|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
-|17|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|19|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|20|103.193.144.76|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|6|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|45.11.95.166|6016|Russia|Moscow|Delta Ltd|
+|8|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|9|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|11|112.78.155.77|8080|Indonesia|Jakarta|BIZNET|
+|12|1.179.217.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|14|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|17|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
+|18|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|20|58.69.125.145|8081|Philippines|Bacolor|Philippine Long Distance Telephone Co.|
 
 
 
