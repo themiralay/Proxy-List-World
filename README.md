@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|3|178.23.192.249|8901|Poland|Warsaw|Tricomp KLIF|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.227.230|14669|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11199|Canada|Montreal|GloboTech Communications|
-|17|187.250.219.162|8080|Mexico|Tijuana|UNINET|
-|18|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|67.43.227.227|27579|Canada|Montreal|GloboTech Communications|
-|20|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|14.187.151.97|19132|Vietnam|Ho Chi Minh City|VNPT|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|11|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|12|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|14|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|15|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|203.128.77.213|33378|Indonesia|Jakarta|Neuviz|
+|19|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|20|161.156.199.78|80|United Kingdom|London|SoftLayer|
 
 
 
