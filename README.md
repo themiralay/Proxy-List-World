@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|11|67.43.227.227|17211|Canada|Montreal|GloboTech Communications|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
-|14|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|15|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
-|16|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|17|72.10.164.178|18833|Canada|Montreal|GloboTech Communications|
-|18|41.76.217.175|8088|South Africa|Pretoria|Green Flash Trading|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|7|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|12|67.43.227.227|14929|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|123.182.59.176|8089|China|Zhoutou|China Telecom|
+|15|72.10.164.178|1769|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|18903|Canada|Montreal|GloboTech Communications|
+|17|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
