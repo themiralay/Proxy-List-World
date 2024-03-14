@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|18|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|19|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|58.187.230.68|443|Vietnam|Hanoi|FPT Telecom Company|
+|16|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
