@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7432** proxies at the latest update. Usable proxies are below.
+> Scraper found **7487** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|739|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|794|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|755|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4979|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|14.233.146.0|8080|Vietnam|Hanoi|VNPT|
-|5|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|179.1.129.136|999|Colombia|Bogotá|InterNexa Global Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|13|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|14|72.10.164.178|27763|Canada|Montreal|GloboTech Communications|
-|15|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|16|72.10.164.178|27763|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.227|23957|Canada|Montreal|GloboTech Communications|
-|19|200.117.13.75|999|Argentina|Puerto Eldorado|Telecom Argentina S.A|
-|20|111.225.152.42|8089|China|Zhoutou|China Telecom|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|7|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|176.235.182.99|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
+|11|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|201.77.96.153|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
+|16|34.176.153.98|443|Chile|Santiago|Google LLC|
+|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|72.10.160.173|4687|Canada|Montreal|GloboTech Communications|
 
 
 
