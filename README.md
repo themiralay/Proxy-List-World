@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|3|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|7|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|8|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.133.26.100|8181|Indonesia|Purwodadi Grobogan|PT PHATRIA INTI PERSADA|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|15|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|104.192.202.11|8080|United States|St. George|InfoWest|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
 
 
 
