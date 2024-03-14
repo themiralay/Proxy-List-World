@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
-|14|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|185.198.2.113|11223|Poland|Gmina Widawa|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|18|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|11|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|14|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|16|34.49.208.221|80|United States|Kansas City|Google LLC|
+|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|20|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
