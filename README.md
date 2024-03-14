@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7707** proxies at the latest update. Usable proxies are below.
+> Scraper found **7609** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1199|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1101|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5549|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|95.111.199.192|3128|Singapore|Singapore|UpCloud Ltd|
-|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|5|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.132.53.146|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|9|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.198.2.113|11223|Poland|Gmina Widawa|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
-|14|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|15|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|16|36.74.87.249|3128|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|17|45.70.236.121|8080|Ecuador|Daule|Ufinet Panama S.A.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|209.45.40.34|999|Peru|Ica|Red Cientifica Peruana|
-|20|84.52.88.59|8080|Russia|St Petersburg|WestCall|
+|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|7|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|34.49.208.221|80|United States|Kansas City|Google LLC|
+|12|120.28.221.214|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|13|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|14|124.105.21.141|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|15|97.64.69.65|16099|United States|College Station|PRONSS|
+|16|45.190.187.123|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|17|34.49.208.221|80|United States|Kansas City|Google LLC|
+|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|19|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
+|20|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
