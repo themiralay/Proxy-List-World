@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|24.152.50.130|8080|Dominican Republic|San Cristobal|Lightwave S.R.L|
-|12|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|13|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|14|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|15|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|165.16.46.1|8080|Libya|Zliten|Aljeel Aljadeed Technology|
-|18|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|19|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|20|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|5|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|14|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|18|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|19|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
+|20|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
