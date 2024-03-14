@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|15|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
