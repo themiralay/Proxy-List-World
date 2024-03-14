@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
+|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|18|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
