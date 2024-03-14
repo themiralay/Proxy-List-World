@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|24.152.50.130|8080|Dominican Republic|San Cristobal|Lightwave S.R.L|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
