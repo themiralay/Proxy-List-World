@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|72.10.160.90|29075|Canada|Montreal|GloboTech Communications|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
 |10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|14|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
-|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|183.240.208.63|8080|China|Shenzhen|China Mobile Communications Corporation|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|72.10.160.92|10721|Canada|Montreal|GloboTech Communications|
+|15|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|16|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
