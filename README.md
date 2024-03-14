@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8821** proxies at the latest update. Usable proxies are below.
+> Scraper found **8705** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1612|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|701|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5549|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
-|5|121.52.156.146|8080|Pakistan|Multan|HEC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
-|8|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|202.51.214.81|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|207.180.252.117|2222|Germany|Nuremberg|Contabo GmbH|
-|15|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|16|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|18|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.132.240.216|54198|India|Morvi|Spd Broadband Pvt Ltd|
+|7|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|34.176.113.148|443|Chile|Santiago|Google LLC|
+|11|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|15|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|17|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|103.151.246.10|8084|Indonesia|Bogor|MANAKARRANET|
 
 
 
