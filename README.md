@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1035|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1035|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1035|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|818|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|818|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|818|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|34.102.138.130|80|United States|Kansas City|Google LLC|
-|4|34.144.249.134|80|United States|Kansas City|Google LLC|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|34.22.84.17|3128|South Korea|Seoul|Google LLC|
-|7|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|34.102.138.130|80|United States|Kansas City|Google LLC|
-|12|34.144.249.134|80|United States|Kansas City|Google LLC|
-|13|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|103.112.163.92|8080|Indonesia|Jakarta|24AS|
-|16|115.147.23.249|8181|Philippines|Digos|Philippine Long Distance Telephone Co.|
-|17|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|18|103.199.109.154|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|20|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|23.131.184.66|3129|Mexico|Mexico City|Manchitas USA Corp|
+|3|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|6|101.128.107.36|1111|Indonesia|Bekasi|CBN|
+|7|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|94.232.123.67|8118|Lithuania|Garliava|UAB "Airnet"|
+|12|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|14.143.75.250|80|India|Faridabad|Tata Communications Limited|
+|16|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|18|34.102.138.130|80|United States|Kansas City|Google LLC|
+|19|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
