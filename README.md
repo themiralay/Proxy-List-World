@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|18|45.174.57.66|999|Mexico|Ayotlan|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|171.235.166.222|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
