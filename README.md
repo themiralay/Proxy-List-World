@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|109.230.72.236|8080|Iran|Kish|Boomerang Rayaneh|
-|12|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
-|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|16|190.109.29.94|999|Colombia|Barranquilla|Liberty Networks De Colombia|
-|17|34.144.249.134|80|United States|Kansas City|Google LLC|
-|18|34.144.249.134|80|United States|Kansas City|Google LLC|
-|19|103.91.82.177|8080|India|Khatauli|Inter Net Ly Private Limited|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|8|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.144.249.134|80|United States|Kansas City|Google LLC|
+|13|103.129.208.242|8080|Bangladesh|Dhaka|Wink Network|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|34.144.249.134|80|United States|Kansas City|Google LLC|
+|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|18|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
+|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
