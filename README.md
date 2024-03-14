@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
-|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|188.132.222.165|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|20|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
 
 
 
