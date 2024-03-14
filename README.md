@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
 |11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
