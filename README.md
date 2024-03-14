@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
 |13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|103.109.59.172|8081|Bangladesh|Dhaka|HelloTech Limited|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|14|31.146.116.18|8080|Georgia|Batumi|JSC "Silknet"|
+|15|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|17|103.149.194.76|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|18|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|19|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
