@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|61.129.2.212|8080|China|Beijing|CHINANET|
-|7|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
-|11|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|14|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|5|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|6|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|186.103.130.93|8080|Chile|Santiago|Telefonica Empresas|
+|13|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|16|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|17|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
+|18|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
