@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|9|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|17|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
