@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|10|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|124.121.117.55|8080|Thailand|Bangkok|TRUEBB|
-|13|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|14|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|222.220.102.159|8000|China|Jianshui|Chinanet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
