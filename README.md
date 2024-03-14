@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|188.132.222.165|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|19|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
