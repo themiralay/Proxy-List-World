@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7508** proxies at the latest update. Usable proxies are below.
+> Scraper found **7489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1012|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|993|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|791|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4746|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|45.11.95.165|6004|Russia|Moscow|Delta Ltd|
-|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|17|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|18|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|45.33.13.251|3128|United States|Richardson|Akamai Technologies, Inc.|
+|12|203.113.114.94|33107|Thailand|Samut Sakhon|TOT Public Company Limited|
+|13|36.94.20.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|14.235.54.71|19132|Vietnam|Hoan Kiem|VNPT|
+|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|19|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
