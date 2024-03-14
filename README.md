@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.76.129.110|8080|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|27.79.93.184|4001|Vietnam|Da Lat|Viettel Corporation|
+|5|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|6|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|13|31.146.116.18|8080|Georgia|Batumi|JSC "Silknet"|
-|14|58.136.236.213|8080|Thailand|Bangkok|AIS-Fibre|
-|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|103.129.208.242|8080|Bangladesh|Dhaka|Wink Network|
-|19|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|20|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|11|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|14|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
+|15|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|16|34.154.161.152|80|Italy|Milan|Google LLC|
+|17|154.64.219.4|8888|United States|Jacksonville|OSNET Wireless|
+|18|82.200.204.254|8081|Kazakhstan|Pavlodar|Kazakhtelecom Data Network Administration|
+|19|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|220.79.80.10|8228|South Korea|Namdong-gu|Korea Telecom|
 
 
 
