@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9529** proxies at the latest update. Usable proxies are below.
+> Scraper found **9518** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1005|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1005|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1005|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1822|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1199|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5549|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.156.74.186|8080|Indonesia|Pecatu|PT Trika Global Media|
-|7|103.172.70.153|2022|Indonesia|Cirebon|AZNET|
-|8|58.69.125.145|8081|Philippines|Bacolor|Philippine Long Distance Telephone Co.|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|12|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
-|13|178.252.170.222|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|14|193.57.139.233|3128|Serbia|Belgrade|Stark Industries Solutions LTD|
-|15|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
-|16|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
-|17|161.97.132.227|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|19|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|20|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|5|103.151.246.10|8084|Indonesia|Bogor|MANAKARRANET|
+|6|103.80.224.2|83|India|Ahmedabad|Robust Pixel Connect Private Limited|
+|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|8|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
+|9|38.156.235.206|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|10|138.2.127.253|8080|South Korea|Chuncheon|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|185.104.249.21|3128|Russia|Moscow|First Server Limited|
+|14|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|15|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
+|16|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|17|103.156.74.186|8080|Indonesia|Pecatu|PT Trika Global Media|
+|18|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|19|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|20|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
 
 
 
