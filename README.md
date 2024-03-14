@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|14|187.250.219.162|8080|Mexico|Tijuana|UNINET|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|190.115.7.141|1982|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|112.78.47.187|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|14|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|15|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|16|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|17|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|18|58.187.230.68|443|Vietnam|Hanoi|FPT Telecom Company|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
 
 
 
