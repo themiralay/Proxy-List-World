@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|182.253.10.147|8080|Indonesia|Jakarta Pusat|BIZNET|
+|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|18|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
