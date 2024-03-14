@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |3|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|10|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|12|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|19|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 
 
 
