@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|17|36.94.185.122|60080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|10|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|20|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
 
 
 
