@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|6|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|67.43.228.253|18483|Canada|Montreal|GloboTech Communications|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|103.48.69.113|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|18|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|15|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|16|67.43.227.230|14669|Canada|Montreal|GloboTech Communications|
+|17|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|19|72.10.164.178|17125|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
