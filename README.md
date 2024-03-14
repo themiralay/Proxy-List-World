@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.190.187.123|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|12|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
-|13|201.20.94.93|8080|Brazil|Petrolina|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|183.81.156.98|8080|Indonesia|Kuningan Barat|Internet Service Provider|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|19|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
-|20|67.79.51.210|16099|United States|Universal City|Spectrum|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|11|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|12|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|15|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
+|16|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|17|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|51.158.54.60|3128|France|Paris|SCALEWAY|
+|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
