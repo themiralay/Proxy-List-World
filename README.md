@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|12|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|124.121.117.55|8080|Thailand|Bangkok|TRUEBB|
-|18|183.81.156.98|8080|Indonesia|Kuningan Barat|Internet Service Provider|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|18|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
