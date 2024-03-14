@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|6|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|67.43.236.20|32013|Canada|Montreal|GloboTech Communications|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|12|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|124.121.117.55|8080|Thailand|Bangkok|TRUEBB|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
