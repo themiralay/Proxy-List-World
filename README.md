@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|220.79.80.10|8228|South Korea|Namdong-gu|Korea Telecom|
-|3|27.79.93.184|4001|Vietnam|Da Lat|Viettel Corporation|
+|3|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|13|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|91.218.248.230|3128|Russia|Moscow|IT Lite LLC|
-|17|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|18|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|59.98.4.70|8080|India|Port Blair|BSNL Internet|
+|5|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|15|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|17|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|20|163.172.255.87|8080|France|Paris|Online S.A.S.|
 
 
 
