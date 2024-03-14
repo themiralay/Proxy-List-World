@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|13|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|41.193.81.7|80|South Africa|Cape Town|Vox Telecom Ltd|
+|17|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|20|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
 
 
 
