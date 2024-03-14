@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|180.178.98.94|2526|Indonesia|Pisangan|PT Hipernet Indodata|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|8|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|9|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
-|10|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|16|180.211.179.126|8080|Bangladesh|Habiganj|Bangladesh Telegraph & Telephone Board|
-|17|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|18|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|4|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.153.247.33|3125|Indonesia|Jakarta|PRIMAHOME|
+|6|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|7|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|9|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|10|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|11|103.133.26.59|8181|Indonesia|Purwodadi Grobogan|PT PHATRIA INTI PERSADA|
+|12|103.147.247.212|8080|Indonesia|Tangerang|PLBNET|
+|13|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|103.159.46.10|82|India|Ahmedabad|King Netsol Private Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|136.243.125.1|1369|Germany|Cologne|Hetzner Online GmbH|
+|18|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|19|181.78.95.48|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|20|180.211.179.126|8080|Bangladesh|Habiganj|Bangladesh Telegraph & Telephone Board|
 
 
 
