@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|7|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|14|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|18|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|17|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
