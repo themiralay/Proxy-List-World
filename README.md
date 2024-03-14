@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|8|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|14|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|6|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|24.152.50.130|8080|Dominican Republic|San Cristobal|Lightwave S.R.L|
+|12|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|13|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|14|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|15|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|165.16.46.1|8080|Libya|Zliten|Aljeel Aljadeed Technology|
+|18|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|19|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|20|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
 
 
 
