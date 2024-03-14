@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|171.235.166.222|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|12|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|5|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|103.114.97.98|8999|Bangladesh|Companiganj|Skynet Chowmuhani|
+|13|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|35.185.217.164|3128|United States|The Dalles|Google LLC|
+|18|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|20|103.153.62.161|8080|Indonesia|Bekasi|IMEDIANET|
 
 
 
