@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|6|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|9|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|101.255.167.6|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|82.200.80.118|8080|Russia|Barnaul|ZSTTK|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|16|191.97.15.94|11201|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|4|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|5|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|9|67.43.236.20|21491|Canada|Montreal|GloboTech Communications|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|202.12.80.11|83|India|Kāsaragod|Prisac Aviation Technologies Private Limited|
+|12|111.95.40.244|8080|Indonesia|Bekasi|Linknet-Fastnet ASN|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|15|45.4.201.91|999|Ecuador|Babahoyo|Eliana Vanessa Morocho Oña|
+|16|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
+|17|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|20|103.193.144.76|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
