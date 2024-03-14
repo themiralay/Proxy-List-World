@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|12|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|13|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|45.8.21.43|3128|Türkiye|Köseköy|TurkTelekom Kocaeli Korfez|
-|20|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|124.121.117.55|8080|Thailand|Bangkok|TRUEBB|
+|18|183.81.156.98|8080|Indonesia|Kuningan Barat|Internet Service Provider|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
