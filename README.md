@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|27.79.93.184|4001|Vietnam|Da Lat|Viettel Corporation|
-|5|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|6|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|14|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
-|15|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|154.64.219.4|8888|United States|Jacksonville|OSNET Wireless|
-|18|82.200.204.254|8081|Kazakhstan|Pavlodar|Kazakhtelecom Data Network Administration|
-|19|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|220.79.80.10|8228|South Korea|Namdong-gu|Korea Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|8|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|14|97.64.69.41|16099|United States|College Station|PRONSS|
+|15|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|17|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|212.42.56.120|3128|Russia|Moscow|Tehno-Pro LLC|
 
 
 
