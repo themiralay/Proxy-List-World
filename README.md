@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|8|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|18|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|19|103.153.62.161|8080|Indonesia|Bekasi|IMEDIANET|
-|20|203.160.186.246|8080|Philippines|City of Muntinlupa|Philippine Telelgraph & Telephone|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|6|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
+|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|15|147.75.34.85|10009|The Netherlands|Amsterdam|Equinix Services|
+|16|103.171.244.64|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|17|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
+|18|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|186.148.182.86|999|Colombia|Bogotá|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
+|20|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
 
 
 
