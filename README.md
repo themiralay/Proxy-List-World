@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|9|67.43.236.19|18903|Canada|Montreal|GloboTech Communications|
-|10|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|17|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|67.43.236.19|18903|Canada|Montreal|GloboTech Communications|
+|15|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
+|16|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|17|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|18|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|19|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|20|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
