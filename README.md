@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|8|95.111.199.192|3128|Singapore|Singapore|UpCloud Ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|121.240.126.113|8081|India|Mumbai|Tata Communications Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|15|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|16|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|17|200.24.157.120|999|Ecuador|Azogues|Ufinet Panama S.A.|
-|18|51.158.54.60|3128|France|Paris|SCALEWAY|
-|19|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|2|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|162.248.224.81|3130|United States|Santa Clara|Hosting Solution Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|14|162.248.224.81|3130|United States|Santa Clara|Hosting Solution Ltd.|
+|15|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|16|193.57.139.233|3128|Serbia|Belgrade|Stark Industries Solutions LTD|
+|17|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|20|197.155.237.74|8111|Zimbabwe|Harare|Maintainer Liquid Telecommunications Operations Limited|
 
 
 
