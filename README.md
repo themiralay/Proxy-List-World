@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|11|213.165.168.190|9898|Malta|Saint Venera|Melita plc|
+|12|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|15|112.78.47.187|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
 |20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
