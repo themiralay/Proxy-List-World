@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|86.57.133.127|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|6|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|13|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|17|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|19|104.192.202.11|8080|United States|St. George|InfoWest|
+|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 
