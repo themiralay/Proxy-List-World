@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
 |5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
 |12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |13|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|19|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|20|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|14|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|112.78.155.77|8080|Indonesia|Jakarta|BIZNET|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
+|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
