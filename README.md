@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|16|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|17|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|185.82.176.34|8080|Russia|Moscow|ZagorodTelecom LLC|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|19|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|20|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
 
 
 
