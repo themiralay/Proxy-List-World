@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|19|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|17|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|18|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|19|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
+|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 
 
 
