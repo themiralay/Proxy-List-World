@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
 |11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
+|20|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
 
 
 
