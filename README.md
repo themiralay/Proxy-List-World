@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6700** proxies at the latest update. Usable proxies are below.
+> Scraper found **7695** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|380|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5361|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|203.150.166.174|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|41.86.252.91|443|Benin|Cotonou|ISOCEL SA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|20.114.72.18|3128|United States|San Antonio|Microsoft Corporation|
-|13|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|18|152.99.145.25|80|South Korea|Cheonan|National Information Resources Service|
-|19|157.159.10.86|80|France|Grigny|IT-EVRY-8/22|
-|20|14.207.84.214|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|9|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.78.155.77|8080|Indonesia|Jakarta|BIZNET|
+|13|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|42.48.26.140|2323|China|Changsha|China Unicom Hunan Province Network|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|34.85.177.170|3128|United States|Washington|Google LLC|
+|17|45.71.202.148|1993|Ecuador|Camilo Ponce Enriquez|Ufinet Panama S.A.|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|47.51.51.190|8080|United States|Long Beach|Charter Communications|
+|20|36.94.20.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
