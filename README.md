@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|10|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|14|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|15|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 
