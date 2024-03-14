@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|8|119.93.148.191|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|9|42.48.26.140|2323|China|Changsha|China Unicom Hunan Province Network|
-|10|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|13|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
-|16|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
-|17|168.119.117.125|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|18|45.65.137.218|999|Colombia|Tibu|Telecomunicaciones Del Catatumbo S.A.S|
-|19|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|112.78.47.187|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|10|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|200.95.184.58|999|Chile|Coihueco|Comunicaciones Cablevision Ltda.|
+|16|67.43.227.227|22551|Canada|Montreal|GloboTech Communications|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
+|19|45.11.95.165|6027|Russia|Moscow|Delta Ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
