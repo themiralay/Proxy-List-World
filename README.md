@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|45.225.207.162|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|16|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|18|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 
 
 
