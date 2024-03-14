@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -45,19 +45,19 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|10|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|200.95.184.58|999|Chile|Coihueco|Comunicaciones Cablevision Ltda.|
-|16|67.43.227.227|22551|Canada|Montreal|GloboTech Communications|
-|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|18|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|19|45.11.95.165|6027|Russia|Moscow|Delta Ltd|
+|7|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|9|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|13|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|14|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|15|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|18|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|19|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
