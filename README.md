@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|20|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|10|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|124.121.117.55|8080|Thailand|Bangkok|TRUEBB|
+|13|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|14|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|222.220.102.159|8000|China|Jianshui|Chinanet|
 
 
 
