@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
-|9|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|10|121.52.156.146|8080|Pakistan|Multan|HEC|
-|11|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|62.3.6.76|3128|Japan|Shinagawa|WebHorizon Internet Services|
-|20|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|3|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|5|38.43.150.169|999|Peru|Lima|Nextnet SAC|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|12|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
+|13|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|14|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|15|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|16|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|17|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|18|190.109.29.94|999|Colombia|Barranquilla|Liberty Networks De Colombia|
+|19|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|20|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
 
 
 
