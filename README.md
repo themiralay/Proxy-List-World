@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|9|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|112.78.155.77|8080|Indonesia|Jakarta|BIZNET|
-|13|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|42.48.26.140|2323|China|Changsha|China Unicom Hunan Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|34.85.177.170|3128|United States|Washington|Google LLC|
-|17|45.71.202.148|1993|Ecuador|Camilo Ponce Enriquez|Ufinet Panama S.A.|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|47.51.51.190|8080|United States|Long Beach|Charter Communications|
-|20|36.94.20.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|10|201.77.96.153|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|16|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|93.126.40.12|8080|Iran|Isfahan|Asmanfaraz Sepahan Company (P.J.S)|
+|18|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
