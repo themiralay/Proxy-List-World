@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|7|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|61.129.2.212|8080|China|Beijing|CHINANET|
+|7|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
+|11|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|14|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|62.3.30.70|8080|Georgia||Enbinet Ltd.|
-|20|1.179.217.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
