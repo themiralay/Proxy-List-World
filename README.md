@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|185.164.163.135|8118|The Netherlands|Dronten|MIRholding B.V.|
-|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|7|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|36.74.87.249|3128|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|12|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|13|103.155.166.92|8181|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|11|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|12|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|18|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
-|19|95.111.199.192|3128|Singapore|Singapore|UpCloud Ltd|
-|20|103.80.224.2|83|India|Ahmedabad|Robust Pixel Connect Private Limited|
+|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
+|18|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|19|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|20|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
