@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|6|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|7|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|171.235.166.222|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|103.153.62.161|8080|Indonesia|Bekasi|IMEDIANET|
-|16|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|20|180.189.196.26|8080|New Zealand|Auckland|FASTCOM|
+|10|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
+|11|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|12|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|173.249.29.243|9123|Germany|Nuremberg|Contabo GmbH|
 
 
 
