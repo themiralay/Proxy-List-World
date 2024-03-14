@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|10|201.77.96.153|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
-|15|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|16|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|17|93.126.40.12|8080|Iran|Isfahan|Asmanfaraz Sepahan Company (P.J.S)|
-|18|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|18|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
 
 
 
