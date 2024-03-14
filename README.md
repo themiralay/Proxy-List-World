@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|17|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|18|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|10|45.33.13.251|3128|United States|Richardson|Akamai Technologies, Inc.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|13|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
+|14|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|15|201.77.96.153|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
+|16|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|18|200.95.184.58|999|Chile|Coihueco|Comunicaciones Cablevision Ltda.|
+|19|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|20|103.48.69.113|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
