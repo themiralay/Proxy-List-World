@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |3|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|38.156.72.133|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|187.250.219.162|8080|Mexico|Tijuana|UNINET|
-|12|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|13|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|17|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|45.11.95.165|6004|Russia|Moscow|Delta Ltd|
+|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|17|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
 |18|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|45.11.95.166|6005|Russia|Moscow|Delta Ltd|
-|20|147.75.92.251|10006|Japan|Koto-ku|Packet Host, Inc.|
+|19|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
