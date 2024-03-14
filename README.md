@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|15|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|13|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|18|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
