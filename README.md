@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|5|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.226.207.116|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|194.199.98.103|80|France|Paris|Renater|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|150.107.136.205|39843|Indonesia|Jakarta|Media Antar Nusa PT.|
-|16|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|17|121.52.156.146|8080|Pakistan|Multan|HEC|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|20|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|12|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|16|201.20.94.93|8080|Brazil|Petrolina|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|17|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
+|18|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
+|19|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|20|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
