@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|9|203.79.29.246|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|12|93.126.40.12|8080|Iran|Isfahan|Asmanfaraz Sepahan Company (P.J.S)|
-|13|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|191.97.15.94|11201|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|16|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|17|202.12.80.11|83|India|Kāsaragod|Prisac Aviation Technologies Private Limited|
-|18|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|14|187.250.219.162|8080|Mexico|Tijuana|UNINET|
+|15|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|16|213.133.98.201|1369|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
