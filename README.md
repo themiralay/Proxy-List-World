@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|16|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
+|9|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|14|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|15|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
