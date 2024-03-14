@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|17|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
