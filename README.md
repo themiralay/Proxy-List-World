@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|12|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|42.48.26.140|2323|China|Changsha|China Unicom Hunan Province Network|
-|15|45.33.13.251|3128|United States|Richardson|Akamai Technologies, Inc.|
-|16|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
+|11|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|12|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|15|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|16|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|93.126.40.12|8080|Iran|Isfahan|Asmanfaraz Sepahan Company (P.J.S)|
+|19|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
