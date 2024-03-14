@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
-|12|161.156.199.78|80|United Kingdom|London|SoftLayer|
-|13|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|14|103.147.247.212|8080|Indonesia|Tangerang|PLBNET|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|17|20.114.72.18|3128|United States|San Antonio|Microsoft Corporation|
-|18|45.58.41.73|3128|United States|Clifton|Atlantic.net|
-|19|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|10|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|13|180.178.98.94|2526|Indonesia|Pisangan|PT Hipernet Indodata|
+|14|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|15|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|16|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|17|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|151.80.136.138|3128|France|Roubaix|OVH SAS|
+|19|178.23.192.249|8901|Poland|Warsaw|Tricomp KLIF|
+|20|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
 
 
 
