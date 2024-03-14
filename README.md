@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|163.172.255.87|8080|France|Paris|Online S.A.S.|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|16|34.49.208.221|80|United States|Kansas City|Google LLC|
-|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|20|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|14|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|175.101.29.195|8080|India|Jammalamadugu|ExcellMedia Pvt Ltd|
+|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|202.5.46.243|5020|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
