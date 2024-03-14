@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|8|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.144.249.134|80|United States|Kansas City|Google LLC|
-|13|103.129.208.242|8080|Bangladesh|Dhaka|Wink Network|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|34.144.249.134|80|United States|Kansas City|Google LLC|
-|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
-|18|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
-|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|12|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|16|203.202.245.27|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
