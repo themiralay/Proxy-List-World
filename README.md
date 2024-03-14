@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|3|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|15|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|17|104.192.202.11|8080|United States|St. George|InfoWest|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
