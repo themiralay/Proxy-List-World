@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|163.172.255.87|8080|France|Paris|Online S.A.S.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|8|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|9|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|187.250.219.162|8080|Mexico|Tijuana|UNINET|
-|13|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|14|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|15|187.49.191.14|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|18|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|19|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|6|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|9|45.231.133.51|80|Brazil|São Paulo|Server Media Comunicacao Ltda|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|101.255.167.6|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|82.200.80.118|8080|Russia|Barnaul|ZSTTK|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|16|191.97.15.94|11201|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
 
 
 
