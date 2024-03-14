@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|20|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|18|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
