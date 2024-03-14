@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|6|24.152.50.130|8080|Dominican Republic|San Cristobal|Lightwave S.R.L|
-|7|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|103.173.164.10|8082|Indonesia|Babatan|PT Pusat Net Media|
-|20|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|15|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
