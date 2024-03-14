@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|14|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|19|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|20|147.75.92.251|10010|Japan|Koto-ku|Packet Host, Inc.|
+|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
+|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
