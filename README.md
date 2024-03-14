@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|9|34.22.84.17|3128|South Korea|Seoul|Google LLC|
 |10|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|11|217.182.153.29|12000|France|Gravelines|OVH SAS|
-|12|45.7.64.100|999|Mexico|Huasca de Ocampo|Maysnet SA De CV|
+|11|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
 |13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|82.200.204.254|8081|Kazakhstan|Pavlodar|Kazakhtelecom Data Network Administration|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|104.192.202.11|8080|United States|St. George|InfoWest|
-|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|19|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|37.187.24.201|81|France|Gravelines|OVH SAS|
+|20|189.173.223.225|999|Mexico|Hermosillo|UNINET|
 
 
 
