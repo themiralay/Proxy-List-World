@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|3|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|5|163.172.255.87|8080|France|Paris|Online S.A.S.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Alvaro Obregon|UNINET|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|14.235.54.71|19132|Vietnam|Hoan Kiem|VNPT|
-|13|38.156.72.133|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|16|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|17|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
-|18|121.200.48.58|8080|India|Coimbatore|WLSNET|
-|19|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|43.129.228.46|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|163.172.255.87|8080|France|Paris|Online S.A.S.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|12|45.33.13.251|3128|United States|Richardson|Akamai Technologies, Inc.|
+|13|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|14|42.48.26.140|2323|China|Changsha|China Unicom Hunan Province Network|
+|15|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|16|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|17|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|18|34.85.177.170|3128|United States|Washington|Google LLC|
+|19|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|20|193.30.13.13|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
