@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|17|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|19|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|20|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|222.220.102.159|8000|China|Jianshui|Chinanet|
 
 
 
