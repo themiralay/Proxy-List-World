@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
 |14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|45.58.52.81|80|United States|Dallas|HostUS|
+|18|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|19|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 
 
 
