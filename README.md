@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7205** proxies at the latest update. Usable proxies are below.
+> Scraper found **7304** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|823|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4874|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4973|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |14|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|45.58.52.81|80|United States|Dallas|HostUS|
 
 
 
