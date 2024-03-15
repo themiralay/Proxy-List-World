@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|12|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|13|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|54.255.225.118|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|20|152.99.145.45|80|South Korea|Cheonan|National Information Resources Service|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|12|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|14|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|17|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|18|54.255.226.225|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
