@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|10|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
-|13|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|14|91.185.84.228|3128|Russia|Moscow|CloudMTS|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
+|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|15|103.131.18.194|8080|Indonesia|Semarang|PT Global Media Data Prima|
+|16|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|19|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 
 
 
