@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|103.180.122.201|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|19|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
