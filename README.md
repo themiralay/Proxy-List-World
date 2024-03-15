@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|9|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
-|13|201.77.108.130|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|185.82.176.34|8080|Russia|Moscow|ZagorodTelecom LLC|
-|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
-|19|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
-|20|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
+|5|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|6|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|14|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|104.192.202.11|8080|United States|St. George|InfoWest|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|19|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
