@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|176.58.103.55|8080|United Kingdom|London|Linode|
-|12|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|15|77.68.111.73|3128|United Kingdom|London|IONOS SE|
-|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|18|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|11|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|16|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
 
 
 
