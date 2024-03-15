@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|8|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|9|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|12|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|13|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|14|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|15|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|15|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|67.43.236.20|28037|Canada|Montreal|GloboTech Communications|
-|19|195.25.20.108|3128|France|Paris|Orange Business Services|
-|20|54.255.226.225|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|19|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
