@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|19|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|16|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|190.97.238.82|999|Venezuela|Maracaibo|Viginet C.A|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
 
 
 
