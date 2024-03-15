@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|12|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|13|45.174.248.19|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|19|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|18|45.58.52.81|80|United States|Dallas|HostUS|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
 
 
 
