@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|201.77.108.130|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.48.68.101|82|India|Hyderabad|Country Online Services PVT LTD|
-|20|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|198.52.241.4|999|Puerto Rico|Corozal|OSNET Wireless|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
