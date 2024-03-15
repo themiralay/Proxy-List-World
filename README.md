@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|157.100.7.146|999|Ecuador|Ambato|Telconet S.A|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|171.235.166.222|4019|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 |10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|11|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
