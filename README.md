@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|203.79.29.246|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|9|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|72.10.160.90|29897|Canada|Montreal|GloboTech Communications|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
-|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|103.191.115.238|84|India|Bānka|Xpress Fiber Private Limited|
+|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
