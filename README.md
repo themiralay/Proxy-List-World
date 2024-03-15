@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|8|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|8|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|12|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|15|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|124.83.72.82|8080|Philippines|Palo|Philippine Long Distance Telephone Co.|
+|14|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|15|67.43.227.227|26689|Canada|Montreal|GloboTech Communications|
+|16|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|18|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
+|19|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
