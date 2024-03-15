@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|5|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|4|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 |14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|17|49.49.197.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|36.88.140.235|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|20|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|15|190.15.122.178|3128|Brazil|Aracaju|Aloo Telecom - FSF Tecnologia SA|
+|16|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
+|17|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
