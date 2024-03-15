@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|11|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|12|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|20|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
