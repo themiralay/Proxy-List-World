@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|19|27.254.140.104|3133|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|20|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
+|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|10|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|15|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|20|65.21.251.1|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
