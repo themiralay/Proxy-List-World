@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|6|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|9|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|10|120.28.204.19|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|11|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|12|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|15|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|10|72.10.160.90|15727|Canada|Montreal|GloboTech Communications|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|18|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|19|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|20|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
 
 
 
