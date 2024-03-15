@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|13|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
-|14|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|15|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|18|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
-|19|1.179.217.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|14|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
+|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
 
 
 
