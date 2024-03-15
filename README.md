@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
-|12|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|14|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|15|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|170.246.85.108|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|7|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|10|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|11|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
