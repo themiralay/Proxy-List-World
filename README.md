@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|10|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
-|11|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.90|27125|Canada|Montreal|GloboTech Communications|
-|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|19|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|8|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|11|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|67.43.236.20|14417|Canada|Montreal|GloboTech Communications|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
