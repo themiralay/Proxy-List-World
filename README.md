@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 |13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|18|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|19|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|16|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
