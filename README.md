@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|120.28.138.60|8081|Philippines|Caloocan City|Globe Telecom|
-|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|200.116.199.179|6969|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
+|16|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
