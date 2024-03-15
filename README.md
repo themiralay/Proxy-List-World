@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|2|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|7|108.181.19.153|3128|United States|Los Angeles|Psychz Networks|
-|8|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|108.181.19.153|3128|United States|Los Angeles|Psychz Networks|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|36.88.140.235|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|36.88.140.235|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|15|208.67.28.28|58090|United States|Minneapolis|SonicNet Inc.|
+|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|17|125.25.43.147|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|18|157.100.7.146|999|Ecuador|Ambato|Telconet S.A|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
