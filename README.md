@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 |6|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|10|103.101.216.2|8080|Indonesia|Kabupaten Serdang Bedagai|PT Duta Trans Nusantara Network|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
 |13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|104.192.202.11|8080|United States|St. George|InfoWest|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|20|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
 
 
 
