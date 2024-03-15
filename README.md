@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|12|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
-|15|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|17|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|18|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|19|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|20|134.122.91.201|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|15|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|16|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|151.22.181.205|8080|Italy|Filo|INFOSTRADA|
+|19|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
