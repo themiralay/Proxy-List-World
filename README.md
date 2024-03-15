@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|14|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|18|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
-|19|24.152.50.130|8080|Dominican Republic|San Cristobal|Lightwave S.R.L|
-|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|11|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|14|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|19|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
