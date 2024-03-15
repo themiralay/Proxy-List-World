@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|181.78.85.126|999|Colombia|Pueblo Nuevo|IFX Networks Argentina S.R.L|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
