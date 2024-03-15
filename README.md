@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|8|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|9|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|12|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|16|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|18|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|19|134.19.254.2|21231|Georgia|Tbilisi|GPON|
-|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
