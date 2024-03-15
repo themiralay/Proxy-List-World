@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|13|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|14|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|15|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|42.200.196.208|8080|Hong Kong|Central|PCCW IMSBiz|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|19|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|20|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
