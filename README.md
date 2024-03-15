@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|5|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|16|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|103.133.26.100|8181|Indonesia|Purwodadi Grobogan|PT PHATRIA INTI PERSADA|
+|12|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|19|45.174.57.66|999|Mexico|Ayotlan|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|20|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
 
 
 
