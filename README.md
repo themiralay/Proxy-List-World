@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|403|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|13|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|14|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|17|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|7|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|157.100.63.69|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|111.225.153.162|8089|China|Zhoutou|China Telecom|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|177.93.50.163|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|18|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
 
 
 
