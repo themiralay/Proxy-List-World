@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|6|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|10|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|13|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|14|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|19|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
