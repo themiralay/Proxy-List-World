@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|104.192.202.11|8080|United States|St. George|InfoWest|
-|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|10|45.58.52.81|80|United States|Dallas|HostUS|
-|11|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
-|16|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|9|49.49.197.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
