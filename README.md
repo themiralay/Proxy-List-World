@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|2.189.148.1|8080|Iran|Tehran|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|180.211.91.40|3125|Indonesia|Bekasi|PT. KINGS NETWORK INDONESIA|
-|10|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|13|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|14|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|17|222.74.73.202|42055|China|Bieligutai|Chinanet|
-|18|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|20|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
+|2|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|183.88.46.37|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|103.147.135.254|8090|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|19|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|20|223.25.100.42|2222|Indonesia|Surabaya|PT Indonesia Comnets Plus|
 
 
 
