@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 
 
 
