@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|187.40.1.123|128|Brazil|São Paulo|V tal|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.58.52.81|80|United States|Dallas|HostUS|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
 
 
 
