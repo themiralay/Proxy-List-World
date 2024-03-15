@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|18|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|9|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|12|181.78.85.126|999|Colombia|Pueblo Nuevo|IFX Networks Argentina S.R.L|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
+|15|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|16|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|45.174.57.66|999|Mexico|Ayotlan|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
 
 
 
