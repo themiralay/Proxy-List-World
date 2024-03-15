@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|42.200.196.208|8080|Hong Kong|Central|PCCW IMSBiz|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|19|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|20|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|9|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|176.58.103.55|8080|United Kingdom|London|Linode|
+|12|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|15|77.68.111.73|3128|United Kingdom|London|IONOS SE|
+|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|18|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
