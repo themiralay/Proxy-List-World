@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|183.81.156.98|8080|Indonesia|Kuningan Barat|Internet Service Provider|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|10|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|13|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|15|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
