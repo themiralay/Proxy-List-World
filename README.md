@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|14|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|15|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|104.192.202.11|8080|United States|St. George|InfoWest|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|45.58.52.81|80|United States|Dallas|HostUS|
+|11|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
+|16|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
