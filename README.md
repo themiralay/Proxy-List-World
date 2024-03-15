@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|20|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|18|103.171.164.98|8080|Indonesia|Jakarta|MYREPUBLIC|
+|19|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
