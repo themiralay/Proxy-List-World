@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|120.28.138.60|8081|Philippines|Caloocan City|Globe Telecom|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|190.43.92.240|999|Peru|Tacna|Telefonica Del Peru|
-|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|10|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.116.199.179|6969|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|17|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|18|72.10.160.90|29699|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
