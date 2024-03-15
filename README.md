@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|13|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|19|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|20|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
 
 
 
