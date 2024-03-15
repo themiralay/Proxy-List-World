@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|16|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|9|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|15|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|104.192.202.11|8080|United States|St. George|InfoWest|
 
 
 
