@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|4|159.192.138.170|8080|Thailand|Samphanthawong|CAT-BB|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|7|165.232.66.93|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|11|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.35.232.28|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|78.46.65.137|30154|Germany|Falkenstein|Hetzner Online GmbH|
-|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|20|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
+|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|4|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|5|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|9|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|10|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|16|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|18|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
+|20|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
 
 
 
