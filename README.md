@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|187.40.1.122|128|Brazil|São Paulo|V tal|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.179.84.183|8080|Indonesia|Boyolali|PT CYB Media Group|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|15|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|20|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
