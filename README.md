@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|45.58.52.81|80|United States|Dallas|HostUS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|16|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|20|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|16|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
