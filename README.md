@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|19|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|6|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|11|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|16|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|17|81.16.1.187|32650|Armenia|Yerevan|Ucom CJSC|
+|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|222.74.73.202|42055|China|Bieligutai|Chinanet|
+|20|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
 
 
 
