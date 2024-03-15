@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|14|103.165.126.65|8080|Indonesia|Depok|PT iForte Global Internet|
-|15|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
-|16|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|20|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|8|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|12|103.165.126.65|8080|Indonesia|Depok|PT iForte Global Internet|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|49.49.197.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|15|103.152.232.69|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|16|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
+|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 
 
 
