@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|103.181.92.250|84|India|Pune|Vishwakarma Broadband Private Limited|
-|10|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|11|45.8.21.43|3128|Türkiye|Köseköy|TurkTelekom Kocaeli Korfez|
-|12|165.16.46.1|8080|Libya|Zliten|Aljeel Aljadeed Technology|
-|13|111.225.153.162|8089|China|Zhoutou|China Telecom|
-|14|72.10.164.178|21115|Canada|Montreal|GloboTech Communications|
-|15|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|18|191.102.254.11|8085|Argentina|Rosario|IP·RED|
-|19|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
+|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|16|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
 
 
 
