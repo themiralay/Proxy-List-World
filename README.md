@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|9|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|11|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|12|190.97.238.82|999|Venezuela|Maracaibo|Viginet C.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|15|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|19|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
