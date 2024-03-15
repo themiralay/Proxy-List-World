@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|18|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
 
 
 
