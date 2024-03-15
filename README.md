@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|13|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|13|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|16|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|15|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|18|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
