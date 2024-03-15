@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|4|58.136.222.199|8080|Thailand|Mueang Samut Prakan|AIS-Fibre|
-|5|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
-|8|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|181.49.177.198|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|12|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|16|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|18|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|19|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|103.132.52.123|8080|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|8|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
+|9|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
+|11|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|13|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|14|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|17|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
 
 
 
