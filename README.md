@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|10|103.148.44.178|8882|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|13|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|18|202.180.21.203|8009|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|9|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|13|201.77.108.130|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|185.82.176.34|8080|Russia|Moscow|ZagorodTelecom LLC|
+|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
+|19|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
+|20|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
 
 
 
