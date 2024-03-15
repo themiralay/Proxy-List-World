@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7171** proxies at the latest update. Usable proxies are below.
+> Scraper found **7172** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|2|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|3|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|11|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
