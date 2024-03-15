@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |10|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|11|38.7.197.192|999|Chile|Santiago|Grupo ZGH SPA|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
