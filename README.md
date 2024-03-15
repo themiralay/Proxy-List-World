@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
-|20|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|11|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|72.10.164.178|18221|Canada|Montreal|GloboTech Communications|
+|15|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|19|201.20.94.93|8080|Brazil|Petrolina|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|20|114.250.20.72|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
