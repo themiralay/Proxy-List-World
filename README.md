@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|600|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|600|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|600|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
-|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|15|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|45.58.52.81|80|United States|Dallas|HostUS|
-|18|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|13|45.174.248.19|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|19|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
