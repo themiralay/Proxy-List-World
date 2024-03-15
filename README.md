@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
 |8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|103.180.122.201|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |10|142.4.123.41|80|China|Chengdu|PEG TECH INC|
 |11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|71.14.23.121|8080|United States|Birmingham|Spectrum|
 |16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
