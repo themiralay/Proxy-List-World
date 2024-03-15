@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|6|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|10|72.10.160.90|15727|Canada|Montreal|GloboTech Communications|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|13|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 |16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|18|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
-|19|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|20|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
