@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|14|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|17|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|18|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
 
 
 
