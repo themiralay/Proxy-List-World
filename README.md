@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.40.1.122|128|Brazil|São Paulo|V tal|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|13|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|16|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|19|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|10|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|15|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|54.38.187.177|443|France|Strasbourg|OVH SAS|
 
 
 
