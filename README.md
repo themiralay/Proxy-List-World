@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|7|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|8|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|96.80.235.1|8080|United States|Canton|Comcast Cable Communications, LLC|
+|13|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 |19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
 
 
 
