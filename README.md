@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
+|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|18|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
