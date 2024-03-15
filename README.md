@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
 |5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|20|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|12|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|14|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
+|18|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
 
 
 
