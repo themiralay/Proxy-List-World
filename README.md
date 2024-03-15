@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|17|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|20|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
