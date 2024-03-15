@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|9|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|10|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
-|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|16|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|17|152.99.145.45|80|South Korea|Cheonan|National Information Resources Service|
-|18|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|19|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
-|20|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
+|7|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|8|159.192.138.170|8080|Thailand|Samphanthawong|CAT-BB|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|12|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|13|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|78.188.81.57|8080|Türkiye|Gaziosmanpasa|TurkTelecom|
+|18|13.228.75.219|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
