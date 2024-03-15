@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|45.58.52.81|80|United States|Dallas|HostUS|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|16|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
