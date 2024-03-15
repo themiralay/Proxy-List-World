@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|13|183.240.208.63|8080|China|Shenzhen|China Mobile Communications Corporation|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|103.99.27.26|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|20|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|8|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
