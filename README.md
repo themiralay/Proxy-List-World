@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|15|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|16|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
-|17|45.8.21.43|3128|Türkiye|Köseköy|TurkTelekom Kocaeli Korfez|
-|18|103.48.68.101|82|India|Hyderabad|Country Online Services PVT LTD|
-|19|200.52.153.157|999|Honduras|Cortes|Redes y Telecomunicaciones|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|1|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|19|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
