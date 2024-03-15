@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6775** proxies at the latest update. Usable proxies are below.
+> Scraper found **6235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|399|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4868|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|10|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|11|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|12|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|18|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|114.9.24.214|8080|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|9|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|10|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|72.10.160.174|8087|Canada|Montreal|GloboTech Communications|
+|17|174.108.200.2|8080|United States|Charlotte|Road Runner|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|161.35.31.43|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|67.43.227.228|3857|Canada|Montreal|GloboTech Communications|
 
 
 
