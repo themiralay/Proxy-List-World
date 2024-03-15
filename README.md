@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|103.215.148.202|1080|India|Pune|Cloudnet Communications Pvt Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.6.223.2|3128|China|Baoshan|China Unicom|
-|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|104.192.202.11|8080|United States|St. George|InfoWest|
-|11|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|12|188.132.222.165|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|14|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|16|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|103.215.148.202|1080|India|Pune|Cloudnet Communications Pvt Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|18|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|41.193.81.7|80|South Africa|Cape Town|Vox Telecom Ltd|
 
 
 
