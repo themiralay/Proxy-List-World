@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|19|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
