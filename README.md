@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|5|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|6|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|11|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|13|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|16|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|17|81.16.1.187|32650|Armenia|Yerevan|Ucom CJSC|
-|18|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|19|222.74.73.202|42055|China|Bieligutai|Chinanet|
-|20|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|4|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.105.76.249|8080|Indonesia|Cimahi|GARUDA|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
 
 
 
