@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|181.78.85.126|999|Colombia|Pueblo Nuevo|IFX Networks Argentina S.R.L|
+|14|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.137.111.231|8086|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|20|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
