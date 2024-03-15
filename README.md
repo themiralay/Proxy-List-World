@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|10|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|136.233.80.157|4480|India|Gurugram|Reliance Jio Infocomm Limited|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|203.79.29.246|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|13|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|18|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
 
 
 
