@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|103.25.210.102|3319|Indonesia|Purwokerto|TRANSDATA|
-|14|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|114.110.19.33|8080|Indonesia|Bandung|BITEK|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
 
 
 
