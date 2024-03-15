@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|12|103.215.148.202|1080|India|Pune|Cloudnet Communications Pvt Ltd|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|103.181.92.250|84|India|Pune|Vishwakarma Broadband Private Limited|
-|19|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|185.82.176.34|80|Russia|Moscow|ZagorodTelecom LLC|
+|13|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|192.158.15.201|60684|Canada|Mississauga|Ontario Inc.|
+|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
 
 
 
