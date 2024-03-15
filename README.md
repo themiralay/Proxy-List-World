@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|8|13.228.75.219|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|11|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
-|13|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|20|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|14|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|18|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
