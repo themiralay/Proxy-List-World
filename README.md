@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|8|103.6.223.2|3128|China|Baoshan|China Unicom|
-|9|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 |12|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|45.174.57.66|999|Mexico|Ayotlan|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
+|16|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|20|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
 
 
 
