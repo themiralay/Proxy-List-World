@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|16|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|17|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|18|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
+|17|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|18|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|178.62.229.28|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
