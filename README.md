@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|14|186.215.87.194|6001|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|15|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|16|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|18|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|19|103.81.152.10|83|India|Morena|City Infosol Pvt Ltd|
+|20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
