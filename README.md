@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|13|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|14|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
-|15|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|17|80.63.84.58|8081|Denmark|Rødovre Municipality|TDC Tele Danmark|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|9|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|10|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|14|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|103.230.81.134|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
+|19|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|20|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
