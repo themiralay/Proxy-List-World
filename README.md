@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|16|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 
