@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|11|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|12|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|14|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|222.252.18.8|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|12|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.160.90|7453|Canada|Montreal|GloboTech Communications|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
