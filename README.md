@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|36.94.185.122|60080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|8|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
-|10|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
-|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|14|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
-|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|16|185.82.176.34|80|Russia|Moscow|ZagorodTelecom LLC|
-|17|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|18|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
-|20|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|6|189.240.60.171|9090|Mexico|Alvaro Obregon|UNINET|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|10|189.240.60.164|9090|Mexico|Alvaro Obregon|UNINET|
+|11|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|12|189.240.60.163|9090|Mexico|Alvaro Obregon|UNINET|
+|13|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|14|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|19|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|20|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
 
 
 
