@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|15|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
-|16|188.132.222.165|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|20|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 
 
 
