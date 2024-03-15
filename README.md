@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|12|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|16|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|42.193.58.96|8080|China|Shenzhen|China Internet Network Information Center|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
