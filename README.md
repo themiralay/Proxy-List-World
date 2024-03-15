@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|10|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|11|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|14|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|19|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
