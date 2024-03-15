@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|601|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|601|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|601|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|7|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|8|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|13|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|18|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|12|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
