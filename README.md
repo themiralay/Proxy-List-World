@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|11|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|183.81.156.98|8080|Indonesia|Kuningan Barat|Internet Service Provider|
-|15|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|16|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|20|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
