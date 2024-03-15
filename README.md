@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
-|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|15|103.131.18.194|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|16|181.129.243.35|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|18|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|19|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|12|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|13|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|14|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|15|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
 
 
 
