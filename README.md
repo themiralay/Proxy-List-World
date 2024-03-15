@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|664|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|664|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|664|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|7|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|14|198.245.55.209|8080|Canada|Beauharnois|OVH SAS|
-|15|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|18|196.251.221.33|8103|South Africa|Brits|Info-Gro (PTY) Ltd|
-|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|3|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|17|198.245.55.209|8080|Canada|Beauharnois|OVH SAS|
+|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|20|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
