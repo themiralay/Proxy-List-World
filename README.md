@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|11|38.7.197.192|999|Chile|Santiago|Grupo ZGH SPA|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|14|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|38.7.197.192|999|Chile|Santiago|Grupo ZGH SPA|
+|11|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|12|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|15|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
