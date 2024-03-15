@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|8|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|9|159.192.138.170|8080|Thailand|Samphanthawong|CAT-BB|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|13|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|20|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|10|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|11|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|18|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|19|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
 
 
 
