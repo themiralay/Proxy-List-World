@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.12.73.108|8080|Bangladesh|Dhaka|Business Network|
-|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|77.68.111.73|3128|United Kingdom|London|IONOS SE|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|17|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|20|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
