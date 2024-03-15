@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
 |10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|14|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|15|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|12|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|13|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
