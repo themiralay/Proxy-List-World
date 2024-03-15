@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|171.235.166.222|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|15|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|16|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|17|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|18|66.85.30.138|80|Canada|Toronto|Idigital Internet Inc.|
-|19|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|66.85.30.138|80|Canada|Toronto|Idigital Internet Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|15|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
 
 
 
