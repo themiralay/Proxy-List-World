@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|41.193.81.7|80|South Africa|Cape Town|Vox Telecom Ltd|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
