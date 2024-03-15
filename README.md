@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|19|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|20|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|2|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|15|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
 
 
 
