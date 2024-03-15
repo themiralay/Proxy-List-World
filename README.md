@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|11|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|16|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|114.110.19.33|8080|Indonesia|Bandung|BITEK|
-|20|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
+|7|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|14|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|18|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
 
 
 
