@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|12|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|13|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|103.155.54.26|82|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|12|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|18|72.10.164.178|7981|Canada|Montreal|GloboTech Communications|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|103.165.156.179|3125|Indonesia|Jember|PT. MEGA ARTHA LINTAS DATA|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
+|17|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
