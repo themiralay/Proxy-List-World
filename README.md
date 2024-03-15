@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|11|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|13|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|14|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
-|15|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|16|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|17|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|38.49.129.158|999|Mexico|Santa Rosa|Ientc S De RL De CV|
-|19|78.46.65.137|30154|Germany|Falkenstein|Hetzner Online GmbH|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|7|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|18|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|20|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
