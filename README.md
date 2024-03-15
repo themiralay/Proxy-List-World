@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 |16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|198.52.241.4|999|Puerto Rico|Corozal|OSNET Wireless|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|19|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|1.194.236.229|5005|China|Zhengzhou|China Telecom|
 
 
 
