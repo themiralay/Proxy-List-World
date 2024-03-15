@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|108.181.19.153|3128|United States|Los Angeles|Psychz Networks|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|58.187.230.68|443|Vietnam|Hanoi|FPT Telecom Company|
-|8|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|9|103.190.171.179|8080|Indonesia|Jakarta|WMS|
-|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|108.181.19.153|3128|United States|Los Angeles|Psychz Networks|
-|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|80.84.176.110|8080|Ukraine|Zaporizhzhya|Express Radio Networks|
-|17|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|18|157.100.7.146|999|Ecuador|Ambato|Telconet S.A|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|5|49.49.197.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|8|36.88.140.235|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|10|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|11|58.187.230.68|443|Vietnam|Hanoi|FPT Telecom Company|
+|12|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|15|23.146.184.38|3128|United States|Chicago|Atomic Networks LLC|
+|16|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
