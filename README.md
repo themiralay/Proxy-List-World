@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|7|49.49.197.94|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|12|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
-|13|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|19|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 
 
 
