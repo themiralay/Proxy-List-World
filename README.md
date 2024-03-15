@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|12|134.19.254.2|21231|Georgia|Tbilisi|GPON|
-|13|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|14|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|5.161.219.250|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|134.122.91.201|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|206.189.13.253|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|15|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|16|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|18|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|5.161.219.250|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
