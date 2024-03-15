@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|190.15.122.178|3128|Brazil|Aracaju|Aloo Telecom - FSF Tecnologia SA|
+|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|6|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|7|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|165.16.46.1|8080|Libya|Zliten|Aljeel Aljadeed Technology|
+|19|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
