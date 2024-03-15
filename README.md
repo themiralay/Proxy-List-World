@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|19|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
