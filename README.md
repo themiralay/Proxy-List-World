@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|190.97.238.81|999|Venezuela|Maracaibo|Viginet C.A|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|13|103.172.70.237|8080|Indonesia|Gemolong|AZNET|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|147.75.92.244|9401|Japan|Koto-ku|Packet Host, Inc.|
-|16|72.10.160.90|26907|Canada|Montreal|GloboTech Communications|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|19|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|20|114.250.20.72|9000|China|Beijing|China Unicom Beijing Province Network|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|202.152.51.44|8080|Indonesia|Tangerang|PT Aplikanusa Lintasarta|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|103.148.44.178|8882|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
 
 
 
