@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
-|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
+|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
+|19|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|20|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
