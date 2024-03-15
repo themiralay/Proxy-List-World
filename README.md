@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
-|20|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
