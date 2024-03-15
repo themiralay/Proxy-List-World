@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|9|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|1.194.236.229|5005|China|Zhengzhou|China Telecom|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|147.75.92.244|10000|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
