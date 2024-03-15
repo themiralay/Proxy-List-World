@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|222.220.102.159|8000|China|Jianshui|Chinanet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|7|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|13|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
 
 
 
