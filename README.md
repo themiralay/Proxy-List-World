@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|6|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|7|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|17|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|195.25.20.108|3128|France|Paris|Orange Business Services|
 
 
 
