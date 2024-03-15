@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|222.252.18.8|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|177.93.50.106|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|11|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|13|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|14|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|15|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|16|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|17|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|18|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|17|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
