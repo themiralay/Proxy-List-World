@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|3|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|5|134.19.254.2|21231|Georgia|Tbilisi|GPON|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.35.232.28|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
+|4|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|12|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
 |13|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.227.228|8403|Canada|Montreal|GloboTech Communications|
-|17|165.232.66.93|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|14|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|15|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|16|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|17|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|190.144.34.146|3128|Colombia|Bogotá|Telmex Colombia S.A.|
 |19|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|20|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
