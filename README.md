@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.254.107.18|3125|Indonesia|Lampung|PT Giga Patra Multimedia|
-|12|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|13|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|17|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|18|103.131.232.11|8080|Australia|Gundary|RemoteISP Pty Ltd|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.180.122.201|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|177.234.194.226|999|Ecuador|Machala|Ufinet Panama S.A.|
+|13|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|181.78.85.126|999|Colombia|Pueblo Nuevo|IFX Networks Argentina S.R.L|
+|19|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
 |20|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
 
 
