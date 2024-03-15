@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|502|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|177.93.50.106|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|43.138.145.131|80|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
