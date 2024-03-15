@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|20|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
