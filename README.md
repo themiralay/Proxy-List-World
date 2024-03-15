@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|189.240.60.168|9090|Mexico|Alvaro Obregon|UNINET|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|222.165.205.156|8089|Indonesia|Bekasi|PT NettoCyber Indonesia|
-|15|189.240.60.169|9090|Mexico|Alvaro Obregon|UNINET|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|194.213.208.226|8180|Czechia|Kralupy nad Vltavou|T-Mobile Czech Republic a.s.|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|13|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
