@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|103.6.223.2|3128|China|Baoshan|China Unicom|
-|10|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|45.71.184.134|8080|Ecuador|Naranjito|Negocios Y Telefonia Nedetel S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|171.247.204.98|8080|Vietnam|Can Tho|Viettel Corporation|
-|20|49.145.119.102|8085|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|19|184.185.105.105|4481|United States|Warwick|Cox Communications Inc.|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
