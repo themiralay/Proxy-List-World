@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|18|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|19|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|20|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|15|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|17|134.122.69.81|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|72.10.160.90|25271|Canada|Montreal|GloboTech Communications|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|206.189.13.253|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
