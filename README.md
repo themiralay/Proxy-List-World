@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.228.75.219|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|15|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|134.19.254.2|21231|Georgia|Tbilisi|GPON|
-|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|20|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|9|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|10|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.228.75.219|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|15|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|16|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|20|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
 
 
 
