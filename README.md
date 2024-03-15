@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|3|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
-|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
-|8|95.154.124.114|58000|Russia|Vladivostok|Octopusnet LTD|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|17|198.245.55.209|8080|Canada|Beauharnois|OVH SAS|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|20|47.184.175.164|3128|United States|Garland|Frontier Communications Solutions|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|91.151.90.9|80|Turkey|Mahmutbey|Poyraz Hosting|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|14|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|16|112.78.131.94|8080|Indonesia|Jagakarsa|BIZNET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
