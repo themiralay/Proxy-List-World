@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|14|103.180.247.21|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|15|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|16|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|17|78.188.81.57|8080|Türkiye|Gaziosmanpasa|TurkTelecom|
-|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|19|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|19|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|20|54.38.187.177|443|France|Strasbourg|OVH SAS|
 
 
 
