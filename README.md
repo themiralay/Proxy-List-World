@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|14|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|20|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
