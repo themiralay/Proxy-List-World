@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
 |9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|10|220.134.221.76|1131|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
+|16|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
