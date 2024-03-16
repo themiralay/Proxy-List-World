@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|185.104.249.21|3128|Russia|Moscow|First Server Limited|
-|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|16|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|9|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|10|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|14|34.102.138.130|80|United States|Kansas City|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
