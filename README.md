@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|7|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|8|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|14|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|6|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 |15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|18|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|19|195.25.20.108|3128|France|Paris|Orange Business Services|
-|20|134.122.91.201|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|64.226.82.249|9000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|83.85.135.220|80|The Netherlands|Gorinchem|Vodafone Libertel B.V.|
 
 
 
