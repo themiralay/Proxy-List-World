@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|8|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|9|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
+|9|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|10|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|14|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|18|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|19|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|16|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|20|103.162.63.124|3128|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
 
 
 
