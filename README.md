@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|15|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|16|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
 
 
 
