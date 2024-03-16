@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 |13|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|14|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|15|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|20|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|14|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
+|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|16|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|17|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
