@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|13|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|15|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|16|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
