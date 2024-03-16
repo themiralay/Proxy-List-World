@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|6|67.43.236.19|32739|Canada|Montreal|GloboTech Communications|
-|7|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|180.178.98.94|2526|Indonesia|Pisangan|PT Hipernet Indodata|
+|7|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|9|195.25.20.108|3128|France|Paris|Orange Business Services|
 |10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|12|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
 |13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
