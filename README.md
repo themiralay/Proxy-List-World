@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|13|15.164.58.67|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|14|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
-|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|16|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|18|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|147.75.34.85|10017|The Netherlands|Amsterdam|Equinix Services|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
 
 
 
