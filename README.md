@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|12|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|13|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|14|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
-|15|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|9|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|10|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|11|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|13|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
+|14|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|15|151.22.181.205|8080|Italy|Filo|INFOSTRADA|
 |16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |18|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|8.242.85.6|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
