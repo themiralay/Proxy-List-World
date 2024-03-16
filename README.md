@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|12|201.20.115.22|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|13|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
