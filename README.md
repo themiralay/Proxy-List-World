@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|7|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|8|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|10|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|38.9.146.150|3128|Indonesia|Medan|Cogent Communications|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|6|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|8|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|9|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|195.25.20.108|3128|France|Paris|Orange Business Services|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
