@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|15|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|20|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|4|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|11|217.150.216.89|32650|Spain|Figueres|J.C. TECNICS, S.L.|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
+|17|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|20|161.35.232.28|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
