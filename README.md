@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6033** proxies at the latest update. Usable proxies are below.
+> Scraper found **6027** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|15|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|9|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|479|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4571|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|5|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
-|12|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|13|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|15|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|11|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|12|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|13|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|16|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|19|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
