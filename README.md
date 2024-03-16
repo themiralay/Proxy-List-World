@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|12|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|14|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|15|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|16|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|17|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|9|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|14|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|18|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
