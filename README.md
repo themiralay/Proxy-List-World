@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|4|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|5|213.226.11.149|41878|Bulgaria|Plovdiv|Mobiltel EAD|
-|6|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|6|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|7|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.190.171.179|8080|Indonesia|Jakarta|WMS|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|19|103.211.107.77|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|20|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|14|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|18|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|19|15.164.58.67|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
