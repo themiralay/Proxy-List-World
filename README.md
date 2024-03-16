@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6255** proxies at the latest update. Usable proxies are below.
+> Scraper found **6466** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|7|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|709|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4571|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4782|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|13|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
-|14|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
-|15|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|16|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|10|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|11|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|13|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|14|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
