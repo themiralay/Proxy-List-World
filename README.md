@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 |11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|12|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 |13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|152.99.145.25|80|South Korea|Cheonan|National Information Resources Service|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
+|20|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
