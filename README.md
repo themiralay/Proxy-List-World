@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 |9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|12|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|13|217.150.216.89|32650|Spain|Figueres|J.C. TECNICS, S.L.|
-|14|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|15|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|16|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|17|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|19|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|10|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|11|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|12|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|13|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
+|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|15|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
