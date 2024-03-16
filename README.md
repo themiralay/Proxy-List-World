@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 |14|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |15|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|16|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|17|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|18|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
