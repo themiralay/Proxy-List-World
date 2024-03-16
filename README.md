@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|195.25.20.108|3128|France|Paris|Orange Business Services|
-|13|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|11|194.213.208.226|8180|Czechia|Kralupy nad Vltavou|T-Mobile Czech Republic a.s.|
+|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|13|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|14|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
+|15|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|18|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|19|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
