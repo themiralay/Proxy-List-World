@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|7|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|12|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|17|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|18|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|19|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|20|103.180.247.21|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|12|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
