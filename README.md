@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|12|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
-|13|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|201.20.115.22|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 
 
 
