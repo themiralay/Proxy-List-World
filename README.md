@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|6|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|14|195.25.20.108|3128|France|Paris|Orange Business Services|
-|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|18|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|19|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|17|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|20|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
 
 
 
