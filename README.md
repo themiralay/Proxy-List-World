@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|11|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|12|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|13|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|16|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|19|20.28.172.172|3128|Australia|The Rocks|Microsoft Corporation|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|14|103.103.3.6|8080|India|Asansol|Mediatech Communication Pvt.ltd|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|17|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
