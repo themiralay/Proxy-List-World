@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|12|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|13|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
 |14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|161.35.232.28|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|18|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|101.255.17.6|8033|Indonesia|Bidara Cina|PT Remala Abadi|
 
 
 
