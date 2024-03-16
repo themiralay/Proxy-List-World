@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|4|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|5|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|75.112.64.27|8080|United States|Sanford|Spectrum|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|12|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|16|147.75.92.251|10010|Japan|Koto-ku|Packet Host, Inc.|
-|17|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|18|199.48.135.186|3120|United States|Dallas|NetActuate, Inc|
-|19|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
