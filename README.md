@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|12|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|13|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |14|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|103.156.75.40|8080|Indonesia|Singaraja|PT Trika Global Media|
-|19|147.75.92.244|9401|Japan|Koto-ku|Packet Host, Inc.|
-|20|147.75.92.244|9401|Japan|Koto-ku|Packet Host, Inc.|
+|15|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|20|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
 
 
 
