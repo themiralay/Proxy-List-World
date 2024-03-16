@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|181.209.82.195|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|8.242.85.6|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|12|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|38.9.146.150|3128|Indonesia|Medan|Cogent Communications|
+|17|161.49.215.28|10101|Philippines|Cabanatuan City|Converge Information and Communications Technology Solutions|
+|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|19|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
