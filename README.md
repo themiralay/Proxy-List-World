@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|11|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|19|27.254.140.104|3133|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|20|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|1|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
