@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|8|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
-|9|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 |10|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|11|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|103.180.247.21|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.162.54.119|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|13|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|16|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
