@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
-|17|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|18|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|14|181.209.82.195|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|16|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
