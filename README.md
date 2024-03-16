@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|41.33.203.228|1976|Egypt|Cairo|TE Data|
-|13|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|17|195.25.20.108|3128|France|Paris|Orange Business Services|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|12|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|13|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
 
 
 
