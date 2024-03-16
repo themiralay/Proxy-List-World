@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|14|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|18|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|19|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|189.195.139.178|999|Mexico|Penjamo|Mega Cable, S.A. de C.V.|
+|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|195.25.20.108|3128|France|Paris|Orange Business Services|
+|19|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
