@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
-|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|12|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|13|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|18|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|195.24.66.125|3128|Russia|Moscow|JSC "RU-CENTER"|
-|20|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|8|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|52.171.209.77|3128|United States|San Antonio|Microsoft Corporation|
+|15|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|18|161.35.31.43|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
 
 
 
