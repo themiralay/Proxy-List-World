@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|9|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|10|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
-|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|7|119.93.148.191|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|13|195.25.20.108|3128|France|Paris|Orange Business Services|
+|14|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
