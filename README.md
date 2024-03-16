@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
-|18|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|72.10.164.178|29285|Canada|Montreal|GloboTech Communications|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|14|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
