@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|124.83.72.82|8080|Philippines|Palo|Philippine Long Distance Telephone Co.|
-|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|152.99.145.25|80|South Korea|Cheonan|National Information Resources Service|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|14|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|15|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|16|201.20.115.22|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|17|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
