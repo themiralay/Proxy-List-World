@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.164.178|10155|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|7|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|14087|Canada|Montreal|GloboTech Communications|
+|20|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
 
 
 
