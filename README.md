@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|12|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|16|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|195.25.20.108|3128|France|Paris|Orange Business Services|
 |20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
