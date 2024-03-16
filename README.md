@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6176** proxies at the latest update. Usable proxies are below.
+> Scraper found **6301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|8|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|525|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|650|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4676|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|14|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|15|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|8|45.140.189.95|29003|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|20|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
 
 
 
