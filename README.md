@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6333** proxies at the latest update. Usable proxies are below.
+> Scraper found **6331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|10|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|8|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|680|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4676|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|14|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|12|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
+|13|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
