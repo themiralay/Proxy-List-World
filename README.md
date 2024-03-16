@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|12|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|13|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|75.112.64.27|8080|United States|Sanford|Spectrum|
-|15|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
-|18|75.112.64.27|8080|United States|Sanford|Spectrum|
-|19|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|20|181.205.41.210|7654|Colombia|Medellín|Colombia Móvil|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|185.104.249.21|3128|Russia|Moscow|First Server Limited|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|17|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
