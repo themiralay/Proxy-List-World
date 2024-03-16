@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|13|45.140.189.95|29003|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|131.153.213.68|8085|United States|Tempe|Secured Servers LLC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|18|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
