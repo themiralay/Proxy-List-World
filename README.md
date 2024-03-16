@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 |6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|217.150.216.89|32650|Spain|Figueres|J.C. TECNICS, S.L.|
+|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|18|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
+|19|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|20|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
 
 
 
