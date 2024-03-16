@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|195.25.20.108|3128|France|Paris|Orange Business Services|
-|18|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|12|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|20|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
 
 
 
