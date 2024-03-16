@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.172.42.210|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|11|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|13|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |16|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
 
 
 
