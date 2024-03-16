@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|8|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|9|103.104.92.178|8080|India|Mumbai|Mnk Infoway Private Limited|
-|10|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 |13|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
 |16|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|17|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|18|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|147.75.34.86|80|The Netherlands|Amsterdam|Equinix Services|
+|20|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
