@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|171.235.166.222|4005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|103.162.54.119|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
