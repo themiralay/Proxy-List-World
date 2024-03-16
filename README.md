@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|11|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|12|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|13|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|14|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|10|34.49.208.221|80|United States|Kansas City|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
+|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|19|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|20|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 
 
 
