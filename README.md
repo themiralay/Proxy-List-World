@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|15|41.60.26.210|32650|South Africa|Johannesburg|Maintainer Liquid Telecommunications Operations Limited|
-|16|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|15|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
 
 
 
