@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|10|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
-|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|10|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|12|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|20|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
 
 
 
