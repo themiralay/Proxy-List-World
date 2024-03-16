@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|7|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|8|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|9|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|12|195.25.20.108|3128|France|Paris|Orange Business Services|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|5|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|6|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 
 
 
