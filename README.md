@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|11|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |18|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|20|152.99.145.25|80|South Korea|Cheonan|National Information Resources Service|
+|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
