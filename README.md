@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|5|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|11|195.25.20.108|3128|France|Paris|Orange Business Services|
-|12|64.226.82.249|9000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|65.21.177.75|8443|Finland|Helsinki|Hetzner Online GmbH|
-|18|38.65.172.145|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|19|46.246.28.106|80|Sweden|Stockholm|Portlane Network|
-|20|20.22.205.230|3128|United States|Boydton|Microsoft Corporation|
+|3|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|4|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|5|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|203.190.112.6|8071|Indonesia|Sorosutan|PT Union Routelink Communication|
+|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|10|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.22.205.230|3128|United States|Boydton|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|16|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|17|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|72.10.164.178|18393|Canada|Montreal|GloboTech Communications|
+|19|195.25.20.108|3128|France|Paris|Orange Business Services|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
