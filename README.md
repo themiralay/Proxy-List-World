@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|10|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|11|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|12|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
