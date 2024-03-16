@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|181.209.78.76|999|Argentina|Daireaux|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|20|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|14|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|15|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|20|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
