@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|9|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|10|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|11|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|7223|Canada|Montreal|GloboTech Communications|
-|17|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|18|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
 
 
 
