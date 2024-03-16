@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|12|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|202.51.212.146|8080|Indonesia|Medan|PT. Sejahtera Globalindo|
-|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|17|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|20|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|13|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|14|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|16|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|136.243.73.229|9999|Germany|Cologne|Hetzner Online GmbH|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
