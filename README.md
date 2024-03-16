@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|19|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|20|67.43.236.20|15271|Canada|Montreal|GloboTech Communications|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|6|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
+|7|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|13|67.43.236.20|20415|Canada|Montreal|GloboTech Communications|
+|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|72.10.164.178|23685|Canada|Montreal|GloboTech Communications|
+|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|152.99.145.45|80|South Korea|Cheonan|National Information Resources Service|
 
 
 
