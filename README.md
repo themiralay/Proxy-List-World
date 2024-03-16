@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|10|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|75.112.64.27|8080|United States|Sanford|Spectrum|
-|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|16|188.132.222.51|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|19|75.112.64.27|8080|United States|Sanford|Spectrum|
-|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|20|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
 
 
 
