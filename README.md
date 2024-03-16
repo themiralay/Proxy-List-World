@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6028** proxies at the latest update. Usable proxies are below.
+> Scraper found **6056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|10|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|479|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4571|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|7|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|9|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|10|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
+|17|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|20|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
 
 
 
