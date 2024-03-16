@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|12|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|18|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|8|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|9|181.205.41.210|7654|Colombia|Medellín|Colombia Móvil|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|13|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|183.89.165.201|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
+|19|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|20|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
