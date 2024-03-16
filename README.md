@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
 |8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|16|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|187.232.238.247|3128|Mexico|Aguascalientes|UNINET|
-|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|9|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|15|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
