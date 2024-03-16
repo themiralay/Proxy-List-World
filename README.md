@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|16|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|18|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|11|195.25.20.108|3128|France|Paris|Orange Business Services|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|89.58.16.58|3128|Austria|Vienna|netcup GmbH|
+|14|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|16|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|17|84.204.40.155|8080|Russia|St Petersburg|PJSC MegaFon|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|95.38.95.40|3128|Iran|Tehran|Fanava Group|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
