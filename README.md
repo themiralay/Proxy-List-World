@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|10|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|17|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|18|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|19|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
+|13|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
