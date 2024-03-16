@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|27.254.140.104|3133|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|19|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|14|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|16|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|19|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
