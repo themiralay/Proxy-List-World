@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|12|8.242.85.6|999|Colombia|Medellín|Level 3 Communications, Inc.|
-|13|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
 |14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|20|195.24.66.125|3128|Russia|Moscow|JSC "RU-CENTER"|
 
 
 
