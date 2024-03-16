@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|51.250.64.75|3128|Russia|Moscow|Yandex.Cloud LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
-|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|10|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|12|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|14|75.112.64.27|8080|United States|Sanford|Spectrum|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|185.104.249.21|3128|Russia|Moscow|First Server Limited|
-|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
