@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|14|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|9|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|72.10.164.178|18181|Canada|Montreal|GloboTech Communications|
+|19|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
