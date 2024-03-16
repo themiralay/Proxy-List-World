@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|14|147.75.92.244|9401|Japan|Koto-ku|Packet Host, Inc.|
-|15|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|18|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
-|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|160.20.109.73|3128|Turkey|Bursa|DGN TEKNOLOJI A.S.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|13|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|15|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|18|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
