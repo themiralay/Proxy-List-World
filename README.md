@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|14|220.134.221.76|1131|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|20|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
 
 
 
