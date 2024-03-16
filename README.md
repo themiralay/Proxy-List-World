@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|13|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|14|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|15|103.162.54.119|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|16|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
 |17|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|18|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|20|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
 
 
 
