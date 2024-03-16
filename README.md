@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|10|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.104.92.178|8080|India|Mumbai|Mnk Infoway Private Limited|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|14|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|15|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|18|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|19|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
