@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|201.20.115.22|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|8|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|12|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|66.187.192.9|3128|Canada|Montreal|Hive Data Center Inc.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|19|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|20|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
