@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|14|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|15|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|16|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|17|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|18|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
-|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|11|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|19|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
 
 
 
