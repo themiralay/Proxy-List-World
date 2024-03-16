@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|11|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|12|180.189.196.26|8080|New Zealand|Auckland|FASTCOM|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
-|17|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|72.10.160.172|29619|Canada|Montreal|GloboTech Communications|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|12|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
+|16|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
