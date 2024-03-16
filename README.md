@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.209.82.195|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|17|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|18|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|20|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|7|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|18|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
