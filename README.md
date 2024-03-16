@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|14|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
 |15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|16|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|17|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
-|18|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|20|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
 
 
 
