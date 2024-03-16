@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
 |5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|12|188.132.146.75|8080|Turkey|Reyhanli|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|14|92.207.253.226|38157|United Kingdom|Manchester|Gamma Telecom Holdings Ltd|
-|15|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
-|16|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|13|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|14|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|15|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|16|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
