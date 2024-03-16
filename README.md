@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|11|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|19|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
