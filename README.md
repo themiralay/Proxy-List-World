@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |11|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|67.43.227.227|2955|Canada|Montreal|GloboTech Communications|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 
 
 
