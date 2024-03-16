@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|12|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|14|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|17|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|11|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|18|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
 
 
 
