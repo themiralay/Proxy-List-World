@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|11|217.150.216.89|32650|Spain|Figueres|J.C. TECNICS, S.L.|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
-|17|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|20|161.35.232.28|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|217.150.216.89|32650|Spain|Figueres|J.C. TECNICS, S.L.|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|65.21.177.75|8443|Finland|Helsinki|Hetzner Online GmbH|
+|19|134.122.69.81|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
