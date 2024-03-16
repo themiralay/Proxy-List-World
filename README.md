@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|8|195.25.20.108|3128|France|Paris|Orange Business Services|
+|9|165.225.72.149|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|10|134.122.91.201|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.9.62.122|9877|Germany|Bayreuth|Hetzner Online GmbH|
+|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|18|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
