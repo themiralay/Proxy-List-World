@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|6|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
+|7|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|8|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
+|9|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.152.232.69|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
 |12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |13|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|14|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|15|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|16|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|72.10.164.178|21261|Canada|Montreal|GloboTech Communications|
-|20|45.236.171.77|999|Ecuador|Santa Elena|Codgrec S.A.|
+|14|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|18|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
