@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|75.112.64.27|8080|United States|Sanford|Spectrum|
-|16|75.112.64.27|8080|United States|Sanford|Spectrum|
-|17|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|18|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|19|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|12|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
+|13|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|17|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |20|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
 
 
