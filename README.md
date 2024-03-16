@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|18|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
-|20|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|195.25.20.108|3128|France|Paris|Orange Business Services|
+|13|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
+|15|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|16|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|17|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
