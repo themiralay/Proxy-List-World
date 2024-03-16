@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|5|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|6|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|10|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|147.75.92.244|9401|Japan|Koto-ku|Packet Host, Inc.|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |15|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|16|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|17|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
+|17|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
