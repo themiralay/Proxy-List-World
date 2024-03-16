@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|181.209.78.76|999|Argentina|Daireaux|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 |10|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |11|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|13|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|16|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
 
 
 
