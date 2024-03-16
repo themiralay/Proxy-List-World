@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|171.235.166.222|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|14|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|15|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
 |17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
 |19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
