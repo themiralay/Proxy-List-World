@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|13|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
-|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|11|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|40.124.177.12|3128|United States|San Antonio|Microsoft Corporation|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
