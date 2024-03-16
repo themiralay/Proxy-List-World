@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|15|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
-|16|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|17|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|18|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|19|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|20|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|12|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|13|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|14|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|18|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|19|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
+|20|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
 
 
 
