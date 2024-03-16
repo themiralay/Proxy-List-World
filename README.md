@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|17|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|12|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|20.204.55.21|8123|India|Pune|Microsoft Corporation|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|20|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|20|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
