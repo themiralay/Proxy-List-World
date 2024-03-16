@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|9|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|10|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|14|34.102.138.130|80|United States|Kansas City|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 
 
 
