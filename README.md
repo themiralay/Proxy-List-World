@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|8|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
-|11|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
-|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |16|189.232.91.85|8080|Mexico|Tula de Allende|UNINET|
-|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|152.99.145.45|80|South Korea|Cheonan|National Information Resources Service|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
