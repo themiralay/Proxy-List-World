@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|7|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|14|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|15|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|13|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |19|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|20|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
