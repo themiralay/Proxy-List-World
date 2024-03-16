@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|6|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|203.161.30.10|8765|Indonesia|Jakarta|PT. Trimitra Usaha Sejahtera|
+|9|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|14|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
 |15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|17|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|18|75.112.64.27|8080|United States|Sanford|Spectrum|
-|19|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
-|20|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|16|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|17|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|18|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
