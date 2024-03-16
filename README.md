@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|5|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|6|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|9|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|14|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|15|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|17|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|20|103.152.232.69|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|9|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|15|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|16|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|17|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|18|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|19|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
