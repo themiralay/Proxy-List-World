@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|220.134.221.76|1131|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 |12|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
 |13|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|14|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|14|147.75.92.244|80|Japan|Koto-ku|Packet Host, Inc.|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
