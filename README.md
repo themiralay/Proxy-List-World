@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|12|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|13|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|9|8.242.85.6|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|12|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|52.171.209.77|3128|United States|San Antonio|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
 |19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
+|20|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
