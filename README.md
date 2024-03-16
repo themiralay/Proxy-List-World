@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|112.78.165.60|8080|Indonesia|Jakarta|Biznet Networks|
-|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|12|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|13|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|40.124.82.189|3128|United States|San Antonio|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
