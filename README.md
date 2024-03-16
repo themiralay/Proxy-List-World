@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|15|103.127.220.98|8080|Indonesia|Tulangan Utara|PT Multi Guna Sinergi|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|19|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|20|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|7|103.76.148.92|8181|Indonesia|Kediri|PT. Java Digital Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|13|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|20.210.133.129|3128|Japan|Osaka|Microsoft Corporation|
+|20|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
 
 
 
