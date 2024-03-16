@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|5|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|6|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|11|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|17|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|52.87.175.123|8787|United States|Ashburn|Amazon.com, Inc.|
+|9|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|14|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|15|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
