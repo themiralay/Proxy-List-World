@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|6|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|7|62.171.145.249|9000|Germany|Nuremberg|Contabo GmbH|
-|8|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|189.195.139.178|999|Mexico|Penjamo|Mega Cable, S.A. de C.V.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|12|195.25.20.108|3128|France|Paris|Orange Business Services|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
-|17|181.205.41.210|7654|Colombia|Medellín|Colombia Móvil|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|14|195.25.20.108|3128|France|Paris|Orange Business Services|
+|15|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|16|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
