@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|12|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
-|13|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|16|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |20|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
 
