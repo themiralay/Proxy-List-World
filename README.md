@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.104.92.178|8080|India|Mumbai|Mnk Infoway Private Limited|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|14|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|15|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|18|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
-|19|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|10|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|11|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|18|147.75.92.244|10015|Japan|Koto-ku|Packet Host, Inc.|
+|19|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
 |20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
