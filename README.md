@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|103.125.154.233|8080|India|Coimbatore|Live Fibernet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|16|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
-|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
-|18|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|19|67.43.228.253|9563|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12085|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|213.226.11.149|41878|Bulgaria|Plovdiv|Mobiltel EAD|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|11|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|147.75.92.248|10015|Japan|Koto-ku|Packet Host, Inc.|
+|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
