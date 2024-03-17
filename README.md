@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|674|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|674|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|674|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|2|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
-|12|103.65.238.174|8181|Indonesia|Medan|PT Media Alvina Sejati|
-|13|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|14|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|17|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
-|18|27.147.130.170|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|203.113.114.94|33107|Thailand|Samut Sakhon|TOT Public Company Limited|
-|20|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|9|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|10|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|36.94.20.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|18|103.81.222.235|8080|Indonesia|Bandung|STARNET|
+|19|103.211.107.77|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|20|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
 
 
 
