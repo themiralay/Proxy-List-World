@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
-|12|103.101.216.2|8080|Indonesia|Kabupaten Serdang Bedagai|PT Duta Trans Nusantara Network|
-|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
-|14|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|49.48.115.89|8080|Thailand|Chum Phae|Triple T Broadband Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|72.10.160.92|30437|Canada|Montreal|GloboTech Communications|
+|18|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|162.210.192.136|34345|United States|Manassas|Leaseweb USA, Inc.|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
