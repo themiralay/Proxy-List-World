@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|14.235.54.71|19132|Vietnam|Phu Ly|VNPT|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|11|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|17|67.43.227.227|6689|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|152.99.145.25|80|South Korea|Seo-gu|National Information Resources Service|
+|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
