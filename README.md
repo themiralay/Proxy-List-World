@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|11|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
-|17|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
