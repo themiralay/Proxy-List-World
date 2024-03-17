@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|6|49.0.34.194|8080|Bangladesh|Sakhipur|Always On Network Bangladesh Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|183.89.8.159|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|14|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|16|103.156.249.30|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|72.10.164.178|18009|Canada|Montreal|GloboTech Communications|
-|20|45.173.6.102|8080|Colombia|Bogotá|Liberty Networks De Colombia S.A.S|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|188.132.176.201|3128|Turkey|Eyüpsultan|PremierDC Veri Merkezi Anonim Sirketi|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.26.110.125|82|India|Tirunelveli|Niss Networks|
+|16|72.10.164.178|18009|Canada|Montreal|GloboTech Communications|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
