@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|188.132.222.14|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|94.131.203.7|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|13|188.132.222.49|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
+|15|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |19|34.102.138.130|80|United States|Kansas City|Google LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|147.75.92.251|10011|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
