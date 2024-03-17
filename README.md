@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|15|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.227.226|29039|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|13|67.43.227.226|18847|Canada|Montreal|GloboTech Communications|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |18|72.10.164.178|11735|Canada|Montreal|GloboTech Communications|
-|19|38.242.234.81|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|67.43.228.253|11749|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11735|Canada|Montreal|GloboTech Communications|
+|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
 
 
 
