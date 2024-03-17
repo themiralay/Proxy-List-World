@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|152.99.145.25|80|South Korea|Seo-gu|National Information Resources Service|
-|18|72.10.160.90|28239|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|8633|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
