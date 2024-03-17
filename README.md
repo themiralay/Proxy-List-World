@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|9|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
-|10|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|13|196.251.222.229|8103|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
-|14|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|17|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|18|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
-|19|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|20|34.102.138.130|80|United States|Kansas City|Google LLC|
+|6|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|8|34.102.138.130|80|United States|Kansas City|Google LLC|
+|9|103.227.252.71|8888|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|103.227.252.71|8888|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|67.43.236.20|12807|Canada|Montreal|GloboTech Communications|
+|16|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|72.10.164.178|10531|Canada|Montreal|GloboTech Communications|
+|18|174.138.176.77|26248|United States|Secaucus|Interserver, Inc|
+|19|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
