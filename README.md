@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|493|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|8|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|11|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|12|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|13|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|9|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|12|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|17|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
+|20|162.210.192.136|34345|United States|Manassas|Leaseweb USA, Inc.|
 
 
 
