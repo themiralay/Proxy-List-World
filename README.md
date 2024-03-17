@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |10|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|12|67.43.227.226|10627|Canada|Montreal|GloboTech Communications|
-|13|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|67.43.236.20|2659|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10447|Canada|Montreal|GloboTech Communications|
-|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|11|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|17|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|67.43.227.227|14527|Canada|Montreal|GloboTech Communications|
-|20|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
