@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.100.7.218|999|Ecuador|Ambato|Telconet S.A|
-|8|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|103.105.55.51|8081|Indonesia|Gedangan|PT. Mega Artha Lintas Data|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|138.97.37.115|8189|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
+|6|45.11.95.165|5049|Russia|Moscow|Delta Ltd|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|10|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|1.4.214.178|8080|Thailand|Bang Bo|TOT Public Company Limited|
+|16|201.77.108.5|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
