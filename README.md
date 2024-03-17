@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|11|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|3|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|103.162.91.116|3128|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 |16|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
