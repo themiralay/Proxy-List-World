@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|16|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|17|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|7|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|8|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|12|45.90.12.154|10000|United States|Secaucus|RoyaleHosting BV|
+|13|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|14|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|15|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|18|195.25.20.108|3128|France|Paris|Orange Business Services|
+|19|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
