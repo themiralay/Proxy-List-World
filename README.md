@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
-|8|34.144.249.134|80|United States|Kansas City|Google LLC|
-|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|34.144.249.134|80|United States|Kansas City|Google LLC|
-|17|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
