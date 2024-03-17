@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|147.75.92.251|10011|Japan|Koto-ku|Packet Host, Inc.|
-|10|147.75.92.251|10011|Japan|Koto-ku|Packet Host, Inc.|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|67.43.228.253|25807|Canada|Montreal|GloboTech Communications|
-|20|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|103.138.27.250|6000|Bangladesh|Lākshām|HelloTech Limited|
+|4|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|5|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|147.75.92.251|10089|Japan|Koto-ku|Packet Host, Inc.|
+|7|147.75.92.251|10089|Japan|Koto-ku|Packet Host, Inc.|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|14|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|15|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|16|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|67.43.228.253|22841|Canada|Montreal|GloboTech Communications|
 
 
 
