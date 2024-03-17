@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.237.210.215|3128|United States|North Charleston|Google LLC|
 |3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|195.25.20.108|3128|France|Paris|Orange Business Services|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
 
 
 
