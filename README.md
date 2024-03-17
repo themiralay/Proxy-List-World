@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|6|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|7|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|45.90.12.154|10000|United States|Secaucus|RoyaleHosting BV|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|13|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|103.138.27.250|6000|Bangladesh|Lākshām|HelloTech Limited|
+|3|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|4|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|45.90.12.154|10000|United States|Secaucus|RoyaleHosting BV|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|151.22.181.205|8080|Italy|Rho|INFOSTRADA|
+|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|202.4.186.179|80|Indonesia|Jakarta|Syiah Kuala University|
+|15|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|16|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|45.11.95.166|6014|Russia|Moscow|Delta Ltd|
+|19|36.104.134.52|80|China|Lipu|Chinanet|
+|20|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
