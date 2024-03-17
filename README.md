@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|9|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|67.43.227.226|31949|Canada|Montreal|GloboTech Communications|
-|13|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
-|14|72.10.164.178|4669|Canada|Montreal|GloboTech Communications|
-|15|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|17|72.10.160.90|13641|Canada|Montreal|GloboTech Communications|
-|18|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|72.10.160.90|13641|Canada|Montreal|GloboTech Communications|
-|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|10|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|14|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
