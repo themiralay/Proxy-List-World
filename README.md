@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|1|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
+|2|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|19|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|157.100.7.146|999|Ecuador|Ambato|Telconet S.A|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|18|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|19|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
