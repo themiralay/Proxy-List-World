@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.156.249.30|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|6|222.127.220.162|8082|Philippines|Quezon City|GLBB|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|188.132.176.201|3128|Turkey|Eyüpsultan|PremierDC Veri Merkezi Anonim Sirketi|
-|17|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|103.231.88.100|3128|Australia|Melbourne|INTERGRID|
-|20|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|14|27.254.123.203|8443|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|103.250.130.104|1111|Indonesia|Surabaya|LINTASDAYA|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|111.225.153.107|8089|China|Zhoutou|China Telecom|
 
 
 
