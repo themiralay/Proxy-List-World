@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|20|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|13|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|14|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|16|147.75.92.251|10011|Japan|Koto-ku|Packet Host, Inc.|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|147.75.92.251|10011|Japan|Koto-ku|Packet Host, Inc.|
 
 
 
