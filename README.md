@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|539|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|6|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|187.73.102.70|9292|Brazil|Tailandia|Celante Servicos De Telecomunicacoes Ltda - EPP|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|17|200.32.51.179|8080|Argentina|Adrogue|Telefonica de Argentina|
-|18|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|19|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|157.100.7.218|999|Ecuador|Ambato|Telconet S.A|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|103.156.16.182|1111|Indonesia|Babakangarut|RSTNET|
+|10|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.147.247.175|8181|Indonesia|Tangerang|PLBNET|
+|18|116.68.170.115|8019|Indonesia|Jakarta||
+|19|111.225.153.107|8089|China|Zhoutou|China Telecom|
+|20|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
 
 
 
