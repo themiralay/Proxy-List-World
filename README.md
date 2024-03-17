@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
