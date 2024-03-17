@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|16|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|15|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|17|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
 
 
 
