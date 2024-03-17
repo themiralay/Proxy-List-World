@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
-|5|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|6|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|85.172.15.98|80|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|12|49.48.115.89|8080|Thailand|Chum Phae|Triple T Broadband Public Company Limited|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|15|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|17|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|9|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|10|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|11|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 
 
 
