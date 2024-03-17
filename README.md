@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6686** proxies at the latest update. Usable proxies are below.
+> Scraper found **6583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|9|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1074|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|971|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4636|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|6|34.49.208.221|80|United States|Kansas City|Google LLC|
-|7|34.49.208.221|80|United States|Kansas City|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|10|49.12.56.176|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|15|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|17|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
+|12|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|15|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|19|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|20|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
 
 
 
