@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|12|72.10.160.173|8083|Canada|Montreal|GloboTech Communications|
-|13|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|14|185.11.50.170|3128|Russia|Moscow|Netone Rus|
-|15|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|16|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|17|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|18|159.203.48.63|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|67.43.228.253|3857|Canada|Montreal|GloboTech Communications|
-|20|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|14|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|15|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|18|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
