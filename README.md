@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|4|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
 |5|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|7|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|9|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|49.12.56.176|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|165.232.158.60|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|17|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|151.22.181.205|8080|Italy|Filo|INFOSTRADA|
+|12|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|13|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|14|49.12.56.176|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|17|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|18|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
+|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
