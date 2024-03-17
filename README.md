@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|45.188.76.236|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|6|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
-|9|138.0.140.186|8080|Brazil|Mirandopolis|F.B. BABETO ME|
-|10|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|11|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|103.147.247.175|8181|Indonesia|Tangerang|PLBNET|
-|15|49.151.111.158|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|16|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|4|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|7|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
+|12|103.25.210.102|4317|Indonesia|Purwokerto|TRANSDATA|
+|13|202.60.194.23|80|Thailand|Ban Talat Bueng|TCC Technology Co., Ltd.|
+|14|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
+|20|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
 
 
 
