@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|181.78.23.194|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|27.121.87.187|80|Indonesia|Pekanbaru|dashnet|
+|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|16|103.125.154.233|8080|India|Tirupur|Live Fibernet|
+|13|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|14|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|16|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
 |19|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
