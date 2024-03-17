@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|9|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|103.159.196.81|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|13|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|112.78.161.93|8080|Indonesia|Jakarta|Biznet Networks|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
-|18|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
-|19|14.187.196.249|19132|Vietnam|Ho Chi Minh City|VNPT|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|37.187.24.201|81|France|Gravelines|OVH SAS|
+|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|15|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 
 
 
