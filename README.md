@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|10|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|11|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|14|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|7|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|10|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 |15|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|195.25.20.108|3128|France|Paris|Orange Business Services|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|103.156.75.42|8080|Indonesia|Singaraja|PT Trika Global Media|
+|18|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|19|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
