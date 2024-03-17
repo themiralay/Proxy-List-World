@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|7|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|46.105.34.211|8118|France|Roubaix|OVH SAS|
-|16|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.11.95.165|6014|Russia|Moscow|Delta Ltd|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|103.146.185.141|1111|Indonesia|Sragen|YAMNET|
+|9|46.105.34.211|8118|France|Roubaix|OVH SAS|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
