@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|11|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|13|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|18|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|14|49.48.115.89|8080|Thailand|Chum Phae|Triple T Broadband Public Company Limited|
+|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
 
 
 
