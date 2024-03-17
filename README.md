@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
+|1|34.144.249.134|80|United States|Kansas City|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|16|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|34.144.249.134|80|United States|Kansas City|Google LLC|
+|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
 
 
 
