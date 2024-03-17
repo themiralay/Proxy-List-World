@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|43.159.131.167|5555|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|115.127.13.154|8880|Bangladesh|Dhaka|BRACNet Limited|
+|10|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|45.233.170.74|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
