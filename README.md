@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|728|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|728|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|728|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|5|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|6|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|38.41.5.89|999|Venezuela|Ocumare|MDS TELECOM C.A.|
-|9|45.224.22.177|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|10|103.158.220.2|84|India|Theni|Nt Cybronet Pvt Ltd|
-|11|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
-|14|103.41.88.6|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|15|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|17|103.83.178.42|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
-|20|191.102.254.28|8085|Argentina|Rosario|IP·RED|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
+|8|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|9|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|10|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|45.7.64.100|999|Mexico|San Bartolo Tutotepec|Maysnet SA De CV|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|45.215.247.250|3129|Zambia|Lusaka|Airtel Zambia|
+|14|181.232.190.250|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|103.178.42.102|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|17|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
