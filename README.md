@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.253.232.22|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|103.152.232.148|8085|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|4|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 |5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|8|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|37.187.24.201|81|France|Gravelines|OVH SAS|
-|13|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|27.147.139.154|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|19|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|20|72.10.160.90|14019|Canada|Montreal|GloboTech Communications|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|17|66.223.176.201|8080|United States|Fairbanks|General Communication|
+|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|19|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|20|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
 
 
 
