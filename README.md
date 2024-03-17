@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|7|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|17|18.130.220.28|8193|United Kingdom|London|Amazon Technologies Inc.|
-|18|38.159.232.195|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
-|19|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|8|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|15|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|20|20.204.55.21|8123|India|Pune|Microsoft Corporation|
 
 
 
