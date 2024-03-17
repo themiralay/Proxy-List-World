@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|67.43.227.228|13179|Canada|Montreal|GloboTech Communications|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|85.206.13.20|80|Lithuania|Utena|Telia Lietuva, AB|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|15|69.160.223.129|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|16|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|13|103.254.107.18|3125|Indonesia|Nabangbaru|PT Giga Patra Multimedia|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|18|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
