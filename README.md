@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|103.101.216.2|8080|Indonesia|Kabupaten Serdang Bedagai|PT Duta Trans Nusantara Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|10|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|17|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|19|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
-|20|51.178.139.246|3128|France|Roubaix|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|13|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|14|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|195.25.20.108|3128|France|Paris|Orange Business Services|
 
 
 
