@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.228.254|30751|Canada|Montreal|GloboTech Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|192.155.87.239|80|United States|Fremont|Akamai Technologies, Inc.|
 |16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|38.188.127.127|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|19|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|17|72.10.164.178|8459|Canada|Montreal|GloboTech Communications|
+|18|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
+|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
