@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|3|103.186.204.11|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|4|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|103.180.240.191|8080|Nepal|Gulmī Tamghās|Dish Media Network Public Limited|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|72.10.160.90|11117|Canada|Montreal|GloboTech Communications|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|14.187.196.249|19132|Vietnam|Ho Chi Minh City|VNPT|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|10|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|18|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|72.10.160.90|27263|Canada|Montreal|GloboTech Communications|
+|20|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
 
 
 
