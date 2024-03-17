@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|5|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|12|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
-|16|165.225.72.156|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|72.10.164.178|18615|Canada|Montreal|GloboTech Communications|
-|19|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|84.52.88.59|8080|Russia|St Petersburg|WestCall|
+|16|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|18|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|19|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
+|20|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
 
 
 
