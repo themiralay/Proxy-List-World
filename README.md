@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|8|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|9|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|10|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|11|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|10|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|11|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|12|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 
 
