@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|14|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|20|34.102.138.130|80|United States|Kansas City|Google LLC|
 
 
 
