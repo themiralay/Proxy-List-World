@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|8|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|14|72.10.164.178|21025|Canada|Montreal|GloboTech Communications|
-|15|195.25.20.108|3128|France|Paris|Orange Business Services|
-|16|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|188.132.222.14|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.156.75.42|8080|Indonesia|Singaraja|PT Trika Global Media|
+|15|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
