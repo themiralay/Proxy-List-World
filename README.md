@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
-|10|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|11|34.102.138.130|80|United States|Kansas City|Google LLC|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|16|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
-|18|103.165.222.190|8080|Indonesia|Bandung|PT iForte Global Internet|
-|19|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
-|20|103.243.177.90|8080|Indonesia|Ungaran|Universitas Katolik Soegijapranata|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|34.102.138.130|80|United States|Kansas City|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|34.102.138.130|80|United States|Kansas City|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|18|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|20|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
 
 
 
