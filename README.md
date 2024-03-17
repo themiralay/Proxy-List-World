@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|14|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|15|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|103.234.159.5|8080|India|Mumbai|MWPL|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.234.159.5|8080|India|Mumbai|MWPL|
+|20|103.177.21.9|8080|Indonesia|Malang|PT Lintas Data Multimedia|
 
 
 
