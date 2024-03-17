@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|16|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
+|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 |19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
 
 
 
