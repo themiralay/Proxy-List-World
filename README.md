@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.168.129.123|8080|Indonesia|Jakarta|LINTASARTA|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|14|115.147.34.50|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|38.253.232.22|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|103.167.69.242|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|83.118.30.224|8081|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|12|222.127.220.162|8082|Philippines|Quezon City|GLBB|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|16|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|20|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
