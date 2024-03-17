@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |6|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|7|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
-|15|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
+|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|12|147.75.34.85|10008|The Netherlands|Amsterdam|Equinix Services|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|15|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
+|18|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
+|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
 
 
 
