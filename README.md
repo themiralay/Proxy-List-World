@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|14|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|20|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|185.170.238.42|8080|Iran|Tehran|Pardazeshgaran Almas Pasargad Co. Pjs|
+|12|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
