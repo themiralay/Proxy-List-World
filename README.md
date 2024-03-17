@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|14.187.196.249|19132|Vietnam|Ho Chi Minh City|VNPT|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|14.187.196.249|19132|Vietnam|Ho Chi Minh City|VNPT|
+|2|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|10|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|18|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|19|72.10.160.90|27263|Canada|Montreal|GloboTech Communications|
-|20|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|10|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|11|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|103.172.70.138|9191|Indonesia|Gemolong|AZNET|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|15|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
