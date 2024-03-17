@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|116.90.179.198|8080|Indonesia|Medan|Panca Duta Utama|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|3|171.97.16.7|8080|Thailand|Ban Sai Mai|True Internet Corporation CO. Ltd.|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|147.75.34.86|10000|The Netherlands|Amsterdam|Equinix Services|
-|9|179.60.235.251|8096|Argentina|Gobernador Galvez|WICORP SA|
-|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|34.49.208.221|80|United States|Kansas City|Google LLC|
-|14|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|77.92.245.34|8080|Georgia|Tbilisi|JSC "Silknet"|
-|16|202.162.43.241|8080|Indonesia|Magelang|PT Global Prima Utama|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.49.208.221|80|United States|Kansas City|Google LLC|
+|7|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|8|147.75.34.86|80|The Netherlands|Amsterdam|Equinix Services|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|103.48.69.54|82|India|Hyderabad|Country Online Services PVT LTD|
+|13|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|181.48.160.114|9090|Colombia|Medellín|Telmex Colombia S.A.|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|181.232.159.143|10101|Paraguay|Minga Guazú|TV 2 S.A.|
 |19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
