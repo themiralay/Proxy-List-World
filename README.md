@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.131.18.194|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|16|65.21.251.1|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|192.155.87.239|80|United States|Fremont|Akamai Technologies, Inc.|
-|18|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
-|19|147.75.34.85|80|The Netherlands|Amsterdam|Equinix Services|
-|20|101.255.208.170|8080|Indonesia|Bekasi|PT Remala Abadi|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|8|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|112.106.145.190|80|South Korea|Seongnam-si|SamsungSDS Inc.|
+|13|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
+|14|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
+|16|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|192.155.87.239|80|United States|Fremont|Akamai Technologies, Inc.|
+|20|164.52.206.180|80|India|Noida|E2E Networks Limited|
 
 
 
