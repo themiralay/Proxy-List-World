@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
-|7|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
-|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|13|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|17|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |19|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
-|20|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
