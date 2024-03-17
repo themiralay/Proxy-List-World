@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|8|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|185.104.249.21|3128|Russia|Moscow|First Server Limited|
-|14|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|185.170.238.42|8080|Iran|Tehran|Pardazeshgaran Almas Pasargad Co. Pjs|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
-|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|6|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|7|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|49.49.79.201|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
+|14|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|20|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
