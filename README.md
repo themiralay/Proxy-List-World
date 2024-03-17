@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|6|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|10|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|72.10.160.90|8349|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5381|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8349|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5381|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|8765|Canada|Montreal|GloboTech Communications|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|10|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|147.75.92.251|10008|Japan|Koto-ku|Packet Host, Inc.|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|15|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
+|16|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|17|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
 
 
 
