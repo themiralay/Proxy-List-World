@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|66.228.140.209|8899|United States|Flower Mound|Negma Internet|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|66.228.140.209|8899|United States|Flower Mound|Negma Internet|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|7|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
 |10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|13|2.189.148.1|8080|Iran|Tehran|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|35.194.50.143|3128|United States|Council Bluffs|Google LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|146.190.57.169|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|12|51.81.42.255|3129|United States|Finchville|OVH US LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|51.81.42.255|3129|United States|Finchville|OVH US LLC|
+|15|146.56.98.158|3128|South Korea|Chuncheon|Oracle Corporation|
+|16|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
+|17|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
