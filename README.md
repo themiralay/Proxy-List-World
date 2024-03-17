@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|2|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|190.119.68.142|999|Peru|Santa Rosa|America Movil Peru S.A.C.|
-|12|109.164.38.189|2306|Czechia|Kamenny Ujezd|STARNET, s.r.o.|
-|13|187.232.238.247|3128|Mexico|Aguascalientes|UNINET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|10|103.162.50.13|80|Bangladesh|Chittagong|Exabyte Ltd.|
+|11|103.48.69.54|82|India|Hyderabad|Country Online Services PVT LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
+|17|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
 |18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
-|20|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
