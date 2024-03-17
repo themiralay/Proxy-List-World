@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|5|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|10|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|17|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|34.85.177.170|3128|United States|Washington|Google LLC|
+|8|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|12|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|15|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|18|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 |20|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
 
 
