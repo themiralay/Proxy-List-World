@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|18|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
 
 
 
