@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|5|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|45.149.93.213|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|7|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|11|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|202.12.82.1|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|9|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|34.102.138.130|80|United States|Kansas City|Google LLC|
+|14|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|101.255.17.6|8033|Indonesia|Sunter Jaya|PT Remala Abadi|
+|18|92.119.238.211|80|Albania|Tirana|ISA.NET Sh.p.k.|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
