@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|3|110.136.43.131|8080|Indonesia|Karet Tengsin|PT. TELKOM INDONESIA|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|121.52.156.146|8080|Pakistan|Multan|HEC|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|34.102.138.130|80|United States|Kansas City|Google LLC|
-|14|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
-|15|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|16|34.102.138.130|80|United States|Kansas City|Google LLC|
-|17|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|20|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|5|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|8|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|103.186.204.11|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|13|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
+|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|111.225.153.16|8089|China|Zhoutou|China Telecom|
+|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
 
 
 
