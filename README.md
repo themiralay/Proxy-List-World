@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|8|58.69.117.2|8082|Philippines|Dumaguete|Philippine Long Distance Telephone Co.|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|14|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|17|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|10|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|11|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|17|49.145.119.102|8085|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|41.164.6.245|8080|South Africa|Daniëlskuil|Liquid Telecommunications Operations Limited|
+|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
