@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 |7|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
-|14|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|18|209.126.84.8|3128|United States|St Louis|Nubes, LLC|
-|19|34.102.138.130|80|United States|Kansas City|Google LLC|
-|20|165.232.142.255|3129|United States|Santa Clara|DigitalOcean, LLC|
+|8|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|10|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|12|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|13|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|103.227.252.71|3128|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|17|103.227.252.71|3128|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|18|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|20|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
 
 
 
