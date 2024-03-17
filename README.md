@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|103.165.212.210|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|27.147.130.170|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|36.94.20.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|151.22.181.205|8080|Italy|Filo|INFOSTRADA|
+|7|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|8|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|12|77.233.5.68|55443|Russia|Gelendzhik|Yug-Link|
+|13|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
+|14|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|162.210.192.136|30090|United States|Manassas|Leaseweb USA, Inc.|
 
 
 
