@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.76.43.114|999|Mexico|Mexico City|Level 3|
 |8|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|9|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|10|67.43.227.226|18847|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|19007|Canada|Montreal|GloboTech Communications|
-|12|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
-|17|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|18|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|9|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
+|17|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|19|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
+|20|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
