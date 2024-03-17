@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|5|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|185.67.95.91|80|Russia|St Petersburg|ru.elitel|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|16|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|19|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|20|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|12|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
+|20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 
 
 
