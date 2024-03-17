@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|7|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|41.254.53.70|1981|Libya|Waddān|LTT Network Backbone and POPs|
-|12|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|19|72.10.160.90|5235|Canada|Montreal|GloboTech Communications|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|51.158.54.60|3128|France|Paris|SCALEWAY|
+|4|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|103.231.248.98|3128|Vietnam|Tay Ho|MTD|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
+|13|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|64.225.48.252|3128|United States|Clifton|DigitalOcean, LLC|
+|18|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|19|67.43.227.226|31949|Canada|Montreal|GloboTech Communications|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
