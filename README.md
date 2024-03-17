@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|440|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|121.101.131.67|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|5|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|185.228.137.178|3128|Germany|Karlsruhe|netcup GmbH|
-|10|200.55.240.244|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|11|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|12|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|5|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|9|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
 |14|35.194.50.143|3128|United States|Council Bluffs|Google LLC|
-|15|173.212.205.225|3186|Germany|Nuremberg|Contabo GmbH|
-|16|103.102.12.153|8404|Indonesia|Jepara|FISNET|
-|17|194.116.191.181|3128|Türkiye|Izmir|Stark Industries Solutions LTD|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|20|37.220.83.232|3128|Poland|Warsaw|TimeWeb Ltd.|
+|15|35.194.50.143|3128|United States|Council Bluffs|Google LLC|
+|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|17|201.64.166.62|3128|Brazil|Belém|Claro S.A.|
+|18|181.78.79.75|999|Colombia|El Carmen de Viboral|IFX Networks Argentina S.R.L|
+|19|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
