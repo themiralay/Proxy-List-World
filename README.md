@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|8|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|9|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|15|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.92|25149|Canada|Montreal|GloboTech Communications|
-|18|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|13|38.159.232.195|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|14|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|15|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
 
 
 
