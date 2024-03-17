@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5932** proxies at the latest update. Usable proxies are below.
+> Scraper found **5933** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|4|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|321|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4643|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
-|10|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|13|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
+|14|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
 |15|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
-|16|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
-|19|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
-|20|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|16|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|124.83.72.82|8080|Philippines|Palo|Philippine Long Distance Telephone Co.|
+|19|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|20|171.243.0.42|4015|Vietnam|Da Nang|Viettel Corporation|
 
 
 
