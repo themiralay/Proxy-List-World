@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|8|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|4|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|5|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
+|6|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|7|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|9|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|52.222.28.135|443|United States|San Jose|Amazon Technologies Inc.|
 |14|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|15|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
-|16|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|17|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|18|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
-|19|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
-|20|195.25.20.108|3128|France|Paris|Orange Business Services|
+|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|45.90.12.154|10000|United States|Secaucus|RoyaleHosting BV|
+|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
+|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
