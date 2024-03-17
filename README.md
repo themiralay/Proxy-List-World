@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|12|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|15|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|16|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|8|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|11|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|12|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|13|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 |18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
