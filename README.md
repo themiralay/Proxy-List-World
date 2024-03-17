@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|6|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|16|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|18|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|12|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
