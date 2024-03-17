@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.102.138.130|80|United States|Kansas City|Google LLC|
-|2|119.2.43.143|8080|Indonesia|Jakarta Pusat|PT. Laxo Global Akses|
-|3|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|45.149.93.213|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|7|36.88.148.142|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
-|11|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|12|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|14|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|15|34.102.138.130|80|United States|Kansas City|Google LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|18|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
-|19|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|45.90.12.154|10415|United States|Secaucus|RoyaleHosting BV|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|34.102.138.130|80|United States|Kansas City|Google LLC|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|14|119.93.43.16|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|34.102.138.130|80|United States|Kansas City|Google LLC|
+|17|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|18|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
+|19|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
+|20|222.127.67.204|8085|Philippines|Lahug|INNOVE|
 
 
 
