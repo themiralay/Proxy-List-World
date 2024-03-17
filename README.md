@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|12|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|13|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|15|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|18|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|19|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|20|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|14|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|18.230.187.84|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|19|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|20|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
 
 
 
