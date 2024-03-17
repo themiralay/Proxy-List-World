@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.144.249.134|80|United States|Kansas City|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|34.144.249.134|80|United States|Kansas City|Google LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|45.70.221.22|18080|Argentina|Basavilbaso|Delco Imagen S.A|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|17|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
-|18|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|20|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|15|103.215.148.202|1080|India|Pune|Cloudnet Communications Pvt Ltd|
+|16|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|19|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|20|190.187.201.26|8080|Peru|Chimbote|Americatel Peru S.A.|
 
 
 
