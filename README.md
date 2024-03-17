@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|3|103.243.177.90|8080|Indonesia|Ungaran|Universitas Katolik Soegijapranata|
-|4|45.33.13.251|3128|United States|Richardson|Akamai Technologies, Inc.|
-|5|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|7|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
-|8|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
-|9|45.119.9.158|808|India|Rajkot|Ishan's Network|
-|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.140.189.95|29003|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.42.45.1|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|15|45.64.122.210|47552|Philippines|Pasay|PhilCom Corporation|
-|16|45.4.148.72|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|20|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
+|7|179.108.220.184|8080|Brazil|Barbacena|Conecta Ltda.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|72.10.160.90|19357|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
 
 
 
