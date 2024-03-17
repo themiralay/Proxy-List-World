@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|49.48.115.89|8080|Thailand|Chum Phae|Triple T Broadband Public Company Limited|
-|8|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|13|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|11|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|12|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|14|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
 
 
 
