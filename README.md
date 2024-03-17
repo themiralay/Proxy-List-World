@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|72.10.160.90|8169|Canada|Montreal|GloboTech Communications|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|12|67.43.228.253|2859|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|15|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|12|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|67.43.228.253|2859|Canada|Montreal|GloboTech Communications|
+|17|46.105.34.211|8118|France|Roubaix|OVH SAS|
+|18|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
