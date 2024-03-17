@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|159.203.48.63|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|18|36.104.134.52|80|China|Lipu|Chinanet|
-|19|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|196.251.221.33|8103|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
+|8|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|11|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|12|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|13|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|14|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
