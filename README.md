@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
 |4|122.54.147.110|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|8|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|103.188.168.66|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|17|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|18|34.144.249.134|80|United States|Kansas City|Google LLC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|7|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|34.144.249.134|80|United States|Kansas City|Google LLC|
+|10|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|11|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|185.82.176.34|8080|Russia|Moscow|ZagorodTelecom LLC|
+|17|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|18|112.78.155.77|80|Indonesia|Jakarta|BIZNET|
+|19|72.10.160.170|3013|Canada|Montreal|GloboTech Communications|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
