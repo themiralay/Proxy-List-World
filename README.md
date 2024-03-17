@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|1|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|5|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|34.102.138.130|80|United States|Kansas City|Google LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|4|37.210.35.165|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|8|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
 |9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 |13|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|36.93.140.183|8080|Indonesia|Bandung|Telekomunikasi Indonesia|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|20|42.116.166.125|4006|Vietnam|Hanoi|FPT Telecom Company|
+|14|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|45.90.12.154|10010|United States|Secaucus|RoyaleHosting BV|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
