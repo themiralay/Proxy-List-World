@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.236.20|29957|Canada|Montreal|GloboTech Communications|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|84.52.88.59|8080|Russia|St Petersburg|WestCall|
+|11|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|13|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|14|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|15|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|18|131.153.213.68|8085|United States|Tempe|Secured Servers LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|45.11.95.165|6008|Russia|Moscow|Delta Ltd|
 
 
 
