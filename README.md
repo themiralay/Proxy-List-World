@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|112.78.165.60|80|Indonesia|Jakarta|Biznet Networks|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|12|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |14|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|18|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|19|1.2.252.65|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|20|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
 
 
 
