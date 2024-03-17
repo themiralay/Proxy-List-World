@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
-|3|34.102.138.130|80|United States|Kansas City|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|45.174.86.4|999|Mexico|Zacapoaxtla|Computadoras y Servicios Especiales SA de CV|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|34.102.138.130|80|United States|Kansas City|Google LLC|
-|11|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.222.224.253|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|103.147.85.28|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
-|19|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|119.93.155.205|8181|Philippines|Candaba|Philippine Long Distance Telephone Co.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|7|103.147.85.28|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|34.102.138.130|80|United States|Kansas City|Google LLC|
+|10|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|11|45.174.86.4|999|Mexico|Zacapoaxtla|Computadoras y Servicios Especiales SA de CV|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|36.93.140.183|8080|Indonesia|Bandung|Telekomunikasi Indonesia|
+|20|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 
 
 
