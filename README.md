@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|196.251.221.33|8103|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
-|8|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
-|11|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|12|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
-|13|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|14|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|5|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|12|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
+|16|165.225.72.156|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|72.10.164.178|18615|Canada|Montreal|GloboTech Communications|
+|19|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
