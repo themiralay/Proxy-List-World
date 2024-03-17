@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|12|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|13|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.90|26999|Canada|Montreal|GloboTech Communications|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|13|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|14|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|15|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |18|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
-|19|95.51.18.49|443|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
 
 
 
