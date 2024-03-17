@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|17|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
-|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|15|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
