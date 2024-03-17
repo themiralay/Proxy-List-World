@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|7|182.76.169.38|2245|India|Hyderabad|Bharti Airtel|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|7|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|177.184.199.36|80|Brazil|Poa|Wireless Comm Services LTDA|
-|14|121.130.172.153|3128|South Korea|Jungnang-gu|Korea Telecom|
-|15|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|16|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|17|41.174.96.38|32650|Mauritius|Ebene CyberCity|Liquid Telecommunications Operations Limited|
-|18|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|19|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
-|20|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|13|195.25.20.108|3128|France|Paris|Orange Business Services|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|19|45.11.95.165|5048|Russia|Moscow|Delta Ltd|
+|20|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
