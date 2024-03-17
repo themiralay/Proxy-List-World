@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|34.102.138.130|80|United States|Kansas City|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|34.102.138.130|80|United States|Kansas City|Google LLC|
-|11|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
-|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|101.255.17.6|8033|Indonesia|Sunter Jaya|PT Remala Abadi|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|67.43.227.227|17439|Canada|Montreal|GloboTech Communications|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|34.102.138.130|80|United States|Kansas City|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|103.118.175.189|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|34.102.138.130|80|United States|Kansas City|Google LLC|
+|13|31.211.157.85|5905|Bulgaria|Pleven|5KOM|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
