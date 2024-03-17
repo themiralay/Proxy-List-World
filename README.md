@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|143.208.152.61|3180|Brazil|Sao Goncalo|ultraconexão soluçoes eireli|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
-|12|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|115.127.13.154|8880|Bangladesh|Dhaka|BRACNet Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|72.10.164.178|12897|Canada|Montreal|GloboTech Communications|
 
 
 
