@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|34.144.249.134|80|United States|Kansas City|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|34.144.249.134|80|United States|Kansas City|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|18|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|66.187.192.9|3128|Canada|Montreal|Hive Data Center Inc.|
+|14|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
+|15|27.121.87.187|80|Indonesia|Karanganunggi|dashnet|
+|16|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|17|107.178.9.186|8080|United States|Red Oak|Nextlink Broadband|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
