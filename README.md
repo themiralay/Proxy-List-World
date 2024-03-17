@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|14|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|17|165.225.72.156|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|19|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|171.243.11.229|4006|Vietnam|Qui Nhon|Viettel Corporation|
+|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|220.95.101.21|8080|South Korea|Jung-gu|Korea Telecom|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
