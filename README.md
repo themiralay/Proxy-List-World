@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|8|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|9|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|6|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |11|199.48.129.114|3120|United States|Durham|NetActuate, Inc|
-|12|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.189.123.149|80|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|15|152.99.145.45|80|South Korea|Seo-gu|National Information Resources Service|
+|16|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
+|17|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.247.23.202|8080|Indonesia|Bekasi|PT wifian Solution|
+|20|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
