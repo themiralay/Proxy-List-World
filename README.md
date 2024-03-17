@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|115.147.38.172|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|14|104.248.63.25|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|3|103.186.204.11|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|4|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|103.180.240.191|8080|Nepal|Gulmī Tamghās|Dish Media Network Public Limited|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|72.10.160.90|11117|Canada|Montreal|GloboTech Communications|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|94.228.118.133|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
