@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|54.38.187.177|443|France|Strasbourg|OVH SAS|
 |6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|9|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|94.156.144.180|3128|Bulgaria|Sofia|Belcloud LTD|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
