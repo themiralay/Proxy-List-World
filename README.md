@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|5|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|11|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|15|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|18|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|20|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|9|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|94.131.203.7|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|15|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|201.77.108.196|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|115.127.13.154|8880|Bangladesh|Dhaka|BRACNet Limited|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
