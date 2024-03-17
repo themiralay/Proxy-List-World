@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|2|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|14|72.10.164.178|18561|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8183|Canada|Montreal|GloboTech Communications|
-|16|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
-|17|111.225.152.84|8089|China|Zhoutou|China Telecom|
-|18|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|2|34.144.249.134|80|United States|Kansas City|Google LLC|
+|3|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|34.144.249.134|80|United States|Kansas City|Google LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|103.165.157.7|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|12|27.79.73.226|4006|Vietnam|An Nhon|Viettel Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|15|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|16|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|119.93.148.191|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|20|67.43.227.227|18923|Canada|Montreal|GloboTech Communications|
 
 
 
