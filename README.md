@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|54.38.187.177|443|France|Strasbourg|OVH SAS|
-|9|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|16|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|18|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|19|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
+|5|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|6|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|85.172.15.98|80|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|12|49.48.115.89|8080|Thailand|Chum Phae|Triple T Broadband Public Company Limited|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|15|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|16|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|17|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
