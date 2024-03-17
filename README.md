@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|181.65.180.188|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|15|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|16|151.22.181.205|8080|Italy|Rho|INFOSTRADA|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|14|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.228.253|3857|Canada|Montreal|GloboTech Communications|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
+|19|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
 
 
 
