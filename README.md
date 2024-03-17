@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.94.0.168|80|United States|Los Angeles|Google LLC|
-|10|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|11|204.109.59.194|3121|United States|Durham|NetActuate, Inc|
-|12|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
+|9|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|15|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 |16|72.10.160.90|12103|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|25757|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|5381|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|72.10.160.90|12103|Canada|Montreal|GloboTech Communications|
+|18|95.51.18.49|443|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|45.88.90.199|3128|France|Paris|Constant MOULIN|
 
 
 
