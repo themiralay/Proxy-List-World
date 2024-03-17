@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|9|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|195.25.20.108|3128|France|Paris|Orange Business Services|
-|14|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|15|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|147.75.34.86|10001|The Netherlands|Amsterdam|Equinix Services|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|88.99.164.36|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|12|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|147.75.34.86|10001|The Netherlands|Amsterdam|Equinix Services|
+|14|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|152.99.145.25|80|South Korea|Seo-gu|National Information Resources Service|
+|17|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|114.132.202.78|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
