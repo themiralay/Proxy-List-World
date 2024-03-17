@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|54.38.187.177|443|France|Strasbourg|OVH SAS|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|15|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|34.94.0.168|80|United States|Los Angeles|Google LLC|
+|15|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|16|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|19|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|20|182.253.115.131|8080|Indonesia|Salatiga|BIZNET|
 
 
 
