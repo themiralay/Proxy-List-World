@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|12|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|13|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|14|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
+|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|12|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|13|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|17|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
