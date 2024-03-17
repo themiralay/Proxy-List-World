@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
-|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|112.78.165.60|80|Indonesia|Jakarta|Biznet Networks|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|19|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|20|37.32.22.236|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|9|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|49.12.56.176|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|12|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|13|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
+|14|95.56.254.139|3128|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|15|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|16|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
+|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
 
 
 
