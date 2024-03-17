@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|1|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
 |2|103.83.178.42|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|3|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
-|4|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|5|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|15|161.132.172.24|999|Peru|Lima|Fibertel Peru S.A.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|202.154.18.131|8085|Indonesia|Bojonegoro|DIGITNET|
+|5|45.5.117.76|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|6|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
+|7|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.105.55.51|8081|Indonesia|Gedangan|PT. Mega Artha Lintas Data|
+|9|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|10|161.132.172.24|999|Peru|Lima|Fibertel Peru S.A.|
+|11|103.156.201.170|82|India|Brahmapur|Reis Network Solutions|
+|12|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
+|16|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
 
 
 
