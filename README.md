@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6727** proxies at the latest update. Usable proxies are below.
+> Scraper found **6815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|493|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4638|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|103.159.194.151|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|34.49.208.221|80|United States|Kansas City|Google LLC|
-|11|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
-|12|147.75.34.86|80|The Netherlands|Amsterdam|Equinix Services|
-|13|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|116.90.179.198|8080|Indonesia|Medan|Panca Duta Utama|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|8|147.75.34.86|10000|The Netherlands|Amsterdam|Equinix Services|
+|9|179.60.235.251|8096|Argentina|Gobernador Galvez|WICORP SA|
+|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|34.49.208.221|80|United States|Kansas City|Google LLC|
+|14|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|77.92.245.34|8080|Georgia|Tbilisi|JSC "Silknet"|
+|16|202.162.43.241|8080|Indonesia|Magelang|PT Global Prima Utama|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 
 
 
