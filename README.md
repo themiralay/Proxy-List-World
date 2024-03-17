@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|9|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|10|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|11|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|147.28.155.23|80|United States|Dallas|Packet Host, Inc.|
-|20|67.43.228.253|3551|Canada|Montreal|GloboTech Communications|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|14|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
+|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|16|195.25.20.108|3128|France|Paris|Orange Business Services|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
