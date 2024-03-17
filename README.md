@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|103.132.53.146|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|7|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
 |15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|185.170.238.42|8080|Iran|Tehran|Pardazeshgaran Almas Pasargad Co. Pjs|
-|19|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|20|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|19|103.118.44.156|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 
 
 
