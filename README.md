@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.10.230.246|1337|Thailand|Phra Nakhon Si Ayutthaya|CATBB|
-|9|183.89.9.82|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|118.99.73.65|8080|Indonesia|Bandung|BIZNET|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
-|16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|10|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|147.75.92.248|9401|Japan|Koto-ku|Packet Host, Inc.|
+|18|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|20|46.105.34.211|8118|France|Roubaix|OVH SAS|
 
 
 
