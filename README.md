@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |13|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|14|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|14|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|19|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 |20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
