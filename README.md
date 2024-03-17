@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
-|11|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|72.10.164.178|30839|Canada|Montreal|GloboTech Communications|
-|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.236.20|15693|Canada|Montreal|GloboTech Communications|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|11|114.156.77.107|4343|Japan|Naha|NTT Communications Corporation|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.164.178|30839|Canada|Montreal|GloboTech Communications|
+|20|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
 
 
 
