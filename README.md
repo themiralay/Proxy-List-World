@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6066** proxies at the latest update. Usable proxies are below.
+> Scraper found **5957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|5|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|243|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4744|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
-|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|10|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|193.37.213.196|3128|Bulgaria|Sofia|Belcloud LTD|
-|16|185.203.116.213|3128|Bulgaria|Sofia|Belcloud LTD|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|19|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.18|22669|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|18|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|19|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|20|72.10.164.178|5747|Canada|Montreal|GloboTech Communications|
 
 
 
