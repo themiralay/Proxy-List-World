@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|12|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
 |16|84.47.145.189|8080|Russia|Moscow|Nauka-Svyaz|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|34.102.138.130|80|United States|Kansas City|Google LLC|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
