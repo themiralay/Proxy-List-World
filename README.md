@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|118.117.189.200|8089|China|Muping|Chinanet|
-|13|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|16|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|17|95.216.146.2|8328|Finland|Helsinki|Hetzner Online GmbH|
-|18|191.102.254.53|8085|Argentina|Rosario|IP·RED|
-|19|67.43.227.229|12593|Canada|Montreal|GloboTech Communications|
-|20|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|67.43.227.227|2023|Canada|Montreal|GloboTech Communications|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|119.39.69.172|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|67.43.227.229|12593|Canada|Montreal|GloboTech Communications|
 
 
 
