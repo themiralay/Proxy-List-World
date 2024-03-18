@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|72.10.160.90|3033|Canada|Montreal|GloboTech Communications|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|72.10.160.91|14897|Canada|Montreal|GloboTech Communications|
-|7|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|9|67.43.228.253|19545|Canada|Montreal|GloboTech Communications|
-|10|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|11|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|111.225.152.233|8089|China|Zhoutou|China Telecom|
-|14|67.43.227.226|2457|Canada|Montreal|GloboTech Communications|
-|15|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|16|72.10.164.178|11425|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25915|Canada|Montreal|GloboTech Communications|
-|18|45.140.189.95|29003|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|103.163.244.22|84|India|Panipat|Infolink System|
+|7|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|8|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|72.10.160.91|9091|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|1597|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|9091|Canada|Montreal|GloboTech Communications|
+|14|38.156.72.195|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|67.43.227.226|2457|Canada|Montreal|GloboTech Communications|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
+|20|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
 
 
 
