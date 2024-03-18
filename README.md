@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|171.233.219.175|4006|Vietnam|Long Xuyen|Viettel Corporation|
-|4|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|102.38.31.8|80|Libya|Tripoli|GZA|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
-|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
-|15|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
-|16|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|171.233.219.175|4006|Vietnam|Long Xuyen|Viettel Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|120.28.219.221|8082|Philippines|Cagayan de Oro|Globe Telecom|
 |17|165.225.72.151|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|123.182.58.24|8089|China|Zhangjiakou|China Telecom|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
+|18|111.225.152.195|8089|China|Zhoutou|China Telecom|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
 
 
 
