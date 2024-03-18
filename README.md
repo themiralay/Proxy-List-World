@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|103.133.26.59|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|103.26.110.125|82|India|Tirunelveli|Niss Networks|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|10|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|103.26.110.125|82|India|Tirunelveli|Niss Networks|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|103.41.88.33|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
