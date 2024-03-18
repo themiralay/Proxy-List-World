@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|84.235.246.110|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|8|109.72.232.217|8080|Russia|Moscow|MOSLINE|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|11|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|17|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|6|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|12|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
+|13|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
 |20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
