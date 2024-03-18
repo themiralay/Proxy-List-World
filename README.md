@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|5|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|16|67.43.228.251|2289|Canada|Montreal|GloboTech Communications|
-|17|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
-|18|185.11.50.170|3128|Russia|Moscow|Netone Rus|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|16|190.144.80.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|19|67.43.236.20|32697|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|14543|Canada|Montreal|GloboTech Communications|
 
 
 
