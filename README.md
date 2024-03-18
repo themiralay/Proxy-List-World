@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|123.182.58.146|8089|China|Zhangjiakou|China Telecom|
-|11|111.225.152.155|8089|China|Zhoutou|China Telecom|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|14|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|15|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|181.209.82.202|999|Argentina|San Juan|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|12|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|13|123.182.58.146|8089|China|Zhangjiakou|China Telecom|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
