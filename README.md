@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
-|13|45.11.95.165|6033|Russia|Moscow|Delta Ltd|
-|14|72.10.164.178|17579|Canada|Montreal|GloboTech Communications|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|17|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
-|18|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|111.225.153.16|8089|China|Zhoutou|China Telecom|
+|1|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|129.213.171.187|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|13|150.136.163.144|3128|United States|Ashburn|Oracle Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|60.49.125.12|3128|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|45.186.106.159|999|Mexico|Comalapa|Inversiones Grajeda Andrade S.A|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
