@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|1|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|188.119.99.210|80|Czechia|Cejkovice|Nordic Telecom Regional s.r.o.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|213.244.91.179|8080|Palestine|Gaza|PALTEL (Palestine Telecommunications Co.)|
 
 
 
