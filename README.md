@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|34.102.138.130|80|United States|Kansas City|Google LLC|
-|4|34.102.138.130|80|United States|Kansas City|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|45.188.76.107|999|Mexico|Comalcalco|ONT NETWORKS SA de CV|
-|7|38.156.73.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|9|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|138.0.140.182|8080|Brazil|Mirandopolis|F.B. BABETO ME|
-|11|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|111.225.153.51|8089|China|Zhoutou|China Telecom|
-|16|72.10.160.90|7527|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32561|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|23343|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|23343|Canada|Montreal|GloboTech Communications|
-|20|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|1|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|4|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|34.102.138.130|80|United States|Kansas City|Google LLC|
+|7|154.73.29.201|8080|Libya|Tripoli|Rawafed|
+|8|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|9|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|10|124.105.180.29|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|11|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|34.102.138.130|80|United States|Kansas City|Google LLC|
+|13|36.64.195.242|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|16|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|37.44.244.191|3128|Singapore|Singapore|Hostinger International Limited|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
