@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|11|185.11.50.170|3128|Russia|Moscow|Netone Rus|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|45.64.122.210|47552|Philippines|Pasay|PhilCom Corporation|
-|16|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|15|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
+|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|19|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
+|19|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
