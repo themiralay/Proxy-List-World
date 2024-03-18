@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|94.153.252.170|8080|Ukraine|Kyiv|Kyivstar UA|
+|7|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.217.105.194|8080|Colombia|Bogotá|Level 3 Colombia S.A|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|186.148.47.251|999|Chile|Rancagua|CTC Transmisiones Regionales S.A.|
-|14|45.189.252.57|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|15|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
-|17|182.253.66.148|8989|Indonesia|Surabaya|BIZNET|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|58.187.230.68|443|Vietnam|Hanoi|FPT Telecom Company|
+|11|213.171.35.66|18000|Russia|Moscow|JSC Comcor|
+|12|181.78.74.101|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
+|13|103.122.32.10|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|14|194.124.36.28|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|217.150.216.89|32650|Spain|Pont de Molins|J.C. TECNICS, S.L.|
+|16|203.190.44.203|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|17|60.49.125.12|3128|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
