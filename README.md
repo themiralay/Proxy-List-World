@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
-|8|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|9|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|10|103.156.140.237|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|11|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|12|110.39.42.211|80|Pakistan|Lahore|Wateen Telecom Limited|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|202.179.188.178|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|9|45.153.165.190|999|Dominican Republic|Santo Domingo|TELERY NETWORKS, S.R.L|
+|10|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
+|13|63.250.52.82|8118|Japan|Tokyo|HIVELOCITY, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|18|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
