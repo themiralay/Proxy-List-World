@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|72.10.164.178|26889|Canada|Montreal|GloboTech Communications|
-|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|12|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
-|13|67.43.227.226|23351|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|13199|Canada|Montreal|GloboTech Communications|
-|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|17|67.43.228.253|28207|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15533|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|28207|Canada|Montreal|GloboTech Communications|
-|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|110.232.67.43|55443|Indonesia|Medan|Media Antar Nusa PT.|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|67.43.236.20|13175|Canada|Montreal|GloboTech Communications|
+|11|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|197.211.8.166|8080|Kenya|Nairobi|SimbaNET-WTL|
+|14|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|15|38.51.243.201|999|Colombia|Tuquerres|INTERCOMM DE NARIÑO SAS|
+|16|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|36.111.191.127|808|China|Lipu|Cloud Computing Corporation|
+|19|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
