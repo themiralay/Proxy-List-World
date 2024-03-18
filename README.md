@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|3|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|4|67.43.228.253|19285|Canada|Montreal|GloboTech Communications|
-|5|5.196.111.30|20062|France|Gravelines|OVH SAS|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|10|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
-|11|222.174.178.122|4999|China|Xintai|Chinanet|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
-|15|67.43.227.227|9139|Canada|Montreal|GloboTech Communications|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|83.85.135.220|80|The Netherlands|Gorinchem|Vodafone Libertel B.V.|
-|18|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
-|19|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|20|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|101.255.169.1|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|12|5.196.111.30|20062|France|Gravelines|OVH SAS|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|67.43.228.253|11591|Canada|Montreal|GloboTech Communications|
+|15|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
+|16|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|17|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|18|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|19|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
