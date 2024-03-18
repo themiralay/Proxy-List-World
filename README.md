@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|15|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
-|16|111.225.153.31|8089|China|Zhoutou|China Telecom|
-|17|190.61.46.228|999|Colombia|Sincelejo|Ufinet Panama S.A.|
-|18|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|67.43.228.253|10363|Canada|Montreal|GloboTech Communications|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|14|187.188.169.169|8080|Mexico|Tepeaca|Total Play Telecomunicaciones SA De CV|
+|15|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|16|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|20|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
 
 
 
