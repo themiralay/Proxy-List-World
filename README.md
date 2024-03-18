@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|91.151.90.159|3128|Turkey|Bahcelievler|Poyraz Hosting|
-|11|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
-|16|5.196.111.30|20022|France|Gravelines|OVH SAS|
-|17|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|18|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|5.196.111.30|20022|France|Gravelines|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|147.28.155.23|9443|United States|Dallas|Packet Host, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|147.28.155.23|9443|United States|Dallas|Packet Host, Inc.|
+|6|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|7|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|10|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|11|103.4.117.153|5020|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|5.196.111.30|20022|France|Gravelines|OVH SAS|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|72.10.164.178|19851|Canada|Montreal|GloboTech Communications|
+|17|97.76.251.138|8080|United States|Tampa|Spectrum|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
