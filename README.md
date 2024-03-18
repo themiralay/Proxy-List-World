@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|111.225.153.51|8089|China|Zhoutou|China Telecom|
-|11|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|123.182.58.238|8089|China|Zhangjiakou|China Telecom|
-|15|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|125.25.32.195|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|111.225.153.51|8089|China|Zhoutou|China Telecom|
+|9|72.10.164.178|30137|Canada|Montreal|GloboTech Communications|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|12|67.43.236.20|21781|Canada|Montreal|GloboTech Communications|
+|13|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|15|72.10.164.178|30137|Canada|Montreal|GloboTech Communications|
+|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|17|36.111.191.127|808|China|Lipu|Cloud Computing Corporation|
 |18|72.10.160.171|18831|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23985|Canada|Montreal|GloboTech Communications|
+|19|185.32.6.131|8070|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|20|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
 
 
 
