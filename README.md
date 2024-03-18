@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|96.9.74.55|33652|Cambodia|Phnom Penh|S.I Group|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
-|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|20|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|2|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|136.233.80.157|4480|India|New Delhi|Reliance Jio Infocomm Limited|
+|20|94.232.123.67|8118|Lithuania|Kaunas|UAB "Airnet"|
 
 
 
