@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|190.72.102.42|999|Venezuela|Caicara del Orinoco|CANTV Servicios, Venezuela|
-|16|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|16|103.156.74.186|8080|Indonesia|Pecatu|PT Trika Global Media|
+|17|182.78.42.112|84|India|Chīrāla|Bharti Airtel|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|20|102.134.166.11|80|Botswana|Gaborone|STATURE (PTY) LTD|
 
 
 
