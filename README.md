@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|47.250.37.35|8888|Malaysia|Kuala Lumpur|Alibaba.com LLC|
-|6|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|38.9.146.150|3128|Indonesia|Medan|Cogent Communications|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|1.234.23.159|80|South Korea|Gangnam-gu|SK Broadband Co Ltd|
-|13|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
-|14|67.43.228.253|12717|Canada|Montreal|GloboTech Communications|
-|15|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|18|72.10.164.178|7689|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|11923|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7689|Canada|Montreal|GloboTech Communications|
+|9|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
+|10|1.194.236.229|5005|China|Shanghai|China Telecom|
+|11|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|12|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|22767|Canada|Montreal|GloboTech Communications|
+|14|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|15|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
