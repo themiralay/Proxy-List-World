@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|38.7.24.17|8080|Honduras|San Pedro Sula|Multicable De Honduras|
+|4|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
+|5|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
 |7|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
 |8|185.11.50.170|3128|Russia|Moscow|Netone Rus|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|109.24.132.215|3131|France|Lyon|Societe Francaise Du Radiotelephone - SFR SA|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|45.64.122.210|47552|Philippines|Pasay|PhilCom Corporation|
+|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
 |16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.115.20.28|8090|Indonesia|Subang|PMYNET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|18|89.189.90.45|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|103.153.62.161|8080|Indonesia|Jakarta|IMEDIANET|
+|20|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
