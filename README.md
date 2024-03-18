@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|123.182.58.113|8089|China|Zhangjiakou|China Telecom|
-|12|111.225.153.152|8089|China|Zhoutou|China Telecom|
-|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
-|20|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|67.43.227.227|30439|Canada|Montreal|GloboTech Communications|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|111.225.153.152|8089|China|Zhoutou|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|187.232.238.247|999|Mexico|Aguascalientes|UNINET|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|14.207.112.85|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 
 
 
