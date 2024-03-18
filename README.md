@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|13|45.186.106.159|999|Mexico|Comalapa|Inversiones Grajeda Andrade S.A|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|190.94.212.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|103.31.232.242|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 
 
 
