@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.102.138.130|80|United States|Kansas City|Google LLC|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|34.102.138.130|80|United States|Kansas City|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|34.144.249.134|80|United States|Kansas City|Google LLC|
-|14|34.102.138.130|80|United States|Kansas City|Google LLC|
-|15|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|34.144.249.134|80|United States|Kansas City|Google LLC|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|34.102.138.130|80|United States|Kansas City|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|34.102.138.130|80|United States|Kansas City|Google LLC|
 
 
 
