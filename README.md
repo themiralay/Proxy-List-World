@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|111.225.152.24|8089|China|Zhoutou|China Telecom|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|123.182.59.231|8089|China|Zhangjiakou|China Telecom|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|165.225.72.151|10008|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|171.233.219.175|4006|Vietnam|Long Xuyen|Viettel Corporation|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|111.225.153.51|8089|China|Zhoutou|China Telecom|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|34.144.249.134|80|United States|Kansas City|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|34.144.249.134|80|United States|Kansas City|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|51.77.222.4|8118|France|Gravelines|OVH SAS|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|165.225.72.151|10909|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|123.182.59.231|8089|China|Zhangjiakou|China Telecom|
 
 
 
