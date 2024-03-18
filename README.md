@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|203.177.133.236|8080|Philippines|Calapan|Globe Telecom|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
+|4|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|43.128.59.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|84.235.246.110|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|6|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|9|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|18|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|19|200.125.184.63|999|Venezuela|Los Guayos|Gold Data USA Inc|
-|20|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|13|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
 
 
 
