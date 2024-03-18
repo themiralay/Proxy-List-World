@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|114.106.172.27|8089|China|Shenzhen|Chinanet|
-|16|67.43.236.18|27125|Canada|Montreal|GloboTech Communications|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|14.243.164.146|4006|Vietnam|Da Nang|VNPT|
+|16|67.43.227.227|4629|Canada|Montreal|GloboTech Communications|
 |17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.171|23527|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|18803|Canada|Montreal|GloboTech Communications|
+|18|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|19|72.10.160.90|21839|Canada|Montreal|GloboTech Communications|
+|20|122.3.131.143|8082|Philippines|Baras|Philippine Long Distance Telephone Co.|
 
 
 
