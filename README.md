@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|202.12.80.158|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
+|8|142.4.123.41|80|China|Chengdu|PEG TECH INC|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|72.10.160.170|13289|Canada|Montreal|GloboTech Communications|
-|12|58.136.171.70|8080|Thailand|Udon Thani|AIS-Fibre|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|72.10.160.90|25721|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|29297|Canada|Montreal|GloboTech Communications|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|10|72.10.160.170|13289|Canada|Montreal|GloboTech Communications|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
+|14|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
+|16|72.10.160.90|22953|Canada|Montreal|GloboTech Communications|
+|17|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|20|187.232.238.247|999|Mexico|Aguascalientes|UNINET|
 
 
 
