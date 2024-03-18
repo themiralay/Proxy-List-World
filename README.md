@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|103.163.244.22|84|India|Panipat|Infolink System|
-|6|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |12|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
