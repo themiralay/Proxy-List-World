@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|5|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|120.28.221.214|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|9|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|10|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
 
 
 
