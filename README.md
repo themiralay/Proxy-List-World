@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|201.77.108.72|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|13|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|111.225.152.44|8089|China|Zhoutou|China Telecom|
-|16|67.43.236.20|16423|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|72.10.160.90|28657|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|4|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|13|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|15|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|19|45.186.106.159|999|Mexico|Comalapa|Inversiones Grajeda Andrade S.A|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
