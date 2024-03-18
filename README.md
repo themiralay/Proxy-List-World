@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|682|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|682|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|682|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|7|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|9|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
-|12|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|13|1.53.12.92|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|147.75.34.83|10002|The Netherlands|Amsterdam|Equinix Services|
-|16|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
-|17|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|18|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
-|19|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|122.2.79.174|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|5|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|6|203.194.108.23|3129|India|Bhadrāchalam|In2cable|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|10|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|11|147.75.34.83|10002|The Netherlands|Amsterdam|Equinix Services|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|103.26.110.202|84|India|Tirunelveli|Niss Networks|
+|14|36.95.213.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
+|17|179.1.85.202|999|Colombia|Guachucal|Internexa S.a. E.S.P|
+|18|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|19|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|20|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
 
 
 
