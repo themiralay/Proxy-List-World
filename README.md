@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|150.136.109.246|3128|United States|Ashburn|Oracle Corporation|
-|5|129.213.171.187|3128|United States|Ashburn|Oracle Corporation|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|67.43.236.20|24089|Canada|Montreal|GloboTech Communications|
-|8|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|9|67.43.227.226|16925|Canada|Montreal|GloboTech Communications|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|67.43.228.253|22685|Canada|Montreal|GloboTech Communications|
-|12|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
-|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|18|72.10.160.170|16873|Canada|Montreal|GloboTech Communications|
-|19|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|3|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|4|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|6|67.43.228.253|22685|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|10|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
+|11|72.10.160.170|16873|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|25269|Canada|Montreal|GloboTech Communications|
+|14|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|15|101.255.169.250|8080|Indonesia|Jakarta|PT Remala Abadi|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|103.154.230.123|5678|Indonesia|Lamongan|DIGITNET|
+|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|20|150.136.109.246|3128|United States|Ashburn|Oracle Corporation|
 
 
 
