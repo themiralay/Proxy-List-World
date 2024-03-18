@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.243.164.146|4006|Vietnam|Da Nang|VNPT|
+|2|34.144.249.134|80|United States|Kansas City|Google LLC|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.102.138.130|80|United States|Kansas City|Google LLC|
-|11|72.10.164.178|20781|Canada|Montreal|GloboTech Communications|
-|12|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|34.144.249.134|80|United States|Kansas City|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.102.138.130|80|United States|Kansas City|Google LLC|
 |13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|34.144.249.134|80|United States|Kansas City|Google LLC|
-|15|34.144.249.134|80|United States|Kansas City|Google LLC|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|72.10.164.178|20781|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.228.253|21935|Canada|Montreal|GloboTech Communications|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|222.174.178.122|4999|China|Xintai|Chinanet|
+|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|17|14.103.24.20|8000|China|Beijing|BITNET|
+|18|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
