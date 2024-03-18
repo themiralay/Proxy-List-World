@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|581|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|581|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|581|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|42.116.166.125|4006|Vietnam|Hanoi|FPT Telecom Company|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|89.117.22.247|3128|United States|Seattle|Nubes, LLC|
-|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|15|45.11.95.165|5049|Russia|Moscow|Delta Ltd|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
+|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|18|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
+|20|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
