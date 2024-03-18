@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
-|9|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|123.182.58.10|8089|China|Zhangjiakou|China Telecom|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|111.225.152.104|8089|China|Zhoutou|China Telecom|
-|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|58.20.20.93|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|111.225.153.193|8089|China|Zhoutou|China Telecom|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|72.10.160.90|26557|Canada|Montreal|GloboTech Communications|
+|11|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|16|72.10.160.90|31631|Canada|Montreal|GloboTech Communications|
+|17|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|18|114.231.45.203|8089|China|Nanjing|Chinanet|
+|19|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
 
 
 
