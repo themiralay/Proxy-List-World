@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|209.126.2.143|2323|United States|St Louis|Nubes, LLC|
-|3|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
 |9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|103.243.177.129|8080|Indonesia|Ungaran|Universitas Katolik Soegijapranata|
-|12|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|209.126.2.143|2323|United States|St Louis|Nubes, LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
+|13|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|14|200.125.184.61|999|Venezuela|Los Guayos|Gold Data USA Inc|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 |20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
