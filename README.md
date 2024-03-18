@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|10|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|103.110.11.122|3128|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|103.181.255.161|1111|Indonesia|Rembang|PT Giga Digital Nusantara|
+|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|18|195.25.20.108|3128|France|Paris|Orange Business Services|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
