@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|7|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|8|67.43.227.227|29179|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|20421|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|29179|Canada|Montreal|GloboTech Communications|
-|11|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|12|36.66.111.81|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|14|67.43.236.20|27683|Canada|Montreal|GloboTech Communications|
-|15|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|111.225.153.142|8089|China|Zhoutou|China Telecom|
-|17|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|18|72.10.160.90|20421|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|11923|Canada|Montreal|GloboTech Communications|
-|20|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
+|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|179.189.48.253|8080|Brazil|Sinop|EVO Networks|
+|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|12|204.199.81.46|999|Colombia|Santiago de Cali|CTL Colombia|
+|13|114.103.80.134|8089|China|Shenzhen|Chinanet|
+|14|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|15|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|16|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|17|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
+|19|67.43.227.227|24199|Canada|Montreal|GloboTech Communications|
+|20|111.225.153.245|8089|China|Zhoutou|China Telecom|
 
 
 
