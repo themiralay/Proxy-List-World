@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|72.10.164.178|2691|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|2691|Canada|Montreal|GloboTech Communications|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|72.10.160.170|12689|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|3317|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|6427|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|19903|Canada|Montreal|GloboTech Communications|
-|18|165.225.72.151|11302|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|5.196.111.30|20650|France|Gravelines|OVH SAS|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|103.167.70.130|8081|Indonesia|Mukomuko|PT Rubyan Network Solution|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|180.178.98.93|2526|Indonesia|Pisangan|PT Hipernet Indodata|
+|11|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|19987|Canada|Montreal|GloboTech Communications|
 
 
 
