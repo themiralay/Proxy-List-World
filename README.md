@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|8|72.10.164.178|24801|Canada|Montreal|GloboTech Communications|
-|9|123.182.58.151|8089|China|Zhangjiakou|China Telecom|
-|10|67.43.227.226|16649|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|13559|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|31537|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|15681|Canada|Montreal|GloboTech Communications|
-|14|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|7937|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|14.103.26.198|8000|China|Beijing|BITNET|
-|20|72.10.164.178|24801|Canada|Montreal|GloboTech Communications|
+|1|121.101.134.22|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|8|103.6.223.2|3128|China|Baoshan|China Unicom|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|63.250.52.82|8118|Japan|Tokyo|HIVELOCITY, Inc.|
+|13|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|31537|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|16649|Canada|Montreal|GloboTech Communications|
+|16|58.20.77.144|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
+|18|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|19|111.225.153.223|8089|China|Zhoutou|China Telecom|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
