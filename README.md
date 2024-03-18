@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|639|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|639|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|639|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
+|8|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 |11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|58.136.171.70|8080|Thailand|Udon Thani|AIS-Fibre|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|16|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|17|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |19|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|20|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
