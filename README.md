@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
 |8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
+|9|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
 |10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|16|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|17|67.43.228.253|13429|Canada|Montreal|GloboTech Communications|
-|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|123.182.59.129|8089|China|Zhangjiakou|China Telecom|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|14|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
+|15|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.228.253|13429|Canada|Montreal|GloboTech Communications|
+|17|92.242.212.50|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|108.181.187.213|9000|United States|Dallas|Psychz Networks|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 
 
 
