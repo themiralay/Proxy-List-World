@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
-|8|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.221.54.113|8080|Bangladesh|Dhaka|Pandora Technology|
-|14|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|16|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|15|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
 |17|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.164.178|15171|Canada|Montreal|GloboTech Communications|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.159.194.149|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
