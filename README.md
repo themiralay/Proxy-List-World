@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|34.102.138.130|80|United States|Kansas City|Google LLC|
+|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
-|18|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|13|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|123.182.59.53|8089|China|Zhangjiakou|China Telecom|
+|15|34.102.138.130|80|United States|Kansas City|Google LLC|
+|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|185.186.242.135|3128|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
+|18|67.43.228.250|12503|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|13529|Canada|Montreal|GloboTech Communications|
+|20|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
