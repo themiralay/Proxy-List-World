@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|6|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|203.113.114.94|33107|Thailand|Samut Sakhon|TOT Public Company Limited|
-|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|203.223.42.249|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
-|18|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|77.119.250.129|8080|Austria|Mödling|Network of Hutchison Drei Austria GmbH|
+|14|202.40.185.166|8090|Bangladesh|Sāmair|Ranks ITT|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|72.10.160.171|8095|Canada|Montreal|GloboTech Communications|
 
 
 
