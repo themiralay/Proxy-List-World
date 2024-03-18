@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|9|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
-|10|138.68.3.159|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|67.43.228.253|1989|Canada|Montreal|GloboTech Communications|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|136.243.125.1|1369|Germany|Cologne|Hetzner Online GmbH|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|20|185.11.50.170|3128|Russia|Moscow|Netone Rus|
 
 
 
