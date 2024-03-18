@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|72.10.160.90|14593|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|14593|Canada|Montreal|GloboTech Communications|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|12|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|13|72.10.160.94|19497|Canada|Montreal|GloboTech Communications|
-|14|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|15|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|16|91.151.90.159|3128|Turkey|Bahcelievler|Poyraz Hosting|
-|17|202.154.19.163|8080|Indonesia|Jombang|DIGITNET|
-|18|72.10.160.173|13121|Canada|Montreal|GloboTech Communications|
-|19|103.101.216.2|8080|Indonesia|Kabupaten Serdang Bedagai|PT Duta Trans Nusantara Network|
-|20|67.43.236.20|3627|Canada|Montreal|GloboTech Communications|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|15|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|17|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|91.151.90.159|3128|Turkey|Bahcelievler|Poyraz Hosting|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|197.243.49.47|3129|Rwanda|Kigali|BSC|
 
 
 
