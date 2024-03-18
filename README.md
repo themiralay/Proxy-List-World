@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
-|17|86.201.61.237|5575|France|Rodez|France Telecom|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
+|3|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|204.8.69.205|8888|United States|Idaho Falls|Silver Star Communications|
+|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
+|8|46.209.207.149|8080|Iran|Tehran|Respina|
+|9|103.147.247.212|8080|Indonesia|Tangerang|PLBNET|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|204.8.69.205|8888|United States|Idaho Falls|Silver Star Communications|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|136.175.252.75|3128|United States|Bettendorf|Bluebird Network|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
