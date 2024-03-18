@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|200.24.141.161|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|195.218.139.250|3128|Russia|St Petersburg|PJSC "Vimpelcom"|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
