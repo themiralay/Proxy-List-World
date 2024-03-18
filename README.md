@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|65.21.112.150|4443|Finland|Helsinki|Hetzner Online GmbH|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|45.71.184.239|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|10|72.10.160.91|22365|Canada|Montreal|GloboTech Communications|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|45.190.76.103|999|Mexico|Zapopan|Meta Networks SA De CV|
-|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|18|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|165.16.27.43|1976|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|17|72.10.160.91|19543|Canada|Montreal|GloboTech Communications|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|20|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
 
 
 
