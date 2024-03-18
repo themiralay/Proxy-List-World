@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|14|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|16|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|17|103.115.29.65|8080|Indonesia|Depok|HSPNET|
-|18|190.110.98.204|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
-|19|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.132.52.123|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|17|103.126.173.73|8080|Indonesia|Bandar Lampung|MEGARAP|
+|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|19|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
