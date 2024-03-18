@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|38.156.235.113|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|67.43.227.227|13453|Canada|Montreal|GloboTech Communications|
-|14|58.69.114.77|8082|Philippines|Santa Fe|Philippine Long Distance Telephone Co.|
-|15|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|103.26.110.125|84|India|Tirunelveli|Niss Networks|
-|18|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
-|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|20|67.43.227.228|21133|Canada|Montreal|GloboTech Communications|
+|7|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|191.7.208.32|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|17|72.10.164.178|25237|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8715|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|2773|Canada|Montreal|GloboTech Communications|
+|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
