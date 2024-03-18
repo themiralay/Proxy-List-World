@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|197.211.8.166|8080|Kenya|Nairobi|SimbaNET-WTL|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|67.43.236.20|6437|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|6437|Canada|Montreal|GloboTech Communications|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|67.43.236.20|10847|Canada|Montreal|GloboTech Communications|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|67.43.228.250|3229|Canada|Montreal|GloboTech Communications|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|9|67.43.228.250|3229|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.252.209.32|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|12|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
-|13|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.227.227|16001|Canada|Montreal|GloboTech Communications|
-|16|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|67.43.228.253|17177|Canada|Montreal|GloboTech Communications|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|124.105.24.80|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|202.150.151.138|4995|Indonesia|Kwitang|PT Comtronics Systems|
+|10|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|11|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|103.78.96.146|8181|Indonesia|Kalibata|MORATELINDO|
+|16|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|17|27.130.253.68|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|19|124.105.24.80|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
