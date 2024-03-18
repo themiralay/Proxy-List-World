@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|636|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|636|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|636|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|103.75.96.70|8080|Indonesia|Tangerang|MORATELINDO|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|136.239.176.66|8080|Philippines|Mandaluyong City|ComClark Network & Technology Corp|
-|4|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
-|5|103.164.229.114|8080|Indonesia|Kudus|PT Muria Data Utama|
-|6|103.80.237.10|8080|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
-|7|101.255.167.6|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|67.206.206.74|8888|Puerto Rico|Humacao|OSNET Wireless|
-|13|45.236.107.122|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|103.152.232.75|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|15|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|17|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|18|191.240.153.165|8080|Brazil|Carapicuiba|Wireless Comm Services LTDA|
-|19|187.216.229.150|8080|Mexico|Mexico|UNINET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.164.229.114|8080|Indonesia|Kudus|PT Muria Data Utama|
+|13|138.121.161.84|8096|Argentina|Rosario|WICORP SA|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|194.124.37.8|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
 
 
 
