@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|34.102.138.130|80|United States|Kansas City|Google LLC|
 |3|34.102.138.130|80|United States|Kansas City|Google LLC|
-|4|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|34.49.208.221|80|United States|Kansas City|Google LLC|
-|10|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|11|103.153.134.20|8080|Indonesia|Tangerang|WMINET|
-|12|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
-|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|67.43.236.20|8083|Canada|Montreal|GloboTech Communications|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|17|119.3.215.41|8888|China|Beijing|Huawei Cloud Service data center|
-|18|72.10.160.90|16951|Canada|Montreal|GloboTech Communications|
-|19|177.73.68.150|8080|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
-|20|185.208.102.55|8080|Türkiye|Reyhanli|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|6|180.191.59.89|8080|Philippines|Cabanatuan City|Globe Telecom|
+|7|111.225.153.221|8089|China|Zhoutou|China Telecom|
+|8|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|9|67.43.236.20|25487|Canada|Montreal|GloboTech Communications|
+|10|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|11|111.225.152.68|8089|China|Zhoutou|China Telecom|
+|12|8.218.131.113|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|15|72.10.160.172|14945|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|17319|Canada|Montreal|GloboTech Communications|
+|17|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
+|18|72.10.160.170|1369|Canada|Montreal|GloboTech Communications|
+|19|38.156.75.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|197.243.49.47|3129|Rwanda|Kigali|BSC|
 
 
 
