@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7251** proxies at the latest update. Usable proxies are below.
+> Scraper found **7284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|765|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|398|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5128|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|9|72.10.160.92|10063|Canada|Montreal|GloboTech Communications|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|165.16.27.43|1976|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|17|72.10.160.91|19543|Canada|Montreal|GloboTech Communications|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|13|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
