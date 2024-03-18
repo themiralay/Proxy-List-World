@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 |17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|20|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 
 
 
