@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|177.190.189.16|44443|Brazil|Montanha|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
-|12|147.75.92.251|10010|Japan|Koto-ku|Packet Host, Inc.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|67.43.236.20|15229|Canada|Montreal|GloboTech Communications|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|72.10.160.90|3295|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|15229|Canada|Montreal|GloboTech Communications|
+|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|67.43.236.20|15229|Canada|Montreal|GloboTech Communications|
 |17|67.43.236.19|17269|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|3295|Canada|Montreal|GloboTech Communications|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
