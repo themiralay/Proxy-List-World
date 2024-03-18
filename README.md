@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|16|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|67.43.227.229|25829|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19463|Canada|Montreal|GloboTech Communications|
-|20|195.25.20.108|3128|France|Paris|Orange Business Services|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|85.132.11.208|3128|Azerbaijan|Baku|Delta|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|181.192.2.23|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
