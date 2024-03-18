@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|91.151.90.159|3128|Turkey|Bahcelievler|Poyraz Hosting|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
-|13|147.28.155.23|9443|United States|Dallas|Packet Host, Inc.|
-|14|147.28.155.21|10086|United States|Dallas|Packet Host, Inc.|
-|15|94.154.152.3|8079|Albania|Lushnje|Luva Group Sh.p.k.|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|147.28.155.23|10007|United States|Dallas|Packet Host, Inc.|
+|10|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|11|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|91.151.90.159|3128|Turkey|Bahcelievler|Poyraz Hosting|
+|13|141.95.120.253|8080|Germany|Saarbrücken|OVH SAS|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.227.227|9545|Canada|Montreal|GloboTech Communications|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|67.43.236.20|16957|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|9545|Canada|Montreal|GloboTech Communications|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
 
 
 
