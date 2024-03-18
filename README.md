@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|34.41.50.174|8888|United States|Council Bluffs|Google LLC|
-|4|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|119.92.75.48|8082|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
-|8|202.154.18.131|8085|Indonesia|Bojonegoro|DIGITNET|
-|9|36.50.253.70|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|181.129.130.18|8154|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|34.41.50.174|8888|United States|Council Bluffs|Google LLC|
-|15|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|16|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|103.250.130.111|8080|Indonesia|Surabaya|LINTASDAYA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|5|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|212.23.217.35|8080|Iraq|Abu Ghraib|Optimum Line for Internet Services Ltd.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|45.229.10.100|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|18|72.10.160.90|2293|Canada|Montreal|GloboTech Communications|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
