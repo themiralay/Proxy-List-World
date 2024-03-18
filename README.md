@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|759|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|759|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|759|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|666|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|666|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|666|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
-|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|4|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
 |5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|177.93.60.70|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|10|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|11|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|12|176.105.220.74|3129|Ukraine|Semenivka|NPK Home-Net Ltd.|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|152.231.25.213|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|139.135.139.246|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|77.238.224.152|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|20|45.88.90.199|3128|France|Paris|Constant MOULIN|
+|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
+|8|81.161.229.72|3128|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|9|77.238.224.152|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|13|122.54.92.233|8080|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
+|14|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|152.231.25.213|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|18|154.64.211.145|999|Puerto Rico|San Juan|OSNET Wireless|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|103.217.224.82|8080|Indonesia|Semarang|PT Nesta Indo Media|
 
 
 
