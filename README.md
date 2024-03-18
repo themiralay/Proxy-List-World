@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|5|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|103.132.53.146|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|11|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|14|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|201.77.109.185|999|Mexico|Camargo Municipality|Nidix Networks S.a. De C.V.|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|72.10.164.178|10375|Canada|Montreal|GloboTech Communications|
 
 
 
