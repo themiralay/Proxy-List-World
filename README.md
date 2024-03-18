@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.94.59.168|1080|United States|Seattle|HostPapa|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|171.243.1.199|4006|Vietnam|Da Nang|Viettel Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
-|12|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|23.94.59.168|1080|United States|Seattle|HostPapa|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|4|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|14|23.94.59.168|1080|United States|Seattle|HostPapa|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |17|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|185.104.249.21|3128|Russia|Moscow|First Server Limited|
 
 
 
