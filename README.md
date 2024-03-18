@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|6|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|12|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|13|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|8|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
+|9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|85.172.0.30|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|201.71.3.61|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|45.231.142.22|3128|Brazil|Canoas|Redemetro Telecomunicacoes Ltda|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
