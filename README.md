@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|6|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|7|194.213.208.226|8180|Czechia|Kralupy nad Vltavou|T-Mobile Czech Republic a.s.|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|11|103.165.155.74|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|12|72.10.160.90|10853|Canada|Montreal|GloboTech Communications|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.228.251|2799|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2125|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|147.78.169.80|8443|Slovakia|Nitra|Obecne siete, s.r.o.|
-|20|103.122.1.74|4000|Indonesia|Palembang|PT. Java Digital Nusantara|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|10|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|12|36.71.52.106|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
+|13|103.94.57.122|80|India|Pune|Gazon Technologies Pvt.ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.20|22487|Canada|Montreal|GloboTech Communications|
+|16|103.226.232.185|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|197.98.201.97|10089|South Africa|Johannesburg|Dimension Data|
 
 
 
