@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|147.75.34.86|10000|The Netherlands|Amsterdam|Equinix Services|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|187.95.34.135|8080|Brazil|Nova Friburgo|Alta Rede Corporate Network Telecom Ltda - EPP|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
+|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|124.105.186.206|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
