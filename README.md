@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|111.225.153.51|8089|China|Zhoutou|China Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|17|72.10.160.90|32739|Canada|Montreal|GloboTech Communications|
-|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|6|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|8|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|9|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
+|10|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|203.79.29.246|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
+|13|111.225.153.51|8089|China|Zhoutou|China Telecom|
+|14|72.10.160.90|11647|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|19695|Canada|Montreal|GloboTech Communications|
+|16|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|202.12.80.6|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|121.240.127.86|8081|India|Mumbai|Tata Communications Limited|
 
 
 
