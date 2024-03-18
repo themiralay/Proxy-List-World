@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|123.182.59.149|8089|China|Zhangjiakou|China Telecom|
-|12|123.182.58.238|8089|China|Zhangjiakou|China Telecom|
-|13|62.146.234.12|8000|United States|Dover|Fybe Singapore|
-|14|5.196.111.30|20644|France|Gravelines|OVH SAS|
-|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|197.98.201.97|11441|South Africa|Johannesburg|Dimension Data|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|14|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
+|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|123.182.59.149|8089|China|Zhangjiakou|China Telecom|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
