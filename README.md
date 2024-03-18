@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|185.189.199.77|8080|Bulgaria|Bansko|Mis70 LTD|
-|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|15|103.148.48.97|8080|Indonesia|Pontianak Barat|BCMEDIA|
-|16|94.200.195.220|8080|United Arab Emirates|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|72.10.160.173|3299|Canada|Montreal|GloboTech Communications|
-|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|8|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|58.136.171.70|8080|Thailand|Udon Thani|AIS-Fibre|
+|11|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|12|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|37.204.157.91|41890|Russia|Moscow|NCNET|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|103.76.129.110|8080|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
