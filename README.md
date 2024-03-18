@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|177.93.51.213|999|Colombia|Vistahermosa|TV AZTECA SUCURSAL COLOMBIA|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|1|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|12|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
 |14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|17|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|18|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|19|203.113.114.94|33107|Thailand|Samut Sakhon|TOT Public Company Limited|
-|20|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|34.102.138.130|80|United States|Kansas City|Google LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
