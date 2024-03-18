@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|81.23.114.238|8080|Russia|St Petersburg|SEVEREN|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.102.138.130|80|United States|Kansas City|Google LLC|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|16|171.233.219.175|4006|Vietnam|Long Xuyen|Viettel Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|111.225.152.44|8089|China|Zhoutou|China Telecom|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|115.73.6.225|4006|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|67.43.227.227|25713|Canada|Montreal|GloboTech Communications|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|177.130.104.106|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
 
 
 
