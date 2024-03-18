@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|7|45.11.95.165|6048|Russia|Moscow|Delta Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|77.37.132.129|8080|Russia|Moscow|NCNET|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.228.254|25891|Canada|Montreal|GloboTech Communications|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|45.231.142.22|3128|Brazil|Canoas|Redemetro Telecomunicacoes Ltda|
+|10|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|16|147.75.34.85|10010|The Netherlands|Amsterdam|Equinix Services|
+|17|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
 |18|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
+|19|185.104.249.21|3128|Russia|Moscow|First Server Limited|
+|20|45.11.95.165|5048|Russia|Moscow|Delta Ltd|
 
 
 
