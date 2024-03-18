@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|5|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|202.93.245.46|8080|Indonesia|Surabaya|DWPNAP|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|16|177.93.37.35|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
 |17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
