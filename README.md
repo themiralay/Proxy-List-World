@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|5|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|103.55.88.53|8080|India|Noida|Ultranet services private limited|
-|17|212.42.56.120|3128|Russia|Moscow|Tehno-Pro LLC|
-|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.253|32383|Canada|Montreal|GloboTech Communications|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|103.154.77.75|8080|Indonesia|Magelang|T2NET|
+|7|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|13|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|103.133.26.59|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|18|185.105.185.185|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|19|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
