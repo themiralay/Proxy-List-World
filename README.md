@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|750|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|750|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|750|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|103.68.215.2|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|9|103.68.214.10|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|36.93.68.47|41890|Indonesia|Bali Mester|Telekomunikasi Indonesia|
-|12|152.231.106.191|999|Chile|Santiago|Entel Chile S.A.|
-|13|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
-|16|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|105.112.135.165|8080|Nigeria|Sapele|Airtel Networks Limited|
-|19|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|20|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|6|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|7|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|12|203.161.30.10|8765|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
+|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|19|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
