@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|552|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|552|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|552|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.79.29.246|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
-|4|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|5|38.7.20.137|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|6|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|2|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
+|3|103.124.137.203|3128|Indonesia|Jakarta|Global Media Data Prima|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|201.187.96.60|8088|Chile|Concepción|Telefonica del Sur S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|11|181.129.130.18|8154|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|185.14.233.40|8080|Czechia|Ricany|INTERCONNECT s.r.o.|
-|13|124.105.21.141|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|181.232.190.250|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
-|17|103.84.177.212|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|18|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|19|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
-|20|103.166.8.238|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|10|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|12|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|209.141.48.31|3128|United States|Las Vegas|FranTech Solutions|
+|14|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|43.156.75.30|8089|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|35.185.217.164|3128|United States|The Dalles|Google LLC|
 
 
 
