@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |11|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|15|67.43.228.251|18693|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.236.20|24783|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|24783|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|27.157.63.94|8089|China|Zhangzhou|Chinanet|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.236.20|8843|Canada|Montreal|GloboTech Communications|
 
 
 
