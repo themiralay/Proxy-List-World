@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|19|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
-|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|6|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|7|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|37.148.217.237|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|197.98.201.97|10089|South Africa|Johannesburg|Dimension Data|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|38.156.235.113|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|18|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|19|124.104.149.53|8081|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|20|181.129.138.114|30838|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
