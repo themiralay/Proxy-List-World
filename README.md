@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|610|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|610|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|610|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|605|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|605|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|605|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.84.176.44|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|181.78.74.101|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|12|34.102.138.130|80|United States|Kansas City|Google LLC|
-|13|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|14|179.1.68.197|999|Colombia|Saravena|InterNexa Global Network|
-|15|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|16|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|6|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|41.203.83.66|8080|Nigeria|Lagos|Globacom Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|17|103.177.9.104|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|67.43.236.20|18135|Canada|Montreal|GloboTech Communications|
 |20|34.102.138.130|80|United States|Kansas City|Google LLC|
 
 
