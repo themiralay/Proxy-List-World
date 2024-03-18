@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.132.54.41|8182|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
-|9|114.106.171.128|8089|China|Rongcheng|Chinanet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|1703|Canada|Montreal|GloboTech Communications|
-|17|112.78.47.187|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
-|18|111.225.153.11|8089|China|Zhoutou|China Telecom|
-|19|123.182.59.142|8089|China|Zhangjiakou|China Telecom|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|12|114.106.137.209|8089|China|Guangzhou|Chinanet|
+|13|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
