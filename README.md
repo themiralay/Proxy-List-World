@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|103.126.173.73|8080|Indonesia|Bandar Lampung|MEGARAP|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|45.231.142.22|3128|Brazil|Canoas|Redemetro Telecomunicacoes Ltda|
-|10|143.44.187.75|8080|Philippines|Davao City|ComClark Network & Technology Corp|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|190.85.141.170|9090|Colombia|Medellín|Telmex Colombia S.A.|
-|16|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|190.94.212.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.126.173.73|8080|Indonesia|Bandar Lampung|MEGARAP|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
