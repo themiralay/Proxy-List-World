@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|689|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|689|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|689|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|6|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|7|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|12|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|13|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|103.165.138.234|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|2|223.197.178.186|3128|Hong Kong|Central|PCCW IMSBiz|
+|3|182.76.169.38|2245|India|Hyderabad|Bharti Airtel|
+|4|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
+|5|157.230.113.108|1337|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|9|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|10|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|91.144.45.28|8081|Syria|Damascus|STE Public Data Network Backbone and LIR|
+|14|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
