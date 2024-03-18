@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
-|3|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 |4|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|121.101.135.46|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|45.173.231.193|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|167.250.51.1|999|Venezuela|Caracas|CORPORACIÓN GALA IT, C.A.|
-|15|178.251.111.18|8080|Ukraine|Dubov”yazivka|Dataline LLC|
-|16|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|17|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|86.201.61.237|5575|France|Rodez|France Telecom|
+|9|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|19|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
