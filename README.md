@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|625|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|625|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|625|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.138.130|80|United States|Kansas City|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|34.102.138.130|80|United States|Kansas City|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
-|8|219.65.42.166|80|India|New Delhi|Tata Communications Limited|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|12|72.10.164.178|32561|Canada|Montreal|GloboTech Communications|
-|13|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|14|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|91.107.143.233|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|103.110.10.189|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|18|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
-|19|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|20|67.43.236.20|30137|Canada|Montreal|GloboTech Communications|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|4|45.190.187.122|999|Honduras|Comayaguela|Ufinet Panama S.A.|
+|5|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|6|177.54.229.164|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|138.0.140.182|8080|Brazil|Mirandopolis|F.B. BABETO ME|
+|9|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
+|10|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|11|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
+|12|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|13|111.225.152.192|8089|China|Zhoutou|China Telecom|
+|14|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|15|38.156.74.89|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|24.152.50.130|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|17|103.46.4.3|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|18|211.193.64.68|3128|South Korea|Haman-gun|Korea Telecom|
+|19|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|20|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
 
 
 
