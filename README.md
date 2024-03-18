@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|20|49.76.17.130|8089|China|Nanjing|Chinanet|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|49.76.17.130|8089|China|Nanjing|Chinanet|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|14|72.10.164.178|31167|Canada|Montreal|GloboTech Communications|
+|15|45.4.148.72|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|16|67.43.227.228|8665|Canada|Montreal|GloboTech Communications|
+|17|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|18|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|19|14.207.112.85|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|20|72.10.164.178|31167|Canada|Montreal|GloboTech Communications|
 
 
 
