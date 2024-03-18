@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.144.249.134|80|United States|Kansas City|Google LLC|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|34.144.249.134|80|United States|Kansas City|Google LLC|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|116.68.172.169|8080|Indonesia|Jakarta||
-|13|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|95.31.22.173|7777|Russia|Moscow|CORBINA-BROADBAND|
-|16|72.10.164.178|2403|Canada|Montreal|GloboTech Communications|
-|17|34.144.249.134|80|United States|Kansas City|Google LLC|
-|18|67.43.227.226|31155|Canada|Montreal|GloboTech Communications|
-|19|34.102.138.130|80|United States|Kansas City|Google LLC|
-|20|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|10|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|16|34.102.138.130|80|United States|Kansas City|Google LLC|
+|17|72.10.164.178|2155|Canada|Montreal|GloboTech Communications|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
