@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|36.94.35.225|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|103.156.74.186|8080|Indonesia|Pecatu|PT Trika Global Media|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
+|7|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|8|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|9|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|152.231.106.191|999|Chile|Santiago|Entel Chile S.A.|
+|13|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|62.146.234.12|8000|United States|Dover|Fybe Singapore|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|20|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
 
 
 
