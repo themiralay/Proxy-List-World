@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|180.178.98.94|2526|Indonesia|Pisangan|PT Hipernet Indodata|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|171.243.1.199|4006|Vietnam|Da Nang|Viettel Corporation|
-|8|188.119.99.210|80|Czechia|Cejkovice|Nordic Telecom Regional s.r.o.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|171.243.1.199|4006|Vietnam|Da Nang|Viettel Corporation|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|147.75.92.251|10004|Japan|Koto-ku|Packet Host, Inc.|
+|11|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|188.119.99.210|80|Czechia|Cejkovice|Nordic Telecom Regional s.r.o.|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|72.10.160.173|25181|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|4383|Canada|Montreal|GloboTech Communications|
 
 
 
