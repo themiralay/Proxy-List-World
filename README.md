@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|624|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|624|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|624|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.102.138.130|80|United States|Kansas City|Google LLC|
-|5|180.178.98.91|2526|Indonesia|Pisangan|PT Hipernet Indodata|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|8|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|9|36.88.140.235|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
-|16|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
-|17|202.12.80.11|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|18|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|41.139.197.163|8080|Kenya|Nairobi|Converged services Western|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|188.132.222.2|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
