@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|17|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|43.156.75.30|8089|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|19|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
