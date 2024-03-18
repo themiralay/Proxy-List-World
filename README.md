@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|4|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|103.160.41.54|8080|Indonesia|Tangerang|PT Wistel Teknologi Solusi|
-|14|188.132.222.55|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |17|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|114.5.96.106|80|Indonesia|Gresik|PT. INDOSAT Tbk|
-|19|34.102.138.130|80|United States|Kansas City|Google LLC|
-|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
+|18|58.20.77.144|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
