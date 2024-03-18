@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|103.159.47.42|83|India|Ahmedabad|King Netsol Private Limited|
-|16|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.153.136.93|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
