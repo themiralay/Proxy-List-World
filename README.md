@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.49.208.221|80|United States|Kansas City|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|7|34.49.208.221|80|United States|Kansas City|Google LLC|
-|8|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|6|147.28.155.23|9401|United States|Dallas|Packet Host, Inc.|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|14|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|15|34.49.208.221|80|United States|Kansas City|Google LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|18|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|13|147.28.155.23|9401|United States|Dallas|Packet Host, Inc.|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|147.28.155.23|9401|United States|Dallas|Packet Host, Inc.|
+|16|147.28.155.21|10089|United States|Dallas|Packet Host, Inc.|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|16857|Canada|Montreal|GloboTech Communications|
 
 
 
