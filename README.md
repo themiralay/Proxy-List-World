@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.164.178|25657|Canada|Montreal|GloboTech Communications|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|12|114.103.81.34|8089|China|Shenzhen|Chinanet|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
