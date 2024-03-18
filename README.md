@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|180.148.4.194|8080|Vietnam|Bình Dương Province|VNTT|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.111.136.110|8080|Indonesia|Samarinda|FAZNET|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|8|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|14|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.160.92|5925|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|202.5.56.139|5020|Bangladesh|Khulna|BBTS-NEW|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|18|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|72.10.160.93|21337|Canada|Montreal|GloboTech Communications|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
