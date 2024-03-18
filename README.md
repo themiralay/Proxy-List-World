@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
 |6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
-|8|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|9|177.136.218.105|8080|Brazil|Itaipulandia|M.A. Informática Ltda.|
-|10|36.74.9.169|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|11|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|12|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.189.252.57|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
+|8|187.216.229.150|8080|Mexico|Mexico|UNINET|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|103.164.229.114|8080|Indonesia|Kudus|PT Muria Data Utama|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|139.135.139.246|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|119.39.68.79|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|117.2.142.155|2240|Vietnam|Da Nang|Viettel Corporation|
+|20|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
 
 
 
