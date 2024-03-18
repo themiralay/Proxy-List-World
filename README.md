@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7046** proxies at the latest update. Usable proxies are below.
+> Scraper found **7045** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|3|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|2|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.31.232.243|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
-|11|138.68.3.159|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|13|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|16|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
-|18|1.52.252.32|4006|Vietnam|Hanoi|FPT Telecom Company|
-|19|212.126.96.154|8080|Iraq|Seyid Sadiq|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd|
-|20|203.161.30.10|8765|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|136.243.125.1|1369|Germany|Cologne|Hetzner Online GmbH|
+|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|18|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|19|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|20|35.237.210.215|3128|United States|North Charleston|Google LLC|
 
 
 
