@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|185.153.198.188|8118|Moldova|Chisinau|''IT FRUIT'' S.R.L.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|103.172.42.181|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|185.186.242.135|3128|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|94.237.75.13|3128|Singapore|Singapore|UpCloud Ltd|
-|18|67.43.236.20|13529|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13529|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13529|Canada|Montreal|GloboTech Communications|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|111.225.153.28|8089|China|Zhoutou|China Telecom|
+|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|16|165.225.72.151|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|18|67.43.236.20|21555|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|21555|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
