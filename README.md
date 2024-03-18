@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|607|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|607|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|607|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
 |5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
+|7|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|202.78.166.20|8080|Germany|Frankfurt am Main|G-Core Labs S.A.|
+|9|5.2.76.163|17000|The Netherlands|Amsterdam|The Infrastructure Group B.V.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|103.186.91.241|9000|Indonesia|Jepara|PT Akses Data Internusa|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
-|18|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
-|19|103.171.244.64|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|103.171.244.64|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|20|1.53.12.92|8080|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
