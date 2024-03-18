@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|5|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|202.12.80.10|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|12|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|13|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|1.53.12.92|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
