@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|10|72.10.164.178|28827|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|2799|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|10125|Canada|Montreal|GloboTech Communications|
-|13|138.68.3.159|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.237.210.215|3128|United States|North Charleston|Google LLC|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|17|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
-|18|38.48.96.4|28080|United States|Covington|Wavefly|
-|19|72.10.164.178|28827|Canada|Montreal|GloboTech Communications|
-|20|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|183.81.156.98|8080|Indonesia|Manggadua Selatan|Internet Service Provider|
+|10|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|72.10.160.90|22695|Canada|Montreal|GloboTech Communications|
+|12|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|15|72.10.164.178|29627|Canada|Montreal|GloboTech Communications|
+|16|197.98.201.97|10993|South Africa|Johannesburg|Dimension Data|
+|17|103.76.149.102|8181|Indonesia|Batu|PT. Java Digital Nusantara|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.227.228|27935|Canada|Montreal|GloboTech Communications|
+|20|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
 
 
 
