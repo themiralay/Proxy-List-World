@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|62.146.234.11|8000|United States|Dover|Fybe Singapore|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|157.92.152.14|8080|Argentina|Buenos Aires|Universidad Nacional de Buenos Aires|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|80.91.26.137|3128|Russia|Tyumen|Russian company LLC|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|202.70.145.26|4995|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|62.146.234.11|8000|United States|Dover|Fybe Singapore|
+|8|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|103.160.184.236|80|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|17|31.43.191.118|80|Azerbaijan|Baku|Telkom Internet LTD|
+|18|208.102.25.178|8888|United States|Harrison|Fuse Internet Access|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
