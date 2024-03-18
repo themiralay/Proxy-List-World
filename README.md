@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|635|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|635|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|635|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|7|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |13|103.166.141.74|20074|Vietnam|Hanoi|Viet NAM Cloud Technology Joint Stock Company|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|79.141.161.62|80|United States|Chicago|HZ Hosting Ltd|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|16|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|34.49.208.221|80|United States|Kansas City|Google LLC|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
