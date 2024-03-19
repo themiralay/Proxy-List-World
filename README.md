@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7096** proxies at the latest update. Usable proxies are below.
+> Scraper found **7311** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|611|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|426|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5099|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|14.63.228.239|80|South Korea|Incheon|Korea Telecom|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|67.43.227.228|22467|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|12607|Canada|Montreal|GloboTech Communications|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.160.90|27015|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23475|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13545|Canada|Montreal|GloboTech Communications|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|8|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|88.255.65.125|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
+|12|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|13|36.255.84.69|84|India|Bengaluru|Gatik Business Solutions|
+|14|36.64.153.2|3128|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|72.10.164.178|12273|Canada|Montreal|GloboTech Communications|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|72.10.164.178|12273|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|22227|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|18493|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|12273|Canada|Montreal|GloboTech Communications|
 
 
 
