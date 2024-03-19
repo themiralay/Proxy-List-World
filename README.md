@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|7|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.115.20.28|8090|Indonesia|Subang|PMYNET|
-|13|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|103.12.73.108|8080|Bangladesh|Netrakona|Business Network|
-|17|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|18|198.99.81.197|8080|United States|Fort Collins|City of Fort Collins|
-|19|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
-|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|14|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|103.115.20.28|8090|Indonesia|Subang|PMYNET|
+|18|203.113.114.94|33107|Thailand|Samut Sakhon|TOT Public Company Limited|
+|19|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|20|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
 
 
 
