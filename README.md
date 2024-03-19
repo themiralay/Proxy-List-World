@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|89.117.57.158|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|12|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
-|13|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|11967|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|10|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|11|64.157.16.43|8080|United States|Francesville|Level 3|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
+|14|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|11967|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|27601|Canada|Montreal|GloboTech Communications|
 |17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|123.112.215.55|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
-|20|85.206.13.20|80|Lithuania|Utena|Telia Lietuva, AB|
+|18|72.10.160.94|2341|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|3417|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
 
 
 
