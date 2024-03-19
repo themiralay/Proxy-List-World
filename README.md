@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|14.103.26.198|8000|China|Beijing|BITNET|
-|8|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|182.16.171.65|43188|Indonesia|Menteng|PT iForte Global Internet|
-|10|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|11|38.252.209.32|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|12|45.149.93.90|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|13|67.43.236.20|32099|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|25451|Canada|Montreal|GloboTech Communications|
-|16|119.3.215.41|8888|China|Beijing|Huawei Cloud Service data center|
-|17|72.10.160.94|2341|Canada|Montreal|GloboTech Communications|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
-|20|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
+|4|103.149.194.76|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|147.75.92.251|10002|Japan|Koto-ku|Packet Host, Inc.|
+|10|182.16.171.65|43188|Indonesia|Menteng|PT iForte Global Internet|
+|11|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|147.75.92.251|10002|Japan|Koto-ku|Packet Host, Inc.|
+|14|67.43.236.20|32099|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.94|2341|Canada|Montreal|GloboTech Communications|
+|16|123.182.58.161|8089|China|Zhangjiakou|China Telecom|
+|17|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|25451|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
+|20|123.182.58.208|8089|China|Zhangjiakou|China Telecom|
 
 
 
