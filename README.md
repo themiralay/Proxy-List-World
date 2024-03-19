@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|61.7.143.93|8180|Thailand|Bang Bo|CAT Telecom Public Company Limited|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|72.10.164.178|4649|Canada|Montreal|GloboTech Communications|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|72.10.160.171|11327|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|165.225.113.214|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|117.2.142.155|2211|Vietnam|Da Nang|Viettel Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|17|72.10.164.178|4649|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.160.171|11327|Canada|Montreal|GloboTech Communications|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
