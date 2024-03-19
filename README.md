@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|111.225.152.16|8089|China|Zhoutou|China Telecom|
-|10|5.230.159.43|4006|United Kingdom|London|GHOSTnet GmbH|
-|11|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|12|67.43.228.250|23067|Canada|Montreal|GloboTech Communications|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.154.230.123|5678|Indonesia|Lamongan|DIGITNET|
-|20|67.43.227.227|32605|Canada|Montreal|GloboTech Communications|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.152.232.148|8085|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|165.225.72.151|10909|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|10|67.43.228.250|23067|Canada|Montreal|GloboTech Communications|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|103.105.68.9|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|13|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|14|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|103.250.130.111|8080|Indonesia|Surabaya|LINTASDAYA|
+|16|67.43.227.227|29905|Canada|Montreal|GloboTech Communications|
+|17|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|18|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|19|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|72.10.160.170|1975|Canada|Montreal|GloboTech Communications|
 
 
 
