@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|665|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|665|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|665|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|731|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|731|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|731|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|14|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|180.211.179.126|8080|Bangladesh|Habiganj|Bangladesh Telegraph & Telephone Board|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.148.130.5|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|14|147.182.164.100|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.105.76.65|8080|Indonesia|Surabaya|GARUDA|
+|19|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
