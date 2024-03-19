@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.82.126.74|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|18|67.43.236.20|8197|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|2289|Canada|Montreal|GloboTech Communications|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.166.227.36|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|18|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|103.126.173.73|8080|Indonesia|Bandar Lampung|MEGARAP|
 
 
 
