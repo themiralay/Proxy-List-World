@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7456** proxies at the latest update. Usable proxies are below.
+> Scraper found **7482** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -25,7 +25,7 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|2|✅|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
-|8|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
-|14|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|15|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|186.190.231.182|999|Colombia|Zapatoca|TV AZTECA SUCURSAL COLOMBIA|
-|17|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|103.115.20.28|8090|Indonesia|Subang|PMYNET|
+|6|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|101.255.208.170|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|10|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.12.73.108|8080|Bangladesh|Netrakona|Business Network|
+|12|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|13|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|14|191.97.3.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|16|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|17|188.125.169.8|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
+|19|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
 |20|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
 
 
