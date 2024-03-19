@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|12|200.55.245.140|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|8|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
