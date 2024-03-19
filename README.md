@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|123.182.59.193|8089|China|Zhangjiakou|China Telecom|
-|18|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|176.77.9.22|55443|Russia|Moscow|PJSC MegaFon|
+|15|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
