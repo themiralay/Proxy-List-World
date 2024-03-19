@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|721|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|721|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|721|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|6|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
-|19|165.232.89.116|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|103.169.130.49|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|95.158.179.216|32799|Bulgaria|Kilifarevo|Videosat 21 Vek OOD|
+|17|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|18|183.88.93.163|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
