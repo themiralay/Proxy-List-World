@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|23.94.59.168|1080|United States|Seattle|HostPapa|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|103.177.21.9|8080|Indonesia|Malang|PT Lintas Data Multimedia|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|105.113.51.172|8080|Nigeria|Lagos|Airtel Networks Limited|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
