@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|4|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|17|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.228.253|2855|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|8905|Canada|Montreal|GloboTech Communications|
-|20|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|72.10.160.90|8849|Canada|Montreal|GloboTech Communications|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|67.43.228.253|2855|Canada|Montreal|GloboTech Communications|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.20|8905|Canada|Montreal|GloboTech Communications|
+|15|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|34.49.208.221|80|United States|Kansas City|Google LLC|
+|18|41.203.83.66|8080|Nigeria|Lagos|Globacom Limited|
+|19|72.10.164.178|25817|Canada|Montreal|GloboTech Communications|
+|20|45.188.164.48|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
 
 
 
