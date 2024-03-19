@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.170|28529|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|28529|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12841|Canada|Montreal|GloboTech Communications|
+|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|17|67.43.228.251|13593|Canada|Montreal|GloboTech Communications|
+|18|111.225.153.117|8089|China|Zhoutou|China Telecom|
+|19|72.10.164.178|6351|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|5447|Canada|Montreal|GloboTech Communications|
 
 
 
