@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|72.10.164.178|13095|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|16029|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|7085|Canada|Montreal|GloboTech Communications|
-|20|111.225.153.114|8089|China|Zhoutou|China Telecom|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|45.249.77.113|83|India|Hyderabad|Tejasri Communications|
+|19|67.43.228.253|20317|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13095|Canada|Montreal|GloboTech Communications|
 
 
 
