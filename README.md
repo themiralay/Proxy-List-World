@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|103.191.155.62|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
-|9|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|112.78.161.93|8080|Indonesia|Jakarta|Biznet Networks|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|17|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|18|103.172.35.138|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|19|103.168.169.245|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|10|72.10.164.178|13011|Canada|Montreal|GloboTech Communications|
+|11|223.215.176.94|8089|China|Guangzhou|Chinanet|
+|12|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|13|67.43.236.18|22439|Canada|Montreal|GloboTech Communications|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|67.43.236.20|21117|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|17011|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.160.171|19315|Canada|Montreal|GloboTech Communications|
 
 
 
