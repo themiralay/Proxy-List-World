@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|9|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |11|165.225.72.151|11039|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|67.43.228.253|12183|Canada|Montreal|GloboTech Communications|
-|19|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|12|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|138.97.14.247|8080|Brazil|Duque de Caxias|RedeBr Telecom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|46.105.42.230|3128|France|Roubaix|OVH SAS|
+|16|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
