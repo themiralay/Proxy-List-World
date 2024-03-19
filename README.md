@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|72.10.164.178|11187|Canada|Montreal|GloboTech Communications|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|67.43.227.227|15269|Canada|Montreal|GloboTech Communications|
-|12|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|13|67.43.227.226|7889|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|18|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|20|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|1|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|165.225.72.151|11039|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|7|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|67.43.227.227|15269|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|30017|Canada|Montreal|GloboTech Communications|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
+|15|72.10.164.178|30017|Canada|Montreal|GloboTech Communications|
+|16|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|80.78.64.70|8080|Albania|Tirana|ABCom|
+|19|192.214.193.136|8080|France|Le Mans|Adista SAS|
+|20|67.43.227.226|7889|Canada|Montreal|GloboTech Communications|
 
 
 
