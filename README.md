@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|11|165.225.113.214|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.236.20|19027|Canada|Montreal|GloboTech Communications|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|20|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
