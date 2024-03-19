@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|67.43.236.20|7633|Canada|Montreal|GloboTech Communications|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.227.226|8137|Canada|Montreal|GloboTech Communications|
-|20|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|67.43.236.20|7633|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|27879|Canada|Montreal|GloboTech Communications|
+|11|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|138.94.236.161|8080|Brazil|Novo Progresso|Nettcon Provedor De Internet Eireli EPP|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.227.227|1505|Canada|Montreal|GloboTech Communications|
+|19|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
