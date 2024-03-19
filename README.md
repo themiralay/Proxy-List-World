@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
 |12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
