@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|346|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.55.245.140|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|150.136.163.144|3128|United States|Ashburn|Oracle Corporation|
-|14|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|94.103.92.154|3128|Russia|Moscow|Hosting technology LTD|
-|19|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|72.10.160.171|19315|Canada|Montreal|GloboTech Communications|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|15|5.230.159.43|4006|United Kingdom|London|GHOSTnet GmbH|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|72.10.160.171|19315|Canada|Montreal|GloboTech Communications|
+|18|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|19|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
+|20|72.10.164.178|8947|Canada|Montreal|GloboTech Communications|
 
 
 
