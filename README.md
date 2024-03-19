@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.152.232.148|8085|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|6|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|185.82.176.34|80|Russia|Moscow|ZagorodTelecom LLC|
-|12|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|16|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|18|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
-|19|190.92.198.46|4006|Singapore|Singapore|Huawei International Pte. LTD|
-|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|175.41.169.255|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|5|103.165.155.238|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|165.225.113.214|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
