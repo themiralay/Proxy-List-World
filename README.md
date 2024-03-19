@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.164.178|5171|Canada|Montreal|GloboTech Communications|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|82.65.240.111|3128|France|Paris|Proxad / Free SAS|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|72.10.164.178|5171|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
