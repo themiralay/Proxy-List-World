@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
 |5|113.178.33.79|8080|Vietnam|Hanoi|VNPT|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|9|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|10|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|11|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|6|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|7|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|10|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
 |16|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|17|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|18|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
 
 
 
