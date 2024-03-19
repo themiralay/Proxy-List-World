@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|213.133.123.122|3218|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
 |9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|123.182.58.112|8089|China|Zhangjiakou|China Telecom|
-|20|123.182.59.98|8089|China|Zhangjiakou|China Telecom|
+|10|46.105.42.230|3128|France|Roubaix|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|19|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
