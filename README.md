@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
-|15|72.10.160.90|25977|Canada|Montreal|GloboTech Communications|
-|16|123.182.59.53|8089|China|Zhangjiakou|China Telecom|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.226|28847|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.160.90|25977|Canada|Montreal|GloboTech Communications|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|123.182.59.53|8089|China|Zhangjiakou|China Telecom|
+|16|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
+|17|202.12.80.6|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|20|72.10.160.90|29187|Canada|Montreal|GloboTech Communications|
 
 
 
