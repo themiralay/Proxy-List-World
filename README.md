@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.125.74.85|3128|South Korea|Seoul|Amazon Technologies Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|45.174.22.65|8085|Argentina|Boca Toma|DIAZ MARCELA ALEJANDRA(PATAGONIA DIGITAL)|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|13.125.74.85|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|111.225.153.107|8089|China|Zhoutou|China Telecom|
-|17|123.182.59.149|8089|China|Zhangjiakou|China Telecom|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|20|67.43.236.18|10799|Canada|Montreal|GloboTech Communications|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|13.125.74.85|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|13|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
+|18|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|72.10.164.178|24723|Canada|Montreal|GloboTech Communications|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
