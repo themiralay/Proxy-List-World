@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|674|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|674|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|674|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|103.175.46.159|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.147.135.254|8090|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|85.239.243.56|3128|United States|St Louis|Casablanca INT fraction|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.172.42.218|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|85.239.243.56|3128|United States|St Louis|Casablanca INT fraction|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|179.108.220.184|8080|Brazil|Barbacena|Conecta Ltda.|
-|19|45.11.95.166|6001|Russia|Moscow|Delta Ltd|
-|20|8.222.224.253|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|13|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
+|14|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|67.43.236.20|7921|Canada|Montreal|GloboTech Communications|
+|16|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|17|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|19|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
