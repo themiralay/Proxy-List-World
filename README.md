@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|3|23.94.59.168|1080|United States|Seattle|HostPapa|
-|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|6|23.94.59.168|1080|United States|Seattle|HostPapa|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|188.132.222.67|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|11|23.94.59.168|1080|United States|Seattle|HostPapa|
+|12|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
 |13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|147.75.92.251|10079|Japan|Koto-ku|Packet Host, Inc.|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|185.123.53.59|3128|Estonia|Tallinn|BlueVPS OU|
-|17|181.78.19.252|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|18|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|23.94.59.168|1080|United States|Seattle|HostPapa|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|16|103.59.44.42|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|23.94.59.168|1080|United States|Seattle|HostPapa|
+|18|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|67.43.227.228|20835|Canada|Montreal|GloboTech Communications|
 
 
 
