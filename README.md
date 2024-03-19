@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|3|72.10.164.178|4615|Canada|Montreal|GloboTech Communications|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|6|72.10.160.170|27345|Canada|Montreal|GloboTech Communications|
-|7|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|8|203.79.29.150|8080|Indonesia|Jakarta|PT Surya Global Teknologi|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|72.10.164.178|4615|Canada|Montreal|GloboTech Communications|
-|13|203.79.29.246|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|67.43.227.229|29777|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|24035|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|27345|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29567|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|23507|Canada|Montreal|GloboTech Communications|
+|1|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|72.10.164.178|20667|Canada|Montreal|GloboTech Communications|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|9|45.11.95.165|5021|Russia|Moscow|Delta Ltd|
+|10|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
+|11|72.10.160.170|19761|Canada|Montreal|GloboTech Communications|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|18|72.10.160.171|11171|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|188.132.222.23|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
