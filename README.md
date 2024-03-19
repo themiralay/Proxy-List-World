@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|764|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|764|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|764|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1123|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|646|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
