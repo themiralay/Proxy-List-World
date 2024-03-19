@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|829|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|829|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|829|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|736|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|736|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|736|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.159.196.81|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|12|103.125.138.202|8080|Bangladesh|Dhaka|Rupali Bank Limited|
-|13|124.106.228.30|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|14|202.12.82.1|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|15|103.105.68.9|8080|Indonesia|South Tangerang|PT iForte Global Internet|
-|16|103.81.64.253|3128|Indonesia|Bandar Lampung|QIUNET|
-|17|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
+|3|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|124.106.228.30|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
+|18|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|46.250.242.57|3128|United Kingdom|London|Contabo Asia Private Limited|
 
 
 
