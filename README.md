@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.41.169.255|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|67.43.227.227|28655|Canada|Montreal|GloboTech Communications|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|14|36.95.213.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|16|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|17|111.225.152.83|8089|China|Zhoutou|China Telecom|
-|18|111.225.153.221|8089|China|Zhoutou|China Telecom|
-|19|67.43.227.228|31765|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|28805|Canada|Montreal|GloboTech Communications|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|67.43.227.227|11959|Canada|Montreal|GloboTech Communications|
+|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
