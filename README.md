@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.41.169.255|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|5|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|6|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|7|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|67.43.228.253|17839|Canada|Montreal|GloboTech Communications|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|67.43.227.226|32187|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|5|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|103.165.155.238|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|14|36.91.107.245|8080|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|15|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|16|45.149.93.90|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|17|67.43.228.253|1271|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|18103|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|32187|Canada|Montreal|GloboTech Communications|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
