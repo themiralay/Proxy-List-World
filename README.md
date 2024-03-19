@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |6|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|7|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|67.43.227.227|30357|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|5879|Canada|Montreal|GloboTech Communications|
-|11|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|13|67.43.228.253|1287|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|183.166.136.128|41122|China|Rongcheng|Chinanet|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
-|19|67.43.228.253|1287|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|22681|Canada|Montreal|GloboTech Communications|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|183.166.136.128|41122|China|Rongcheng|Chinanet|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.19|20313|Canada|Montreal|GloboTech Communications|
+|13|35.189.95.79|3128|United Kingdom|London|Google LLC|
+|14|72.10.164.178|26263|Canada|Montreal|GloboTech Communications|
+|15|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|16|67.43.228.253|1287|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|3753|Canada|Montreal|GloboTech Communications|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
