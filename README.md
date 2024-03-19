@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.125.154.161|8080|India|Tirupur|Live Fibernet|
+|6|103.165.155.73|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|11|203.253.142.176|8080|South Korea|Yuseong|KISTI|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|167.250.222.233|999|Mexico|Comalapa|Ufinet Panama S.A.|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|18|138.2.127.253|8080|South Korea|Chuncheon|Oracle Corporation|
-|19|165.227.0.166|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|80.234.104.229|3128|Russia|Samara|Commerce Network|
+|10|201.71.2.127|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|142.11.227.126|3128|United States|Seattle|Hostwinds LLC.|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|23.94.59.168|1080|United States|Seattle|HostPapa|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|45.233.67.200|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|19|72.10.160.90|14501|Canada|Montreal|GloboTech Communications|
+|20|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
