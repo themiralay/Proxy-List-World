@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|16|82.165.65.190|80|Germany|Frankfurt am Main|IONOS|
-|17|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|123.182.58.118|8089|China|Zhangjiakou|China Telecom|
+|19|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|20|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
