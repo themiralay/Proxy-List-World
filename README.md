@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|649|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|649|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|649|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|103.87.228.183|8080|Indonesia|Bandar Lampung|ZITLINE|
-|10|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
-|11|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|1.1.220.100|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|43.252.238.86|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|16|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|17|45.62.235.18|80|Canada|Toronto|DataCity|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|20|103.239.175.90|1111|India|Puducherry|One Eight Technologies Private Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|41.111.206.167|80|Algeria|Béjaïa|Algerie Telecom|
+|7|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
+|8|103.169.255.181|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|9|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|14|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
