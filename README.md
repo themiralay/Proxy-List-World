@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|702|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|702|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|702|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1063|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1063|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1063|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|10|204.199.120.30|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|15|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|16|103.167.15.213|83|Bangladesh|Nārāyanganj|Sajid Trading Limited|
-|17|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
-|18|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|19|103.162.50.13|8080|Bangladesh|Chittagong|Exabyte Ltd.|
-|20|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|1|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
+|2|103.211.107.77|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
+|3|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
+|4|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|5|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|6|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|7|27.147.148.173|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|103.247.22.164|8080|Indonesia|Bekasi|PT wifian Solution|
+|9|103.148.129.177|8080|Pakistan|Jaranwala|MAC WIFI NETWORKS (PRIVATE) LIMITED|
+|10|27.124.83.210|8080|Indonesia|Purworejo|PT.Global Media Data Prima|
+|11|190.144.48.50|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|177.250.28.135|8080|Paraguay|Ypane|COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)|
+|14|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.26.110.209|84|India|Tirunelveli|Niss Networks|
+|18|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|51.81.16.128|8080|United States|Warrenton|OVH US LLC|
+|20|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
 
 
 
