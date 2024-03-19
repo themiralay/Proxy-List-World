@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|6|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
-|19|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|147.182.164.100|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|15|103.52.37.33|83|India|Hyderabad|VAINAVIINDUSTRIESLTD|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|20|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
 
 
 
