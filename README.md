@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|103.85.114.240|8080|Bangladesh|Paltan|Apple Communication Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|51.77.64.139|80|Germany|Kiel|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|111.225.153.114|8089|China|Zhoutou|China Telecom|
-|13|67.43.227.227|2745|Canada|Montreal|GloboTech Communications|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|111.225.153.254|8089|China|Zhoutou|China Telecom|
-|16|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|17|111.225.152.171|8089|China|Zhoutou|China Telecom|
-|18|182.176.164.41|8080|Pakistan|Sialkot|Pakistan Telecommuication company limited|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|165.225.72.151|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|67.43.227.227|2745|Canada|Montreal|GloboTech Communications|
+|20|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
 
 
 
