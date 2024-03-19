@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6933** proxies at the latest update. Usable proxies are below.
+> Scraper found **6925** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|10|67.43.236.20|14211|Canada|Montreal|GloboTech Communications|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
+|8|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|9|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
+|10|45.11.95.165|5220|Russia|Moscow|Delta Ltd|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|13|67.43.236.20|14211|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|14211|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|19551|Canada|Montreal|GloboTech Communications|
-|17|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.160.171|11171|Canada|Montreal|GloboTech Communications|
-|19|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|12|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|15|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|67.43.227.228|19551|Canada|Montreal|GloboTech Communications|
+|18|123.182.59.197|8089|China|Zhangjiakou|China Telecom|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
 
 
 
