@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|147.75.92.251|10004|Japan|Koto-ku|Packet Host, Inc.|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
+|7|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|162.252.147.225|8282|United States|New Paris|ALTIUS Broadband, LLC|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|67.43.228.253|20997|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|11327|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|9899|Canada|Montreal|GloboTech Communications|
-|15|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|16|72.10.164.178|4649|Canada|Montreal|GloboTech Communications|
-|17|20.74.156.25|3128|United Arab Emirates|Dubai|Microsoft Corporation|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.164.178|4649|Canada|Montreal|GloboTech Communications|
+|9|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.171|11327|Canada|Montreal|GloboTech Communications|
+|13|182.253.39.203|8080|Indonesia|Semarang|BIZNET|
+|14|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|72.10.164.178|7967|Canada|Montreal|GloboTech Communications|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|72.10.164.178|7967|Canada|Montreal|GloboTech Communications|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
