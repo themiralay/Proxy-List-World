@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|646|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|124.106.228.30|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 |8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|17|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|18|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|19|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
-|20|111.225.153.252|8089|China|Zhoutou|China Telecom|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|36.90.93.42|8080|Indonesia|Cirebon|PT. Telekomunikasi Indonesia|
+|12|45.224.247.102|80|Brazil|Fortaleza|Upix Networks|
+|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|103.165.151.122|8080|Indonesia|Bengkalis|PT Agsa Global Network|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|194.140.198.23|80|United States|Newark|Nubes, LLC|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
