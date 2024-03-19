@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|815|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|484|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|117.102.73.99|8080|Indonesia|Jakarta|Biznet Networks|
-|11|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
-|12|150.129.5.227|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|191.102.254.27|8085|Argentina|Rosario|IP·RED|
-|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
+|13|103.179.252.86|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
+|14|37.210.35.165|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.236.20|3187|Canada|Montreal|GloboTech Communications|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|179.60.51.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|19|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|103.184.56.130|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 
 
 
