@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|9|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|72.10.160.90|18153|Canada|Montreal|GloboTech Communications|
-|19|118.117.190.65|8089|China|Muping|Chinanet|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
