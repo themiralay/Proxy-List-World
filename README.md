@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.59.168|1080|United States|Seattle|HostPapa|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|49.145.119.102|8085|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
-|12|103.250.130.104|1111|Indonesia|Surabaya|LINTASDAYA|
-|13|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|14|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
-|15|67.43.227.227|5211|Canada|Montreal|GloboTech Communications|
-|16|179.60.235.251|8094|Argentina|Gobernador Galvez|WICORP SA|
-|17|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|20|72.10.160.90|27015|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|188.132.222.51|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|38.183.144.117|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|202.40.179.30|5020|Bangladesh|Dhaka|Ranks ITT|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|179.49.160.36|999|Colombia|Neiva|Integra Multisolutions|
 
 
 
