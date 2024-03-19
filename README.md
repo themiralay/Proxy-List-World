@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.146.38.53|8080|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|4|181.78.79.75|999|Colombia|El Carmen de Viboral|IFX Networks Argentina S.R.L|
-|5|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|15|67.43.236.20|20757|Canada|Montreal|GloboTech Communications|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|115.147.22.20|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|18|67.43.228.253|20997|Canada|Montreal|GloboTech Communications|
-|19|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|20757|Canada|Montreal|GloboTech Communications|
+|13|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|14|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
+|15|72.10.164.178|30725|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|191.243.161.135|3128|Brazil|São Paulo|Simnet Telecomunicacoes Ltda|
+|18|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|176.106.22.125|8080|Russia|Tuapse|LLC "Multiservice"|
 
 
 
