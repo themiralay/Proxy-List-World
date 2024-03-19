@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.144.249.134|80|United States|Kansas City|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|116.111.97.80|4006|Vietnam|Hanoi|Viettel Corporation|
-|5|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|171.243.1.199|4006|Vietnam|Da Nang|Viettel Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|34.144.249.134|80|United States|Kansas City|Google LLC|
-|10|23.94.59.168|1080|United States|Seattle|HostPapa|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|180.191.59.89|8080|Philippines|Cabanatuan City|Globe Telecom|
+|4|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|8|64.76.43.114|999|Mexico|Mexico City|Level 3|
+|9|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|10|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|103.167.171.150|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|15|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|16|23.94.59.168|1080|United States|Seattle|HostPapa|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
-|20|34.144.249.134|80|United States|Kansas City|Google LLC|
+|12|202.154.37.141|8080|Indonesia|Gresik|RADNET|
+|13|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|14|45.90.12.154|10089|United States|Secaucus|RoyaleHosting BV|
+|15|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|16|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|17|103.165.157.7|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
+|18|34.144.249.134|80|United States|Kansas City|Google LLC|
+|19|202.5.46.198|5020|Bangladesh|Chittagong|BBTS-NEW|
+|20|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
 
 
 
