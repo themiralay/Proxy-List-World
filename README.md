@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|6|34.49.208.221|80|United States|Kansas City|Google LLC|
+|2|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|16|103.156.17.39|8181|Indonesia|Indramayu|RSTNET|
-|17|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|18|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|65.109.239.59|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|14|67.43.227.228|12011|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|30341|Canada|Montreal|GloboTech Communications|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|19|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|72.10.160.90|8095|Canada|Montreal|GloboTech Communications|
 
 
 
