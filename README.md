@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|17|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|18|67.43.228.251|25281|Canada|Montreal|GloboTech Communications|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|17|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|18|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|67.43.228.251|13957|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|6309|Canada|Montreal|GloboTech Communications|
 
 
 
