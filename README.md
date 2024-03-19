@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.99.52.35|8888|United States|Clifton|DigitalOcean, LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|167.99.52.35|8888|United States|Clifton|DigitalOcean, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.99.52.35|8888|United States|Clifton|DigitalOcean, LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|167.99.52.35|8888|United States|Clifton|DigitalOcean, LLC|
+|16|103.158.221.49|83|India|Theni|Nt Cybronet Pvt Ltd|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|167.99.52.35|8888|United States|Clifton|DigitalOcean, LLC|
+|20|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
 
 
 
