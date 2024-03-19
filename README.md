@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|13.125.74.85|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|181.78.23.194|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|14|18.143.183.255|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|15|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|16|67.43.227.228|2455|Canada|Montreal|GloboTech Communications|
-|17|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|18|69.163.43.124|8080|United States|Portland|FIBERFI|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|7|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|67.43.227.228|2455|Canada|Montreal|GloboTech Communications|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|165.225.72.151|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|116.108.88.65|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|67.43.227.227|20559|Canada|Montreal|GloboTech Communications|
+|19|62.171.133.66|3128|Germany|Nuremberg|Contabo GmbH|
+|20|18.143.183.255|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
