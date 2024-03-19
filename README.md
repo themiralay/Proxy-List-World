@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|857|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|857|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|857|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|823|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|823|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|823|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|115.127.112.74|8090|Bangladesh|Dhaka|BRACNet Limited|
-|6|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|7|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|9|83.118.30.224|8081|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|4|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|23.94.59.168|1080|United States|Seattle|HostPapa|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|14|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|15|175.41.157.106|3128|Singapore|Singapore|Amazon.com, Inc.|
-|16|46.250.240.209|3128|United Kingdom|London|Contabo Asia Private Limited|
-|17|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|18|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|14|103.52.37.33|83|India|Hyderabad|VAINAVIINDUSTRIESLTD|
+|15|115.127.112.74|8090|Bangladesh|Dhaka|BRACNet Limited|
+|16|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
+|20|122.54.147.110|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 
 
 
