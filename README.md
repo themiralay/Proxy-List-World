@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|626|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|626|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|626|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|11|23.94.59.168|1080|United States|Seattle|HostPapa|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|20|18.143.183.255|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|36.50.253.70|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|8|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|10|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|23.94.59.168|1080|United States|Seattle|HostPapa|
+|13|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
