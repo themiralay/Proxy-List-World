@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.169.59.171|8380|United States|Norcross|Cloudflare London, LLC|
-|2|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|1|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|197.251.193.65|8080|Ghana|Accra|Vodafone Ghana|
+|4|41.111.206.167|80|Algeria|Béjaïa|Algerie Telecom|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|23.94.59.168|1080|United States|Seattle|HostPapa|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.236.20|24089|Canada|Montreal|GloboTech Communications|
-|15|147.75.34.83|80|The Netherlands|Amsterdam|Equinix Services|
-|16|72.10.160.90|2327|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|23.94.59.168|1080|United States|Seattle|HostPapa|
+|14|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|67.43.236.20|1555|Canada|Montreal|GloboTech Communications|
+|18|115.42.45.1|80|India|Jhānsi|Webline Broadband Pvt Ltd|
 |19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|118.117.190.148|8089|China|Muping|Chinanet|
+|20|27.147.148.173|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
