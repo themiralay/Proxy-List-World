@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|107.174.245.105|3128|United States|Seattle|HostPapa|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|16|67.43.236.20|11571|Canada|Montreal|GloboTech Communications|
-|17|45.171.242.3|8083|Brazil|Atibaia|MaetingaNET Informática e Telecomunicações|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|117.70.49.235|8089|China|Rongcheng|Chinanet|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|14|67.43.236.20|3559|Canada|Montreal|GloboTech Communications|
+|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
