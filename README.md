@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.77.64.139|80|Germany|Kiel|OVH SAS|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.160.174|22125|Canada|Montreal|GloboTech Communications|
+|9|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|200.55.245.140|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|14|72.10.160.174|22125|Canada|Montreal|GloboTech Communications|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.228.253|1383|Canada|Montreal|GloboTech Communications|
 
 
 
