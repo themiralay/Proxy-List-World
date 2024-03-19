@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|113.178.33.79|8080|Vietnam|Hanoi|VNPT|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|6|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.178.33.79|8080|Vietnam|Hanoi|VNPT|
 |7|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|8|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|9|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|12|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|13|200.101.150.202|8080|Brazil|Curitiba|V tal|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|201.184.117.130|3129|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|10|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|11|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|15|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|201.184.117.130|3129|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
