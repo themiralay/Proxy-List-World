@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|849|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|849|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|849|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|796|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|796|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|796|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.143.183.255|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|15|31.7.70.215|3128|Iran|Tehran|IR-AT|
-|16|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|17|181.114.224.133|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|18|45.62.235.18|80|Canada|Toronto|DataCity|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|7|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|117.3.253.30|4006|Vietnam|Hanoi|Viettel Corporation|
+|11|45.62.235.18|80|Canada|Toronto|DataCity|
+|12|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|13|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|38.7.197.176|999|Chile|Santiago|Grupo ZGH SPA|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
 
 
 
