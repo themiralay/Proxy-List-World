@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|168.195.203.254|999|Mexico|Huixtla|Level 3 Communications, Inc.|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|45.167.124.97|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|20|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|7|23.94.59.168|1080|United States|Seattle|HostPapa|
+|8|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|9|203.79.29.150|8080|Indonesia|Jakarta|PT Surya Global Teknologi|
+|10|115.127.112.74|8090|Bangladesh|Dhaka|BRACNet Limited|
+|11|202.60.194.23|80|Thailand|Ban Talat Bueng|TCC Technology Co., Ltd.|
+|12|103.169.130.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.52.37.33|83|India|Hyderabad|VAINAVIINDUSTRIESLTD|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
+|19|103.156.15.212|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|20|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
 
 
 
