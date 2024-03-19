@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|67.79.51.210|16099|United States|Beaumont|Spectrum|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
-|9|204.11.158.50|59886|U.S. Virgin Islands|Charlotte Amalie|Broadband VI, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|103.234.159.5|8080|India|Mumbai|MWPL|
-|13|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|183.88.46.37|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|16|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
+|17|121.52.156.146|8080|Pakistan|Multan|HEC|
+|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|103.234.159.5|8080|India|Mumbai|MWPL|
+|20|36.95.84.151|41890|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
 
 
 
