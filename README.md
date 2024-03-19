@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|72.10.160.90|30313|Canada|Montreal|GloboTech Communications|
-|11|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|12|223.247.47.89|8089|China|Rongcheng|Chinanet|
-|13|223.247.46.71|8089|China|Rongcheng|Chinanet|
-|14|175.41.169.255|3128|Singapore|Singapore|Amazon.com, Inc.|
-|15|34.49.208.221|80|United States|Kansas City|Google LLC|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|18|67.43.236.20|3125|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31193|Canada|Montreal|GloboTech Communications|
-|20|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|3|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|27.121.87.187|80|Indonesia|Pekanbaru|dashnet|
+|6|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|7|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|72.10.160.90|8849|Canada|Montreal|GloboTech Communications|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|175.41.169.255|3128|Singapore|Singapore|Amazon.com, Inc.|
+|14|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.84.235.162|8789|Indonesia|Karawang|PT Maxindo Mitra Solusi|
+|16|67.43.236.20|9803|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25817|Canada|Montreal|GloboTech Communications|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|162.252.147.225|8282|United States|New Paris|ALTIUS Broadband, LLC|
 
 
 
