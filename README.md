@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|12|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
-|17|67.43.227.227|3217|Canada|Montreal|GloboTech Communications|
-|18|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|111.225.152.233|8089|China|Zhoutou|China Telecom|
-|20|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|165.225.113.214|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|109.175.9.203|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
+|13|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|14|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
+|15|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|19|67.43.227.227|3217|Canada|Montreal|GloboTech Communications|
+|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
 
 
 
