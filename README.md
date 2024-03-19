@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.228.250|32199|Canada|Montreal|GloboTech Communications|
-|20|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
