@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|119.155.11.151|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|5|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|177.124.177.116|80|Brazil|Cascavel|Constel Tecnologia Ltda|
-|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|14|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|18|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.195.65.209|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |19|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|20|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|20|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
 
 
 
