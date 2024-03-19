@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|103.74.100.190|3128|Vietnam|Quận Thanh Khê|Viet Digital Technology Liability Company|
-|9|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|10|111.225.153.149|8089|China|Zhoutou|China Telecom|
-|11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|12|161.97.132.227|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|67.43.227.229|25829|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|10963|Canada|Montreal|GloboTech Communications|
-|15|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|16|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|67.43.227.228|3249|Canada|Montreal|GloboTech Communications|
-|18|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
-|19|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
-|20|103.81.222.235|8080|Indonesia|Bandung|STARNET|
+|3|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|13|103.74.144.3|80|India|New Delhi|Anjani Broadband Solutions Pvt.ltd.|
+|14|161.97.132.227|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|159.65.0.189|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
+|19|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 
 
 
