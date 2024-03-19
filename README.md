@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|159.65.0.189|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|175.41.153.234|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|14.225.255.209|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|191.252.222.91|80|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|17|20.55.69.234|3128|United States|Boydton|Microsoft Corporation|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|67.43.228.252|1859|Canada|Montreal|GloboTech Communications|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|171.243.1.199|4006|Vietnam|Da Nang|Viettel Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|175.41.153.234|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|144.217.220.108|3128|Canada|Beauharnois|OVH Hosting|
+|16|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|20.55.69.234|3128|United States|Boydton|Microsoft Corporation|
+|19|72.10.160.173|3141|Canada|Montreal|GloboTech Communications|
+|20|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
