@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|38.68.134.189|3128|United States|Dallas|GTHost|
-|11|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|12|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|45.11.95.165|6002|Russia|Moscow|Delta Ltd|
-|17|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|72.10.160.170|12689|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|16|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|17|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|18|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|19|67.43.236.20|17419|Canada|Montreal|GloboTech Communications|
+|20|142.4.123.41|80|China|Chengdu|PEG TECH INC|
 
 
 
