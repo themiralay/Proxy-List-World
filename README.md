@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|115.147.22.20|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|12|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|67.43.227.227|31353|Canada|Montreal|GloboTech Communications|
-|15|123.182.59.111|8089|China|Zhangjiakou|China Telecom|
-|16|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|8.222.224.253|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|111.224.11.120|8089|China|Zhoutou|Chinanet|
+|15|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|16|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.160.90|24719|Canada|Montreal|GloboTech Communications|
+|19|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|20|67.43.236.20|9515|Canada|Montreal|GloboTech Communications|
 
 
 
