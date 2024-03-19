@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|103.133.24.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|12|107.174.245.105|3128|United States|Seattle|HostPapa|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|8|161.34.33.137|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|103.165.155.108|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|67.43.228.253|30421|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|16|72.10.160.90|8533|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|6057|Canada|Montreal|GloboTech Communications|
+|18|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|72.10.160.170|32221|Canada|Montreal|GloboTech Communications|
+|20|197.98.201.16|10972|South Africa|Johannesburg|Dimension Data|
 
 
 
