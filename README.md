@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|171.22.108.188|3128|United States|Seattle|Dedicated.com|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|17|72.10.160.173|11201|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2463|Canada|Montreal|GloboTech Communications|
-|19|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|20|179.43.93.198|8080|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
+|15|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|17|1.194.236.229|5005|China|Shanghai|China Telecom|
+|18|72.10.160.173|11201|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|11201|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|21887|Canada|Montreal|GloboTech Communications|
 
 
 
