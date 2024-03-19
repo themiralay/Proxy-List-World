@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|691|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|194.87.188.114|8000|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|209.14.119.74|999|Colombia|Bogotá|AGIS|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |13|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|14|190.217.10.12|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.160.170|1975|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18103|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|18103|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|29747|Canada|Montreal|GloboTech Communications|
+|16|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.160.170|15891|Canada|Montreal|GloboTech Communications|
 |20|67.43.236.22|10537|Canada|Montreal|GloboTech Communications|
 
 
