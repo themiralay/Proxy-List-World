@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7579** proxies at the latest update. Usable proxies are below.
+> Scraper found **7553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|554|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|554|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|554|
 
 ## Sources
 
@@ -25,7 +25,7 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|2|✅|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|180.191.59.89|8080|Philippines|Cabanatuan City|Globe Telecom|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|9|23.94.59.168|1080|United States|Seattle|HostPapa|
-|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|12|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|13|166.1.160.46|8088|United States|Secaucus|Baykov Ilya Sergeevich|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|38.188.178.254|999|Colombia|Choachi|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|17|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|7|23.94.59.168|1080|United States|Seattle|HostPapa|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|202.154.37.141|8080|Indonesia|Gresik|RADNET|
+|13|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|14|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|64.76.43.114|999|Mexico|Mexico City|Level 3|
+|16|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
+|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|18|45.90.12.154|10089|United States|Secaucus|RoyaleHosting BV|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
 
 
 
