@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.158.221.49|83|India|Theni|Nt Cybronet Pvt Ltd|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|17|72.10.164.178|5747|Canada|Montreal|GloboTech Communications|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|67.43.227.227|2397|Canada|Montreal|GloboTech Communications|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|72.10.164.178|7335|Canada|Montreal|GloboTech Communications|
+|15|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|18|103.158.221.49|83|India|Theni|Nt Cybronet Pvt Ltd|
+|19|67.43.227.228|21167|Canada|Montreal|GloboTech Communications|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
