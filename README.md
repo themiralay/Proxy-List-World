@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|201.184.117.130|3129|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|12|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|185.9.146.4|8888|Russia|Moscow|LLC Smart Ape|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|18|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|19|129.151.176.31|8080|South Africa|Johannesburg|Oracle Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|11|201.184.117.130|3129|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.9.146.4|8888|Russia|Moscow|LLC Smart Ape|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
