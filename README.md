@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|13237|Canada|Montreal|GloboTech Communications|
-|8|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|190.209.27.86|999|Chile|Santiago|Telmex Servicios Empresariales S.A.|
-|13|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|14|111.225.152.16|8089|China|Zhoutou|China Telecom|
-|15|67.43.227.228|24933|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2351|Canada|Montreal|GloboTech Communications|
-|17|23.152.40.15|5050|United States|North Miami|Host-Engine.com|
-|18|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
+|9|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|190.209.27.86|999|Chile|Santiago|Telmex Servicios Empresariales S.A.|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
+|13|14.103.26.198|8000|China|Beijing|BITNET|
+|14|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|67.43.236.20|29571|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|24933|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|15545|Canada|Montreal|GloboTech Communications|
+|18|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|91.231.186.133|443|United Kingdom|London|Clouvider Limited|
+|20|42.112.21.207|3141|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 
 
 
