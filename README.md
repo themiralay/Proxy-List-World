@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
-|13|123.182.59.86|8089|China|Zhangjiakou|China Telecom|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|12|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|15|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|123.182.59.162|8089|China|Zhangjiakou|China Telecom|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.236.20|3011|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|123.182.59.86|8089|China|Zhangjiakou|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.236.20|3011|Canada|Montreal|GloboTech Communications|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|124.217.105.105|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
 
 
 
