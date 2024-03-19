@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7053** proxies at the latest update. Usable proxies are below.
+> Scraper found **7089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|456|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4958|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|123.182.59.71|8089|China|Zhangjiakou|China Telecom|
+|18|111.225.153.245|8089|China|Zhoutou|China Telecom|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
