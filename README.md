@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|138.97.14.247|8080|Brazil|Duque de Caxias|RedeBr Telecom|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|67.43.227.227|24849|Canada|Montreal|GloboTech Communications|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|67.43.236.20|11395|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|24849|Canada|Montreal|GloboTech Communications|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|18|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|19|67.43.228.253|7605|Canada|Montreal|GloboTech Communications|
-|20|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|67.43.236.20|11395|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|24849|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|61.7.143.93|8180|Thailand|Bang Bo|CAT Telecom Public Company Limited|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|16|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|17|72.10.160.170|26621|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|4395|Canada|Montreal|GloboTech Communications|
+|19|31.44.82.2|38080|Russia|Moscow|Mastertel ISP|
+|20|67.43.228.253|5211|Canada|Montreal|GloboTech Communications|
 
 
 
