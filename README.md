@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|731|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|731|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|731|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|843|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|843|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|843|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.66.111.81|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|192.99.5.161|3128|Canada|Montreal|OVH SAS|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|115.147.34.50|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|150.136.109.246|3128|United States|Ashburn|Oracle Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|192.99.5.161|80|Canada|Montreal|OVH SAS|
+|4|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|5|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|8|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|10|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|201.77.108.25|999|Mexico|Valle de Zaragoza|Nidix Networks S.a. De C.V.|
+|18|103.76.129.110|8080|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
