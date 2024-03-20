@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|2|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|3|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|1|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
+|2|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|6|117.121.242.109|8081|Australia|Sydney|GPLHost LLC|
-|7|86.48.0.127|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|13|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|16|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|17|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|67.43.227.229|19085|Canada|Montreal|GloboTech Communications|
+|5|117.121.242.109|8081|Australia|Sydney|GPLHost LLC|
+|6|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|13|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|14|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|67.43.227.229|19085|Canada|Montreal|GloboTech Communications|
+|19|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
