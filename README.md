@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|173.209.51.251|3128|Canada|Montreal|GloboTech Communications|
-|10|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|13|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|14|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
-|19|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|12|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|13|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|14|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
