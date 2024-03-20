@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7356** proxies at the latest update. Usable proxies are below.
+> Scraper found **7272** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1014|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4971|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|91.230.193.38|3128|Bulgaria|Sofia|SuperHosting.BG Ltd.|
-|11|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|45.128.133.202|8081|Belgium|Brussels|EstNOC OY|
+|9|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|13|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
 |14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|16|124.104.175.60|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|17|81.161.229.72|3128|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|18|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 
 
 
