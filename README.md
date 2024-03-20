@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|810|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|810|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|810|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|103.77.48.21|8080|Indonesia|Bandung|STARNET|
+|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|8|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |10|103.18.205.246|8080|Australia|Melbourne|MD SHOHEL RANA|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|19|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|20|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|18|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
