@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|11|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|15|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|16|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
-|17|200.55.245.139|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|18|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|19|45.174.46.222|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|10|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|13|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|14|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|15|89.188.110.196|8080|Russia|St Petersburg|Citytelecom LLC|
+|16|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
 
 
 
