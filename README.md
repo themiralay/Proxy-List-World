@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7199** proxies at the latest update. Usable proxies are below.
+> Scraper found **7218** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|116.111.159.250|4006|Vietnam|Tam Ky|Viettel Corporation|
-|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|8|117.2.203.4|4006|Vietnam|Huế|Viettel Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.76.199.230|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|120.28.33.132|8080|Philippines|Taguig|Globe Telecom|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|132.145.169.90|3128|United States|Ashburn|Oracle Corporation|
+|7|134.122.183.138|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
+|8|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|144.91.75.86|3128|Germany|Nuremberg|Contabo GmbH|
+|13|173.249.50.6|3128|Germany|Nuremberg|Contabo GmbH|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|16|202.169.229.139|53281|Indonesia|Sleman|IP JMN Soho|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |18|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|19|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|20|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|19|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|20|58.136.123.30|3128|Thailand|Chon Buri|AIS-Fibre|
 
 
 
