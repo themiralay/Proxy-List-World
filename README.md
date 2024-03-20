@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|3|27.79.234.207|4004|Vietnam|Hanoi|Viettel Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|9|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|12|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|19|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|20|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|1|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|10|95.165.178.190|3128|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|13|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|15|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|18|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
