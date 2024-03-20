@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
+|3|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|9|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
-|10|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|34.102.138.130|80|United States|Kansas City|Google LLC|
-|16|185.89.156.2|44224|Albania|Fier|ATU|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|7|34.102.138.130|80|United States|Kansas City|Google LLC|
+|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
+|12|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|16|144.48.39.114|80|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|34.102.138.130|80|United States|Kansas City|Google LLC|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
