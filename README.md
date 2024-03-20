@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|633|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|633|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|633|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|11|177.54.147.116|8081|Brazil|São Paulo|Maxihost LTDA|
-|12|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|15|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|17|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|18|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|19|35.243.227.100|80|United States|North Charleston|Google LLC|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|7|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|8|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|14|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
