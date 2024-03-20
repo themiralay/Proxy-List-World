@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|101.109.119.24|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|6|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|9|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|10|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|15|207.180.235.41|9300|Germany|Nuremberg|Contabo GmbH|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|12|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|117.121.242.109|3128|Australia|Sydney|GPLHost LLC|
 |16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|17|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|18|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
