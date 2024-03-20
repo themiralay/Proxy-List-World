@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|635|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|635|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|635|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|5|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|11|34.144.249.134|80|United States|Kansas City|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|14|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|15|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|16|177.54.147.116|8081|Brazil|São Paulo|Maxihost LTDA|
-|17|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|1|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|6|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|13|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|16|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|17|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
 |18|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|19|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|20|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
+|19|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|20|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
 
 
 
