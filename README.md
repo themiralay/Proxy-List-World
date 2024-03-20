@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|5|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|6|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|7|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|8|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|7|51.77.64.139|3128|Germany|Kiel|OVH SAS|
+|8|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|11|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
-|14|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|15|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|200.188.123.243|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|15|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 |16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|38.49.150.212|80|Mexico|Querétaro City|Ientc S De RL De CV|
+|19|67.43.227.226|18801|Canada|Montreal|GloboTech Communications|
+|20|118.101.24.87|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
