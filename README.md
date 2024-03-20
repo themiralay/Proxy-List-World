@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7697** proxies at the latest update. Usable proxies are below.
+> Scraper found **7583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|595|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|595|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|595|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1104|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|474|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5159|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|9|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|13|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|18|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|8|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|10|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|11|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|12|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|13|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
 |19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
