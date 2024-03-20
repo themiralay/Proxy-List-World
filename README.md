@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
-|3|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.243.227.100|80|United States|North Charleston|Google LLC|
-|7|88.99.131.6|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|2|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|3|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|4|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|18|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|12|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|15|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|16|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|17|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
 
 
 
