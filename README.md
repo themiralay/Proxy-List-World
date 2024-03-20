@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|91.230.193.38|3128|Bulgaria|Sofia|SuperHosting.BG Ltd.|
+|8|47.251.44.241|8080|United States|Santa Clara|Alibaba.com LLC|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|91.230.193.38|3128|Bulgaria|Sofia|SuperHosting.BG Ltd.|
+|11|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
 |12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|103.171.31.155|8080|Indonesia|Bekasi|MORATELINDONAP|
-|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|16|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|17|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|16|124.104.175.60|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|17|81.161.229.72|3128|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
 |18|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|19|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
