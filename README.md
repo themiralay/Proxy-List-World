@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7523** proxies at the latest update. Usable proxies are below.
+> Scraper found **7526** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|852|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|550|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5157|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|2|137.184.189.144|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|10|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|15|51.77.64.139|3128|Germany|Kiel|OVH SAS|
-|16|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|18|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
-|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|20|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|3|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
+|4|35.243.227.100|80|United States|North Charleston|Google LLC|
+|5|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|6|203.142.78.231|8080|Indonesia|Semarang|BIZNET|
+|7|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.243.227.100|80|United States|North Charleston|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
