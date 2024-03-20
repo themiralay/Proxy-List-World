@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|629|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|629|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|629|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|641|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|641|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|641|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|1|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
+|2|137.184.189.144|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|11|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|14|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|15|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
-|16|104.37.168.79|8888|United States|Seattle|Reprise Hosting|
-|17|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|18|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|19|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|10|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|15|51.77.64.139|3128|Germany|Kiel|OVH SAS|
+|16|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|18|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|20|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
 
 
 
