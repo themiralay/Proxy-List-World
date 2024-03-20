@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|716|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|716|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|716|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|128.199.251.219|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|13|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|14|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|15|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|16|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|17|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|18|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
-|19|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|10|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|12|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|162.43.86.215|3128|Japan|Hiyoshi|XSERVER Inc.|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 
 
 
