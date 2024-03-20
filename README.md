@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|579|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|579|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|579|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.138.130|80|United States|Kansas City|Google LLC|
-|2|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.102.138.130|80|United States|Kansas City|Google LLC|
+|1|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|4|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|5|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|177.54.147.116|8081|Brazil|São Paulo|Maxihost LTDA|
-|8|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|9|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
-|10|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|11|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|12|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|8|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|9|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
-|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|16|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|40.81.30.88|8888|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|16|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|17|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|20|120.28.33.132|8080|Philippines|Taguig|Globe Telecom|
 
 
 
