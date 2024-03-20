@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|131.100.48.74|999|Colombia|Neiva|Fibernet TV SAS|
-|6|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
-|16|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|17|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|19|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|20|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|131.100.48.74|999|Colombia|Neiva|Fibernet TV SAS|
+|8|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|157.230.254.88|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
