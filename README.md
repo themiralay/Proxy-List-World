@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|546|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|546|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|546|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 |3|121.160.185.164|3128|South Korea|Seoul|Korea Telecom|
-|4|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|103.166.8.238|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|181.78.11.217|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|4|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|8|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|9|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|10|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|143.198.208.53|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|18|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|19|201.77.108.130|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
