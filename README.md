@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|200.55.245.139|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|5|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|51.77.64.139|80|Germany|Kiel|OVH SAS|
+|5|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|6|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|14|72.10.160.174|1097|Canada|Montreal|GloboTech Communications|
-|15|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|72.10.160.174|1097|Canada|Montreal|GloboTech Communications|
-|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|72.10.160.174|32889|Canada|Montreal|GloboTech Communications|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|187.40.1.123|128|Brazil|São Paulo|V tal|
+|16|72.10.160.90|17693|Canada|Montreal|GloboTech Communications|
+|17|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
