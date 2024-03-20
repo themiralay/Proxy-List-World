@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|13|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|14|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|17|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|18|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|19|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
-|20|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|12|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|13|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|14|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|16|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|17|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|20|187.40.1.123|128|Brazil|São Paulo|V tal|
 
 
 
