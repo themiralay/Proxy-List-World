@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|12|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|13|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|103.105.228.35|8080|India|Mumbai|Mnk Infoway Private Limited|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
 |14|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
 |15|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 |16|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|209.23.10.42|3128|United States|Dallas|Atlantic.net|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|20|209.23.10.42|3128|United States|Dallas|Atlantic.net|
 
 
 
