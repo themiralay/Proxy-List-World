@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|5|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
 |11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|13|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|18|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
 
 
 
