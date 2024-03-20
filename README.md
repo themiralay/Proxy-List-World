@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|3|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|4|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|5|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|10|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|188.132.222.25|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|19|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|1|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|8|198.23.176.76|3128|United States|Buffalo|HostPapa|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.49.140.66|999|Mexico|Apaseo el Alto|Ientc S De RL De CV|
+|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|14|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|190.120.249.60|999|Venezuela|Tocuyito|CORPORACION FIBEX TELECOM, C.A.|
 |20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
