@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|724|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|724|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|724|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.30.181.22|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|6|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|7|51.77.64.139|80|Germany|Kiel|OVH SAS|
-|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|11|101.255.167.6|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|14|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|15|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
-|20|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.81.222.235|8080|Indonesia|Bandung|STARNET|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|11|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|12|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|13|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|14|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|191.101.234.75|80|Brazil|São Paulo|HOSTINGER BR|
+|16|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|17|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|19|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
