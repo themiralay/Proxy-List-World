@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|2|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|7|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|16|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|18|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|20|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|9|51.77.64.139|3128|Germany|Kiel|OVH SAS|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|12|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
+|13|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|222.174.178.122|4999|China|Xintai|Chinanet|
+|18|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|19|72.10.160.90|14671|Canada|Montreal|GloboTech Communications|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
