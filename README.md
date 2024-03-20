@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.162.141.154|8086|Indonesia|Kabil|PT Filltech Antar Nusa|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|9|173.209.48.124|3128|Canada|Montreal|GloboTech Communications|
-|10|173.209.48.122|3128|Canada|Montreal|GloboTech Communications|
-|11|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|187.40.1.123|128|Brazil|São Paulo|V tal|
-|15|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|45.58.52.5|80|United States|Dallas|HostUS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|10|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|11|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 |16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
 
 
 
