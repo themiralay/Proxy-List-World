@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|7|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|8|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|15|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|16|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|19|45.83.96.129|3128|United Arab Emirates|Dubai|Business Integrated Operating Systems M.E. LLC|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|51.77.64.139|3128|Germany|Kiel|OVH SAS|
+|12|103.132.240.216|54198|India|Morvi|Spd Broadband Pvt Ltd|
+|13|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
+|15|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|213.145.150.77|8080|Kyrgyzstan|Bishkek|OJSC Kyrgyztelecom|
 
 
 
