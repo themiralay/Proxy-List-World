@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|685|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|685|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|685|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|4.182.9.108|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|11|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|14|173.209.51.251|3128|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|20|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|6|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|10|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|11|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|19|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|20|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
 
 
 
