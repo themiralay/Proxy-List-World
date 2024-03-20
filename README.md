@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|3|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
-|4|51.77.64.139|3128|Germany|Kiel|OVH SAS|
-|5|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|14|201.54.176.13|8080|Brazil|Ico|Lucas De Souza Silva|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
-|19|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|20|72.10.160.90|11575|Canada|Montreal|GloboTech Communications|
+|1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|97.64.69.41|16099|United States|College Station|PRONSS|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|8|43.251.213.62|83|India|Dharamsala|World Phone Infrastructure services private ltd|
+|9|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|17|103.162.141.154|8086|Indonesia|Kabil|PT Filltech Antar Nusa|
+|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
