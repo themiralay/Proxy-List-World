@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|11|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|12|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|13|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|14|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|15|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|16|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|17|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.52.37.33|83|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|8|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|10|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|11|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|12|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|13|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|14|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|19|209.23.10.42|3128|United States|Dallas|Atlantic.net|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
