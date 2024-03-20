@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
-|16|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|15|20.96.193.92|3128|United States|Boydton|Microsoft Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
 |19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|173.209.51.251|3128|Canada|Montreal|GloboTech Communications|
 
 
 
