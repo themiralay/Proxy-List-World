@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|3|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
-|13|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|16|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|177.54.147.116|80|Brazil|São Paulo|Maxihost LTDA|
-|19|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|20|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|11|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
