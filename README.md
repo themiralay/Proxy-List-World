@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|3|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|121.160.185.164|3128|South Korea|Seoul|Korea Telecom|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|201.77.108.5|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|7|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|190.119.211.74|8080|Peru|Arequipa|America Movil Peru S.A.C.|
-|9|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|3|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|7|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
+|8|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|201.77.108.5|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
+|10|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|11|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|12|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|13|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|183.165.226.33|8089|China|Shenzhen|Chinanet|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|201.77.108.130|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|18|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|19|183.81.156.98|8080|Indonesia|Manggadua Selatan|Internet Service Provider|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
