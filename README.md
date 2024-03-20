@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|37.61.213.219|80|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |9|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|10|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|34.102.138.130|80|United States|Kansas City|Google LLC|
-|15|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 |18|209.23.10.42|3128|United States|Dallas|Atlantic.net|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
+|19|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
