@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|622|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|622|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|622|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|8|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|10|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
-|13|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|9|35.243.227.100|80|United States|North Charleston|Google LLC|
+|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|11|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|14|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|15|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|16|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|20|162.244.82.53|8081|United States|New York|Data Room, Inc|
 
 
 
