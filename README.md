@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|173.209.51.254|8081|Canada|Montreal|GloboTech Communications|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|111.225.152.24|8089|China|Zhoutou|China Telecom|
-|15|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|72.10.160.170|1097|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|13443|Canada|Montreal|GloboTech Communications|
-|18|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|119.18.37.201|8888|Australia|Brisbane|Aussie Broadband|
-|20|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
+|14|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|15|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|20|67.43.228.253|2511|Canada|Montreal|GloboTech Communications|
 
 
 
