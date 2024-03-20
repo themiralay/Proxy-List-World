@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|192.99.5.161|3128|Canada|Montreal|OVH SAS|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|10|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|4|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|125.18.149.20|80|India|Mumbai|Bharti Airtel|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
-|15|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|16|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|19|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|20|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
+|12|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|13|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
+|14|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|15|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|16|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|17|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|18|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
