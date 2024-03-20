@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|12|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|13|203.150.113.90|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|202.77.127.98|3128|Indonesia|Jakarta|LINKNET|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|7|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|12|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.168.169.245|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|19|131.100.48.74|999|Colombia|Neiva|Fibernet TV SAS|
+|20|103.195.65.209|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 
 
 
