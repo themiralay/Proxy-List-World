@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|616|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|616|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|616|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|541|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|7|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|8|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|9|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|10|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|11|45.128.133.202|8081|Belgium|Brussels|EstNOC OY|
-|12|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|13|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|16|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|38.68.134.189|80|United States|Dallas|GTHost|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|4|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|5|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|6|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|7|40.81.30.88|8888|Hong Kong|Hong Kong|Microsoft Corporation|
+|8|34.102.138.130|80|United States|Kansas City|Google LLC|
+|9|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
+|10|177.54.147.116|8081|Brazil|São Paulo|Maxihost LTDA|
+|11|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|14|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
 
 
 
