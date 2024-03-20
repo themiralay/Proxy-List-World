@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7220** proxies at the latest update. Usable proxies are below.
+> Scraper found **7212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|843|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4971|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|2|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
+|3|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
-|14|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|15|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|19|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|20|67.43.228.253|2511|Canada|Montreal|GloboTech Communications|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|13|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|14|67.43.236.20|11489|Canada|Montreal|GloboTech Communications|
+|15|20.249.171.212|8080|South Korea|Seoul|Microsoft Corporation|
+|16|123.182.59.197|8089|China|Zhangjiakou|China Telecom|
+|17|67.43.228.253|23487|Canada|Montreal|GloboTech Communications|
+|18|139.135.139.246|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|19|67.43.236.18|10801|Canada|Montreal|GloboTech Communications|
+|20|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
