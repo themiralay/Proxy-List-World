@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|1|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|2|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|4|200.55.245.139|80|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
 |10|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|12|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
 |13|193.108.118.37|3128|Germany|Frankfurt|GTHost|
 |14|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|15|45.128.133.202|8081|Belgium|Brussels|EstNOC OY|
-|16|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|15|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|45.128.133.202|8081|Belgium|Brussels|EstNOC OY|
+|18|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
 |19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|103.191.155.46|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
+|20|143.198.193.36|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
