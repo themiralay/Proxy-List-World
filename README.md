@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|767|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|767|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|767|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|779|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|779|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|779|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|4|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|7|103.247.14.103|1111|Indonesia|Boyolali|TERABIT|
-|8|38.10.90.246|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|177.93.45.154|999|Colombia|Barbosa|TV AZTECA SUCURSAL COLOMBIA|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|5|103.131.232.11|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
 |10|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|11|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|12|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|13|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|103.163.175.122|8080|Indonesia|Jakarta Pusat|PT Lima Satu Tiga Global Tel-Access|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|91.238.2.30|3128|Russia|Moscow|Government Communication Agency, republic of Abkhazia|
-|19|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|190.12.95.170|47029|Peru|Santiago de Surco|WIN EMPRESAS S.A.C|
+|16|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|18|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
