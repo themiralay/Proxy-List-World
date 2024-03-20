@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
 |7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|10|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|16|67.43.227.228|26297|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.228|22713|Canada|Montreal|GloboTech Communications|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
+|19|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|20|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
