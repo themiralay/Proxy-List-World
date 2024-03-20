@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
+|3|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 |6|47.251.42.141|8080|United States|Santa Clara|Alibaba.com LLC|
-|7|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|8|72.10.160.171|29855|Canada|Montreal|GloboTech Communications|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.174.143.211|3128|United States|Boydton|Microsoft|
-|14|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|15|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|16|41.111.206.167|80|Algeria|Béjaïa|Algerie Telecom|
-|17|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.160.171|21675|Canada|Montreal|GloboTech Communications|
+|13|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|17|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
+|18|47.254.57.237|8080|United States|Minkler|Alibaba.com LLC|
 |19|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|20|61.19.145.66|8080|Thailand|Doi Saket|CAT Telecom Public Company Limited|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
