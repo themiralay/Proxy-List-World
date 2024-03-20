@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|8|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|9|173.209.48.124|3128|Canada|Montreal|GloboTech Communications|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|173.209.48.122|3128|Canada|Montreal|GloboTech Communications|
-|12|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|45.58.52.5|80|United States|Dallas|HostUS|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|173.209.48.122|3128|Canada|Montreal|GloboTech Communications|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|12|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|13|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|14|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|17|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
