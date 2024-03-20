@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|3|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|11|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|12|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|13|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
-|14|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|15|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|213.178.155.28|3128|Russia|Moscow|JSC "RetnNet"|
-|17|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|19|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|20|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|5|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
+|6|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|11|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|12|213.178.155.28|3128|Russia|Moscow|JSC "RetnNet"|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|18|144.48.37.141|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|20|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
 
 
 
