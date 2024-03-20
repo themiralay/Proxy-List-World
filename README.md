@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|911|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|911|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|911|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
 |9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|13|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|13|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|14|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|15|125.18.149.20|80|India|Mumbai|Bharti Airtel|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|200.55.245.139|8081|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
