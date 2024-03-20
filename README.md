@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.15.223.251|3128|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|3|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|4|47.76.198.119|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|12|40.124.140.180|3128|United States|San Antonio|Microsoft Corporation|
-|13|173.209.48.122|3128|Canada|Montreal|GloboTech Communications|
-|14|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|16|217.138.220.50|8081|Czechia|Prague|M247 Europe SRL|
-|17|94.131.9.156|3128|France|Paris|Stark Industries Solutions LTD|
-|18|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|19|94.198.40.106|8081|Germany|Frankfurt am Main|M247 Europe SRL|
-|20|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|1|103.15.223.251|3128|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|14.245.241.70|4006|Vietnam|Da Nang|VNPT|
+|11|189.1.173.19|3128|Brazil|São Paulo|Maxihost LTDA|
+|12|94.198.40.106|8081|Germany|Frankfurt am Main|M247 Europe SRL|
+|13|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|14|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|15|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|16|94.131.9.156|3128|France|Paris|Stark Industries Solutions LTD|
+|17|120.28.33.132|8080|Philippines|Taguig|Globe Telecom|
+|18|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
 
 
 
