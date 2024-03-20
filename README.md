@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|601|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|601|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|601|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|144.48.39.114|80|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|4|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|5|41.111.243.134|80|Algeria|Tizi Ouzou|Algerie Telecom|
-|6|162.244.82.53|8081|United States|New York|Data Room, Inc|
-|7|47.76.195.221|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|9|181.235.103.139|999|Colombia|Santa Marta|Colombia Telecomunicaciones S.a. ESP|
-|10|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|11|47.76.215.110|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|14|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
-|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|18|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|19|45.128.133.202|3128|Belgium|Brussels|EstNOC OY|
-|20|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|27.65.101.145|4006|Vietnam|Can Tho|Viettel Group|
+|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|7|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|10|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
+|12|47.76.195.221|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|14|47.76.215.110|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|16|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|20|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
