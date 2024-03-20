@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|753|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|753|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|753|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|10|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|13|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|14|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|18|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|19|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|20|45.128.133.202|80|Belgium|Brussels|EstNOC OY|
 
 
 
