@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|655|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|655|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|655|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|648|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|648|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|648|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|47.242.170.85|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|43.156.75.30|8089|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|11|173.209.51.251|80|Canada|Montreal|GloboTech Communications|
-|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|84.235.246.110|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|217.182.153.29|12000|France|Gravelines|OVH SAS|
+|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|10|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
 |13|128.199.223.196|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|51.77.64.139|8081|Germany|Kiel|OVH SAS|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|63.250.52.82|8118|Japan|Tokyo|HIVELOCITY, Inc.|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|18|173.209.51.251|3128|Canada|Montreal|GloboTech Communications|
+|19|51.77.64.139|8081|Germany|Kiel|OVH SAS|
+|20|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
 
 
 
