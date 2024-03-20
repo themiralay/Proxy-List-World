@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|614|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|614|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|614|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|8|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|9|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|10|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|12|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|13|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|17|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|18|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|19|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
-|20|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.97.173.78|4444|Singapore|Singapore|DigitalOcean, LLC|
+|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|12|14.225.210.12|80|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|14|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
