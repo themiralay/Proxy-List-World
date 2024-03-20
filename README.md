@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|8|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|13|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|14|192.99.5.161|3128|Canada|Montreal|OVH SAS|
-|15|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|17|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|19|213.178.155.28|3128|Russia|Moscow|JSC "RetnNet"|
-|20|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
+|10|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|12|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|13|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|14|213.178.155.28|3128|Russia|Moscow|JSC "RetnNet"|
+|15|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
