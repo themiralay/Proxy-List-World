@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|722|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|643|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|643|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|643|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.76.215.110|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.76.195.221|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.21.220.169|3128|Hong Kong|Tsuen Wan|Leaseweb Asia Pacific pte. ltd.|
-|5|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.77.244.112|8888|France|Strasbourg|OVH SAS|
-|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|13|51.223.92.35|8080|Saudi Arabia|Al Qatif|Saudi Telecom Company JSC|
-|14|141.94.250.189|3128|France|Gravelines|OVH SAS|
-|15|194.163.183.221|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|138.121.161.84|8095|Argentina|Rosario|WICORP SA|
-|17|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
-|18|93.125.114.187|8081|Belarus|Minsk|DataHata Ltd|
-|19|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|20|152.172.78.33|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|1|47.251.70.236|8080|United States|Minkler|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|162.244.82.53|8081|United States|New York|Data Room, Inc|
+|4|67.43.236.2|8081|Canada|Montreal|GloboTech Communications|
+|5|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|47.76.215.110|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|47.76.195.221|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|11|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|12|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|13|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|14|51.77.244.112|8888|France|Strasbourg|OVH SAS|
+|15|172.105.66.129|3128|Germany|Frankfurt am Main|Akamai Technologies|
+|16|45.128.133.202|8081|Belgium|Brussels|EstNOC OY|
+|17|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|18|185.231.207.70|27017|Ireland|Dublin|Stark Industries Solutions LTD|
+|19|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|20|83.110.78.201|8081|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 
 
 
