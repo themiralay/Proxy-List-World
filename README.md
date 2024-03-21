@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|12|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|13|72.10.160.171|1929|Canada|Montreal|GloboTech Communications|
-|14|167.160.91.252|3128|United States|Los Angeles|Dedicated.com|
-|15|119.39.68.18|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|67.43.236.20|21073|Canada|Montreal|GloboTech Communications|
-|18|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|111.225.152.161|8089|China|Zhoutou|China Telecom|
-|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|72.10.160.171|5029|Canada|Montreal|GloboTech Communications|
+|15|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|17|111.225.152.161|8089|China|Zhoutou|China Telecom|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|67.43.236.20|21073|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|25239|Canada|Montreal|GloboTech Communications|
 
 
 
