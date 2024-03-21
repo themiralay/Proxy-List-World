@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.49.208.221|80|United States|Kansas City|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|9|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
 |12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.49.208.221|80|United States|Kansas City|Google LLC|
-|14|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|16|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|17|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 |18|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 
 
 
