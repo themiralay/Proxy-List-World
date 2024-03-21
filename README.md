@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|187.40.1.123|128|Brazil|São Paulo|V tal|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
 |13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
