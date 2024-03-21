@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6140** proxies at the latest update. Usable proxies are below.
+> Scraper found **6221** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|376|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4804|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4885|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|12|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
