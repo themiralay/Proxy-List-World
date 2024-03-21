@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|3|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|18|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
