@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|10|34.144.249.134|80|United States|Kansas City|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
-|13|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|14|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|17|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.160.171|5387|Canada|Montreal|GloboTech Communications|
-|20|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|103.254.107.18|3125|Indonesia|Nabangbaru|PT Giga Patra Multimedia|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|9|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|12|171.247.171.162|4009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|19|67.43.236.20|3063|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|11021|Canada|Montreal|GloboTech Communications|
 
 
 
