@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|12|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|13|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|19|93.125.114.187|8081|Belarus|Minsk|DataHata Ltd|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|9|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|10|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|12|93.125.114.187|8081|Belarus|Minsk|DataHata Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
