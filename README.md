@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|762|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|762|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|762|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|64.225.48.234|3128|United States|Clifton|DigitalOcean, LLC|
-|12|46.250.242.57|3128|United Kingdom|London|Contabo Asia Private Limited|
-|13|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|14|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
-|15|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|16|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|10|46.250.242.57|3128|United Kingdom|London|Contabo Asia Private Limited|
+|11|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|177.130.63.80|8080|Brazil|Itaituba|Wsp Serviços de Telecomunicações Ltda|
+|18|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
+|20|20.118.133.34|3128|United States|Phoenix|Microsoft Corporation|
 
 
 
