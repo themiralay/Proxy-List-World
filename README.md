@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|12|45.11.95.165|5212|Russia|Moscow|Delta Ltd|
-|13|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|67.43.236.18|31869|Canada|Montreal|GloboTech Communications|
-|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|18|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|67.43.236.20|21845|Canada|Montreal|GloboTech Communications|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|15|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|16|67.43.236.18|31869|Canada|Montreal|GloboTech Communications|
+|17|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|18|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|19|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|20|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
