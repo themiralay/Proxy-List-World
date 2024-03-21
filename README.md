@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7251** proxies at the latest update. Usable proxies are below.
+> Scraper found **7220** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|729|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5148|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|15|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
 
 
 
