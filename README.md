@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|802|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|802|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|802|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|3|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|146.70.146.22|8081|Austria|Vienna|M247 Europe Infra|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.250.130.111|8080|Indonesia|Surabaya|LINTASDAYA|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|8|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
+|9|103.164.229.114|8080|Indonesia|Kudus|PT Muria Data Utama|
+|10|188.125.169.8|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
+|12|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|161.132.172.24|999|Peru|Lima|Fibertel Peru S.A.|
+|15|103.165.128.171|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
