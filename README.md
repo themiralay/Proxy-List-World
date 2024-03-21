@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|19|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|7|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 
 
 
