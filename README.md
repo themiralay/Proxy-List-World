@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6877** proxies at the latest update. Usable proxies are below.
+> Scraper found **6846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|738|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|364|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4814|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|15|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|19|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
 
 
 
