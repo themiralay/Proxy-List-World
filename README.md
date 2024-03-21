@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|112.78.131.6|8080|Indonesia|Jagakarsa|Biznet Networks|
-|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|91.149.240.212|3128|The Netherlands|Amsterdam|Baxet Group Inc.|
-|19|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|18|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
