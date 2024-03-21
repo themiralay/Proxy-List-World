@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7249** proxies at the latest update. Usable proxies are below.
+> Scraper found **7260** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|403|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5148|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|128.199.246.48|8000|Singapore|Singapore|DigitalOcean, LLC|
-|13|187.94.220.85|8080|Brazil|Guacui|Acesse Comunicação Ltda|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|16|67.43.236.20|17113|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|20|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|187.94.220.85|8080|Brazil|Guacui|Acesse Comunicação Ltda|
+|13|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|38.52.193.193|999|Mexico|Campeche|Gerardo Raul Fuentes Maas|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|17|67.43.236.20|13159|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
 
 
 
