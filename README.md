@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.169.71.112|3128|South Korea|Hwaseong-si|LG POWERCOMM|
+|1|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
 |4|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|5|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|16|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|17|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|18|118.172.239.231|8180|Thailand|Ban Pho|TOT Public Company Limited|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|49.169.71.112|3128|South Korea|Hwaseong-si|LG POWERCOMM|
+|8|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|9|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|12|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|17|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
 |20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
