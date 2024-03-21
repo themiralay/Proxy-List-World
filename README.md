@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|103.189.123.149|80|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
+|7|167.172.91.219|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.167.68.77|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|139.255.67.53|3888|Indonesia|Jakarta|PT. LINKNET|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
 
 
 
