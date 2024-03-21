@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|49.151.74.41|8181|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|17|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|18|171.247.171.162|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|5|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|67.43.227.227|24173|Canada|Montreal|GloboTech Communications|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
