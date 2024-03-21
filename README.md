@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.164.178|13067|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
-|17|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.173|12095|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|72.10.164.178|13067|Canada|Montreal|GloboTech Communications|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|18|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
