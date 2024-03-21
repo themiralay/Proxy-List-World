@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|18|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|14.143.145.38|80|India|New Delhi|Tata Communications Limited|
-|20|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|11|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|12|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|13|144.48.39.114|8081|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|14|27.79.234.207|4004|Vietnam|Hanoi|Viettel Corporation|
+|15|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|16|188.119.99.210|80|Czechia|Cejkovice|Nordic Telecom Regional s.r.o.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
 
 
 
