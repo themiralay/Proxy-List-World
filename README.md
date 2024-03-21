@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|13|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|14|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|15|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|15|72.10.160.170|6533|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
