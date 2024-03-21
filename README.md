@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|672|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|672|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|672|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|103.147.246.23|8181|Indonesia|Tangerang|PLBNET|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|115.127.114.209|5020|Bangladesh|Dhaka|BRACNet Limited|
-|14|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|15|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|16|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|2|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|10|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|157.97.132.199|80|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|20|88.255.65.120|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
