@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|16|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|15|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |20|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
