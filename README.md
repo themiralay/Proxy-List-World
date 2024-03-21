@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|885|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|885|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|885|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|850|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|850|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|850|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|5|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|11|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|12|222.127.220.162|8082|Philippines|Quezon City|GLBB|
-|13|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|14|110.232.66.30|8080|Indonesia|Medan|Media Antar Nusa PT.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|18|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|19|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|10|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|15|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|17|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|51.77.244.112|8888|France|Strasbourg|OVH SAS|
 
 
 
