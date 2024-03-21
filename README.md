@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6961** proxies at the latest update. Usable proxies are below.
+> Scraper found **6980** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|712|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|423|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4885|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|6|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|10|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|45.224.98.123|999|Ecuador|Playas|Ufinet Panama S.A.|
+|13|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|14|171.247.171.162|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|72.10.164.178|28407|Canada|Montreal|GloboTech Communications|
+|20|111.225.153.0|8089|China|Zhoutou|China Telecom|
 
 
 
