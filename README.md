@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|6|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|13|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|72.10.164.178|3127|Canada|Montreal|GloboTech Communications|
-|15|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|45.11.95.166|6005|Russia|Moscow|Delta Ltd|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|18|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|19|45.11.95.166|6005|Russia|Moscow|Delta Ltd|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
