@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|757|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|757|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|757|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|115.147.38.172|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|3|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|4|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|192.99.5.161|3128|Canada|Montreal|OVH SAS|
-|6|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.177.179.25|999|Mexico|La Sauceda|Wantelco SAS de CV|
-|8|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|9|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
+|1|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|4|103.175.49.78|8080|Indonesia|Bandung|PT. Trans Indonesia Superkoridor|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.68.214.10|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|8|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|13|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|14|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.68.214.10|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|18|203.202.248.36|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|19|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|17|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
+|18|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
