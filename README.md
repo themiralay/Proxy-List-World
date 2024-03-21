@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|34.49.208.221|80|United States|Kansas City|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|34.49.208.221|80|United States|Kansas City|Google LLC|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|15|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
