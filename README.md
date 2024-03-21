@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|781|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|781|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|781|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|880|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|880|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|880|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|9|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
