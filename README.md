@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|144.48.39.114|80|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|14|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
 |19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
