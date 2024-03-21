@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|6|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|16|67.43.227.228|19685|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8241|Canada|Montreal|GloboTech Communications|
-|18|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|19|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|1|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|14|195.35.29.39|80|France|Paris|HOSTINGER FR|
+|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|103.115.44.109|80|Japan|Chiyoda|Cloudie Limited|
 
 
 
