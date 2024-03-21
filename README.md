@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|62.141.36.206|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|12|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|18|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|128.199.252.36|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|17|201.246.206.122|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|18|103.145.85.154|8888|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|19|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|20|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
