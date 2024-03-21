@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|4|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|7|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|8|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|45.178.133.73|999|Chile|Renca|Mundonet S.p.A|
-|19|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
-|20|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
