@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
-|7|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|5|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
 |9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|14|203.79.29.246|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
-|15|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|203.150.166.174|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|19|45.233.67.204|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|20|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|11|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|12|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|13|27.147.139.154|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
