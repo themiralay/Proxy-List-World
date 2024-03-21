@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|10|123.182.58.142|8089|China|Zhangjiakou|China Telecom|
-|11|110.78.215.113|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|15|67.43.228.253|32831|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1871|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|32831|Canada|Montreal|GloboTech Communications|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|4|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|5|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|11|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|103.193.179.253|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.228.253|32831|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
 
 
 
