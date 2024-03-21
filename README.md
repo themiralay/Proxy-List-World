@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |13|123.182.59.48|8089|China|Zhangjiakou|China Telecom|
-|14|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
-|15|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|103.255.222.1|84|India|Bettiah|Champaran Internet Private Limited|
-|18|72.10.160.90|11823|Canada|Montreal|GloboTech Communications|
-|19|80.87.196.96|3128|Russia|Khimki|JSC IOT|
-|20|67.43.228.253|14171|Canada|Montreal|GloboTech Communications|
+|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|67.43.228.253|8961|Canada|Montreal|GloboTech Communications|
+|16|120.28.33.132|8080|Philippines|Taguig|Globe Telecom|
+|17|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|18|72.10.160.170|9413|Canada|Montreal|GloboTech Communications|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|67.43.228.253|8961|Canada|Montreal|GloboTech Communications|
 
 
 
