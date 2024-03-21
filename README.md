@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|650|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|650|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|650|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|788|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|788|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|788|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|13|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|19|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
-|20|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|15|103.137.45.29|12039|India|Pūrna|Wsnl Broadband Private Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
