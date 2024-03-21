@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|16|64.157.16.43|8080|United States|Francesville|Level 3|
-|17|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|18|128.199.252.41|8000|Singapore|Singapore|DigitalOcean, LLC|
-|19|92.51.126.162|8080|Georgia|Batumi|Delta NET Network|
-|20|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|93.125.114.187|8081|Belarus|Minsk|DataHata Ltd|
+|17|144.48.39.114|80|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
