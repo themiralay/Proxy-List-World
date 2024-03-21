@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
 |13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|17|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 
 
 
