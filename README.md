@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.243.177.129|8080|Indonesia|Ungaran|Universitas Katolik Soegijapranata|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|111.225.152.154|8089|China|Zhoutou|China Telecom|
-|13|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
-|15|67.43.227.228|7695|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|123.182.58.186|8089|China|Zhangjiakou|China Telecom|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|42.118.10.200|4009|Vietnam|Hanoi|FPT Telecom Company|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
