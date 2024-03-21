@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |4|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
 |11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |12|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|20|45.77.182.170|12009|Japan|Komae|The Constant Company|
+|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|18|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|20|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
