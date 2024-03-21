@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7289** proxies at the latest update. Usable proxies are below.
+> Scraper found **7332** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|43|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|421|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|117.1.82.77|4006|Vietnam|Hanoi|Viettel Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|6|117.1.82.77|4006|Vietnam|Hanoi|Viettel Corporation|
 |7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
 |12|208.196.136.141|3128|United States|New York|Verizon Business|
 |13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|180.247.238.75|80|Indonesia|Sidoarjo|PT. TELKOM INDONESIA|
-|20|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
