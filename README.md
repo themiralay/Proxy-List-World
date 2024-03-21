@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|727|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|727|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|727|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|157.230.33.25|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|38.188.127.127|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
-|13|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|14|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
-|17|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|18|45.143.108.115|8080|Georgia|Tbilisi|Airmax LLC|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|7|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|8|103.42.120.43|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|9|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
+|10|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|14|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|17|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|18|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|19|143.198.78.68|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|171.22.108.188|3128|United States|Seattle|Dedicated.com|
 
 
 
