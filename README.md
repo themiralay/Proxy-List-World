@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|188.132.222.51|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|103.152.232.77|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|19|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|20|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|9|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|11|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|12|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|13|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
+|14|212.174.79.165|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|17|103.156.15.212|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|18|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.29.238.4|8090|Bangladesh|Gazipur District|Windstream Communication Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
