@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|656|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|656|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|656|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|13.82.42.11|8080|United States|Boydton|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|47.251.38.0|8080|United States|Santa Clara|Alibaba.com LLC|
-|17|47.251.64.157|8080|United States|Minkler|Alibaba.com LLC|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|47.251.67.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|41.193.81.7|80|South Africa|Cape Town|Vox Telecom Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.236.201.210|3128|Sweden|Stockholm|M247 Europe SRL|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|13.82.42.11|8080|United States|Boydton|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
