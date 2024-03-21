@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|11|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|93.125.114.187|3128|Belarus|Minsk|DataHata Ltd|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|45.152.84.26|80|United States|San Francisco|CGI GLOBAL LIMITED|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
