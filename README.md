@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|951|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|951|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|951|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|808|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|808|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|808|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
-|3|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|4|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|10|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|13|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.187.204|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
+|6|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
+|7|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|103.165.157.13|8080|Indonesia|Malang|PT. MEGA ARTHA LINTAS DATA|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|18|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
 
 
 
