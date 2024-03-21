@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|5|103.12.73.108|8080|Bangladesh|Netrakona|Business Network|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|10|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|3|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|4|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|41.220.137.147|8080|Tanzania|Arusha|Habari Node Ltd|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
