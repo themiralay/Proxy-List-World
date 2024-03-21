@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|15|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|18|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|67.43.227.228|20735|Canada|Montreal|GloboTech Communications|
-|20|193.123.242.141|3128|South Korea|Seoul|Oracle Corporation|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|20|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
