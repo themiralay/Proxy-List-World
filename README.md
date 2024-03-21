@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|5|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|6|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|15|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|67.43.227.228|1977|Canada|Montreal|GloboTech Communications|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.228|1977|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|11|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|12|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|14.103.26.198|8000|China|Beijing|BITNET|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
 |20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
