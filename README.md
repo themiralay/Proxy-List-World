@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|5|103.151.30.17|8090|Bangladesh|Tongi|Bright Star Network|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|5|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|103.36.10.21|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|17|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
