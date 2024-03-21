@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|5|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|10|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|103.115.44.109|80|Japan|Chiyoda|Cloudie Limited|
-|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
+|18|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|19|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|20|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
