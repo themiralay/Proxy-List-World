@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|103.175.49.78|8080|Indonesia|Bandung|PT. Trans Indonesia Superkoridor|
-|5|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|6|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|7|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|8|190.6.204.137|999|Honduras|San Pedro Sula|Cablecolor S.A.|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|192.99.5.161|3128|Canada|Montreal|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|15|138.121.161.82|8097|Argentina|Rosario|WICORP SA|
-|16|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|17|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|18|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|190.6.204.137|999|Honduras|San Pedro Sula|Cablecolor S.A.|
+|5|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|6|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
+|7|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|8|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|14|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|19|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
+|20|40.119.52.244|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
