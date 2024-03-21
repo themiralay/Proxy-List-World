@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|2|37.32.28.99|80|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|80.66.89.209|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|11|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|72.10.164.178|4191|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|7777|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|4191|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|7777|Canada|Montreal|GloboTech Communications|
-|16|34.144.249.134|80|United States|Kansas City|Google LLC|
-|17|134.122.183.138|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
-|18|67.43.236.20|8947|Canada|Montreal|GloboTech Communications|
-|19|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|20|72.10.160.170|19955|Canada|Montreal|GloboTech Communications|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|137.184.189.144|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|10|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|11|128.199.104.93|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.160.90|27983|Canada|Montreal|GloboTech Communications|
+|13|34.144.249.134|80|United States|Kansas City|Google LLC|
+|14|72.10.160.90|27983|Canada|Montreal|GloboTech Communications|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|17|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|67.43.236.20|8947|Canada|Montreal|GloboTech Communications|
+|20|192.99.5.161|3128|Canada|Montreal|OVH SAS|
 
 
 
