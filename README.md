@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|285|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
-|16|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|18|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
 |19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
