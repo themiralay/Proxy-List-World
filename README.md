@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
 
 
 
