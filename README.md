@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|72.10.160.171|26031|Canada|Montreal|GloboTech Communications|
-|15|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|18|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|10|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|72.10.160.171|26031|Canada|Montreal|GloboTech Communications|
+|17|111.225.152.162|8089|China|Zhoutou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|20|45.77.233.196|80|Australia|Sydney|The Constant Company|
 
 
 
