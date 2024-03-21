@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|15|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|19|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|20|111.225.153.254|8089|China|Zhoutou|China Telecom|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|7|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|17|67.43.228.253|3273|Canada|Montreal|GloboTech Communications|
+|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|83.136.106.26|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
 
 
 
