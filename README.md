@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.84.26|80|United States|San Francisco|CGI GLOBAL LIMITED|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
 
 
 
