@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|632|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|632|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|632|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|3|188.166.233.248|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|4|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|8|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|11|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|12|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|13|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|16|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|17|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|7|144.48.37.141|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|217.138.220.50|3128|Czechia|Prague|M247 Europe SRL|
+|10|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|13|158.101.112.45|3128|United States|Ashburn|Oracle Corporation|
+|14|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
+|17|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|18|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|167.160.91.251|8081|United States|Los Angeles|Dedicated.com|
 
 
 
