@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|651|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|651|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|651|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|691|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|691|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|691|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.252.22|8000|Singapore|Singapore|DigitalOcean, LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|103.15.223.251|3129|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|150.136.163.144|3128|United States|Ashburn|Oracle Corporation|
-|9|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
-|10|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|13.82.42.11|8080|United States|Boydton|Microsoft Corporation|
-|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|15|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|18|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|10|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
+|11|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|12|27.133.238.94|80|Japan|Kawasaki|Fujitsu Cloud Technologies Limited|
+|13|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|16|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|146.70.146.22|80|Austria|Vienna|M247 Europe Infra|
 
 
 
