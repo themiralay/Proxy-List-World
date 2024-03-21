@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|285|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.236.20|19467|Canada|Montreal|GloboTech Communications|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|180.183.117.159|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
