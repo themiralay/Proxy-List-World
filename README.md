@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|675|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|675|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|675|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|631|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|631|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|631|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
 |7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|10|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|11|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|115.124.66.33|1212|Indonesia|Gambir|PT Remala Abadi|
+|13|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
 |16|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|17|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|17|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|151.22.181.205|8080|Italy|Rho|INFOSTRADA|
-|20|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|19|47.251.56.64|8080|United States|Santa Clara|Alibaba.com LLC|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
