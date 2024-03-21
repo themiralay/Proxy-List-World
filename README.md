@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|6|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|7|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|12|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
-|18|117.2.142.155|2223|Vietnam|Da Nang|Viettel Corporation|
-|19|171.247.171.162|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|67.43.236.20|13157|Canada|Montreal|GloboTech Communications|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|9|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|117.2.142.155|2223|Vietnam|Da Nang|Viettel Corporation|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|15|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|19|67.43.236.20|13157|Canada|Montreal|GloboTech Communications|
+|20|142.4.123.41|80|China|Chengdu|PEG TECH INC|
 
 
 
