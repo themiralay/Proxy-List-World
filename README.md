@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7329** proxies at the latest update. Usable proxies are below.
+> Scraper found **7189** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|587|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|565|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5077|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.49.208.221|80|United States|Kansas City|Google LLC|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|5|188.166.186.145|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|144.48.39.114|3128|Australia|Brisbane|Abuse Please contact abuse@ransomit.com.au|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.49.208.221|80|United States|Kansas City|Google LLC|
-|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|14|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|15|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|20|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|11|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.49.208.221|80|United States|Kansas City|Google LLC|
+|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
