@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|103.165.211.174|3128|Indonesia|Malang|PT iForte Global Internet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|17|52.151.210.204|9000|United States|Boydton|Microsoft Corporation|
+|18|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
 |19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
