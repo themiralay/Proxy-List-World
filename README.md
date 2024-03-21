@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.102.138.130|80|United States|Kansas City|Google LLC|
-|6|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|217.138.220.50|80|Czechia|Prague|M247 Europe SRL|
-|9|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
-|12|43.156.75.30|8089|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|37.157.249.132|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|15|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|16|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|17|34.102.138.130|80|United States|Kansas City|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|1|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|12|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|157.97.132.199|3128|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|20|193.108.118.37|8081|Germany|Frankfurt|GTHost|
 
 
 
