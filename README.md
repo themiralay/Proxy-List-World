@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |11|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|129.80.194.210|3128|United States|Ashburn|Oracle Corporation|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|103.35.190.18|3128|United States|Secaucus|Stark Industries Solutions LTD|
 
 
 
