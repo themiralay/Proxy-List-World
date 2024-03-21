@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|656|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|656|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|656|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|4|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|47.251.65.241|8080|United States|Minkler|Alibaba.com LLC|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|144.48.38.35|3128|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
-|12|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|5.161.219.250|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|38.123.220.16|8080|Mexico|Tlalpujahuilla|Cogent Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|167.172.67.207|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
+|15|51.77.244.112|8888|France|Strasbourg|OVH SAS|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|18|157.97.132.199|8081|Cyprus|Nicosia|Cyprus Telecommunications Authority|
+|19|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
+|20|37.157.249.132|8081|Germany|Düsseldorf|myLoc managed IT AG|
 
 
 
