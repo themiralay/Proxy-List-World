@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
