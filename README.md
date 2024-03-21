@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
 |5|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|11|128.199.119.110|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|34.49.208.221|80|United States|Kansas City|Google LLC|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|9|34.49.208.221|80|United States|Kansas City|Google LLC|
+|10|128.199.184.169|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|144.48.38.35|8081|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
+|12|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |15|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|19|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|190.82.105.123|43949|Chile|Rancagua|Telefonica Empresas|
+|16|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|34.49.208.221|80|United States|Kansas City|Google LLC|
+|20|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
