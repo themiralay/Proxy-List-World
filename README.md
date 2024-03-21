@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|747|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
-|16|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
