@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|93.125.114.187|8081|Belarus|Minsk|DataHata Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|14|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|52.151.210.204|9002|United States|Boydton|Microsoft Corporation|
+|17|89.163.146.104|80|Germany|Kassel|myLoc managed IT AG|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
