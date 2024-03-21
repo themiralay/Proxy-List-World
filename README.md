@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|7|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|8|183.165.244.146|8089|China|Shenzhen|Chinanet|
-|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|183.165.244.146|8089|China|Shenzhen|Chinanet|
 |11|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|15|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|45.11.95.165|5029|Russia|Moscow|Delta Ltd|
-|19|38.49.150.212|80|Mexico|Querétaro City|Ientc S De RL De CV|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|67.43.236.20|18225|Canada|Montreal|GloboTech Communications|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
