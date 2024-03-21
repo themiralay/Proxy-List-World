@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|89.163.146.104|3128|Germany|Kassel|myLoc managed IT AG|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|14.245.241.70|4006|Vietnam|Da Nang|VNPT|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
-|19|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|37.157.249.132|80|Germany|Düsseldorf|myLoc managed IT AG|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|130.35.221.237|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
 
 
 
