@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7810** proxies at the latest update. Usable proxies are below.
+> Scraper found **7822** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|735|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|649|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5077|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.3.121.231|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|1|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|103.175.49.78|8080|Indonesia|Bandung|PT. Trans Indonesia Superkoridor|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.68.214.10|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|8|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|13|144.48.38.35|80|Australia|Melbourne|HostRoyale Technologies Pvt Ltd|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|17|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|18|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|5|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
+|6|167.160.91.252|8081|United States|Los Angeles|Dedicated.com|
+|7|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|8|190.6.204.137|999|Honduras|San Pedro Sula|Cablecolor S.A.|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|192.99.5.161|3128|Canada|Montreal|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|138.121.161.82|8097|Argentina|Rosario|WICORP SA|
+|16|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|17|167.160.91.250|8081|United States|Los Angeles|Dedicated.com|
+|18|89.163.146.104|8081|Germany|Kassel|myLoc managed IT AG|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
