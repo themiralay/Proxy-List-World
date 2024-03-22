@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1081|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|1|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|3|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|4|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|5|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
 |12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
 
 
 
