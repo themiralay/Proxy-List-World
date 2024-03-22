@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|11|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|7|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.105.78.134|3125|Indonesia|Surabaya|GARUDA|
+|10|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|11|124.158.153.218|8180|Indonesia|Keputih|PT iForte Global Internet|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
