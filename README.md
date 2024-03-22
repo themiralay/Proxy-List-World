@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|15|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
-|16|72.10.164.178|23187|Canada|Montreal|GloboTech Communications|
-|17|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|18|165.225.72.151|11240|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.121.135.25|8911|France|Roubaix|OVH SAS|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|12|38.252.209.112|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|18|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
 
 
 
