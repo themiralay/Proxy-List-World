@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|711|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|711|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|711|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.138.130|80|United States|Kansas City|Google LLC|
-|2|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|8|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|9|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|34.102.138.130|80|United States|Kansas City|Google LLC|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|180.232.127.48|3128|Philippines|Cainta|Eastern Telecommunications Philippines, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|17|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
