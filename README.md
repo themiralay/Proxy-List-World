@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|223.215.176.156|8089|China|Guangzhou|Chinanet|
-|15|111.225.152.195|8089|China|Zhoutou|China Telecom|
-|16|67.43.236.18|32931|Canada|Montreal|GloboTech Communications|
-|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|19|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|121.164.235.202|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
