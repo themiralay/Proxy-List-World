@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|167.160.91.252|3128|United States|Los Angeles|Dedicated.com|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|13|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
-|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
-|18|190.209.27.86|999|Chile|Santiago|Telmex Servicios Empresariales S.A.|
-|19|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
+|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|72.10.164.178|13613|Canada|Montreal|GloboTech Communications|
+|19|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|20|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
 
 
 
