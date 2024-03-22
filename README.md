@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|17|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|181.209.82.195|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|58.69.137.62|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|5|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|10|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
 
 
 
