@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|13|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|67.43.227.227|15633|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|5423|Canada|Montreal|GloboTech Communications|
 
 
 
