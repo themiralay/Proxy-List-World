@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|513|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|513|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|513|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|181.66.181.125|999|Peru|Tacna|Telefonica del Peru S.A.A.|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|15|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
