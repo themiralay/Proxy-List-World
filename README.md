@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|171.247.171.162|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|11|38.68.134.189|80|United States|Dallas|GTHost|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.227.227|24979|Canada|Montreal|GloboTech Communications|
-|15|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|16|72.10.160.93|10003|Canada|Montreal|GloboTech Communications|
-|17|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|3943|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29241|Canada|Montreal|GloboTech Communications|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|10|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|92.38.139.205|443|Russia|Moscow|GCL|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
