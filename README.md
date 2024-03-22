@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|19|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|1|34.102.138.130|80|United States|Kansas City|Google LLC|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|34.102.138.130|80|United States|Kansas City|Google LLC|
+|8|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|144.48.116.153|80|Bangladesh|Chittagong|EarthTelecommunication|
+|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
