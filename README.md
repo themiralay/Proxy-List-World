@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
 |6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
