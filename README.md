@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |12|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|13|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|95.111.238.142|3128|Germany|Nuremberg|Contabo GmbH|
-|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|16|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|18|65.109.211.101|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|92.38.139.205|443|Russia|Moscow|GCL|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|15|65.109.211.101|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|17|92.38.139.205|443|Russia|Moscow|GCL|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.227.227|11605|Canada|Montreal|GloboTech Communications|
 
 
 
