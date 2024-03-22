@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.162.70.124|3129|South Korea|Goyang-si|Korea Telecom|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|103.15.223.251|3129|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|18|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
