@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 |13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|19|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|20|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|18|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
