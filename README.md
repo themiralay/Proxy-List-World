@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|708|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|708|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|708|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|631|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|10|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|12|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
 |13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|15|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
 |17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
