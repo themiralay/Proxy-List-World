@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|141.136.186.191|9080|Croatia|Zagreb|Iskon Internet d.d|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|34.49.208.221|80|United States|Kansas City|Google LLC|
-|16|217.21.78.160|3128|United States|Phoenix|Hostinger International Limited|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|103.165.211.174|3128|Indonesia|Malang|PT iForte Global Internet|
-|19|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|217.21.78.160|3128|United States|Phoenix|Hostinger International Limited|
+|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
 
 
 
