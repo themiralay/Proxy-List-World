@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|3|14.143.145.35|80|India|New Delhi|Tata Communications Limited|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|8|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |9|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|13|45.32.28.105|12009|Japan|Shinagawa|Choopa|
-|14|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|67.43.236.18|26245|Canada|Montreal|GloboTech Communications|
-|18|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|15|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|16353|Canada|Montreal|GloboTech Communications|
 
 
 
