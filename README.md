@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|15|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|16|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|17|171.247.171.162|4009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|167.160.91.252|3128|United States|Los Angeles|Dedicated.com|
-|19|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|14|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 
 
 
