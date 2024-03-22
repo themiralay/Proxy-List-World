@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|195.25.241.120|3128|France|Paris|Orange Business Services|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|186.224.219.26|80|Brazil|Moema|JR & JS ENGENHARIA E COMÉRCIO LTDA|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|217.21.78.160|3128|United States|Phoenix|Hostinger International Limited|
-|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|15|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|16|103.150.93.18|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|17|72.10.160.91|15081|Canada|Montreal|GloboTech Communications|
-|18|144.48.116.153|80|Bangladesh|Chittagong|EarthTelecommunication|
-|19|195.25.241.120|3128|France|Paris|Orange Business Services|
-|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
+|15|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|16|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|17|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|18|195.25.241.120|3128|France|Paris|Orange Business Services|
+|19|134.122.183.153|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
