@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|979|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|460|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.182.194.112|9000|South Korea|Buk-gu|LG POWERCOMM|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|7|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|45.189.117.199|999|Peru|Lima|Fiber Digital S.R.L|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|80.66.81.42|4006|Russia|Moscow|BUQU.SU Solutions|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|20|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
 
 
 
