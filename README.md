@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |3|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|6|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|16|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
 
 
 
