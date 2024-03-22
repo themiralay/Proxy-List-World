@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|636|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|636|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|636|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|618|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|618|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|618|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|103.168.164.94|82|India|Pune|Ssicon Systems Private Limited|
-|4|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|191.240.153.144|8080|Brazil|Carapicuiba|Wireless Comm Services LTDA|
-|8|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|9|103.159.195.233|9091|Indonesia|Rembangan|PT Giga Digital Nusantara|
+|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|6|103.174.236.79|8181|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|110.78.186.77|8080|Thailand|Rayong|CAT-BB|
 |19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
