@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|803|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|460|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|2|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|16|145.40.97.155|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|12|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|16|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|19|103.133.223.228|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|20|145.40.97.155|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
