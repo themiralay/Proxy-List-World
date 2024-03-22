@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|17|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
-|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|13|118.99.124.63|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
+|16|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
