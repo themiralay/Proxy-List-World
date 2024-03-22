@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|485|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|485|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|485|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.15.223.251|3129|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|1|103.15.223.251|3128|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|124.122.1.123|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|124.122.1.123|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
