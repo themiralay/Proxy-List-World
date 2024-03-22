@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|1|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|163.15.183.33|3128|Taiwan|Kaohsiung City|T-KPPRC.EDU.TW|
 |10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|1.0.170.50|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|16|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|17|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|18|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|18|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|19|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 
 
 
