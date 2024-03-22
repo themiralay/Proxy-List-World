@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|12|90.188.53.6|8080|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|16|180.191.254.130|8080|Philippines|General Trias|Globe Telecom|
 |17|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|18|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
 
 
 
