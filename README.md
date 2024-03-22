@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7297** proxies at the latest update. Usable proxies are below.
+> Scraper found **7380** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|650|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|59|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|555|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5079|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|8|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|9|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|103.165.155.226|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|15|91.121.135.25|8911|France|Roubaix|OVH SAS|
+|14|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|113.160.214.209|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
 |16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|158.220.91.230|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|43.132.172.202|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|18|177.241.233.3|999|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
