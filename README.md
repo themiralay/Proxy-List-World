@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|185.245.80.156|8081|United Kingdom|Canary Wharf|Clouvider Limited|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|19|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|20|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|16|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|110.17.2.140|3128|China|Hohhot|China Unicom CHINA169 Neimeng Province Network|
+|18|103.88.90.50|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|19|189.90.255.208|3128|Brazil|Itabirito|Companhia Itabirana Telecomunicações Ltda|
+|20|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
