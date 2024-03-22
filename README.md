@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.181.255.161|1111|Indonesia|Rembang|PT Giga Digital Nusantara|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|125.18.149.20|80|India|Mumbai|Bharti Airtel|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
