@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|765|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|765|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|765|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|676|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|676|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|676|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
 |11|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|103.153.246.129|3125|Indonesia|Depok|PRIMAHOME|
-|14|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|178.205.101.67|3129|Russia|Kazan'|Tattelecom|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|14|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
+|15|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
