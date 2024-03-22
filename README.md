@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
 |2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|16|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
-|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|20|188.225.38.233|3128|Russia|St Petersburg|TIMEWEB|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|13|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|19|165.225.113.214|10739|Singapore|Singapore|ZSCALER, INC.|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
