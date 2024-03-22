@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|11|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
 |12|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|18|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
