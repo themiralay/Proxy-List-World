@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|722|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|546|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|546|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|546|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|6|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
-|7|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
-|8|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
-|14|125.229.149.169|65100|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|191.240.153.165|8080|Brazil|Carapicuiba|Wireless Comm Services LTDA|
+|8|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
+|9|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|10|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|186.96.97.202|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
