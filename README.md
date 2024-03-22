@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|6|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|7|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|12|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
-|13|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|14|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|47.184.136.113|3128|United States|Garland|Frontier Communications Solutions|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|15|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|19|123.182.58.220|8089|China|Zhangjiakou|China Telecom|
+|20|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 
 
 
