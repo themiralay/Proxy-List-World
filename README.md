@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|815|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
+|1|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|7|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|11|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
 
 
 
