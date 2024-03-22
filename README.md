@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7835** proxies at the latest update. Usable proxies are below.
+> Scraper found **7952** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|722|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|743|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|743|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|743|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1041|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1158|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|631|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5201|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|103.168.44.105|3127|Indonesia|Pemalang|PT CYB Media Group|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|10|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
 
 
 
