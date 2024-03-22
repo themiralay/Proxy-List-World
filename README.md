@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|13|103.189.123.149|80|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|123.182.59.74|8089|China|Zhangjiakou|China Telecom|
-|17|72.10.160.172|30039|Canada|Montreal|GloboTech Communications|
-|18|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
-|19|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
+|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
