@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|3|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|3|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
 |4|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|14.245.241.70|4006|Vietnam|Da Nang|VNPT|
-|14|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|121.36.129.228|3128|China|Xiaolou|Huawei Cloud Service data center|
+|5|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|6|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|12|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|13|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
