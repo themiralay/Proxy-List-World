@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|10|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|11|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|34.22.84.17|3128|South Korea|Seoul|Google LLC|
+|17|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|19|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|20|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 
 
 
