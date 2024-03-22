@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|9|62.72.32.208|3128|Lithuania|Vilnius|HOSTINGER LT|
-|10|72.10.160.90|7757|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
-|13|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|72.10.160.94|13233|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|19|123.182.59.213|8089|China|Zhangjiakou|China Telecom|
-|20|72.10.164.178|27697|Canada|Montreal|GloboTech Communications|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|14.37.251.116|3128|South Korea|Incheon|Korea Telecom|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|36.6.144.44|8089|China|Guangzhou|Chinanet|
+|18|111.225.153.153|8089|China|Zhoutou|China Telecom|
+|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
