@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
 |2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|134.122.183.143|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
-|5|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|7|211.175.134.238|80|South Korea|Gwangmyeong|Korea Telecom|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|18|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|19|134.122.183.153|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
-|20|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
 
 
 
