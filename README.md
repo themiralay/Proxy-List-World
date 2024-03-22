@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|11|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|67.43.227.228|12273|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|28341|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|12273|Canada|Montreal|GloboTech Communications|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|4|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|8|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|12|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|15|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.227.228|21897|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
 
 
 
