@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|741|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|741|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|741|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|2|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|103.163.13.159|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|7|103.24.34.91|8081|Cambodia|Phnom Penh|Maximum Business Information Technology|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|12|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|13|103.172.70.153|2022|Indonesia|Gemolong|AZNET|
-|14|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|120.28.33.132|8080|Philippines|Taguig|Globe Telecom|
-|17|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|5|201.152.35.7|8080|Mexico|San Luis Potosí City|UNINET|
+|6|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
+|10|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|103.163.13.159|8080|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|12|97.76.251.138|8080|United States|Tampa|Spectrum|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|91.121.135.25|8911|France|Roubaix|OVH SAS|
+|18|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|19|91.144.45.28|8081|Syria|Damascus|STE Public Data Network Backbone and LIR|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
