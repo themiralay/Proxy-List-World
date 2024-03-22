@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|2|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |4|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 |9|185.245.80.156|3128|United Kingdom|Canary Wharf|Clouvider Limited|
-|10|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|13|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|14|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|17|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
+|14|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|15|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 
 
 
