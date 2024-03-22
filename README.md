@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|167.160.91.250|3128|United States|Los Angeles|Dedicated.com|
-|11|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
 |12|145.40.97.155|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|15|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|19|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|20|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
