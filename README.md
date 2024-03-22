@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|2|193.122.98.1|3128|South Korea|Seoul|Oracle Corporation|
 |3|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|6|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
 |9|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|167.160.91.252|3128|United States|Los Angeles|Dedicated.com|
-|12|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|92.38.139.205|443|Russia|Moscow|GCL|
-|15|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
-|16|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|119.39.68.114|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|83.136.106.26|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|110.78.215.113|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|14|4.144.161.159|80|Singapore|Singapore|Microsoft Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|38.6.221.106|8118|United States|Los Angeles|Cloudie Limited|
+|17|189.186.63.103|999|Mexico|Culiacán|UNINET|
+|18|119.93.155.205|8181|Philippines|Candaba|Philippine Long Distance Telephone Co.|
+|19|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
+|20|92.38.139.205|443|Russia|Moscow|GCL|
 
 
 
