@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7829** proxies at the latest update. Usable proxies are below.
+> Scraper found **7795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1110|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5231|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|3|103.188.168.3|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|16|180.191.254.130|8080|Philippines|General Trias|Globe Telecom|
-|17|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|18|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|7|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|8|179.1.192.5|999|Colombia|Neiva|InterNexa Global Network|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|192.121.246.182|8118|United States|New York|PVDataNet AB|
+|11|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|145.40.97.155|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
