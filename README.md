@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|563|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|563|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|563|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|8|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|6|113.178.34.193|8080|Vietnam|Hanoi|VNPT|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|167.160.91.251|3128|United States|Los Angeles|Dedicated.com|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|195.149.98.211|8181|Poland|Gliwice|Obsluga pc P.Dudzinski P.Jablonski P.Ral. B.Miller s.c.|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
