@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|149.28.180.246|12009|Australia|Sydney|The Constant Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|149.28.180.246|12009|Australia|Sydney|The Constant Company|
+|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|180.232.127.48|3128|Philippines|Cainta|Eastern Telecommunications Philippines, Inc.|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|149.28.180.246|12009|Australia|Sydney|The Constant Company|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|13|149.28.180.246|12009|Australia|Sydney|The Constant Company|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|67.43.236.20|16659|Canada|Montreal|GloboTech Communications|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|19|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|20|67.43.236.20|16659|Canada|Montreal|GloboTech Communications|
 
 
 
