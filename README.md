@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
 |6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
-|14|178.62.14.68|5050|United Kingdom|Slough|DigitalOcean, LLC|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|111.225.152.209|8089|China|Zhoutou|China Telecom|
-|20|14.103.24.148|8000|China|Beijing|BITNET|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|15|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
