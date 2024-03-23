@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7532** proxies at the latest update. Usable proxies are below.
+> Scraper found **7397** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|983|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|535|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|458|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5054|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|16|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|103.155.54.26|82|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|149.50.238.14|8080|Türkiye|Antalya|Cogent Communications|
 
 
 
