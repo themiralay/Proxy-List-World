@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|15|72.10.160.90|6371|Canada|Montreal|GloboTech Communications|
-|16|111.225.153.155|8089|China|Zhoutou|China Telecom|
-|17|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|72.10.160.90|21297|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|167.160.91.253|80|United States|Los Angeles|Dedicated.com|
+|19|67.43.236.20|15621|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
