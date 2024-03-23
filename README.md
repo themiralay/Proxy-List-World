@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.160.90|4129|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18609|Canada|Montreal|GloboTech Communications|
-|16|89.208.103.139|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|72.10.160.90|4129|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.96|8089|China|Zhoutou|China Telecom|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|12|111.225.152.96|8089|China|Zhoutou|China Telecom|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|72.10.160.90|26181|Canada|Montreal|GloboTech Communications|
+|16|34.154.161.152|80|Italy|Milan|Google LLC|
+|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
