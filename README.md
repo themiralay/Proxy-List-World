@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|121.101.131.67|1111|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|45.187.12.56|8080|Brazil|Anastacio|Aquidaweb Telecomunicações e Multimidia Ltda EPP|
+|9|177.242.201.5|999|Mexico|San Miguel de Allende|Mega Cable, S.A. de C.V.|
 |10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
-|18|72.10.164.178|6495|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.92|3945|Canada|Montreal|GloboTech Communications|
+|17|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|67.43.228.253|17667|Canada|Montreal|GloboTech Communications|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|67.43.227.227|22641|Canada|Montreal|GloboTech Communications|
 
 
 
