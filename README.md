@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|4|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|2|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|5|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|9|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |11|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 
 
 
