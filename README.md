@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|12|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|10|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|11|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|16|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|45.189.252.243|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
