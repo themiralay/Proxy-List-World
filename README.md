@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|240|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|67.43.236.21|23507|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|18379|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6705|Canada|Montreal|GloboTech Communications|
+|1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
