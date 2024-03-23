@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|15|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|16|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|17|67.43.227.228|12727|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|72.10.160.94|4095|Canada|Montreal|GloboTech Communications|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|12.165.234.129|8081|United States|Alicia|AT&T Services, Inc.|
+|12|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|15|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|117.69.236.136|8089|China|Rongcheng|Chinanet|
 
 
 
