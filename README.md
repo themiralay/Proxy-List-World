@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|116.96.109.27|1002|Vietnam|Hanoi|Viettel Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
-|16|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|8|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|14|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
+|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|16|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|17|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.87.170.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
