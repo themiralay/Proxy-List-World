@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|719|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|719|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|719|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|9|37.152.176.84|8181|Iran|Nā’īn|AbrArvan|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|89.35.73.129|3131|Türkiye|Osmangazi|Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|213.199.43.77|8080|Germany|Düsseldorf|TerraTransit AG|
-|19|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|103.138.62.53|8080|Indonesia|Denpasar|GOLDNET|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|27.147.130.170|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|202.5.35.13|5020|Bangladesh|Chittagong|BBTS-NEW|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|45.189.149.140|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|115.127.37.75|8674|Bangladesh|Dhaka|BRACNet Limited|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
