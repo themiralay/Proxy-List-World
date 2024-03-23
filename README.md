@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|103.115.31.181|8080|Indonesia|Depok|HSPNET|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|9|149.28.180.246|12009|Australia|Sydney|The Constant Company|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|198.57.27.42|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|59.98.4.102|8080|India|Port Blair|BSNL Internet|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|76.50.81.194|6565|United States|Calabasas|Spectrum|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|49.147.103.197|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|15|58.69.137.62|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|16|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|103.30.114.138|8080|Timor-Leste|Dili|Telin IP Network|
+|19|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|20|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
