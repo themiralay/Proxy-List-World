@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|1599|Canada|Montreal|GloboTech Communications|
-|16|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|67.43.227.230|15533|Canada|Montreal|GloboTech Communications|
+|5|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|72.10.160.172|1599|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
+|18|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
 
 
 
