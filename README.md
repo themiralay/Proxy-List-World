@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|777|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|777|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|777|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|665|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|665|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|665|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1267|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|660|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
