@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|149.50.238.14|8080|Türkiye|Antalya|Cogent Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|72.10.160.174|8197|Canada|Montreal|GloboTech Communications|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|92.38.139.205|443|Russia|Moscow|GCL|
+|18|67.43.228.250|8849|Canada|Montreal|GloboTech Communications|
+|19|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
