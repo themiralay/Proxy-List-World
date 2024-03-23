@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.110.34.43|8081|Indonesia|Grobogan|PT RECONET SEMESTA INDONESIA|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
-|16|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.228|26417|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|15171|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|4709|Canada|Montreal|GloboTech Communications|
+|9|103.195.252.37|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
+|10|103.30.114.138|8080|Timor-Leste|Dili|Telin IP Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|38.52.222.243|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|18|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
