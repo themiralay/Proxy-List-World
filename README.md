@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|1|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
 |5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|16|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|18|67.43.228.253|18267|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|37.156.146.163|3128|Iran|Tehran|Asiatech Data Transmission company|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|42.118.10.200|4006|Vietnam|Hanoi|FPT Telecom Company|
+|20|67.43.228.253|18267|Canada|Montreal|GloboTech Communications|
 
 
 
