@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |4|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|5|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|20|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
 
