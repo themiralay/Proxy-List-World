@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|40.81.30.88|8888|Hong Kong|Hong Kong|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|14|67.43.227.228|18059|Canada|Montreal|GloboTech Communications|
-|15|111.225.153.103|8089|China|Zhoutou|China Telecom|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|114.232.110.92|8089|China|Nanjing|Chinanet|
-|20|67.43.227.227|1835|Canada|Montreal|GloboTech Communications|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|14|40.81.30.88|8888|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|103.166.227.36|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|16|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|17|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|18|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
