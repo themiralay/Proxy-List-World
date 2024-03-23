@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|172.245.34.182|8080|United States|Elk Grove Village|HostPapa|
-|11|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|15|203.253.142.176|8080|South Korea|Yuseong|KISTI|
-|16|88.255.65.125|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
-|17|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|1|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|7|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|13|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
 |18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|19|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
