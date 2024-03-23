@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|72.10.164.178|22837|Canada|Montreal|GloboTech Communications|
-|15|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|16|67.43.236.20|7129|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|4821|Canada|Montreal|GloboTech Communications|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|78.47.35.35|3312|Germany|Essen|Hetzner Online GmbH|
-|20|72.10.160.90|4273|Canada|Montreal|GloboTech Communications|
+|12|187.234.65.88|3128|Mexico|Miguel Hidalgo|UNINET|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|17|111.225.153.214|8089|China|Zhoutou|China Telecom|
+|18|72.10.164.178|22837|Canada|Montreal|GloboTech Communications|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
