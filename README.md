@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|72.10.160.90|6929|Canada|Montreal|GloboTech Communications|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|72.10.160.90|6929|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 |18|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|67.43.227.227|4411|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.228.253|27993|Canada|Montreal|GloboTech Communications|
 
 
 
