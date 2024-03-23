@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|10|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
 |11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|18|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|19|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|20|67.43.228.253|29287|Canada|Montreal|GloboTech Communications|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
