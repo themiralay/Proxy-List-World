@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|72.10.164.178|18573|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23047|Canada|Montreal|GloboTech Communications|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|67.43.227.227|23047|Canada|Montreal|GloboTech Communications|
-|19|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|101.255.169.250|8080|Indonesia|Jakarta|PT Remala Abadi|
+|2|12.165.234.129|8081|United States|Alicia|AT&T Services, Inc.|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
+|6|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|103.180.240.191|8080|Nepal|Gulmī Tamghās|Dish Media Network Public Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|16|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|17|198.57.27.42|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|18|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|19|67.43.227.227|23047|Canada|Montreal|GloboTech Communications|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
