@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|189.173.145.114|999|Mexico|Hermosillo|UNINET|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|179.1.192.5|999|Colombia|Neiva|InterNexa Global Network|
-|17|119.92.188.29|8080|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|18|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|19|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|201.170.42.65|3128|Mexico|Mexicali|UNINET|
+|2|200.59.184.196|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|200.59.184.192|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
+|17|201.170.42.65|3128|Mexico|Mexicali|UNINET|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
 
 
 
