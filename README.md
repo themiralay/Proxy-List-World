@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|639|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
-|15|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|16|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|125.182.194.112|9000|South Korea|Buk-gu|LG POWERCOMM|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|103.247.23.189|8080|Indonesia|Cileungsir|PT wifian Solution|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|41.78.215.1|8787|South Africa|Sandton|Broadband Infraco SOC|
+|18|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 |19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
