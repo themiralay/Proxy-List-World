@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|125.16.181.184|9988|India|New Delhi|Bharti Airtel|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|17|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|125.182.194.112|9000|South Korea|Buk-gu|LG POWERCOMM|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|17|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
+|18|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
