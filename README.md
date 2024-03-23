@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
-|5|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|6|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|38.65.172.145|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.79.51.210|16099|United States|Beaumont|Spectrum|
-|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|34.102.138.130|80|United States|Kansas City|Google LLC|
-|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|16|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
+|17|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
+|19|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|20|72.10.160.91|26937|Canada|Montreal|GloboTech Communications|
 
 
 
