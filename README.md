@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|5|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|4|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|15|67.43.236.22|33231|Canada|Montreal|GloboTech Communications|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|198.57.27.42|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|19|72.10.164.178|28115|Canada|Montreal|GloboTech Communications|
-|20|201.77.108.48|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|9|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|10|34.144.249.134|80|United States|Kansas City|Google LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|67.43.236.22|33231|Canada|Montreal|GloboTech Communications|
+|18|34.144.249.134|80|United States|Kansas City|Google LLC|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
