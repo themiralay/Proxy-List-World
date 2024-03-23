@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|535|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
 |11|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
 |12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|13|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|19|103.165.138.236|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
