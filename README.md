@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|116.96.109.27|1002|Vietnam|Hanoi|Viettel Corporation|
-|7|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|14|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|4|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|13|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
+|14|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|94.72.100.20|2128|United Kingdom|Portsmouth|Contabo GmbH|
+|18|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|19|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|103.87.170.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 
 
 
