@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|425|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
-|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|4|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|5|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|14|68.169.59.171|8380|United States|Norcross|Cloudflare London, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
 
 
 
