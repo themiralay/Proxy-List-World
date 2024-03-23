@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|125.57.21.144|3128|South Korea|Seoul|Truenetworks|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|67.43.236.20|27809|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|30317|Canada|Montreal|GloboTech Communications|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|12|103.87.169.191|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|18|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|19|72.10.160.90|27981|Canada|Montreal|GloboTech Communications|
+|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
 
 
 
