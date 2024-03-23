@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|103.195.65.209|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|11|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|123.182.58.186|8089|China|Zhangjiakou|China Telecom|
-|17|72.10.164.178|22223|Canada|Montreal|GloboTech Communications|
-|18|118.117.190.148|8089|China|Muping|Chinanet|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|72.10.164.178|22223|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|17|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|72.10.164.178|7461|Canada|Montreal|GloboTech Communications|
 
 
 
