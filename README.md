@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |14|125.182.194.112|9000|South Korea|Buk-gu|LG POWERCOMM|
 |15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
 |18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
