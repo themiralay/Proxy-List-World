@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|5|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |13|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
-|18|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|19|223.215.176.40|8089|China|Guangzhou|Chinanet|
 |20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
