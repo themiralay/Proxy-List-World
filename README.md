@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7316** proxies at the latest update. Usable proxies are below.
+> Scraper found **7388** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|444|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5054|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|6|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|9|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|11|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|163.172.4.109|8080|France|Paris|Online S.A.S.|
+|7|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|15|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
