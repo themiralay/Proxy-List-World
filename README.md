@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|6|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|72.10.164.178|1283|Canada|Montreal|GloboTech Communications|
-|17|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|192.141.196.129|8080|Brazil|Taboao da Serra|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|72.10.160.90|18887|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|17|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
+|19|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|67.43.227.227|27215|Canada|Montreal|GloboTech Communications|
 
 
 
