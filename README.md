@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|603|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|603|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|603|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|9|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
-|11|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|213.199.43.77|8080|Germany|Düsseldorf|TerraTransit AG|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|7|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |13|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
-|19|213.199.43.71|8080|Germany|Düsseldorf|TerraTransit AG|
-|20|72.10.164.178|20679|Canada|Montreal|GloboTech Communications|
+|14|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|15|103.147.247.175|8181|Indonesia|Tangerang|PLBNET|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
+|19|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
