@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|230|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|72.10.160.90|32129|Canada|Montreal|GloboTech Communications|
-|8|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
 |12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|67.43.228.250|15827|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.90|32129|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|72.10.164.178|19545|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19545|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|32129|Canada|Montreal|GloboTech Communications|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|67.43.228.250|15827|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|20|67.43.236.20|19923|Canada|Montreal|GloboTech Communications|
 
 
 
