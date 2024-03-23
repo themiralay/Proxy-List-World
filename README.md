@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|987|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|4|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|6|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|14|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|110.136.171.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|134.122.183.153|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
+|13|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|14|186.96.50.20|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
