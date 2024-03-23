@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|116.96.109.27|1002|Vietnam|Hanoi|Viettel Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|17|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
