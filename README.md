@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|708|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|708|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|708|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|9|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|101.128.94.154|8085|Indonesia|Jakarta|CBN|
-|11|189.6.22.158|80|Brazil|Valparaiso de Goias|Claro NXT Telecomunicacoes Ltda|
-|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|13|89.35.73.129|3131|Türkiye|Osmangazi|Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|189.6.22.158|80|Brazil|Valparaiso de Goias|Claro NXT Telecomunicacoes Ltda|
+|5|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|89.35.73.129|3131|Türkiye|Osmangazi|Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
+|18|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|103.138.62.53|8080|Indonesia|Denpasar|GOLDNET|
 
 
 
