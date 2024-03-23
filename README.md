@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|190.120.249.60|999|Venezuela|Tocuyito|CORPORACION FIBEX TELECOM, C.A.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|129.80.134.71|3128|United States|Ashburn|Oracle Corporation|
-|17|122.154.118.66|8083|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
