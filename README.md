@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|111.225.153.103|8089|China|Zhoutou|China Telecom|
-|11|72.10.164.178|28115|Canada|Montreal|GloboTech Communications|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|5|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|14|67.43.228.250|10089|Canada|Montreal|GloboTech Communications|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|123.182.59.245|8089|China|Zhangjiakou|China Telecom|
-|17|103.87.170.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|111.225.153.103|8089|China|Zhoutou|China Telecom|
 |18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|19|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
 |20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
