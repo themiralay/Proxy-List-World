@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|446|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.217.224.53|3127|Indonesia|Semarang|PT Nesta Indo Media|
-|14|114.232.110.33|8089|China|Nanjing|Chinanet|
-|15|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|123.182.59.223|8089|China|Zhangjiakou|China Telecom|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.236.20|22007|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|9141|Canada|Montreal|GloboTech Communications|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|2|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|198.167.203.61|8118|Sweden|Malmo|ab stract|
+|12|103.217.224.53|3127|Indonesia|Semarang|PT Nesta Indo Media|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|67.43.227.227|27933|Canada|Montreal|GloboTech Communications|
+|16|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|72.10.160.170|10597|Canada|Montreal|GloboTech Communications|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
