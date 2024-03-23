@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|3|124.6.165.241|8085|Philippines|Lahug|INNOVE|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|89.35.73.129|3131|Türkiye|Osmangazi|Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|17|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|114.5.97.150|8080|Indonesia|Gresik|PT. INDOSAT Tbk|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|7|103.26.110.46|84|India|Tirunelveli|Niss Networks|
+|8|89.35.73.129|3131|Türkiye|Osmangazi|Nazim Dogukan Erdic trading as De-Host Bilisim ve Yazilim Hizmetleri|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|125.167.33.208|8080|Indonesia|Sampang|PT. TELKOM INDONESIA|
+|11|114.9.24.46|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
