@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|12|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|13|45.236.44.94|8080|Peru|Lima|Optical Technologies S.A.C.|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|45.77.182.170|12009|Japan|Komae|The Constant Company|
-|16|68.169.59.171|8380|United States|Norcross|Cloudflare London, LLC|
-|17|72.10.164.178|24735|Canada|Montreal|GloboTech Communications|
-|18|14.99.215.106|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|19|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
-|20|67.43.228.253|22663|Canada|Montreal|GloboTech Communications|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|72.10.164.178|26837|Canada|Montreal|GloboTech Communications|
+|18|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
