@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.3.252.113|4006|Vietnam|Hanoi|Viettel Corporation|
-|3|204.11.158.50|59886|U.S. Virgin Islands|Charlotte Amalie|Broadband VI, LLC|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.3.252.113|4006|Vietnam|Hanoi|Viettel Corporation|
+|4|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|103.48.68.76|84|India|Hyderabad|Country Online Services PVT LTD|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|103.226.232.185|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|17|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|14|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
