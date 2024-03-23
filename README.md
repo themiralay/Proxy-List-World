@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|7|103.188.168.3|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
 |8|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|9|124.104.149.53|8081|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|72.10.164.178|5485|Canada|Montreal|GloboTech Communications|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|15|67.43.228.253|7853|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.160.90|8785|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7853|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5485|Canada|Montreal|GloboTech Communications|
-|20|36.6.145.129|8089|China|Guangzhou|Chinanet|
+|9|72.10.164.178|25237|Canada|Montreal|GloboTech Communications|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|123.182.58.41|8089|China|Zhangjiakou|China Telecom|
+|12|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
+|13|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|67.43.228.253|7853|Canada|Montreal|GloboTech Communications|
+|15|111.225.152.225|8089|China|Zhoutou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.228.253|7853|Canada|Montreal|GloboTech Communications|
+|18|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|19|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
