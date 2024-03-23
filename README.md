@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|12|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|2721|Canada|Montreal|GloboTech Communications|
-|15|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|67.43.227.227|27223|Canada|Montreal|GloboTech Communications|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|13|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|123.182.58.242|8089|China|Zhangjiakou|China Telecom|
-|20|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
