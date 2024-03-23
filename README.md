@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|5|103.138.62.53|8080|Indonesia|Denpasar|GOLDNET|
-|6|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|14|139.28.221.233|3128|Finland|Helsinki|I-servers LTD|
-|15|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|16|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|17|45.151.13.242|8080|Italy|Pisa|Vianova spa|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
