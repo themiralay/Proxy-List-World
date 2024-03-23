@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|34.102.138.130|80|United States|Kansas City|Google LLC|
-|7|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|8|67.43.236.18|10335|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|28727|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|203.190.41.151|8081|Indonesia|Sleman|PT Jaring Lintas Utara|
-|13|72.10.164.178|28727|Canada|Montreal|GloboTech Communications|
-|14|68.169.59.171|8380|United States|Norcross|Cloudflare London, LLC|
-|15|72.10.160.90|19491|Canada|Montreal|GloboTech Communications|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.236.20|13247|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|2101|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|8773|Canada|Montreal|GloboTech Communications|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|34.102.138.130|80|United States|Kansas City|Google LLC|
+|11|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|12|67.43.236.18|10335|Canada|Montreal|GloboTech Communications|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|19|72.10.164.178|29491|Canada|Montreal|GloboTech Communications|
+|20|5.189.139.14|8118|Germany|Nuremberg|Contabo GmbH|
 
 
 
