@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|111.225.153.249|8089|China|Zhoutou|China Telecom|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|5|118.117.189.29|8089|China|Muping|Chinanet|
-|6|67.43.236.20|23227|Canada|Montreal|GloboTech Communications|
-|7|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
-|8|123.182.58.208|8089|China|Zhangjiakou|China Telecom|
-|9|172.245.34.182|8080|United States|Elk Grove Village|HostPapa|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|67.43.228.253|10001|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|1639|Canada|Montreal|GloboTech Communications|
-|13|111.225.152.242|8089|China|Zhoutou|China Telecom|
-|14|72.10.160.90|16837|Canada|Montreal|GloboTech Communications|
-|15|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|183.60.192.171|8090|China|Xiaolou|Chinanet|
-|17|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|18|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|19|67.43.227.228|7247|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|76.50.81.194|6565|United States|Calabasas|Spectrum|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|8|76.50.81.194|6565|United States|Calabasas|Spectrum|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.87.170.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|111.225.152.242|8089|China|Zhoutou|China Telecom|
+|18|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|19|103.135.139.121|80|Bangladesh|Chittagong|Md. Aziz Uddin|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
