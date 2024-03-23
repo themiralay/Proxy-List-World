@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|5|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|6|34.49.208.221|80|United States|Kansas City|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|34.49.208.221|80|United States|Kansas City|Google LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|72.10.160.172|19537|Canada|Montreal|GloboTech Communications|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
 |14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|67.43.236.20|24259|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|3395|Canada|Montreal|GloboTech Communications|
-|20|36.6.145.156|8089|China|Guangzhou|Chinanet|
+|15|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|67.43.236.20|10261|Canada|Montreal|GloboTech Communications|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
+|20|72.10.160.90|31855|Canada|Montreal|GloboTech Communications|
 
 
 
