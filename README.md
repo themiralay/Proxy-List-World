@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|198.167.203.61|8118|Sweden|Malmo|ab stract|
-|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.49.208.221|80|United States|Kansas City|Google LLC|
+|5|103.18.46.250|443|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|6|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
 |10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
-|12|176.105.220.74|3129|Ukraine|Semenivka|NPK Home-Net Ltd.|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|3117|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|32451|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3117|Canada|Montreal|GloboTech Communications|
-|19|198.167.203.61|8118|Sweden|Malmo|ab stract|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|34.49.208.221|80|United States|Kansas City|Google LLC|
+|15|198.167.203.61|8118|Sweden|Malmo|ab stract|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|19|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
 |20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
