@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
 
 
 
