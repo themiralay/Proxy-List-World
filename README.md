@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|5|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
 |13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|15|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
