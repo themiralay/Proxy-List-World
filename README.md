@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
-|5|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|223.247.46.171|8089|China|Rongcheng|Chinanet|
-|17|111.225.153.180|8089|China|Zhoutou|China Telecom|
-|18|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|19|72.10.160.90|30281|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|167.160.91.254|3128|United States|Los Angeles|Dedicated.com|
+|15|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|167.160.91.254|3128|United States|Los Angeles|Dedicated.com|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
