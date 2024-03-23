@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|125.16.181.179|9988|India|New Delhi|Bharti Airtel|
-|7|76.102.38.142|8080|United States|San Francisco|Comcast Cable Communications, LLC|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|76.102.38.142|8080|United States|San Francisco|Comcast Cable Communications, LLC|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|86.104.32.45|3128|Iran|Tehran|Afranet|
-|17|103.137.45.10|13799|India|Pūrna|Wsnl Broadband Private Limited|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|94.142.138.252|3128|Finland|Helsinki|Aeza International LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|10|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
+|11|37.48.120.146|3128|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|123.20.147.112|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|20|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
 
 
 
