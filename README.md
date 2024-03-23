@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7436** proxies at the latest update. Usable proxies are below.
+> Scraper found **7330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|761|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|125.16.181.178|9988|India|New Delhi|Bharti Airtel|
-|6|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|67.43.227.227|7335|Canada|Montreal|GloboTech Communications|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|18|76.50.81.194|6565|United States|Calabasas|Spectrum|
-|19|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
-|20|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|125.16.181.190|9988|India|New Delhi|Bharti Airtel|
+|11|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.236.20|12611|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.227.227|7905|Canada|Montreal|GloboTech Communications|
 
 
 
