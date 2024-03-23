@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|198.57.27.42|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.160.173|19781|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|67.43.236.18|21325|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|1261|Canada|Montreal|GloboTech Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|13|113.178.33.185|8080|Vietnam|Hanoi|VNPT|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|114.106.146.50|8089|China|Guangzhou|Chinanet|
+|18|72.10.164.178|11947|Canada|Montreal|GloboTech Communications|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|111.225.152.31|8089|China|Zhoutou|China Telecom|
 
 
 
