@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|5|178.22.52.21|8080|Russia|Kuznetsovo|Ramtel Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|38.156.233.76|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|189.6.22.158|80|Brazil|Valparaiso de Goias|Claro NXT Telecomunicacoes Ltda|
-|13|158.179.165.79|8899|South Korea|Chuncheon|Oracle Corporation|
+|3|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|125.16.181.180|9988|India|New Delhi|Bharti Airtel|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|178.22.52.21|8080|Russia|Kuznetsovo|Ramtel Ltd.|
+|9|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|10|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|12|72.10.160.90|29619|Canada|Montreal|GloboTech Communications|
+|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 |14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
-|18|67.43.236.19|16285|Canada|Montreal|GloboTech Communications|
-|19|119.92.188.29|8080|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|20|103.253.135.82|3129|Thailand|Lat Phrao|Innovative Extremist Co|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|125.16.181.188|9988|India|New Delhi|Bharti Airtel|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|67.43.236.18|6563|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30319|Canada|Montreal|GloboTech Communications|
 
 
 
