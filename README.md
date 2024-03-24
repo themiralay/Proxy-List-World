@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|4|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|5|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|2|122.10.101.13|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|12|72.10.160.90|31535|Canada|Montreal|GloboTech Communications|
-|13|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
+|11|72.10.160.90|29567|Canada|Montreal|GloboTech Communications|
+|12|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|72.10.164.178|18851|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.251|3797|Canada|Montreal|GloboTech Communications|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |17|67.43.227.227|16223|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18851|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.90|31535|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.160.90|29567|Canada|Montreal|GloboTech Communications|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
