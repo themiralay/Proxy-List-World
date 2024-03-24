@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|637|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|637|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|637|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|609|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|609|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|609|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|85.239.234.94|3128|United States|Seattle|Casablanca INT fraction|
-|13|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
-|14|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
-|15|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|16|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|17|160.242.19.126|8080|Saint Helena|Jamestown|Paratus Telecommunications Limited|
-|18|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
-|19|125.26.143.17|8080|Thailand|Bang Khen|TOT Public Company Limited|
-|20|45.5.117.76|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|3|124.105.24.80|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|4|103.105.55.76|3125|Indonesia|Malang|PT. Mega Artha Lintas Data|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|8.242.176.37|999|Colombia|Santiago de Cali|CTL Colombia|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|13|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 
 
 
