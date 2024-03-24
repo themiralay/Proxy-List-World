@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|2.58.56.39|80|France|Bavilliers|Sapinet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|171.247.171.162|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|2.58.56.39|80|France|Bavilliers|Sapinet|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|72.10.164.178|30249|Canada|Montreal|GloboTech Communications|
 
 
 
