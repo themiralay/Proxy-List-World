@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1149|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|636|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
-|19|103.171.31.155|8080|Indonesia|Bekasi|MORATELINDONAP|
-|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
