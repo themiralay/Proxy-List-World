@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6900** proxies at the latest update. Usable proxies are below.
+> Scraper found **7155** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|752|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|961|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|288|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4901|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|46.188.25.233|8080|Russia|Moscow|2COM|
-|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|9|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|114.104.135.199|41122|China|Guangzhou|Chinanet|
-|18|183.164.242.154|8089|China|Rongcheng|Chinanet|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
