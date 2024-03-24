@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|586|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|586|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|586|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|103.30.30.73|8080|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|14|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|15|120.28.150.68|8082|Philippines|San Juan|Globe Telecom|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|163.172.4.109|8080|France|Paris|Online S.A.S.|
-|18|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
-|19|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|20|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
+|4|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|5|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|8|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|181.129.138.114|30838|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
+|14|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|15|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|103.195.16.2|8080|India|Alwar|Alwar Online Pvt. Ltd|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
