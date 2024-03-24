@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|202.169.229.139|53281|Indonesia|Sleman|IP JMN Soho|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|31525|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|31525|Canada|Montreal|GloboTech Communications|
-|18|117.69.232.197|8089|China|Rongcheng|Chinanet|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|67.43.236.18|13061|Canada|Montreal|GloboTech Communications|
+|18|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|67.43.236.20|31525|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
