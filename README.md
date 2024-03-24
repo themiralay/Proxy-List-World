@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.250.254.74|3128|United Kingdom|London|Contabo Asia Private Limited|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|8.242.176.37|999|Colombia|Santiago de Cali|CTL Colombia|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
-|7|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|8|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|9|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|14|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|3|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|10|188.132.222.167|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|12|85.239.234.94|3128|United States|Seattle|Casablanca INT fraction|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|45.233.169.40|9994|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|193.181.35.148|8118|Sweden|Stockholm|PVDataNet AB|
-|17|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|18|46.250.254.74|3128|United Kingdom|London|Contabo Asia Private Limited|
-|19|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|20|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|135.181.85.234|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
