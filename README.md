@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
-|13|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.236.20|12241|Canada|Montreal|GloboTech Communications|
-|18|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.236.20|2695|Canada|Montreal|GloboTech Communications|
+|20|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
