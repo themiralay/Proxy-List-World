@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|67.43.227.227|16339|Canada|Montreal|GloboTech Communications|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|72.10.164.178|11255|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|2733|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.236.21|17821|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2237|Canada|Montreal|GloboTech Communications|
+|2|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|5|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|6|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|67.43.227.227|19769|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|13|67.43.236.18|30469|Canada|Montreal|GloboTech Communications|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|72.10.160.174|2475|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|22543|Canada|Montreal|GloboTech Communications|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
