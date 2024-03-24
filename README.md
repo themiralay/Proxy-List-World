@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|16|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|17|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|20|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|15|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|16|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
