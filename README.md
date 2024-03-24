@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|12|46.188.25.233|8080|Russia|Moscow|2COM|
-|13|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|20|103.171.31.155|8080|Indonesia|Bekasi|MORATELINDONAP|
 
 
 
