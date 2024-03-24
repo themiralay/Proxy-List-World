@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|67.43.228.253|30209|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|190.144.80.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|15|201.71.2.249|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|19|72.10.160.170|2851|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
