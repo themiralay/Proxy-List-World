@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|797|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|797|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|797|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|3|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|83.244.33.34|8080|Palestine|Hebron|Palestine Telecommunications Company|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|15|142.147.114.50|8080|United States|McGregor|Nextlink Broadband|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|2|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|10|45.174.57.66|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
