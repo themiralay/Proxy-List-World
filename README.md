@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|3|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
-|6|46.188.25.233|8080|Russia|Moscow|2COM|
-|7|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
-|8|134.122.183.138|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
-|9|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
-|10|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|12|84.52.88.59|8080|Russia|St Petersburg|WestCall|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|121.171.57.2|3128|South Korea|Gwangmyeong|Korea Telecom|
-|16|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|2|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|3|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|6|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
+|12|45.11.95.165|6003|Russia|Moscow|Delta Ltd|
+|13|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|16|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|17|72.10.160.170|24813|Canada|Montreal|GloboTech Communications|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|142.4.123.41|80|China|Chengdu|PEG TECH INC|
 
 
 
