@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8040** proxies at the latest update. Usable proxies are below.
+> Scraper found **8077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|637|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|637|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|637|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|148|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1316|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1501|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|446|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5171|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|193.181.35.148|8118|Sweden|Stockholm|PVDataNet AB|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.79.62.116|8080|Brazil|São Paulo|Vivo|
-|17|124.158.153.218|8180|Indonesia|Keputih|PT iForte Global Internet|
-|18|154.73.29.1|8080|Libya|Tripoli|Rawafed|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|85.239.234.94|3128|United States|Seattle|Casablanca INT fraction|
+|13|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
+|14|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
+|15|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|16|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|17|160.242.19.126|8080|Saint Helena|Jamestown|Paratus Telecommunications Limited|
+|18|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
+|19|125.26.143.17|8080|Thailand|Bang Khen|TOT Public Company Limited|
+|20|45.5.117.76|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
 
 
 
