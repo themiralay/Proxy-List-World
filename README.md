@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|67.43.227.227|10901|Canada|Montreal|GloboTech Communications|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
