@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
-|5|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
 |7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|15|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|12|103.250.130.139|8080|Indonesia|Surabaya|LINTASDAYA|
+|13|103.1.51.204|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|16|185.128.240.77|8080|Romania|Cerneți|Data ZYX SRL|
+|17|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
