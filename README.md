@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
 |5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|9|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|13|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|88.80.148.17|3128|Bulgaria|Sofia|Belcloud LTD|
+|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|82.65.98.35|3128|France|Paris|Proxad / Free SAS|
+|19|125.167.230.70|80|Indonesia|Samarinda|PT. TELKOM INDONESIA|
 |20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
