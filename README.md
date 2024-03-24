@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|295|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|67.43.227.227|8281|Canada|Montreal|GloboTech Communications|
-|17|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5895|Canada|Montreal|GloboTech Communications|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|72.10.160.90|20583|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
