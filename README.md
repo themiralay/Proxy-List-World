@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|642|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|642|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|642|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1070|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
-|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|12|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|139.135.139.246|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|15|103.148.192.83|8089|Indonesia|Bandung|PT. Akashia Thuba Jaya|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|103.105.228.66|8080|India|Mumbai|Mnk Infoway Private Limited|
-|18|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|9|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|103.153.246.14|8080|Indonesia|Depok|PRIMAHOME|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|183.88.241.167|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|16|103.172.42.125|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|19|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
