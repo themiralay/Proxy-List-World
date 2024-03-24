@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|3|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|4|72.10.160.170|9363|Canada|Montreal|GloboTech Communications|
-|5|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|6|67.43.236.20|14123|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.250|4151|Canada|Montreal|GloboTech Communications|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|67.43.228.253|2383|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|15207|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|14123|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.164.178|4555|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|9363|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|72.10.160.170|9363|Canada|Montreal|GloboTech Communications|
+|2|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|67.43.236.18|13045|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.90|1089|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.224.251.56|8080|Peru|Lima|Econocable Media SAC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|12|67.43.236.20|14397|Canada|Montreal|GloboTech Communications|
+|13|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|14|183.60.192.171|8090|China|Xiaolou|Chinanet|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|67.43.228.253|2383|Canada|Montreal|GloboTech Communications|
 
 
 
