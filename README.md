@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|295|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|14|103.38.104.216|8080|Indonesia|Wonosobo|PT Tunas Media Data|
+|15|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
+|16|138.43.98.203|82|United States|Allen|iboss, inc|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
