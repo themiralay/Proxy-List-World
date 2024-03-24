@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|72.10.160.91|21175|Canada|Montreal|GloboTech Communications|
-|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|13|72.10.164.178|3935|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|19699|Canada|Montreal|GloboTech Communications|
-|15|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
-|16|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
-|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|67.43.236.20|19699|Canada|Montreal|GloboTech Communications|
-|19|23.94.98.211|3128|United States|Santa Clara|HostPapa|
-|20|67.43.227.228|24465|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|12|67.43.236.20|1319|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|21175|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|18851|Canada|Montreal|GloboTech Communications|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|67.43.236.20|1319|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
