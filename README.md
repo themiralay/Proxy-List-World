@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|163.172.4.109|8080|France|Paris|Online S.A.S.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|38.159.50.201|8080|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|20|163.172.4.109|8080|France|Paris|Online S.A.S.|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|13|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|103.203.95.10|8674|Bangladesh|Dhaka|Rana Javed Kabir t/a Interpid Broadband Communication Company Ltd.|
 
 
 
