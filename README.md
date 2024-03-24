@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|2.58.56.39|80|France|Bavilliers|Sapinet|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|2.58.56.39|80|France|Bavilliers|Sapinet|
+|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|19|67.43.227.227|11931|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30249|Canada|Montreal|GloboTech Communications|
 
 
 
