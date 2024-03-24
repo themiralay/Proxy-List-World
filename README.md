@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|662|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|662|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|662|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1216|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|592|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|2|161.18.244.14|999|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|3|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|4|162.43.4.116|3128|Japan|Hiyoshi|XSERVER Inc.|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|121.195.170.225|1024|China|Haidian|CERNET|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|67.43.227.226|3283|Canada|Montreal|GloboTech Communications|
-|12|123.182.58.40|8089|China|Zhangjiakou|China Telecom|
-|13|45.143.108.114|8080|Georgia|Tbilisi|Airmax LLC|
-|14|72.10.160.170|8243|Canada|Montreal|GloboTech Communications|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|72.10.164.178|16207|Canada|Montreal|GloboTech Communications|
-|17|111.225.152.55|8089|China|Zhoutou|China Telecom|
-|18|103.67.47.255|8080|Indonesia|Kampungjawa|PT JARINGANKU SARANA NUSANTARA|
-|19|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.20|1403|Canada|Montreal|GloboTech Communications|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|6|36.70.36.58|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
+|7|103.167.170.6|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|13|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|185.89.156.2|44224|Albania|Fier|ATU|
 
 
 
