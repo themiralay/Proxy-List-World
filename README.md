@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |18|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
