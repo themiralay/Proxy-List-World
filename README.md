@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|635|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|635|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|635|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|203.128.77.213|33378|Indonesia|Jakarta|Neuviz|
-|4|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
-|5|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|2|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
 |6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|19|45.233.169.40|9994|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|20|34.102.138.130|80|United States|Kansas City|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|193.181.35.148|8118|Sweden|Stockholm|PVDataNet AB|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.79.62.116|8080|Brazil|São Paulo|Vivo|
+|17|124.158.153.218|8180|Indonesia|Keputih|PT iForte Global Internet|
+|18|154.73.29.1|8080|Libya|Tripoli|Rawafed|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
 
 
 
