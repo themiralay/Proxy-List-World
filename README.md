@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6540** proxies at the latest update. Usable proxies are below.
+> Scraper found **6571** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4759|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|202.169.229.139|53281|Indonesia|Sleman|IP JMN Soho|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|67.43.228.253|31501|Canada|Montreal|GloboTech Communications|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|67.43.227.227|11879|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|36.93.140.71|8080|Indonesia|Bandung|Telekomunikasi Indonesia|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|124.122.1.123|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|20|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
 
 
 
