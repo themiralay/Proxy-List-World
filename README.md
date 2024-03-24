@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|2.58.56.39|80|France|Bavilliers|Sapinet|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |12|208.196.136.141|3128|United States|New York|Verizon Business|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|17|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|18|38.156.233.74|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 |20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
