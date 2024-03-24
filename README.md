@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|4|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|125.26.143.17|8080|Thailand|Bang Khen|TOT Public Company Limited|
+|4|125.20.72.28|3129|India|Chandigarh|BHARTI|
+|5|111.95.41.44|8080|Indonesia|Cideng|Linknet-Fastnet ASN|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|139.255.33.242|3128|Indonesia|Tangerang|PT. LINKNET|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|12|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|13|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|20|161.49.91.13|1337|Philippines|Makati City|Converge ICT Solution Inc|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|103.186.91.241|9000|Indonesia|Jepara|PT Akses Data Internusa|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
