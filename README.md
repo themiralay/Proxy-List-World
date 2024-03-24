@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|8|47.184.130.211|3128|United States|Garland|Frontier Communications Solutions|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|45.58.42.168|3128|United States|Clifton|Atlantic.net|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|45.141.149.119|3128|Türkiye|Istanbul|Taynet Bilisim Yazilim Insaat Sanayi VE Ticaret Limited Sirketi|
+|2|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|47.184.130.211|3128|United States|Garland|Frontier Communications Solutions|
+|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|45.58.42.168|3128|United States|Clifton|Atlantic.net|
+|10|2.58.56.39|80|France|Bavilliers|Sapinet|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|45.141.149.119|3128|Türkiye|Istanbul|Taynet Bilisim Yazilim Insaat Sanayi VE Ticaret Limited Sirketi|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
 |18|47.184.130.211|3128|United States|Garland|Frontier Communications Solutions|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|45.58.42.168|3128|United States|Clifton|Atlantic.net|
+|20|36.93.68.47|41890|Indonesia|Bali Mester|Telekomunikasi Indonesia|
 
 
 
