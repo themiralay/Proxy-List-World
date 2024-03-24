@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|212|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|72.10.160.171|9785|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|9173|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|30403|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.236.21|5133|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|10801|Canada|Montreal|GloboTech Communications|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.160.171|9785|Canada|Montreal|GloboTech Communications|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|67.43.236.20|30403|Canada|Montreal|GloboTech Communications|
 
 
 
