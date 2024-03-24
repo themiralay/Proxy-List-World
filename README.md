@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7563** proxies at the latest update. Usable proxies are below.
+> Scraper found **7492** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1032|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|961|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5171|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|9|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|10|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|111.225.152.33|8089|China|Zhoutou|China Telecom|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|8|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|181.204.0.36|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|11|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
+|12|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|123.182.59.166|8089|China|Zhangjiakou|China Telecom|
+|14|72.10.160.90|2195|Canada|Montreal|GloboTech Communications|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|67.43.236.18|3715|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|25423|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
