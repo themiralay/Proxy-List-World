@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|3|2.58.56.39|80|France|Bavilliers|Sapinet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|2.58.56.39|80|France|Bavilliers|Sapinet|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|188.132.222.43|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
 |15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|18|2.58.56.39|80|France|Bavilliers|Sapinet|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|67.43.228.251|8103|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|2.58.56.39|80|France|Bavilliers|Sapinet|
 
 
 
