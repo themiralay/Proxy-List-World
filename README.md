@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7492** proxies at the latest update. Usable proxies are below.
+> Scraper found **7493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|961|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|8|149.28.181.17|80|Australia|Sydney|The Constant Company|
-|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|10|181.204.0.36|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|11|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
-|12|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|123.182.59.166|8089|China|Zhangjiakou|China Telecom|
-|14|72.10.160.90|2195|Canada|Montreal|GloboTech Communications|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|67.43.236.18|3715|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|25423|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|12|72.10.160.93|25423|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|12855|Canada|Montreal|GloboTech Communications|
+|14|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|103.234.159.5|8080|India|Mumbai|MWPL|
+|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|72.10.160.171|14093|Canada|Montreal|GloboTech Communications|
+|18|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|19|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
