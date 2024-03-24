@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|262|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|10|67.43.236.20|1593|Canada|Montreal|GloboTech Communications|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|67.43.228.253|10601|Canada|Montreal|GloboTech Communications|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|103.157.135.199|443|Bangladesh|Jessore|Bangladesh Research and Education Network (BdREN)|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.227.228|11049|Canada|Montreal|GloboTech Communications|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|12|67.43.236.20|27805|Canada|Montreal|GloboTech Communications|
+|13|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|67.43.227.228|16923|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
