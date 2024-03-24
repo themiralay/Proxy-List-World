@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|139.135.139.246|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|103.172.42.125|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|45.143.220.4|8118|The Netherlands|Amsterdam|BestDC Limited|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
+|16|213.252.245.221|8556|Lithuania|Šiauliai|BACLOUD-BITE|
+|17|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
