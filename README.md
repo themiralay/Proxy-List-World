@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|19|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
