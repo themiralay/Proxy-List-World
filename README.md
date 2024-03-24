@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|2.58.56.39|80|France|Bavilliers|Sapinet|
-|8|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|7|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|2.58.56.39|80|France|Bavilliers|Sapinet|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|17|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|18|67.43.227.227|26907|Canada|Montreal|GloboTech Communications|
-|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|20|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|17|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|19|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|67.43.227.227|9139|Canada|Montreal|GloboTech Communications|
 
 
 
