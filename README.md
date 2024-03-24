@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
 |5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
 |11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|17|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|19|181.48.160.114|9090|Colombia|Medellín|Telmex Colombia S.A.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
 |20|72.10.160.174|21753|Canada|Montreal|GloboTech Communications|
 
 
