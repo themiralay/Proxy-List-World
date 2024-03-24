@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6769** proxies at the latest update. Usable proxies are below.
+> Scraper found **6770** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|295|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4901|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|14|103.38.104.216|8080|Indonesia|Wonosobo|PT Tunas Media Data|
-|15|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|16|138.43.98.203|82|United States|Allen|iboss, inc|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|67.43.227.227|8281|Canada|Montreal|GloboTech Communications|
+|17|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|5895|Canada|Montreal|GloboTech Communications|
 
 
 
