@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|622|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|622|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|622|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|4|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|177.93.16.66|8080|Costa Rica|Cartago|Telecable Economico S.A|
-|6|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|7|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|8|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|9|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|1|103.162.54.119|8080|Indonesia|Majalengka|PT Pratama Asia Globalindo|
+|2|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|3|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|4|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|5|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|34.42.119.48|8080|United States|Council Bluffs|Google LLC|
-|13|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
-|14|177.93.45.156|999|Colombia|Barbosa|TV AZTECA SUCURSAL COLOMBIA|
-|15|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|188.68.176.2|8080|Russia|Yaroslavl|Yarnet Ltd.|
-|18|113.161.93.29|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|49.76.17.168|8089|China|Nanjing|Chinanet|
+|18|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|19|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|20|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
