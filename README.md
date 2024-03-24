@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|46.188.25.233|8080|Russia|Moscow|2COM|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|72.10.160.92|7771|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14123|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|2383|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|30139|Canada|Montreal|GloboTech Communications|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|72.10.160.173|19203|Canada|Montreal|GloboTech Communications|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|4|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|11|67.43.228.253|26293|Canada|Montreal|GloboTech Communications|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|67.43.227.227|16677|Canada|Montreal|GloboTech Communications|
+|15|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|16|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|18|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
