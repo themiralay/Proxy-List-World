@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|19|122.10.101.13|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
