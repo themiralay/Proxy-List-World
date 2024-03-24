@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|4|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|5|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|6|165.16.60.235|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|46.188.25.233|8080|Russia|Moscow|2COM|
-|14|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|15|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|167.235.177.27|82|Germany|Bühl|Hetzner Online GmbH|
-|19|177.93.16.66|8080|Costa Rica|Cartago|Telecable Economico S.A|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|134.122.183.138|3128|Hong Kong|Chai Wan|Rackip Consultancy Pte. LTD|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|8|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|9|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|62.3.6.84|3128|Japan|Shinagawa|WebHorizon Internet Services|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|103.67.47.255|8080|Indonesia|Kampungjawa|PT JARINGANKU SARANA NUSANTARA|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|154.212.7.247|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
