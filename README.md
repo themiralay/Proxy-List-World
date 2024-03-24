@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.151.117.130|999|Mexico|Nogales|UNINET|
-|5|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|6|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|9|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|10|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.32.115.75|8088|Singapore|Singapore|The Constant Company|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|103.195.16.2|8080|India|Alwar|Alwar Online Pvt. Ltd|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
