@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|2.58.56.39|80|France|Bavilliers|Sapinet|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|2.58.56.39|80|France|Bavilliers|Sapinet|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|67.43.227.227|12799|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
