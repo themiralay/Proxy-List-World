@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|13|158.179.213.254|3128|Spain|Madrid|Oracle Corporation|
-|14|46.188.25.233|8080|Russia|Moscow|2COM|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|198.57.27.33|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
-|17|72.10.164.178|8467|Canada|Montreal|GloboTech Communications|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|18|46.188.25.233|8080|Russia|Moscow|2COM|
+|19|72.10.164.178|2325|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
