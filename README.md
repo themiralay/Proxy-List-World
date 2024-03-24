@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|94.237.75.13|3128|Singapore|Singapore|UpCloud Ltd|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|67.43.227.227|5679|Canada|Montreal|GloboTech Communications|
+|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.20|4841|Canada|Montreal|GloboTech Communications|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
