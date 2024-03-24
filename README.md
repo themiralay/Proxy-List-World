@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|160.251.19.23|3128|Japan|Hiyoshi|GMO Internet Group, Inc.|
+|5|168.138.143.121|3128|Brazil|São Paulo|Oracle Corporation|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|103.18.205.246|8080|Australia|Melbourne|MD SHOHEL RANA|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|145.255.30.241|8088|Russia|Ufa|JSC "Ufanet"|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|12|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|13|38.7.20.137|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|38.159.50.201|8080|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|103.180.198.162|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|17|85.133.199.227|80|Iran|Shīrvān|Parsian Technology Innovative Solution Co., PJS.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|103.101.231.51|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
