@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|72.10.160.91|5951|Canada|Montreal|GloboTech Communications|
-|10|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|111.225.152.204|8089|China|Zhoutou|China Telecom|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|111.225.153.21|8089|China|Zhoutou|China Telecom|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|67.43.228.253|23019|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.12|8089|China|Zhangjiakou|China Telecom|
-|19|67.43.236.20|2109|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.160.91|5951|Canada|Montreal|GloboTech Communications|
+|13|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|67.43.227.227|12219|Canada|Montreal|GloboTech Communications|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|111.225.153.168|8089|China|Zhoutou|China Telecom|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|72.10.160.90|15207|Canada|Montreal|GloboTech Communications|
 
 
 
