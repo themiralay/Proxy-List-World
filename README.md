@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|13|103.156.75.42|8080|Indonesia|Singaraja|PT Trika Global Media|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|2.58.56.39|80|France|Bavilliers|Sapinet|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|203.161.30.10|8765|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|2.58.56.39|80|France|Bavilliers|Sapinet|
-|19|2.58.56.39|80|France|Bavilliers|Sapinet|
-|20|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|17|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|20|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
 
 
 
