@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|11|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|189.6.22.158|80|Brazil|Valparaiso de Goias|Claro NXT Telecomunicacoes Ltda|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|72.10.164.178|20867|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
