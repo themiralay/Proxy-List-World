@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|103.132.52.210|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.164.178|25773|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25773|Canada|Montreal|GloboTech Communications|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.90|23831|Canada|Montreal|GloboTech Communications|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|34.102.138.130|80|United States|Kansas City|Google LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|2.58.56.39|80|France|Bavilliers|Sapinet|
+|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
