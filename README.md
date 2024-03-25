@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6815** proxies at the latest update. Usable proxies are below.
+> Scraper found **6817** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|208|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|6|72.10.164.178|18625|Canada|Montreal|GloboTech Communications|
-|7|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|8|111.225.153.230|8089|China|Zhoutou|China Telecom|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|111.225.153.250|8089|China|Zhoutou|China Telecom|
-|11|111.225.153.24|8089|China|Zhoutou|China Telecom|
-|12|222.70.81.82|9000|China|Shanghai|China Telecom (Group)|
-|13|67.43.228.253|19833|Canada|Montreal|GloboTech Communications|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|198.57.27.37|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
+|8|72.10.164.178|14025|Canada|Montreal|GloboTech Communications|
+|9|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|10|111.225.153.32|8089|China|Zhoutou|China Telecom|
+|11|111.225.153.250|8089|China|Zhoutou|China Telecom|
+|12|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|13|72.10.164.178|14025|Canada|Montreal|GloboTech Communications|
 |14|111.225.152.169|8089|China|Zhoutou|China Telecom|
-|15|67.43.236.20|6441|Canada|Montreal|GloboTech Communications|
-|16|115.77.56.214|4006|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|111.225.152.31|8089|China|Zhoutou|China Telecom|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|18|67.43.228.253|4939|Canada|Montreal|GloboTech Communications|
+|19|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
