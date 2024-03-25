@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|27.76.238.150|4006|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|116.103.76.91|4006|Vietnam|Huế|Viettel Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|11|123.21.198.230|4006|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|67.43.227.226|18223|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|24361|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|36.6.145.9|8089|China|Guangzhou|Chinanet|
-|17|67.43.227.227|24361|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|72.10.160.90|1061|Canada|Montreal|GloboTech Communications|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|27.76.238.150|4006|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|171.250.86.212|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|115.76.116.12|4006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|67.43.227.227|24361|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|18223|Canada|Montreal|GloboTech Communications|
+|15|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
+|16|72.10.164.178|17279|Canada|Montreal|GloboTech Communications|
+|17|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.160.90|1061|Canada|Montreal|GloboTech Communications|
+|20|8.242.85.6|999|Colombia|Bogotá|Level 3 Communications, Inc.|
 
 
 
