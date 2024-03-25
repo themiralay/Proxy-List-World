@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|2.58.56.39|80|France|Bavilliers|Sapinet|
-|8|201.246.240.225|999|Chile|Iquique|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|103.146.184.220|1111|Indonesia|Sragen|YAMNET|
-|12|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|42.118.10.200|4018|Vietnam|Hanoi|FPT Telecom Company|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|223.204.11.34|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|18|72.10.160.90|29951|Canada|Montreal|GloboTech Communications|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|5|2.58.56.39|80|France|Bavilliers|Sapinet|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|11|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|201.246.240.225|999|Chile|Iquique|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|13|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|14|38.10.90.246|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|19|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
 
 
 
