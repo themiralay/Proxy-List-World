@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|111.225.152.118|8089|China|Zhoutou|China Telecom|
-|17|67.43.236.20|24203|Canada|Montreal|GloboTech Communications|
-|18|111.225.153.79|8089|China|Zhoutou|China Telecom|
-|19|72.10.164.178|2751|Canada|Montreal|GloboTech Communications|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|101.128.94.154|8085|Indonesia|Jakarta|CBN|
+|12|72.10.164.178|2751|Canada|Montreal|GloboTech Communications|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|15|111.225.153.79|8089|China|Zhoutou|China Telecom|
+|16|72.10.164.178|2751|Canada|Montreal|GloboTech Communications|
+|17|14.103.26.198|8000|China|Beijing|BITNET|
+|18|72.10.164.178|2751|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|11217|Canada|Montreal|GloboTech Communications|
+|20|222.174.178.122|4999|China|Xintai|Chinanet|
 
 
 
