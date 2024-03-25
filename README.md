@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|596|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|596|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|596|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|2.58.56.39|80|France|Bavilliers|Sapinet|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|121.200.48.58|8080|India|Coimbatore|WLSNET|
-|7|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|9|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|2.58.56.39|80|France|Bavilliers|Sapinet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.173.192.129|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|8|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|13|188.125.169.8|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|17|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|16|103.179.253.202|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|112.198.194.16|8383|Philippines|Lahug|Globe Telecom|
-|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 
 
 
