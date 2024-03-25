@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|149.28.181.17|80|Australia|Sydney|The Constant Company|
-|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|67.43.227.227|14565|Canada|Montreal|GloboTech Communications|
-|13|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|2.58.56.39|80|France|Bavilliers|Sapinet|
-|15|46.188.25.233|8080|Russia|Moscow|2COM|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|18|72.10.160.90|25627|Canada|Montreal|GloboTech Communications|
-|19|49.76.17.185|8089|China|Nanjing|Chinanet|
-|20|72.10.160.90|25627|Canada|Montreal|GloboTech Communications|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|10|67.43.227.227|30027|Canada|Montreal|GloboTech Communications|
+|11|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|49.76.17.185|8089|China|Nanjing|Chinanet|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|26571|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|26571|Canada|Montreal|GloboTech Communications|
+|19|117.69.236.169|8089|China|Rongcheng|Chinanet|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
