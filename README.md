@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|103.101.231.51|8080|Indonesia|Jakarta|Biznet Networks|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|72.10.160.170|24765|Canada|Montreal|GloboTech Communications|
-|19|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|67.43.236.20|29783|Canada|Montreal|GloboTech Communications|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|12|35.203.120.169|80|Canada|Montreal|Google LLC|
+|13|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
+|14|103.105.76.49|8080|Indonesia|Surabaya|GARUDA|
+|15|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|116.96.109.27|1002|Vietnam|Hanoi|Viettel Corporation|
+|19|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
