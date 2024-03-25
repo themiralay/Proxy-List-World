@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|767|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|193.108.118.37|3128|Germany|Frankfurt|GTHost|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|15|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|2.58.56.39|80|France|Bavilliers|Sapinet|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
