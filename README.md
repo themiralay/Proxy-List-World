@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|596|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|2.58.56.39|80|France|Bavilliers|Sapinet|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|138.43.98.203|82|United States|Allen|iboss, inc|
-|17|67.217.61.162|80|United States|Teterboro|Interserver, Inc|
-|18|103.156.74.186|8080|Indonesia|Pecatu|PT Trika Global Media|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|158.247.237.223|7801|South Korea|Seoul|The Constant Company, LLC|
+|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|138.43.98.203|82|United States|Allen|iboss, inc|
 
 
 
