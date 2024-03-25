@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|34.102.138.130|80|United States|Kansas City|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|103.143.231.11|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|13|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|2.58.56.39|80|France|Bavilliers|Sapinet|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|67.43.236.20|7693|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14739|Canada|Montreal|GloboTech Communications|
-|20|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|2.58.56.39|80|France|Bavilliers|Sapinet|
+|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|13|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|14|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
