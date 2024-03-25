@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|5|67.43.228.251|9843|Canada|Montreal|GloboTech Communications|
-|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|111.225.152.119|8089|China|Zhoutou|China Telecom|
-|8|67.43.228.250|18681|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|30027|Canada|Montreal|GloboTech Communications|
-|10|123.182.59.193|8089|China|Zhangjiakou|China Telecom|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|190.110.97.172|999|Chile|Vilcun|Silica Networks Argentina S.A.|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|67.43.227.228|13619|Canada|Montreal|GloboTech Communications|
-|15|111.225.153.149|8089|China|Zhoutou|China Telecom|
-|16|67.43.236.20|24105|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|25627|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|111.225.153.93|8089|China|Zhoutou|China Telecom|
-|20|67.43.227.227|30027|Canada|Montreal|GloboTech Communications|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|2.58.56.39|80|France|Bavilliers|Sapinet|
+|7|3.134.244.186|3128|United States|Dublin|Amazon.com, Inc.|
+|8|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|12|3.134.244.186|3128|United States|Dublin|Amazon.com, Inc.|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|115.89.203.59|80|South Korea|Yongsan-dong|NHNCLOUD|
+|15|67.43.236.20|27337|Canada|Montreal|GloboTech Communications|
+|16|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|17|72.10.160.90|10825|Canada|Montreal|GloboTech Communications|
+|18|190.110.97.172|999|Chile|Vilcun|Silica Networks Argentina S.A.|
+|19|72.10.164.178|26555|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
