@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
-|14|72.10.160.90|2555|Canada|Montreal|GloboTech Communications|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|111.225.152.83|8089|China|Zhoutou|China Telecom|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|72.10.160.90|2555|Canada|Montreal|GloboTech Communications|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
-|20|72.10.160.90|2555|Canada|Montreal|GloboTech Communications|
+|18|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|19|72.10.160.90|2555|Canada|Montreal|GloboTech Communications|
+|20|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
 
 
 
