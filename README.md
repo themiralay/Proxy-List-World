@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1016|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|665|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|2.58.56.39|80|France|Bavilliers|Sapinet|
-|5|113.173.192.129|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|10|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|10|218.153.133.202|8080|South Korea|Anyang-si|Korea Telecom|
+|11|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
 |14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|15|202.12.80.14|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
 |16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |17|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|19|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
+|19|183.89.43.135|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
