@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|238|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|59.15.28.114|3939|South Korea|Yangcheon-gu|Korea Telecom|
-|7|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|31623|Canada|Montreal|GloboTech Communications|
-|11|111.225.152.80|8089|China|Zhoutou|China Telecom|
-|12|123.182.59.161|8089|China|Zhangjiakou|China Telecom|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|7|123.182.59.161|8089|China|Zhangjiakou|China Telecom|
+|8|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|9|67.43.227.227|3845|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|103.254.107.18|3125|Indonesia|Nabangbaru|PT Giga Patra Multimedia|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |13|123.182.59.9|8089|China|Zhangjiakou|China Telecom|
-|14|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|15|67.43.227.227|4317|Canada|Montreal|GloboTech Communications|
-|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|17|67.43.236.20|30181|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4317|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.84|8089|China|Zhoutou|China Telecom|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|14|67.43.227.228|12059|Canada|Montreal|GloboTech Communications|
+|15|123.182.59.19|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.228.251|14209|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|6387|Canada|Montreal|GloboTech Communications|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|67.43.227.228|12059|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|24785|Canada|Montreal|GloboTech Communications|
 
 
 
