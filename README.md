@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|46.186.100.29|80|Poland|Tarnów|Multimedia Polska Sp. z o.o.|
-|7|51.191.176.177|8888|United Kingdom|Aylesbury|Sky UK Limited|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|67.43.227.228|5453|Canada|Montreal|GloboTech Communications|
-|10|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|123.182.59.160|8089|China|Zhangjiakou|China Telecom|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|67.43.227.228|5453|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3017|Canada|Montreal|GloboTech Communications|
-|16|123.182.59.229|8089|China|Zhangjiakou|China Telecom|
-|17|72.10.160.90|26717|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26903|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|72.10.164.178|26903|Canada|Montreal|GloboTech Communications|
+|6|43.251.213.62|83|India|Dharamsala|World Phone Infrastructure services private ltd|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|67.43.227.228|5453|Canada|Montreal|GloboTech Communications|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|72.10.160.93|11395|Canada|Montreal|GloboTech Communications|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|72.10.164.178|26903|Canada|Montreal|GloboTech Communications|
+|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|15|111.225.153.92|8089|China|Zhoutou|China Telecom|
+|16|45.114.145.135|8080|India|Jaipur|Tejays Dynamic Limited|
+|17|72.10.160.170|3069|Canada|Montreal|GloboTech Communications|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|72.10.160.90|33013|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
 
 
 
