@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|6|85.215.50.161|80|Germany|Berlin|IONOS SE|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|9|67.43.227.227|29395|Canada|Montreal|GloboTech Communications|
+|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
 |10|2.58.56.39|80|France|Bavilliers|Sapinet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|13|67.43.236.20|17769|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3481|Canada|Montreal|GloboTech Communications|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|72.10.160.90|5057|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|72.10.160.174|15269|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|1213|Canada|Montreal|GloboTech Communications|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|82.146.45.136|3128|Russia|Moscow|JSC IOT|
+|14|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
+|15|72.10.160.170|3481|Canada|Montreal|GloboTech Communications|
+|16|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|67.43.236.20|17769|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|5057|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|10891|Canada|Montreal|GloboTech Communications|
 
 
 
