@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
-|3|183.89.43.135|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|8|103.115.31.181|8080|Indonesia|Depok|HSPNET|
-|9|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|10|103.154.230.109|5678|Indonesia|Lamongan|DIGITNET|
-|11|45.191.75.171|999|Colombia|Guachene|Global Raices|
-|12|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|13|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|17|2.58.56.39|80|France|Bavilliers|Sapinet|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|20|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|2.58.56.39|80|France|Bavilliers|Sapinet|
+|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|124.104.137.102|9000|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|45.177.176.129|999|Mexico|La Canada|Jorge Luis Torres Fernandez|
+|18|45.58.42.168|3128|United States|Clifton|Atlantic.net|
+|19|119.39.68.44|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
 
 
 
