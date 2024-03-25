@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|2.58.56.39|80|France|Bavilliers|Sapinet|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|67.43.228.253|6387|Canada|Montreal|GloboTech Communications|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|198.57.27.37|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
 |20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
