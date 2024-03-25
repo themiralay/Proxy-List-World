@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|67.43.236.20|24845|Canada|Montreal|GloboTech Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|72.10.164.178|9113|Canada|Montreal|GloboTech Communications|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|9|67.43.227.228|1613|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|72.10.160.170|28043|Canada|Montreal|GloboTech Communications|
-|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|72.10.160.90|2919|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|23067|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|24785|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|1613|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.236.20|24845|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|23067|Canada|Montreal|GloboTech Communications|
+|1|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|2|79.106.170.34|8989|Albania|Lushnje|ONE ALBANIA SH.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|67.43.236.20|24845|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|16915|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|72.10.164.178|16915|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|183.164.242.47|8089|China|Rongcheng|Chinanet|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|16915|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|7203|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|2919|Canada|Montreal|GloboTech Communications|
+|19|36.6.145.70|8089|China|Guangzhou|Chinanet|
+|20|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
