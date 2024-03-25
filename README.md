@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|68.183.106.99|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|2.58.56.39|80|France|Bavilliers|Sapinet|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|103.188.168.66|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.158.202.8|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|14|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
