@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|776|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|509|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |10|138.43.98.203|82|United States|Allen|iboss, inc|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|19|2.58.56.39|80|France|Bavilliers|Sapinet|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 
 
 
