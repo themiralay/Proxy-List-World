@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
 |6|162.43.4.116|3128|Japan|Hiyoshi|XSERVER Inc.|
-|7|2.58.56.39|80|France|Bavilliers|Sapinet|
-|8|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|72.10.164.178|8895|Canada|Montreal|GloboTech Communications|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|72.10.160.90|4653|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|8895|Canada|Montreal|GloboTech Communications|
-|14|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|67.43.236.21|8863|Canada|Montreal|GloboTech Communications|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|67.43.227.227|30027|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|30027|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|116.105.71.247|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|123.182.58.237|8089|China|Zhangjiakou|China Telecom|
+|10|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|21781|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|7157|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|3.134.244.186|3128|United States|Dublin|Amazon.com, Inc.|
+|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|67.43.236.20|5993|Canada|Montreal|GloboTech Communications|
 
 
 
