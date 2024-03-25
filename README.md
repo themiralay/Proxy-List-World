@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|2.58.56.39|80|France|Bavilliers|Sapinet|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
 |12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|18|138.43.98.203|82|United States|Allen|iboss, inc|
-|19|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
-|20|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|17|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|18|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|20|138.43.98.203|82|United States|Allen|iboss, inc|
 
 
 
