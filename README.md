@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|42.118.10.200|4002|Vietnam|Hanoi|FPT Telecom Company|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|42.118.10.200|4002|Vietnam|Hanoi|FPT Telecom Company|
-|12|42.118.10.200|4002|Vietnam|Hanoi|FPT Telecom Company|
-|13|111.225.152.183|8089|China|Zhoutou|China Telecom|
-|14|42.118.10.200|4002|Vietnam|Hanoi|FPT Telecom Company|
-|15|72.10.160.170|21657|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18875|Canada|Montreal|GloboTech Communications|
-|17|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|18|72.10.164.178|18875|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23209|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|21499|Canada|Montreal|GloboTech Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|67.43.227.227|23209|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|31505|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|21499|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31505|Canada|Montreal|GloboTech Communications|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|72.10.164.178|31505|Canada|Montreal|GloboTech Communications|
+|19|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|20|111.225.152.183|8089|China|Zhoutou|China Telecom|
 
 
 
