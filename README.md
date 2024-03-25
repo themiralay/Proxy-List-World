@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6800** proxies at the latest update. Usable proxies are below.
+> Scraper found **6764** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5036|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|9|72.10.160.170|13993|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|7963|Canada|Montreal|GloboTech Communications|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|121.36.129.228|3128|China|Xiaolou|Huawei Cloud Service data center|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|72.10.164.178|12091|Canada|Montreal|GloboTech Communications|
+|5|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|6|103.152.232.190|3125|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|67.43.227.228|24605|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|5395|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|27987|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|3987|Canada|Montreal|GloboTech Communications|
+|12|111.225.153.48|8089|China|Zhoutou|China Telecom|
+|13|72.10.160.170|19543|Canada|Montreal|GloboTech Communications|
 |14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|15|111.225.153.247|8089|China|Zhoutou|China Telecom|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
-|19|67.43.228.250|22595|Canada|Montreal|GloboTech Communications|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|111.225.152.103|8089|China|Zhoutou|China Telecom|
+|17|72.10.160.90|27987|Canada|Montreal|GloboTech Communications|
+|18|183.164.242.247|8089|China|Rongcheng|Chinanet|
+|19|72.10.164.178|12091|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|12091|Canada|Montreal|GloboTech Communications|
 
 
 
