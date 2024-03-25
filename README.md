@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|2|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|2.58.56.39|80|France|Bavilliers|Sapinet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|46.209.217.108|8088|Iran|Tehran|RSPN|
-|16|103.163.13.159|8090|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|19|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|20|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|18|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|19|67.43.236.20|23565|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|23565|Canada|Montreal|GloboTech Communications|
 
 
 
