@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|103.68.194.80|3129|United States|Los Angeles|Zenlayer Inc|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|72.10.164.178|22369|Canada|Montreal|GloboTech Communications|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|17|117.57.93.251|8089|China|Rongcheng|Chinanet|
-|18|72.10.160.91|15549|Canada|Montreal|GloboTech Communications|
-|19|103.172.70.138|9191|Indonesia|Gemolong|AZNET|
-|20|67.43.227.230|17541|Canada|Montreal|GloboTech Communications|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|18|72.10.164.178|6413|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
