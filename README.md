@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|2.58.56.39|80|France|Bavilliers|Sapinet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|7|34.95.243.122|8081|Brazil|Sao Paulo|Google LLC|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
 |11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|19|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
