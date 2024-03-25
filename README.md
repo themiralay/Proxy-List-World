@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.245.241.70|4006|Vietnam|Da Nang|VNPT|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|10|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|11|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
-|12|171.250.86.212|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|72.10.164.178|28033|Canada|Montreal|GloboTech Communications|
-|15|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|16|116.97.36.190|4006|Vietnam|Hanoi|Viettel Corporation|
-|17|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|15885|Canada|Montreal|GloboTech Communications|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|67.43.228.251|28285|Canada|Montreal|GloboTech Communications|
+|2|171.250.86.212|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|72.10.164.178|14821|Canada|Montreal|GloboTech Communications|
+|13|116.97.36.190|4006|Vietnam|Hanoi|Viettel Corporation|
+|14|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
+|15|67.43.236.20|10755|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|123.182.59.204|8089|China|Zhangjiakou|China Telecom|
+|19|123.182.58.49|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.236.20|10755|Canada|Montreal|GloboTech Communications|
 
 
 
