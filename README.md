@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|457|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|2.58.56.39|80|France|Bavilliers|Sapinet|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|2.58.56.39|80|France|Bavilliers|Sapinet|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|72.10.160.171|9491|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|46.188.25.233|8080|Russia|Moscow|2COM|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|72.10.160.171|9491|Canada|Montreal|GloboTech Communications|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|18|67.43.228.253|5123|Canada|Montreal|GloboTech Communications|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|67.43.227.227|13225|Canada|Montreal|GloboTech Communications|
 
 
 
