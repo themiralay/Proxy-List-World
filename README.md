@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|47.236.96.233|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.236.20|2673|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|22751|Canada|Montreal|GloboTech Communications|
-|13|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|15|111.225.153.53|8089|China|Zhoutou|China Telecom|
-|16|111.225.153.85|8089|China|Zhoutou|China Telecom|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|67.43.236.20|2673|Canada|Montreal|GloboTech Communications|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|13|111.225.152.151|8089|China|Zhoutou|China Telecom|
+|14|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|15|67.43.236.20|2673|Canada|Montreal|GloboTech Communications|
+|16|111.225.152.214|8089|China|Zhoutou|China Telecom|
+|17|111.225.153.53|8089|China|Zhoutou|China Telecom|
+|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|19|222.74.73.202|42055|China|Bieligutai|Chinanet|
+|20|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
