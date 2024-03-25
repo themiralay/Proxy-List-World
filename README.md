@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|2.58.56.39|80|France|Bavilliers|Sapinet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
 |9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|10|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
 |11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|167.160.91.253|3128|United States|Los Angeles|Dedicated.com|
-|16|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|18|2.58.56.39|80|France|Bavilliers|Sapinet|
-|19|67.43.228.253|8747|Canada|Montreal|GloboTech Communications|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
