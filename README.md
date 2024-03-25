@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.160.90|19027|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|15763|Canada|Montreal|GloboTech Communications|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|67.43.236.20|2887|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|2887|Canada|Montreal|GloboTech Communications|
-|12|123.182.59.7|8089|China|Zhangjiakou|China Telecom|
-|13|72.10.160.170|6889|Canada|Montreal|GloboTech Communications|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
 |14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|15763|Canada|Montreal|GloboTech Communications|
-|18|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|72.10.164.178|5745|Canada|Montreal|GloboTech Communications|
+|16|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|95.216.165.50|8118|Finland|Helsinki|Hetzner Online GmbH|
+|19|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|20|72.10.164.178|5745|Canada|Montreal|GloboTech Communications|
 
 
 
