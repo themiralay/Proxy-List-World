@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.191.176.177|8888|United Kingdom|Aylesbury|Sky UK Limited|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|193.30.12.98|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
-|6|128.199.187.208|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|111.225.153.41|8089|China|Zhoutou|China Telecom|
-|9|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|11|67.43.228.251|18507|Canada|Montreal|GloboTech Communications|
-|12|111.225.152.162|8089|China|Zhoutou|China Telecom|
-|13|183.164.243.240|8089|China|Rongcheng|Chinanet|
-|14|111.225.152.5|8089|China|Zhoutou|China Telecom|
-|15|67.43.227.227|1431|Canada|Montreal|GloboTech Communications|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 |18|123.182.59.81|8089|China|Zhangjiakou|China Telecom|
-|19|45.11.95.165|5045|Russia|Moscow|Delta Ltd|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
