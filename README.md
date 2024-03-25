@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6955** proxies at the latest update. Usable proxies are below.
+> Scraper found **6921** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|709|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|249|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5036|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|67.43.236.20|30939|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |8|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|123.182.59.109|8089|China|Zhangjiakou|China Telecom|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|18|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|9|111.225.152.2|8089|China|Zhoutou|China Telecom|
+|10|123.182.58.214|8089|China|Zhangjiakou|China Telecom|
+|11|72.10.164.178|9369|Canada|Montreal|GloboTech Communications|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|123.182.59.155|8089|China|Zhangjiakou|China Telecom|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.236.20|30939|Canada|Montreal|GloboTech Communications|
+|16|111.225.153.96|8089|China|Zhoutou|China Telecom|
+|17|67.43.227.230|1923|Canada|Montreal|GloboTech Communications|
+|18|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|67.43.236.20|30939|Canada|Montreal|GloboTech Communications|
 
 
 
