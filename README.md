@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|5|2.58.56.39|80|France|Bavilliers|Sapinet|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|8|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|202.40.185.146|8080|Bangladesh|Sāmair|Ranks ITT|
-|12|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|7|2.58.56.39|80|France|Bavilliers|Sapinet|
+|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|9|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|10|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|11|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|101.255.52.163|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
+|14|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
 |15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|19|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|20|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
