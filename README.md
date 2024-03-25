@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|2.58.56.39|80|France|Bavilliers|Sapinet|
-|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|45.11.95.165|6024|Russia|Moscow|Delta Ltd|
-|14|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|4|2.58.56.39|80|France|Bavilliers|Sapinet|
+|5|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|49.48.64.130|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|114.231.41.159|8089|China|Nanjing|Chinanet|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
