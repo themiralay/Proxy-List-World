@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7328** proxies at the latest update. Usable proxies are below.
+> Scraper found **7193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|988|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|766|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|452|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4929|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5015|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|175.10.36.114|3128|China|Changsha|Chinanet|
-|10|222.186.135.250|8888|China|Nanjing|Chinanet|
-|11|72.10.164.178|13161|Canada|Montreal|GloboTech Communications|
-|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|15|72.10.164.178|13161|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|21793|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|8687|Canada|Montreal|GloboTech Communications|
-|18|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
-|19|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|20|72.10.160.90|17869|Canada|Montreal|GloboTech Communications|
+|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.74.151.200|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|103.75.96.70|8080|Indonesia|Tangerang|MORATELINDO|
+|7|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|88.255.168.4|8080|Turkey|Cordaleo|Turk Telekomunikasyon Anonim Sirketi|
+|10|185.82.96.50|8092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|34.95.47.240|80|Canada|Montreal|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|171.247.171.162|4013|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|111.225.152.118|8089|China|Zhoutou|China Telecom|
 
 
 
