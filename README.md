@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.54.133.200|3128|Mexico|Querétaro|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|1|38.68.134.189|80|United States|Dallas|GTHost|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|208.196.136.141|3128|United States|New York|Verizon Business|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|2.58.56.39|80|France|Bavilliers|Sapinet|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|121.130.172.153|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|122.144.6.66|3777|Indonesia|Jakarta|Maxindo|
-|17|51.210.108.98|3128|France|Gravelines|OVH SAS|
-|18|2.58.56.39|80|France|Bavilliers|Sapinet|
-|19|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|83.229.73.113|13554|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|6|2.58.56.39|80|France|Bavilliers|Sapinet|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|14|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|15|38.68.134.189|80|United States|Dallas|GTHost|
+|16|14.145.152.120|7890|China|Guangzhou|Chinanet|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|212.58.131.3|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|72.10.164.178|1883|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
