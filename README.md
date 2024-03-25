@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|237|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|2.58.56.39|80|France|Bavilliers|Sapinet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|6|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|43.134.9.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|180.250.173.66|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|129.146.42.46|8080|United States|Phoenix|Oracle Corporation|
+|11|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|43.134.9.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
 |19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
