@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|68.183.122.29|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|132.255.50.126|3128|Brazil|Macapá|R & B Serviços de Telecomunicações Ltda.|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|49.0.34.194|8080|Bangladesh|Sakhipur|Always On Network Bangladesh Ltd.|
+|12|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|62.183.96.194|8080|Russia|Maykop|Southen Telecommunication Maintainer|
 
 
 
