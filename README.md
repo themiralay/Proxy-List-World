@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|6|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|16|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|17|2.58.56.39|80|France|Bavilliers|Sapinet|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|4|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|2.58.56.39|80|France|Bavilliers|Sapinet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|11|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
+|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|20.235.104.105|3729|India|Pune|Microsoft Corporation|
 
 
 
