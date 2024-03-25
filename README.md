@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |5|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|2.58.56.39|80|France|Bavilliers|Sapinet|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|19|72.10.164.178|15285|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|7069|Canada|Montreal|GloboTech Communications|
+|14|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|72.10.164.178|15285|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|32229|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|8197|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8197|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|67.43.227.226|16925|Canada|Montreal|GloboTech Communications|
 
 
 
