@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|183.89.6.126|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|201.54.176.128|8080|Brazil|Ico|Lucas De Souza Silva|
-|7|2.58.56.39|80|France|Bavilliers|Sapinet|
-|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|15|112.78.188.42|8080|Indonesia|Jakarta|Biznet Networks|
-|16|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|17|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|112.198.194.16|8383|Philippines|Lahug|Globe Telecom|
+|7|45.224.20.70|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|9|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|10|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
+|11|2.58.56.39|80|France|Bavilliers|Sapinet|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|15|45.87.154.214|8118|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|18|183.89.43.135|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
+|19|186.125.218.124|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|20|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
 
 
 
