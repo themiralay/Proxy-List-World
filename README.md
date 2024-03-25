@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|10|62.72.31.114|3128|India|Mumbai|Hostinger International Limited|
-|11|67.43.228.252|17121|Canada|Montreal|GloboTech Communications|
-|12|1.203.155.16|3128|China|Beijing|China Networks Inter-Exchange|
-|13|72.10.160.171|18115|Canada|Montreal|GloboTech Communications|
-|14|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|149.28.181.17|80|Australia|Sydney|The Constant Company|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|67.43.227.227|22195|Canada|Montreal|GloboTech Communications|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
+|12|67.43.227.227|22195|Canada|Montreal|GloboTech Communications|
+|13|101.255.62.129|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|88.80.148.254|3128|Bulgaria|Sofia|Belcloud LTD|
+|16|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|17|149.28.166.55|12009|Australia|Sydney|The Constant Company|
+|18|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|72.10.160.90|25755|Canada|Montreal|GloboTech Communications|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
