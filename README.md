@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|2.58.56.39|80|France|Bavilliers|Sapinet|
-|14|198.57.27.33|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|198.57.27.33|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|20|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|72.10.164.178|13341|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|26969|Canada|Montreal|GloboTech Communications|
+|17|2.58.56.39|80|France|Bavilliers|Sapinet|
+|18|72.10.164.178|13341|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|13443|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|4759|Canada|Montreal|GloboTech Communications|
 
 
 
