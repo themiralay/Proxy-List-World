@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|198.57.27.42|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|3|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|4|198.57.27.33|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|8|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|9|198.57.27.37|80|Canada|Toronto|GLOBALTELEHOST Corp.|
-|10|2.58.56.39|80|France|Bavilliers|Sapinet|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|14|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|19|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|2.58.56.39|80|France|Bavilliers|Sapinet|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|18|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
