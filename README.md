@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|72.10.164.178|1319|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|19419|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1319|Canada|Montreal|GloboTech Communications|
-|14|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|15|72.10.164.178|1319|Canada|Montreal|GloboTech Communications|
-|16|103.143.231.11|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|18|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
