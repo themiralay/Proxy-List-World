@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
 |12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|72.10.160.170|11939|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|67.43.228.253|17073|Canada|Montreal|GloboTech Communications|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.227.226|28105|Canada|Montreal|GloboTech Communications|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|72.10.160.170|25675|Canada|Montreal|GloboTech Communications|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|2.58.56.39|80|France|Bavilliers|Sapinet|
+|20|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
 
 
 
