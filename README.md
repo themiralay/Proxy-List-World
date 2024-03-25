@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|879|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|18|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|201.246.240.225|999|Chile|Iquique|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|20|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|9|51.191.176.177|8888|United Kingdom|Aylesbury|Sky UK Limited|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|188.93.237.29|3128|Macao|Macao|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|111.225.152.226|8089|China|Zhoutou|China Telecom|
+|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|19|123.182.59.205|8089|China|Zhangjiakou|China Telecom|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
