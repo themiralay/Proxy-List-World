@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|2|103.167.68.77|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|198.57.27.42|3128|Canada|Toronto|GLOBALTELEHOST Corp.|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|103.178.42.102|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|20|102.220.127.140|8080|South Africa|Cape Town|Mpu Communications (Pty) Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|103.167.68.77|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|178.62.231.165|8118|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|17|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|167.172.62.106|8118|United Kingdom|Slough|DigitalOcean, LLC|
+|19|77.20.43.127|8118|Germany|Hamburg|Vodafone Kabel Deutschland|
+|20|72.10.164.178|27549|Canada|Montreal|GloboTech Communications|
 
 
 
