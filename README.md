@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|2.58.56.39|80|France|Bavilliers|Sapinet|
-|11|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|112.78.188.46|8080|Indonesia|Jakarta|Biznet Networks|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.146.185.141|1111|Indonesia|Sragen|YAMNET|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|115.147.38.172|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|4.180.165.171|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|2.58.56.39|80|France|Bavilliers|Sapinet|
+|9|41.216.183.18|8080|The Netherlands|Amsterdam|Private-Hosting di Cipriano oscar|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|201.246.108.96|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
