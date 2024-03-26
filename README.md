@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|8|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|177.93.50.164|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|103.102.12.153|8404|Indonesia|Jepara|FISNET|
 |12|51.81.182.230|3333|United States|Hillsboro|OVH SAS|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|119.47.90.69|3128|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|114.134.189.15|9999|Hong Kong|Kwai Chung|Dragon Network Int'l Co. Ltd|
-|20|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|13|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|45.12.214.202|3128|The Netherlands|Dronten|Zomro B.V.|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|19|103.18.46.250|443|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
