@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|5|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.166.236.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.227.230|1923|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|111.225.153.48|8089|China|Zhoutou|China Telecom|
-|19|118.145.145.119|3128|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
-|20|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|5|94.156.128.137|4006|Bulgaria|Sofia|Belcloud LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|188.166.236.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|111.225.153.48|8089|China|Zhoutou|China Telecom|
+|12|72.10.160.170|2397|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.230|1923|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.164.178|24547|Canada|Montreal|GloboTech Communications|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|117.57.92.77|8089|China|Rongcheng|Chinanet|
+|19|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|67.43.227.226|11131|Canada|Montreal|GloboTech Communications|
 
 
 
