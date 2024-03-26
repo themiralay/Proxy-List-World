@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|10|72.10.160.170|3849|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|5947|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|5947|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|11607|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|13043|Canada|Montreal|GloboTech Communications|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|111.225.153.241|8089|China|Zhoutou|China Telecom|
-|18|72.10.164.178|5947|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|28555|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11607|Canada|Montreal|GloboTech Communications|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|72.10.160.170|3849|Canada|Montreal|GloboTech Communications|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|72.10.164.178|21845|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|21845|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|32047|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|21845|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|21845|Canada|Montreal|GloboTech Communications|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|36.6.145.240|8089|China|Guangzhou|Chinanet|
 
 
 
