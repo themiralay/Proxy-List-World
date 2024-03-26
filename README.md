@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.160.90|22821|Canada|Montreal|GloboTech Communications|
-|16|1.203.155.16|3128|China|Beijing|China Networks Inter-Exchange|
-|17|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
-|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|19|103.14.225.158|3128|Vietnam|Hanoi|VNB|
-|20|67.43.228.253|6233|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|16|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
+|17|103.199.214.154|8080|India|Varanasi|RailTel Corporation|
+|18|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|19|154.73.29.65|8080|Libya|Tripoli|Rawafed|
+|20|177.93.39.73|999|Colombia|Fresno|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
 
 
 
