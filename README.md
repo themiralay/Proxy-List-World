@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|107.172.0.177|666|United States|Dallas|HostPapa|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|72.10.160.90|3693|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|3707|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|20497|Canada|Montreal|GloboTech Communications|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|38.123.220.16|8080|Mexico|Tlalpujahuilla|Cogent Communications|
+|10|186.125.218.187|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|16|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|20|107.172.0.177|666|United States|Dallas|HostPapa|
 
 
 
