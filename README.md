@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|67.43.227.227|5121|Canada|Montreal|GloboTech Communications|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|14|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
-|15|72.10.164.178|13197|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|27847|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|110.78.215.113|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|72.10.164.178|4955|Canada|Montreal|GloboTech Communications|
+|14|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|72.10.164.178|4955|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|72.10.160.90|19387|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|27847|Canada|Montreal|GloboTech Communications|
 
 
 
