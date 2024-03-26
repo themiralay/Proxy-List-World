@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|67.55.186.25|8080|United States|Columbus Junction|Aureon Network Services|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|186.148.182.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|13|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.164.178|5953|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|9725|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|23289|Canada|Montreal|GloboTech Communications|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|72.10.160.91|28459|Canada|Montreal|GloboTech Communications|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|9|103.83.178.42|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|10|101.128.107.36|1111|Indonesia|Jakarta|CBN|
+|11|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|34.102.138.130|80|United States|Kansas City|Google LLC|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
+|16|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|17|103.46.4.3|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|18|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
