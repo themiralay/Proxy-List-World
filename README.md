@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|746|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|6|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|15|72.10.160.90|6985|Canada|Montreal|GloboTech Communications|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|82.200.80.118|8080|Russia|Barnaul|ZSTTK|
-|18|72.10.160.90|6985|Canada|Montreal|GloboTech Communications|
-|19|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|98.6.197.202|16099|United States|Mission|Spectrum|
+|14|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|20|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
 
 
 
