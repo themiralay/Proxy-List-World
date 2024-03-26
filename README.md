@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1242|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|490|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
-|2|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.169.254.37|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|5|136.54.39.34|8118|United States|Cary|Google Fiber Inc.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|8|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|72.10.164.178|16085|Canada|Montreal|GloboTech Communications|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|43.153.95.89|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.245.204.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|7|72.10.164.178|16085|Canada|Montreal|GloboTech Communications|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|94.154.152.104|8079|Albania|Lushnje|Luva Group Sh.p.k.|
+|11|198.57.27.42|8081|Canada|Toronto|GLOBALTELEHOST Corp.|
 |12|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|19|124.105.24.80|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|94.79.152.14|80|Germany|Giessen|Vodafone|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|20|111.225.152.169|8089|China|Zhoutou|China Telecom|
 
 
 
