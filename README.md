@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.171.31.155|8080|Indonesia|Bekasi|MORATELINDONAP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
-|8|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|111.225.152.160|8089|China|Zhoutou|China Telecom|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.227|32607|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.236.19|29415|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|10|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
