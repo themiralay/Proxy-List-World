@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|5|103.166.227.36|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|91.121.135.25|8911|France|Roubaix|OVH SAS|
-|9|123.182.59.65|8089|China|Zhangjiakou|China Telecom|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|123.182.59.24|8089|China|Zhangjiakou|China Telecom|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|111.225.153.24|8089|China|Zhoutou|China Telecom|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
-|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|18|67.43.236.18|27933|Canada|Montreal|GloboTech Communications|
-|19|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|9|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|10|213.125.215.188|8090|The Netherlands|Venray|Vodafone Libertel B.V.|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|203.171.19.99|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|123.182.59.65|8089|China|Zhangjiakou|China Telecom|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
