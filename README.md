@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|18.136.77.52|80|Singapore|Singapore|Amazon Technologies Inc.|
-|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|20|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|72.10.160.91|21749|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|18.136.77.52|80|Singapore|Singapore|Amazon Technologies Inc.|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
