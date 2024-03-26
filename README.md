@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|6|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|162.212.152.9|31280|United States|Chicago|tzulo, inc.|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|162.212.152.9|31280|United States|Chicago|tzulo, inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|58.69.117.2|8082|Philippines|Dumaguete|Philippine Long Distance Telephone Co.|
-|16|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|72.10.160.90|13165|Canada|Montreal|GloboTech Communications|
-|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|20|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
+|4|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
+|5|193.30.13.18|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
+|6|51.91.109.113|8118|France|Strasbourg|OVH SAS|
+|7|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|8|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.176.160.28|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|72.10.160.90|2191|Canada|Montreal|GloboTech Communications|
 
 
 
