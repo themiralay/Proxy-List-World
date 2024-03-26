@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
