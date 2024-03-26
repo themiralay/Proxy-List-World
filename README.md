@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|72.10.164.178|1443|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|72.10.164.178|1443|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|72.10.164.178|1443|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|4571|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|27543|Canada|Montreal|GloboTech Communications|
-|18|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|1443|Canada|Montreal|GloboTech Communications|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|67.43.227.227|1995|Canada|Montreal|GloboTech Communications|
+|12|181.209.111.82|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|72.10.164.178|32247|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|32247|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|188.132.146.75|8080|Turkey|Reyhanli|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|20|72.10.164.178|32247|Canada|Montreal|GloboTech Communications|
 
 
 
