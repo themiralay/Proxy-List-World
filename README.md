@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.164.178|18133|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.114|8089|China|Zhangjiakou|China Telecom|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|80.191.106.129|8081|Iran|Saveh|Iran Telecommunication Company PJS|
-|20|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|4275|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|8153|Canada|Montreal|GloboTech Communications|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|67.43.236.20|24791|Canada|Montreal|GloboTech Communications|
 
 
 
