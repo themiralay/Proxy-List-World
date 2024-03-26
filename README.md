@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|114.103.89.13|8089|China|Shenzhen|Chinanet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|9|114.103.89.13|8089|China|Shenzhen|Chinanet|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|111.225.152.82|8089|China|Zhoutou|China Telecom|
-|13|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|72.10.160.90|19269|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|6119|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1471|Canada|Montreal|GloboTech Communications|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|45.11.95.165|5047|Russia|Moscow|Delta Ltd|
+|19|67.43.236.20|12481|Canada|Montreal|GloboTech Communications|
+|20|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
 
 
 
