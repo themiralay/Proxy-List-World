@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|8|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|217.66.25.133|8060|Russia|Kazan'|"MTS" OJSC|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|191.97.6.150|999|Colombia|Quibdó|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
-|19|165.225.113.215|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|10|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|103.131.214.81|8080|Pakistan|Multan|INSTACOM Pvt. LTD|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|165.225.113.215|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|18|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
