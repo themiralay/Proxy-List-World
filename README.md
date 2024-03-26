@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|3|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|38.7.20.137|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|12|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
-|13|72.10.160.173|10139|Canada|Montreal|GloboTech Communications|
-|14|123.182.59.132|8089|China|Zhangjiakou|China Telecom|
-|15|116.68.170.115|8019|Indonesia|Jakarta||
-|16|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
-|18|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|19|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|136.239.176.66|8080|Philippines|Mandaluyong City|ComClark Network & Technology Corp|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|103.67.47.255|8080|Indonesia|Kampungjawa|PT JARINGANKU SARANA NUSANTARA|
+|17|111.225.153.146|8089|China|Zhoutou|China Telecom|
+|18|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
