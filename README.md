@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|18.136.77.52|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|11|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.160.90|31179|Canada|Montreal|GloboTech Communications|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|18.136.77.52|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.90|31179|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|14093|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|31179|Canada|Montreal|GloboTech Communications|
 
 
 
