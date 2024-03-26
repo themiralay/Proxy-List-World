@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|103.239.175.90|1111|India|Puducherry|One Eight Technologies Private Limited|
+|10|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
+|11|128.92.239.190|8080|United States|Cerritos|Spectrum|
+|12|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
+|13|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|72.10.160.92|3945|Canada|Montreal|GloboTech Communications|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|67.43.228.253|14131|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14131|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|3945|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|195.174.142.76|8080|Türkiye|Istanbul|Uydunet|
+|20|36.95.154.175|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
