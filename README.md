@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
-|12|217.66.25.133|8060|Russia|Kazan'|"MTS" OJSC|
-|13|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|14|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|111.225.153.232|8089|China|Zhoutou|China Telecom|
+|19|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
