@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1055|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|553|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|49.247.172.19|80|South Korea|Gwangmyeong|SMILESERV|
-|3|177.130.63.80|8080|Brazil|Itaituba|Wsp Serviços de Telecomunicações Ltda|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|49.149.2.228|80|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|94.79.152.14|80|Germany|Giessen|Vodafone|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|45.119.85.216|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
-|13|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
-|14|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
+|3|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|4|200.95.184.58|999|Chile|Chillan|Comunicaciones Cablevision Ltda.|
+|5|136.54.39.34|8118|United States|Cary|Google Fiber Inc.|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|49.149.2.228|80|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
 |18|123.182.59.129|8089|China|Zhangjiakou|China Telecom|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|123.182.59.92|8089|China|Zhangjiakou|China Telecom|
+|20|94.79.152.14|80|Germany|Giessen|Vodafone|
 
 
 
