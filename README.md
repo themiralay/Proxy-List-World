@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|448|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
-|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|103.154.53.45|8080|Indonesia|Ciamis|WIFIKITA|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.147.247.125|8181|Indonesia|Tangerang|PLBNET|
-|9|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|10|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|12|103.188.168.46|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|18|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|19|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
+|4|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
+|13|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|14|105.112.135.166|8080|Nigeria|Sapele|Airtel Networks Limited|
+|15|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|67.43.228.253|22145|Canada|Montreal|GloboTech Communications|
+|20|49.76.17.130|8089|China|Nanjing|Chinanet|
 
 
 
