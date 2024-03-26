@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|13|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
