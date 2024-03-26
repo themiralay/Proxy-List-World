@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|17|67.43.236.20|32213|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.227.228|31523|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|18|123.182.58.125|8089|China|Zhangjiakou|China Telecom|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
 
 
 
