@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|768|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|294|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|111.225.153.37|8089|China|Zhoutou|China Telecom|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.170|21151|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
