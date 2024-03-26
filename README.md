@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|591|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|591|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|591|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.126.3|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|2|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|9|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|10|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
-|11|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|12|142.4.212.137|3128|Canada|Beauharnois|OVH SAS|
-|13|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|14|103.159.195.233|9091|Indonesia|Rembangan|PT Giga Digital Nusantara|
-|15|129.226.207.116|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|37.238.168.122|1111|Iraq|Karbala|EarthLinkTelecommunications|
-|17|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|18|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|19|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|43.153.95.89|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|6|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|7|72.10.164.178|12939|Canada|Montreal|GloboTech Communications|
+|8|43.153.95.89|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|142.4.212.137|3128|Canada|Beauharnois|OVH SAS|
+|10|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
+|11|97.74.87.85|3128|Singapore|Singapore|GoDaddy.com, LLC|
+|12|129.226.207.116|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|58.20.20.89|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
+|15|89.117.22.247|3128|United States|Seattle|Nubes, LLC|
+|16|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|17|185.208.102.62|8080|Türkiye|Reyhanli|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|209.97.150.197|3128|United States|Clifton|DigitalOcean, LLC|
+|20|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 
 
 
