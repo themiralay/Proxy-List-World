@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
-|19|72.10.164.178|19721|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|23919|Canada|Montreal|GloboTech Communications|
+|9|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
+|10|78.38.93.20|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|190.56.241.170|999|Guatemala|Guatemala City|Telgua|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.160.91|23919|Canada|Montreal|GloboTech Communications|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|3175|Canada|Montreal|GloboTech Communications|
 
 
 
