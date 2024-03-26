@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|9|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|10|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|118.99.68.222|8080|Indonesia|Surabaya|Biznet Metronet|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|5.196.111.30|20062|France|Gravelines|OVH SAS|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
 
 
 
