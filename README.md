@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|2|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.174.78.253|999|Mexico|Ciudad Juárez|Raul Duarte Urita|
-|11|67.43.227.227|24481|Canada|Montreal|GloboTech Communications|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|14|67.43.227.228|6765|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|30837|Canada|Montreal|GloboTech Communications|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|72.10.160.90|22847|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|15549|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24481|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|6765|Canada|Montreal|GloboTech Communications|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
+|13|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|14|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|27917|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|111.225.152.81|8089|China|Zhoutou|China Telecom|
 
 
 
