@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|111.225.152.193|8089|China|Zhoutou|China Telecom|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|72.10.160.90|20311|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|32989|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|5853|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|32989|Canada|Montreal|GloboTech Communications|
-|13|45.141.149.119|3128|Türkiye|Istanbul|Taynet Bilisim Yazilim Insaat Sanayi VE Ticaret Limited Sirketi|
-|14|72.10.160.90|20311|Canada|Montreal|GloboTech Communications|
-|15|5.196.111.30|20650|France|Gravelines|OVH SAS|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.227.228|5045|Canada|Montreal|GloboTech Communications|
-|18|20.122.27.242|80|United States|Boydton|Microsoft Corporation|
-|19|67.43.236.20|32989|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|72.10.160.90|32383|Canada|Montreal|GloboTech Communications|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|72.10.160.174|32047|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|67.43.227.228|5045|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|7339|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|7339|Canada|Montreal|GloboTech Communications|
+|16|111.225.152.193|8089|China|Zhoutou|China Telecom|
+|17|72.10.164.178|3765|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|20|72.10.160.90|32383|Canada|Montreal|GloboTech Communications|
 
 
 
