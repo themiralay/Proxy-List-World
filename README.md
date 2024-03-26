@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|72.10.164.178|28051|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|111.225.152.136|8089|China|Zhoutou|China Telecom|
-|15|183.164.242.15|8089|China|Rongcheng|Chinanet|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|67.43.228.251|19201|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|202.5.47.173|5020|Bangladesh|Kishorganj|BBTS-NEW|
+|11|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|72.10.164.178|8635|Canada|Montreal|GloboTech Communications|
+|14|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|72.10.164.178|8635|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
