@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.148.45.175|1212|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|9|177.93.39.73|999|Colombia|Fresno|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
-|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|103.125.155.230|8080|India|Tirupur|Live Fibernet|
-|17|72.10.164.178|1835|Canada|Montreal|GloboTech Communications|
-|18|123.182.58.136|8089|China|Zhangjiakou|China Telecom|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|103.247.13.179|8080|Indonesia|Boyolali|TERABIT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|5|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|149.28.164.3|12009|Australia|Sydney|The Constant Company|
+|17|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
