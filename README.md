@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.43.228.253|27175|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|72.10.164.178|1139|Canada|Montreal|GloboTech Communications|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|36.6.145.171|8089|China|Guangzhou|Chinanet|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|123.182.59.129|8089|China|Zhangjiakou|China Telecom|
-|18|118.117.189.113|8089|China|Muping|Chinanet|
-|19|67.43.228.250|4129|Canada|Montreal|GloboTech Communications|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|123.182.59.129|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.228.250|4129|Canada|Montreal|GloboTech Communications|
+|17|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|67.43.228.253|27175|Canada|Montreal|GloboTech Communications|
+|20|118.117.189.113|8089|China|Muping|Chinanet|
 
 
 
