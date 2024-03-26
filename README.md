@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|193.108.118.37|80|Germany|Frankfurt|GTHost|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|9|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|123.182.59.119|8089|China|Zhangjiakou|China Telecom|
-|15|72.10.160.90|32779|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|25127|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|15321|Canada|Montreal|GloboTech Communications|
-|18|111.225.153.195|8089|China|Zhoutou|China Telecom|
-|19|67.43.228.252|11973|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|18|72.10.160.90|18713|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
 
 
 
