@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|3|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|4|45.173.6.102|8080|Colombia|Bogotá|Liberty Networks De Colombia S.A.S|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|190.61.45.74|8080|Colombia|Santiago de Cali|Ufinet Panama S.A.|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.164.178|5953|Canada|Montreal|GloboTech Communications|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|17|72.10.160.90|13335|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|13335|Canada|Montreal|GloboTech Communications|
-|19|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|6|45.190.76.115|999|Mexico|Zapopan|Meta Networks SA De CV|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
+|13|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|14|72.10.160.90|11025|Canada|Montreal|GloboTech Communications|
+|15|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|16|67.43.236.18|14681|Canada|Montreal|GloboTech Communications|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|67.43.228.253|8459|Canada|Montreal|GloboTech Communications|
+|19|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|20|103.138.27.250|6000|Bangladesh|Lākshām|HelloTech Limited|
 
 
 
