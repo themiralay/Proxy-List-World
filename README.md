@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.160.171|6363|Canada|Montreal|GloboTech Communications|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|17|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|18|72.10.164.178|6499|Canada|Montreal|GloboTech Communications|
 |19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|72.10.164.178|4549|Canada|Montreal|GloboTech Communications|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
