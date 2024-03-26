@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|181.78.85.45|998|Colombia|Juan de Acosta|IFX Networks Argentina S.R.L|
-|8|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|12|201.77.108.72|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|185.89.156.2|44224|Albania|Fier|ATU|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|131.0.226.198|9898|Brazil|Itapororoca|1telecom Servicos De Tecnologia EM Internet Ltda|
-|17|36.255.84.69|82|India|Bengaluru|Gatik Business Solutions|
-|18|67.43.227.227|27929|Canada|Montreal|GloboTech Communications|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|72.10.160.90|25827|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|25827|Canada|Montreal|GloboTech Communications|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.227.227|13043|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.227.228|30215|Canada|Montreal|GloboTech Communications|
+|15|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|16|72.10.160.170|8941|Canada|Montreal|GloboTech Communications|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|183.165.250.95|8089|China|Shenzhen|Chinanet|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|67.43.236.20|28555|Canada|Montreal|GloboTech Communications|
 
 
 
