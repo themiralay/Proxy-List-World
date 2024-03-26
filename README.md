@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
 |4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
-|7|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.154.53.45|8080|Indonesia|Ciamis|WIFIKITA|
+|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
 |11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|123.182.58.148|8089|China|Zhangjiakou|China Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|123.182.58.252|8089|China|Zhangjiakou|China Telecom|
-|15|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|67.43.227.227|31733|Canada|Montreal|GloboTech Communications|
-|18|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|160.20.109.73|3128|Turkey|Bursa|DGN TEKNOLOJI A.S.|
-|20|111.225.152.169|8089|China|Zhoutou|China Telecom|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|123.182.58.148|8089|China|Zhangjiakou|China Telecom|
+|16|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|67.43.227.227|31733|Canada|Montreal|GloboTech Communications|
+|19|111.225.152.53|8089|China|Zhoutou|China Telecom|
+|20|191.252.113.27|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
