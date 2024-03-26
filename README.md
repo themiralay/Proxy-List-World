@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|72.10.164.178|6529|Canada|Montreal|GloboTech Communications|
-|7|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
-|8|115.147.23.249|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|72.10.160.171|17485|Canada|Montreal|GloboTech Communications|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|72.10.160.170|20289|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|30531|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6529|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.164.178|6529|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|72.10.164.178|16831|Canada|Montreal|GloboTech Communications|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|4|72.10.164.178|16831|Canada|Montreal|GloboTech Communications|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|10|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
+|11|58.20.77.176|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.160.171|17485|Canada|Montreal|GloboTech Communications|
+|14|34.84.95.189|8080|Japan|Tokyo|Google LLC|
+|15|67.43.228.253|13149|Canada|Montreal|GloboTech Communications|
+|16|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|118.145.145.119|3128|China|Haidian|Beijing Volcano Engine Technology Co., Ltd.|
+|19|72.10.160.90|21227|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
