@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.79.125.240|8118|India|Mumbai|Akamai Technologies, Inc.|
-|8|193.108.118.37|3128|Germany|Frankfurt|GTHost|
-|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|10|185.32.6.131|8070|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|213.145.150.77|8080|Kyrgyzstan|Bishkek|OJSC Kyrgyztelecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|72.10.160.91|32185|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|188.132.222.5|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 
 
 
