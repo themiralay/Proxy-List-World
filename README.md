@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|4|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|103.180.247.21|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|114.106.134.41|8089|China|Guangzhou|Chinanet|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.105.76.249|8080|Indonesia|Surabaya|GARUDA|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|14|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|15|114.106.134.41|8089|China|Guangzhou|Chinanet|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
