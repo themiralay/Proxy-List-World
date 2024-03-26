@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
+|13|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|190.95.209.179|999|Ecuador|Guayaquil|Telconet S.A|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
