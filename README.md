@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|94.131.9.156|3128|France|Paris|Stark Industries Solutions LTD|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
-|17|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.24.107.102|1515|Indonesia|Jakarta|Quantum Dist POP GC CORP|
+|10|103.141.109.171|1111|Indonesia|Setro|Data Buana Nusantara|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|19|94.131.9.156|3128|France|Paris|Stark Industries Solutions LTD|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
