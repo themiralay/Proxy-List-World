@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|448|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
-|3|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
 |4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|103.154.53.45|8080|Indonesia|Ciamis|WIFIKITA|
-|6|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.147.247.125|8181|Indonesia|Tangerang|PLBNET|
-|14|49.149.2.228|80|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|11051|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|65.108.200.102|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.228.253|22145|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|176.31.197.145|8080|Ireland|Dublin|OVH SAS|
+|7|103.30.30.73|8080|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|46.188.25.233|8080|Russia|Moscow|2COM|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|116.105.71.247|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.76.12.58|3128|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|19|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
 
 
 
