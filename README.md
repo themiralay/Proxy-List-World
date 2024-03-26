@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|123.182.58.136|8089|China|Zhangjiakou|China Telecom|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|117.57.93.5|8089|China|Rongcheng|Chinanet|
-|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|19|72.10.164.178|4309|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|25353|Canada|Montreal|GloboTech Communications|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|72.10.164.178|20803|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
