@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|10|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|157.245.54.43|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|47.236.96.70|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|165.227.0.166|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|200.55.240.244|3128|Argentina|Palermo|Servicios y Telecomunicaciones S.A|
-|17|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|123.182.59.61|8089|China|Zhangjiakou|China Telecom|
+|14|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|15|124.122.1.123|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|123.182.59.162|8089|China|Zhangjiakou|China Telecom|
+|19|67.43.236.20|6841|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23965|Canada|Montreal|GloboTech Communications|
 
 
 
