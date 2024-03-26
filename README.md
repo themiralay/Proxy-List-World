@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|116.105.71.247|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|67.43.228.253|1335|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
-|15|116.105.71.247|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|46.32.25.18|7070|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|72.10.160.90|7047|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|116.105.71.247|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|1335|Canada|Montreal|GloboTech Communications|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.228.250|19963|Canada|Montreal|GloboTech Communications|
 
 
 
