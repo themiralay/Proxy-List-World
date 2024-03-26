@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|72.10.164.178|27889|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|25967|Canada|Montreal|GloboTech Communications|
-|15|111.225.152.255|8089|China|Zhoutou|China Telecom|
+|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|10|72.10.164.178|2397|Canada|Montreal|GloboTech Communications|
+|11|123.182.59.137|8089|China|Zhangjiakou|China Telecom|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|111.225.152.93|8089|China|Zhoutou|China Telecom|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |16|67.43.236.20|32213|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|7763|Canada|Montreal|GloboTech Communications|
-|18|117.69.237.59|8089|China|Rongcheng|Chinanet|
-|19|183.165.246.67|8089|China|Shenzhen|Chinanet|
-|20|123.182.59.137|8089|China|Zhangjiakou|China Telecom|
+|17|67.43.228.250|7079|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.164.178|2397|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
