@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|36.66.5.22|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.160.170|2727|Canada|Montreal|GloboTech Communications|
-|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.4.148.72|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
