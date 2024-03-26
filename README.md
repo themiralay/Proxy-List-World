@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|37.26.86.206|47464|Albania|Elbasan|ATU|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
