@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|2|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|3|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|6|5.196.111.30|20523|France|Gravelines|OVH SAS|
-|7|94.131.9.156|3128|France|Paris|Stark Industries Solutions LTD|
-|8|72.10.160.171|17485|Canada|Montreal|GloboTech Communications|
-|9|114.103.80.71|8089|China|Shenzhen|Chinanet|
-|10|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|11|67.43.227.227|28963|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|28963|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
+|1|34.84.95.189|8080|Japan|Tokyo|Google LLC|
+|2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|3|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|67.43.236.20|2121|Canada|Montreal|GloboTech Communications|
+|5|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|7|67.43.227.228|22521|Canada|Montreal|GloboTech Communications|
+|8|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|9|113.11.183.133|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|10|67.43.228.253|2847|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|21791|Canada|Montreal|GloboTech Communications|
+|12|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|67.43.236.20|2121|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1725|Canada|Montreal|GloboTech Communications|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|72.10.164.178|1725|Canada|Montreal|GloboTech Communications|
+|18|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|20|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
 
 
 
