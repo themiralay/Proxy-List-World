@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|157.254.28.10|999|United States|Sacramento|Vantiva USA Shared Services Inc.|
-|3|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|192.99.5.161|8081|Canada|Montreal|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.186.147.13|80|Vietnam|Quận Hà Đông|THM Refrigeration Technicians Company Limited|
-|10|67.43.228.250|7203|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|97.74.86.180|3128|Singapore|Singapore|GoDaddy.com, LLC|
-|13|149.28.187.80|12009|Australia|Sydney|The Constant Company|
-|14|103.179.26.141|8081|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|15|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
-|16|143.198.208.53|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|18|67.43.236.20|10577|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|137.59.48.20|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|3|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|84.52.88.59|8080|Russia|St Petersburg|WestCall|
+|5|192.99.5.161|8081|Canada|Montreal|OVH SAS|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|177.93.50.163|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|45.114.145.135|8080|India|Jaipur|Tejays Dynamic Limited|
+|10|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|11|157.254.28.10|999|United States|Sacramento|Vantiva USA Shared Services Inc.|
+|12|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|143.198.208.53|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.228.250|7203|Canada|Montreal|GloboTech Communications|
+|20|103.226.232.188|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
 
 
 
