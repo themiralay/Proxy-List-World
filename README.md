@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|67.43.227.227|7443|Canada|Montreal|GloboTech Communications|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|67.43.236.21|23507|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|118.117.189.232|8089|China|Muping|Chinanet|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|67.43.227.227|7443|Canada|Montreal|GloboTech Communications|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|103.105.55.170|8085|Indonesia|Purbalingga|PT. Mega Artha Lintas Data|
+|13|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|111.225.153.128|8089|China|Zhoutou|China Telecom|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|72.10.164.178|1965|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1965|Canada|Montreal|GloboTech Communications|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
 
 
 
