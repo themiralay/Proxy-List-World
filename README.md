@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|7|67.43.228.252|25067|Canada|Montreal|GloboTech Communications|
-|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|9|67.43.236.19|3693|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|16591|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|30887|Canada|Montreal|GloboTech Communications|
+|4|203.194.114.97|3128|Indonesia|Bantul|CV. Rumahweb Indonesia|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|67.43.228.252|25067|Canada|Montreal|GloboTech Communications|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 |12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|72.10.164.178|3101|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|30113|Canada|Montreal|GloboTech Communications|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|72.10.160.90|28821|Canada|Montreal|GloboTech Communications|
-|17|123.182.58.49|8089|China|Zhangjiakou|China Telecom|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.160.173|24727|Canada|Montreal|GloboTech Communications|
-|20|123.182.58.237|8089|China|Zhangjiakou|China Telecom|
+|13|103.176.96.232|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|165.227.147.238|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|67.43.228.253|16157|Canada|Montreal|GloboTech Communications|
+|19|123.182.58.49|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.227.228|2007|Canada|Montreal|GloboTech Communications|
 
 
 
