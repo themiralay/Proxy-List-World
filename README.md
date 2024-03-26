@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|193.108.118.37|80|Germany|Frankfurt|GTHost|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|17|67.43.228.250|2929|Canada|Montreal|GloboTech Communications|
+|18|75.112.64.27|8080|United States|Orlando|Spectrum|
 |19|67.43.236.20|28643|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.160.90|8349|Canada|Montreal|GloboTech Communications|
 
 
 
