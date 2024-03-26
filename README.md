@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|171.243.3.55|4006|Vietnam|Da Nang|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|15|123.182.59.161|8089|China|Zhangjiakou|China Telecom|
-|16|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|17|72.10.160.173|8101|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22779|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|111.225.153.67|8089|China|Zhoutou|China Telecom|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|72.10.160.173|8101|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
