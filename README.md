@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.164.178|2015|Canada|Montreal|GloboTech Communications|
-|17|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
-|18|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
-|19|72.10.164.178|2015|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|129.153.42.81|3128|United States|Ashburn|Oracle Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.156.75.40|8080|Indonesia|Singaraja|PT Trika Global Media|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|67.43.227.230|23685|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|12871|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25355|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.94|21233|Canada|Montreal|GloboTech Communications|
 
 
 
