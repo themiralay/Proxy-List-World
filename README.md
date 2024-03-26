@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|72.10.160.90|32043|Canada|Montreal|GloboTech Communications|
-|19|123.182.58.112|8089|China|Zhangjiakou|China Telecom|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|17|72.10.164.178|15527|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|17091|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|6755|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|30049|Canada|Montreal|GloboTech Communications|
 
 
 
