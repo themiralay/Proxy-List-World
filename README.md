@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|67.43.236.20|5447|Canada|Montreal|GloboTech Communications|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|5447|Canada|Montreal|GloboTech Communications|
-|20|38.49.129.158|999|Mexico|San Felipe|Ientc S De RL De CV|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|41.254.100.192|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.164.178|21589|Canada|Montreal|GloboTech Communications|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
