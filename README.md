@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|102.214.104.56|8080|Libya|Qaşr Khiyār|Rawafed|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|72.10.160.174|4787|Canada|Montreal|GloboTech Communications|
-|14|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|15|123.182.58.141|8089|China|Zhangjiakou|China Telecom|
-|16|38.49.150.212|80|Mexico|Querétaro City|Ientc S De RL De CV|
-|17|72.10.160.170|27547|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|31971|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|45.189.149.140|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|16|72.10.160.174|32059|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|19|38.49.150.212|80|Mexico|Querétaro City|Ientc S De RL De CV|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
