@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|72.10.160.90|27031|Canada|Montreal|GloboTech Communications|
-|10|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|12|118.117.189.245|8089|China|Muping|Chinanet|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|67.43.227.227|23873|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|27031|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|176.235.182.99|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|103.154.230.72|5678|Indonesia|Lamongan|DIGITNET|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
