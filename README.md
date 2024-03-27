@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
-|5|122.144.6.66|3777|Indonesia|Jakarta|Maxindo|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
-|10|45.191.75.171|999|Colombia|Guachene|Global Raices|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
-|13|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|14|181.78.19.251|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|15|197.232.47.122|8080|Kenya|Nyahururu|Jamii Telecommunications Limited|
-|16|129.226.207.116|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|18|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|19|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|5|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|103.234.159.5|8080|India|Mumbai|MWPL|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|197.232.47.122|8080|Kenya|Nyahururu|Jamii Telecommunications Limited|
+|15|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
+|16|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|67.43.236.20|25269|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
