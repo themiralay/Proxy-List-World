@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|122.144.6.66|3777|Indonesia|Jakarta|Maxindo|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
-|4|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
-|5|103.146.185.141|1111|Indonesia|Sragen|YAMNET|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|94.200.195.220|8080|United Arab Emirates|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|
-|8|46.250.254.74|3128|United Kingdom|London|Contabo Asia Private Limited|
-|9|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
-|10|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|11|197.232.47.122|8080|Kenya|Nyahururu|Jamii Telecommunications Limited|
-|12|208.196.136.141|3128|United States|New York|Verizon Business|
-|13|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|14|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
-|18|94.154.152.103|8079|Albania|Lushnje|Luva Group Sh.p.k.|
-|19|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|20|168.205.102.26|8080|Brazil|Petrópolis|C-ComTelecom Servios Ltda-ME|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|157.100.63.69|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|123.182.59.129|8089|China|Zhangjiakou|China Telecom|
+|15|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|16|103.154.53.45|8080|Indonesia|Ciamis|WIFIKITA|
+|17|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|18|94.156.144.228|3128|Bulgaria|Sofia|Belcloud LTD|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|182.253.10.147|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
