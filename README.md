@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|12|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|49.12.71.63|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|11|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
 |18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
+|20|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
 
 
 
