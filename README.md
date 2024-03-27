@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|16|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|17|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|18|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
 |19|208.196.136.141|3128|United States|New York|Verizon Business|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
