@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|72.10.164.178|1159|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|72.10.160.91|32193|Canada|Montreal|GloboTech Communications|
+|4|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|5|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
 |14|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|1159|Canada|Montreal|GloboTech Communications|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|117.57.93.88|8089|China|Rongcheng|Chinanet|
+|16|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
+|17|103.203.95.10|8674|Bangladesh|Dhaka|Rana Javed Kabir t/a Interpid Broadband Communication Company Ltd.|
+|18|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|19|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
