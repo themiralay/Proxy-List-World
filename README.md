@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|3|103.158.13.248|8080|Indonesia|Kebumen|PT.Global Media Data Prima|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|6|103.159.194.151|7777|Indonesia|Rembang|PT Giga Digital Nusantara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|78.40.108.126|3128|Kazakhstan|Almaty|PS Internet Company LLC Network|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.236.20|30467|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|103.227.187.1|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|3|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|4|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|5|62.210.144.177|3128|France|Paris|Online S.A.S.|
+|6|103.144.102.125|8080|Indonesia|Indramayu|PANDAWANET|
+|7|103.78.96.146|80|Indonesia|Kalibata|MORATELINDO|
+|8|41.59.82.154|3128|Tanzania|Dar es Salaam|TTCL|
+|9|222.174.178.122|4999|China|Xintai|Chinanet|
+|10|67.43.236.20|30467|Canada|Montreal|GloboTech Communications|
+|11|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|58.69.114.77|8082|Philippines|Santa Fe|Philippine Long Distance Telephone Co.|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|16|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.236.20|30467|Canada|Montreal|GloboTech Communications|
+|19|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|20|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
 
 
 
