@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|123.182.58.165|8089|China|Zhangjiakou|China Telecom|
-|8|72.10.160.90|29095|Canada|Montreal|GloboTech Communications|
-|9|111.225.152.93|8089|China|Zhoutou|China Telecom|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.160.174|4787|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|223.247.47.132|8089|China|Rongcheng|Chinanet|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|58.147.186.229|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|18|67.43.236.19|29583|Canada|Montreal|GloboTech Communications|
-|19|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|20|72.10.160.172|3431|Canada|Montreal|GloboTech Communications|
+|2|180.250.173.67|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|123.182.58.165|8089|China|Zhangjiakou|China Telecom|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|72.10.160.90|29095|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.160.172|3431|Canada|Montreal|GloboTech Communications|
+|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|17|72.10.160.174|4787|Canada|Montreal|GloboTech Communications|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
