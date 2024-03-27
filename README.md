@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|3|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|4|94.200.195.220|8080|United Arab Emirates|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|
+|1|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
-|10|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|11|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|72.10.164.178|18625|Canada|Montreal|GloboTech Communications|
-|14|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|189.90.255.208|3128|Brazil|Itabirito|Companhia Itabirana Telecomunicações Ltda|
+|10|193.108.118.37|80|Germany|Frankfurt|GTHost|
+|11|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|34.84.95.189|8080|Japan|Tokyo|Google LLC|
 |15|123.182.59.147|8089|China|Zhangjiakou|China Telecom|
-|16|67.43.228.253|16835|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|72.10.160.170|5209|Canada|Montreal|GloboTech Communications|
-|19|149.210.235.107|8118|The Netherlands|Nuenen|Signet B.V.|
-|20|34.84.95.189|8080|Japan|Tokyo|Google LLC|
+|16|209.45.40.33|999|Peru|Ica|Red Cientifica Peruana|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|67.43.228.253|16835|Canada|Montreal|GloboTech Communications|
+|19|177.231.245.182|8080|Mexico|Ciudad Hidalgo|Mega Cable, S.A. de C.V.|
+|20|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
 
 
 
