@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6691** proxies at the latest update. Usable proxies are below.
+> Scraper found **6763** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4853|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|67.43.228.253|11121|Canada|Montreal|GloboTech Communications|
 |11|67.43.236.20|1125|Canada|Montreal|GloboTech Communications|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|72.10.164.178|1591|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1591|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.227.227|4143|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|4143|Canada|Montreal|GloboTech Communications|
-|18|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|1125|Canada|Montreal|GloboTech Communications|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
+|15|123.182.59.160|8089|China|Zhangjiakou|China Telecom|
+|16|72.10.160.171|18179|Canada|Montreal|GloboTech Communications|
+|17|60.174.1.153|8089|China|Guangzhou|Chinanet|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
 
 
 
