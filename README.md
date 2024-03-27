@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|186.96.97.202|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|103.177.176.62|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|15|67.43.236.19|7989|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|114.106.172.194|8089|China|Shenzhen|Chinanet|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|72.10.164.178|15879|Canada|Montreal|GloboTech Communications|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|8|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|67.43.228.250|27293|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.236.19|7989|Canada|Montreal|GloboTech Communications|
 
 
 
