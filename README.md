@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.108.118.37|80|Germany|Frankfurt|GTHost|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
 |10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
 |12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|15|72.10.164.178|1553|Canada|Montreal|GloboTech Communications|
 |16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|27.189.131.186|8081|China|Langfang|Chinanet|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.227.228|19551|Canada|Montreal|GloboTech Communications|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|72.10.160.170|20409|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.236.20|8313|Canada|Montreal|GloboTech Communications|
+|20|103.10.231.189|8080|Thailand|Phra Nakhon Si Ayutthaya|CATBB|
 
 
 
