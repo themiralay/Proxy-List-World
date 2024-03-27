@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|116.105.71.247|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|34.84.95.189|8080|Japan|Tokyo|Google LLC|
-|8|72.10.164.178|10889|Canada|Montreal|GloboTech Communications|
-|9|123.182.58.146|8089|China|Zhangjiakou|China Telecom|
-|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|111.225.153.121|8089|China|Zhoutou|China Telecom|
-|13|72.10.160.172|32965|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|24553|Canada|Montreal|GloboTech Communications|
-|15|197.243.49.47|3129|Rwanda|Kigali|BSC|
-|16|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|28513|Canada|Montreal|GloboTech Communications|
-|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|19|72.10.164.178|10889|Canada|Montreal|GloboTech Communications|
-|20|186.125.218.180|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|2|115.76.116.12|4006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.90.255.208|3128|Brazil|Itabirito|Companhia Itabirana Telecomunicações Ltda|
+|8|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
+|9|72.10.164.178|27541|Canada|Montreal|GloboTech Communications|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|72.10.160.172|25315|Canada|Montreal|GloboTech Communications|
+|12|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|13|72.10.160.90|14671|Canada|Montreal|GloboTech Communications|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|111.225.153.121|8089|China|Zhoutou|China Telecom|
+|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|72.10.164.178|27541|Canada|Montreal|GloboTech Communications|
+|20|41.57.139.185|6060|South Africa|Delmas|FTH Scr P10|
 
 
 
