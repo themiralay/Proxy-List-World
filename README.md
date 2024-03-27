@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|13|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|103.152.232.76|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|20|67.43.228.253|3849|Canada|Montreal|GloboTech Communications|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
