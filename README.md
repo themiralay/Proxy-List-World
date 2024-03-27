@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|1|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|2|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|178.215.190.240|49465|Ukraine|Chernivtsi|Private Enterprise Firma Fenix VT|
-|7|31.220.101.37|3128|United States|Newark|Nubes, LLC|
-|8|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.164.178|6259|Canada|Montreal|GloboTech Communications|
-|14|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|15|202.150.134.202|8080|Indonesia|Karawang|PT Comtronics Systems|
-|16|72.10.160.170|4431|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|10799|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|13493|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20007|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6259|Canada|Montreal|GloboTech Communications|
+|5|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|15|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|18|38.7.199.166|8080|Chile|Santiago|Grupo ZGH SPA|
+|19|210.72.11.46|8080|China|Haidian|CNIC-CAS|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
