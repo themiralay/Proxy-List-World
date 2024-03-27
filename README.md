@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|72.10.160.170|19317|Canada|Montreal|GloboTech Communications|
-|15|185.105.185.185|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|16|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|17|111.225.153.39|8089|China|Zhoutou|China Telecom|
-|18|67.43.236.22|2761|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|10159|Canada|Montreal|GloboTech Communications|
-|20|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.236.20|2341|Canada|Montreal|GloboTech Communications|
+|12|1.203.155.16|3128|China|Beijing|China Networks Inter-Exchange|
+|13|72.10.160.170|24279|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|67.43.236.22|2761|Canada|Montreal|GloboTech Communications|
+|16|111.225.153.39|8089|China|Zhoutou|China Telecom|
+|17|72.10.160.90|10159|Canada|Montreal|GloboTech Communications|
+|18|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|19|67.43.236.20|2341|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|2341|Canada|Montreal|GloboTech Communications|
 
 
 
