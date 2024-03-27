@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|645|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|117.69.233.1|8089|China|Rongcheng|Chinanet|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |11|72.10.164.178|5129|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|1951|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.228|11049|Canada|Montreal|GloboTech Communications|
-|15|111.225.153.128|8089|China|Zhoutou|China Telecom|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|67.43.228.250|19663|Canada|Montreal|GloboTech Communications|
-|18|179.1.192.5|999|Colombia|Neiva|InterNexa Global Network|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.228.253|16155|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|1951|Canada|Montreal|GloboTech Communications|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|72.10.164.178|5129|Canada|Montreal|GloboTech Communications|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
