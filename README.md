@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.227.229|31011|Canada|Montreal|GloboTech Communications|
 |13|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|14|67.43.227.229|31011|Canada|Montreal|GloboTech Communications|
-|15|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|123.182.59.7|8089|China|Zhangjiakou|China Telecom|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.160.90|13559|Canada|Montreal|GloboTech Communications|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|123.182.59.7|8089|China|Zhangjiakou|China Telecom|
 
 
 
