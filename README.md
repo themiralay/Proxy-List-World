@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|4|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|5|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|1|163.172.4.109|8080|France|Paris|Online S.A.S.|
+|2|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|94.200.195.220|8080|United Arab Emirates|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|
-|8|197.232.47.122|8080|Kenya|Nyahururu|Jamii Telecommunications Limited|
-|9|122.3.139.85|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|12|89.117.22.247|3128|United States|Seattle|Nubes, LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|178.46.163.102|3128|Russia|Kusa|OJSC uralsvyazinform|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|18|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|19|123.182.59.160|8089|China|Zhangjiakou|China Telecom|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|103.146.185.141|1111|Indonesia|Sragen|YAMNET|
+|10|157.100.63.69|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|15|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
 
 
 
