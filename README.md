@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|3|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|5|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.58.52.5|80|United States|Dallas|HostUS|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|14|151.22.181.205|8080|Italy|Rho|INFOSTRADA|
-|15|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|103.41.88.6|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|19|150.107.246.196|3125|Indonesia|Bandung|Infrastruktur STARNET|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|8|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|72.10.160.93|17407|Canada|Montreal|GloboTech Communications|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
