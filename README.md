@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|67.43.227.228|23501|Canada|Montreal|GloboTech Communications|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|67.43.227.228|1301|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|1301|Canada|Montreal|GloboTech Communications|
 |14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|72.10.164.178|20663|Canada|Montreal|GloboTech Communications|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|20|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
+|20|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
 
 
 
