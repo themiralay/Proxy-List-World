@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|3|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|4|103.141.70.18|8080|Bangladesh|Rupsi|Digital One Broadband Internet Service|
-|5|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|6|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|9|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
-|10|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|181.78.19.252|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|14|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|14|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.78.11.218|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|208.196.136.141|3128|United States|New York|Verizon Business|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
