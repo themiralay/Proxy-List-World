@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6718** proxies at the latest update. Usable proxies are below.
+> Scraper found **6661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|611|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4853|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|72.10.164.178|22767|Canada|Montreal|GloboTech Communications|
-|15|185.236.201.210|3128|Sweden|Stockholm|M247 Europe SRL|
-|16|183.164.242.77|8089|China|Rongcheng|Chinanet|
-|17|103.234.159.5|8080|India|Mumbai|MWPL|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22767|Canada|Montreal|GloboTech Communications|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|72.10.160.170|19317|Canada|Montreal|GloboTech Communications|
+|15|185.105.185.185|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
+|16|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
+|17|111.225.153.39|8089|China|Zhoutou|China Telecom|
+|18|67.43.236.22|2761|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|10159|Canada|Montreal|GloboTech Communications|
+|20|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
 
 
 
