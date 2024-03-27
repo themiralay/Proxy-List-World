@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|191.252.222.91|80|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
-|15|72.10.160.174|31537|Canada|Montreal|GloboTech Communications|
-|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|123.182.59.80|8089|China|Zhangjiakou|China Telecom|
-|19|72.10.164.178|18993|Canada|Montreal|GloboTech Communications|
-|20|189.90.255.208|3128|Brazil|Itabirito|Companhia Itabirana Telecomunicações Ltda|
+|2|189.204.254.186|999|Mexico|Santiago Suchilquitongo|Operbes, S.A. de C.V.|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|8|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|209.45.40.33|999|Peru|Ica|Red Cientifica Peruana|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.164.178|17035|Canada|Montreal|GloboTech Communications|
+|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|16|183.165.227.61|8089|China|Shenzhen|Chinanet|
+|17|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|18|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|72.10.164.178|17035|Canada|Montreal|GloboTech Communications|
 
 
 
