@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6693** proxies at the latest update. Usable proxies are below.
+> Scraper found **6661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|223|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|191|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4930|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|67.43.228.253|4939|Canada|Montreal|GloboTech Communications|
-|10|36.93.130.219|66|Indonesia|Paseban|Telekomunikasi Indonesia|
-|11|67.43.227.227|26717|Canada|Montreal|GloboTech Communications|
-|12|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|67.43.236.20|31361|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|29123|Canada|Montreal|GloboTech Communications|
-|19|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|20|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|67.43.227.227|23873|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|201.71.3.61|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
