@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|10|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|111.225.153.241|8089|China|Zhoutou|China Telecom|
-|15|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|16|72.10.164.178|25817|Canada|Montreal|GloboTech Communications|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
-|19|149.28.180.246|12009|Australia|Sydney|The Constant Company|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|59.15.28.114|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.18.46.250|443|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|16|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|17|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
+|18|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|19|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|111.225.153.241|8089|China|Zhoutou|China Telecom|
 
 
 
