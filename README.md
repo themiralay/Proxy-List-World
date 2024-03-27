@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|8|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|154.73.29.65|8080|Libya|Tripoli|Rawafed|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|17|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|200.59.10.49|999|Argentina|Belen de Escobar|COTELCAM|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
