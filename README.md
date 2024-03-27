@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.123.220.86|8080|Mexico|Tlalpujahuilla|Cogent Communications|
-|14|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|1.20.91.53|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.236.20|15717|Canada|Montreal|GloboTech Communications|
-|19|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|20|202.74.48.202|8080|Bangladesh|Dhaka|InfoLink|
+|9|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
+|10|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|15|67.43.236.20|15717|Canada|Montreal|GloboTech Communications|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|18|202.74.48.202|8080|Bangladesh|Dhaka|InfoLink|
+|19|129.226.207.116|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
