@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|15|72.10.160.90|25405|Canada|Montreal|GloboTech Communications|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|2377|Canada|Montreal|GloboTech Communications|
-|19|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|20|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|9|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|12|111.225.152.157|8089|China|Zhoutou|China Telecom|
+|13|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|72.10.160.91|23669|Canada|Montreal|GloboTech Communications|
 
 
 
