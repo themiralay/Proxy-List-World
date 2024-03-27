@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.238.34.53|3128|Japan|Tokyo|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|140.238.34.53|3128|Japan|Tokyo|Oracle Corporation|
-|6|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
-|9|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|10|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
-|11|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
-|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|13|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|15|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|16|72.10.160.90|30403|Canada|Montreal|GloboTech Communications|
-|17|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|18|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|72.10.160.92|1471|Canada|Montreal|GloboTech Communications|
+|2|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|3|62.210.144.177|3128|France|Paris|Online S.A.S.|
+|4|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|140.238.34.53|3128|Japan|Tokyo|Oracle Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|9|140.238.34.53|3128|Japan|Tokyo|Oracle Corporation|
+|10|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|12|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|13|123.182.59.92|8089|China|Zhangjiakou|China Telecom|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
+|16|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|17|72.10.160.90|32289|Canada|Montreal|GloboTech Communications|
+|18|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
