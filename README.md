@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
+|11|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|10781|Canada|Montreal|GloboTech Communications|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
-|16|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|20|72.10.160.171|13267|Canada|Montreal|GloboTech Communications|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|123.182.58.41|8089|China|Zhangjiakou|China Telecom|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|72.10.164.178|8763|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|13267|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8763|Canada|Montreal|GloboTech Communications|
+|20|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
