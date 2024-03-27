@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6672** proxies at the latest update. Usable proxies are below.
+> Scraper found **6673** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|63|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|611|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|226|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|28839|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|8931|Canada|Montreal|GloboTech Communications|
-|16|111.225.152.113|8089|China|Zhoutou|China Telecom|
-|17|67.43.227.228|2637|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|20|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
 
 
 
