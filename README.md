@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.210.144.177|3128|France|Paris|Online S.A.S.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
-|8|123.182.58.122|8089|China|Zhangjiakou|China Telecom|
-|9|67.43.228.253|4509|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.22|11991|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|121.195.170.225|1024|China|Haidian|CERNET|
-|13|72.10.160.174|7293|Canada|Montreal|GloboTech Communications|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|67.43.236.20|19437|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23591|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|21693|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1775|Canada|Montreal|GloboTech Communications|
-|19|123.182.58.167|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
+|1|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|2|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
+|6|72.10.164.178|20479|Canada|Montreal|GloboTech Communications|
+|7|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|72.10.164.178|20479|Canada|Montreal|GloboTech Communications|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|67.43.228.253|4509|Canada|Montreal|GloboTech Communications|
+|12|193.108.118.37|3128|Germany|Frankfurt|GTHost|
+|13|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|14|123.182.58.122|8089|China|Zhangjiakou|China Telecom|
+|15|123.182.58.167|8089|China|Zhangjiakou|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|72.10.164.178|20479|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
+|20|123.182.59.189|8089|China|Zhangjiakou|China Telecom|
 
 
 
