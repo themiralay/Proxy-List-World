@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6607** proxies at the latest update. Usable proxies are below.
+> Scraper found **6606** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|5|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|4|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|15|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|16|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.228.253|22761|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|45.190.76.100|999|Mexico|Zapopan|Meta Networks SA De CV|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|16|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 
 
 
