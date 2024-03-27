@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
-|7|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
-|10|109.175.9.203|8080|Bosnia and Herzegovina|Zivinice|BH Telecom d.d. Sarajevo|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|213.244.91.179|8080|Palestine|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
-|17|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
-|18|61.143.126.202|10086|China|Xiaolou|Chinanet|
-|19|72.10.160.90|5057|Canada|Montreal|GloboTech Communications|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
+|10|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|16|72.10.160.90|1199|Canada|Montreal|GloboTech Communications|
+|17|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|20|193.108.118.37|80|Germany|Frankfurt|GTHost|
 
 
 
