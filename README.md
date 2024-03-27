@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|208.196.136.141|3128|United States|New York|Verizon Business|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|103.172.35.138|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |5|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|16|208.196.136.141|3128|United States|New York|Verizon Business|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|36.6.145.171|8089|China|Guangzhou|Chinanet|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|103.234.159.5|8080|India|Mumbai|MWPL|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|72.10.164.178|10103|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10103|Canada|Montreal|GloboTech Communications|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|67.43.236.20|21313|Canada|Montreal|GloboTech Communications|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|210.72.11.46|8080|China|Haidian|CNIC-CAS|
 
 
 
