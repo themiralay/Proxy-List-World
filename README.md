@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|8|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.161.144.46|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|192.3.103.112|3128|United States|Buffalo|HostPapa|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|45.234.61.12|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|72.10.164.178|20755|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|202.60.12.123|3128|Philippines|Makati City|Apollo Global|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|11|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
+|12|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|14|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|202.60.12.123|3128|Philippines|Makati City|Apollo Global|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|220.118.191.238|3128|South Korea|Dongjak-gu|Korea Telecom|
 
 
 
