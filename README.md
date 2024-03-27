@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.227.229|19085|Canada|Montreal|GloboTech Communications|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|107.172.0.177|666|United States|Dallas|HostPapa|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|103.89.4.163|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|72.10.164.178|18605|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|18605|Canada|Montreal|GloboTech Communications|
-|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|107.172.0.177|666|United States|Dallas|HostPapa|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|13|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|121.101.131.142|8181|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|16|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|17|203.79.29.198|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
+|18|38.188.249.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|67.79.51.210|16099|United States|Beaumont|Spectrum|
 
 
 
