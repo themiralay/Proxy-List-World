@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|45.188.164.3|1994|Mexico|Cotija de la Paz|Velocom SA De CV|
-|20|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
+|12|51.77.244.112|8888|France|Strasbourg|OVH SAS|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
 
 
 
