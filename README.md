@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|13|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|123.182.59.109|8089|China|Zhangjiakou|China Telecom|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|72.10.160.90|1129|Canada|Montreal|GloboTech Communications|
+|3|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|16|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|202.40.185.146|8080|Bangladesh|Sāmair|Ranks ITT|
+|20|193.108.118.37|80|Germany|Frankfurt|GTHost|
 
 
 
