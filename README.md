@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|32.140.234.250|83|United States|Cuyahoga Falls|AT&T Services, Inc.|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|14|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
 |17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|18|67.43.227.226|12095|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|72.10.164.178|2865|Canada|Montreal|GloboTech Communications|
 
 
 
