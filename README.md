@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|59.15.28.114|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|103.18.46.250|443|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
-|16|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|17|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
-|18|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|19|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|20|111.225.153.241|8089|China|Zhoutou|China Telecom|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|72.10.160.174|7293|Canada|Montreal|GloboTech Communications|
+|18|103.165.155.73|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|47.236.122.108|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
