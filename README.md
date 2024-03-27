@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|125.57.21.144|3128|South Korea|Seoul|Truenetworks|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|12|67.43.236.20|22429|Canada|Montreal|GloboTech Communications|
-|13|103.234.159.5|8080|India|Mumbai|MWPL|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.236.20|22429|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|179.1.68.197|999|Colombia|Saravena|InterNexa Global Network|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.244.163.197|3128|Hong Kong|Kwai Chung|404 Network Information Co.|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|125.57.21.144|3128|South Korea|Seoul|Truenetworks|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
