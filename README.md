@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|103.159.47.42|83|India|Ahmedabad|King Netsol Private Limited|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|123.182.59.9|8089|China|Zhangjiakou|China Telecom|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|36.93.130.219|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|45.174.57.66|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|17|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|18|193.108.118.37|80|Germany|Frankfurt|GTHost|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|101.128.107.36|1111|Indonesia|Jakarta|CBN|
+|16|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|20|181.78.65.58|999|Colombia|Acandi|IFX Networks Argentina S.R.L|
 
 
 
