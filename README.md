@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
-|2|103.211.107.62|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
-|3|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|6|147.182.164.100|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|9|67.79.51.210|16099|United States|Beaumont|Spectrum|
-|10|111.225.153.203|8089|China|Zhoutou|China Telecom|
-|11|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|12|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|13|36.6.145.154|8089|China|Guangzhou|Chinanet|
-|14|72.10.164.178|13303|Canada|Montreal|GloboTech Communications|
-|15|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|16|72.10.164.178|13303|Canada|Montreal|GloboTech Communications|
-|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|18|177.124.177.116|80|Brazil|Cascavel|Constel Tecnologia Ltda|
-|19|72.10.164.178|13303|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|24585|Canada|Montreal|GloboTech Communications|
+|1|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|2|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|3|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|45.67.210.47|3389|The Netherlands|Amsterdam|G-Core Labs S.A.|
+|5|111.225.153.203|8089|China|Zhoutou|China Telecom|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|8|72.10.164.178|11809|Canada|Montreal|GloboTech Communications|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|11|102.0.7.34|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|12|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|13|67.79.51.210|16099|United States|Beaumont|Spectrum|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|16|194.140.198.23|80|United States|Newark|Nubes, LLC|
+|17|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|18|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|72.10.160.170|32371|Canada|Montreal|GloboTech Communications|
 
 
 
