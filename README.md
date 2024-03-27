@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|1|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|103.154.230.97|5678|Indonesia|Lamongan|DIGITNET|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|194.163.183.151|8899|Germany|Düsseldorf|Contabo GmbH|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|208.196.136.141|3128|United States|New York|Verizon Business|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.242.230.228|8118|Germany|Düsseldorf|Contabo GmbH|
-|12|193.108.118.37|80|Germany|Frankfurt|GTHost|
+|10|194.163.183.151|8899|Germany|Düsseldorf|Contabo GmbH|
+|11|94.154.152.94|8079|Albania|Lushnje|Luva Group Sh.p.k.|
+|12|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|18|103.154.53.236|8080|Indonesia|Ciamis|WIFIKITA|
-|19|94.154.152.94|8079|Albania|Lushnje|Luva Group Sh.p.k.|
-|20|201.168.2.14|3128|Mexico|Xochimilco|Marcatel Com, S.A. de C.V.|
+|14|191.103.219.225|48612|Colombia|Montería|Edatel S.a. E.S.P|
+|15|20.22.205.230|3128|United States|Boydton|Microsoft Corporation|
+|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
 
 
 
