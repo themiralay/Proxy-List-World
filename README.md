@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|101.255.62.129|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
-|11|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|193.108.118.37|8081|Germany|Frankfurt|GTHost|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.164.178|15891|Canada|Montreal|GloboTech Communications|
-|18|123.182.58.41|8089|China|Zhangjiakou|China Telecom|
-|19|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
-|20|72.10.160.90|9401|Canada|Montreal|GloboTech Communications|
+|3|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|15|45.174.57.22|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|103.47.175.161|84|India|Srīnagar|Precious netcom pvt ltd|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|193.108.118.37|8081|Germany|Frankfurt|GTHost|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
