@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|149.28.187.80|12009|Australia|Sydney|The Constant Company|
-|17|103.47.175.161|84|India|Srīnagar|Precious netcom pvt ltd|
-|18|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
-|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|45.229.10.100|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|15|72.10.164.178|26765|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|26765|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
 |20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
