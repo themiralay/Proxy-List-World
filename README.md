@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|45.231.142.22|3128|Brazil|Canoas|Redemetro Telecomunicacoes Ltda|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.227|1631|Canada|Montreal|GloboTech Communications|
-|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|14|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|72.10.160.92|22123|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.92|22123|Canada|Montreal|GloboTech Communications|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.227.227|10155|Canada|Montreal|GloboTech Communications|
+|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|17|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
