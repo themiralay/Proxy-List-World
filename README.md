@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|16|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|17|67.43.236.20|27541|Canada|Montreal|GloboTech Communications|
-|18|45.137.196.248|80|The Netherlands|Amsterdam|WorldStream B.V.|
-|19|67.43.228.250|5681|Canada|Montreal|GloboTech Communications|
-|20|38.242.244.29|80|Germany|Düsseldorf|Contabo GmbH|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|103.105.55.51|8081|Indonesia|Gedangan|PT. Mega Artha Lintas Data|
+|11|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|45.233.67.204|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|15|45.137.196.248|80|The Netherlands|Amsterdam|WorldStream B.V.|
+|16|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|67.43.228.250|28211|Canada|Montreal|GloboTech Communications|
+|19|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|20|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
 
 
 
