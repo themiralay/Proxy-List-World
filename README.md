@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
 |6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|103.133.25.18|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|45.133.107.10|81|Russia|Mezmay|Art-net LLC|
+|11|193.108.118.37|8081|Germany|Frankfurt|GTHost|
 |12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|101.255.62.129|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
 |14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|67.43.228.253|18121|Canada|Montreal|GloboTech Communications|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|67.43.236.20|2617|Canada|Montreal|GloboTech Communications|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|41.139.169.99|8083|Kenya|Nairobi|Converged services Eastern|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|72.10.164.178|2715|Canada|Montreal|GloboTech Communications|
 
 
 
