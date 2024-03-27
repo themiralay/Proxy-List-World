@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|4|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|5|200.116.199.179|6969|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|82.66.27.145|8118|France|Mérignac|Proxad / Free SAS|
-|8|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.222.156.212|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|13|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|14|31.220.101.37|3128|United States|Newark|Nubes, LLC|
-|15|36.71.77.143|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
-|20|72.10.160.90|22515|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|5|82.66.27.145|8118|France|Mérignac|Proxad / Free SAS|
+|6|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.53.175|32773|United States|Santa Clara|DigitalOcean, LLC|
+|9|8.242.85.6|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|13|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|31.220.101.37|3128|United States|Newark|Nubes, LLC|
+|16|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|36.71.77.143|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|20|72.10.164.178|31167|Canada|Montreal|GloboTech Communications|
 
 
 
