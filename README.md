@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.150.84.248|3128|Indonesia|Jakarta|PT Biznet Gio Nusantara|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|11|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
-|12|121.8.215.106|9797|China|Guangzhou|Chinanet|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|101.51.130.35|8080|Thailand|Bangkok|TOT Public Company Limited|
 |14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|72.10.160.92|17817|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|9023|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
-|18|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|19|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|103.15.223.251|3128|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|188.132.222.43|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
