@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|50.114.177.126|8000|Canada|Toronto|Ace Data Centers|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|123.182.59.12|8089|China|Zhangjiakou|China Telecom|
-|20|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|50.114.177.126|8000|Canada|Toronto|Ace Data Centers|
+|20|67.43.228.253|21449|Canada|Montreal|GloboTech Communications|
 
 
 
