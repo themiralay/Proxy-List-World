@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|15|67.43.236.18|30805|Canada|Montreal|GloboTech Communications|
-|16|149.78.186.161|8888|Brazil|Barueri|Qnax Ltda|
-|17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|19|111.225.153.7|8089|China|Zhoutou|China Telecom|
-|20|111.225.153.248|8089|China|Zhoutou|China Telecom|
+|10|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|89.116.187.65|3128|United States|Chicago|Hostinger International Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|16|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
