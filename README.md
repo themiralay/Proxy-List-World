@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
-|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|16|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|8|103.45.247.128|8119|Netherlands|Amsterdam|Kamatera Inc|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|15|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
