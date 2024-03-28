@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|18|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|19|67.43.228.250|26909|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
