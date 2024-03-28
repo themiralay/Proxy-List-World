@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|123.182.59.162|8089|China|Zhangjiakou|China Telecom|
-|12|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|67.43.236.20|4385|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7273|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.164.178|7273|Canada|Montreal|GloboTech Communications|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|123.182.59.162|8089|China|Zhangjiakou|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
