@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.196.136.141|3128|United States|New York|Verizon Business|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|181.78.85.45|998|Colombia|Juan de Acosta|IFX Networks Argentina S.R.L|
-|9|103.165.156.179|3125|Indonesia|Jember|PT. MEGA ARTHA LINTAS DATA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.124.77.148|3128|Bulgaria|Sofia|DA International Group Ltd.|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|103.231.248.98|3128|Vietnam|Tay Ho|MTD|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|17|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|18|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
