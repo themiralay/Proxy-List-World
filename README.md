@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|4|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|157.245.218.226|8118|United States|Clifton|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|17|72.10.160.170|3693|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|103.177.21.9|8080|Indonesia|Malang|PT Lintas Data Multimedia|
+|8|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|115.73.3.51|6003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
