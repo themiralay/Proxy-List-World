@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.236.20|27121|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|10059|Canada|Montreal|GloboTech Communications|
-|18|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
-|19|72.10.160.170|2051|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4949|Canada|Montreal|GloboTech Communications|
+|15|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|45.11.95.165|5043|Russia|Moscow|Delta Ltd|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
