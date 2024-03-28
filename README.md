@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|7|123.182.59.109|8089|China|Zhangjiakou|China Telecom|
-|8|67.43.227.228|8271|Canada|Montreal|GloboTech Communications|
-|9|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|10|67.43.228.250|29915|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|28147|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|16951|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|15|67.43.227.226|23351|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|29915|Canada|Montreal|GloboTech Communications|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.228.252|13199|Canada|Montreal|GloboTech Communications|
-|19|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|20|67.43.236.19|27271|Canada|Montreal|GloboTech Communications|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|7|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|111.225.153.24|8089|China|Zhoutou|China Telecom|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|14|67.43.227.228|8271|Canada|Montreal|GloboTech Communications|
+|15|123.182.59.109|8089|China|Zhangjiakou|China Telecom|
+|16|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|17|20.193.128.199|3128|India|Pune|Microsoft Corporation|
+|18|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|77.68.111.73|3128|United Kingdom|Corby|IONOS SE|
 
 
 
