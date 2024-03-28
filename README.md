@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|165.22.96.68|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|52.160.123.24|3128|United States|San Francisco|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|123.182.59.168|8089|China|Zhangjiakou|China Telecom|
 
 
 
