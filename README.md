@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|35.226.208.110|8888|United States|Council Bluffs|Google LLC|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|35.226.208.110|8888|United States|Council Bluffs|Google LLC|
-|14|116.105.71.247|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|183.3.221.130|3128|China|Guangzhou|Chinanet|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.228.253|14001|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|3013|Canada|Montreal|GloboTech Communications|
-|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|123.182.59.191|8089|China|Zhangjiakou|China Telecom|
+|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|35.226.208.110|8888|United States|Council Bluffs|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.236.20|20105|Canada|Montreal|GloboTech Communications|
+|17|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|18|72.10.160.173|28237|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
 
 
 
