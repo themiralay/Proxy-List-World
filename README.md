@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|1|208.196.136.141|3128|United States|New York|Verizon Business|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|16|72.10.160.90|22077|Canada|Montreal|GloboTech Communications|
-|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|18|67.43.227.228|27305|Canada|Montreal|GloboTech Communications|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|4|149.28.187.80|12009|Australia|Sydney|The Constant Company|
+|5|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.196.136.141|3128|United States|New York|Verizon Business|
+|8|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|111.225.152.71|8089|China|Zhoutou|China Telecom|
+|12|147.139.212.172|3128|Indonesia|Jakarta|Alibaba.com LLC|
+|13|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|14|72.10.160.90|25419|Canada|Montreal|GloboTech Communications|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|20|67.43.227.227|8499|Canada|Montreal|GloboTech Communications|
 
 
 
