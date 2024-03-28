@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|29619|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|208.196.136.141|3128|United States|New York|Verizon Business|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 
 
 
