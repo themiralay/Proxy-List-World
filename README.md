@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
-|7|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|14|41.222.8.254|8082|Kenya|Nairobi|FAIBA|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|156.54.212.55|3128|Italy|Milan|Telecom Italia S.p.A.|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
