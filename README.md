@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|123.182.59.12|8089|China|Zhangjiakou|China Telecom|
-|15|123.182.59.187|8089|China|Zhangjiakou|China Telecom|
-|16|67.43.236.20|4815|Canada|Montreal|GloboTech Communications|
-|17|111.225.153.9|8089|China|Zhoutou|China Telecom|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|123.182.59.12|8089|China|Zhangjiakou|China Telecom|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|123.182.59.187|8089|China|Zhangjiakou|China Telecom|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|20|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
 
 
 
