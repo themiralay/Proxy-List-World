@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|67.43.228.250|15617|Canada|Montreal|GloboTech Communications|
-|13|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|14|72.10.164.178|15023|Canada|Montreal|GloboTech Communications|
+|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.164.178|15023|Canada|Montreal|GloboTech Communications|
-|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|67.43.228.252|11973|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|67.43.228.250|15617|Canada|Montreal|GloboTech Communications|
+|18|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|19|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|20|67.43.236.19|6401|Canada|Montreal|GloboTech Communications|
 
 
 
