@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|72.10.160.90|14739|Canada|Montreal|GloboTech Communications|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|72.10.160.90|14739|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.160.90|14739|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.160.171|18917|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|3149|Canada|Montreal|GloboTech Communications|
 |19|72.10.160.170|6889|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
 
 
 
