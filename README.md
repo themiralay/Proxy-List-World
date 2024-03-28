@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|118.117.189.198|8089|China|Muping|Chinanet|
-|5|45.11.95.165|5041|Russia|Moscow|Delta Ltd|
-|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|118.117.189.7|8089|China|Muping|Chinanet|
-|9|72.10.160.174|32059|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|12|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|67.43.228.253|10727|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|5009|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|67.43.236.20|5009|Canada|Montreal|GloboTech Communications|
-|19|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|4|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
+|5|72.10.160.170|7855|Canada|Montreal|GloboTech Communications|
+|6|118.117.189.198|8089|China|Muping|Chinanet|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|160.0.198.27|9999|South Africa|Klerksdorp|HERO TELECOMS (PTY) LTD|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|103.99.27.26|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|25417|Canada|Montreal|GloboTech Communications|
+|16|103.15.140.177|44759|Bangladesh|Khulna|ICC COMMUNICATION|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|20|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
 
 
 
