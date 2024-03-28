@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
 |9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|45.62.224.18|80|Canada|Toronto|DataCity|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |17|208.196.136.141|3128|United States|New York|Verizon Business|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
