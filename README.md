@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.163.244.4|83|India|Panipat|Infolink System|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.227.227|16535|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|10309|Canada|Montreal|GloboTech Communications|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|67.43.228.253|18017|Canada|Montreal|GloboTech Communications|
-|20|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|67.43.236.21|10309|Canada|Montreal|GloboTech Communications|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|209.209.10.40|54958|Canada|Montreal|Rica Web Services|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.227.227|20101|Canada|Montreal|GloboTech Communications|
 
 
 
