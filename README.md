@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|4|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|123.182.59.104|8089|China|Zhangjiakou|China Telecom|
-|9|106.75.217.31|80|China|Yangpu|UCLOUD|
-|10|67.43.228.254|24805|Canada|Montreal|GloboTech Communications|
-|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|12|67.43.236.20|27505|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|20443|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|23047|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|11745|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|67.43.228.253|19499|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|27505|Canada|Montreal|GloboTech Communications|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.227.227|23047|Canada|Montreal|GloboTech Communications|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|122.3.139.85|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|123.182.59.104|8089|China|Zhangjiakou|China Telecom|
+|11|170.239.207.226|999|Colombia|Bogotá|FIBERNET|
+|12|38.252.209.112|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|13|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|14|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|67.43.227.227|1589|Canada|Montreal|GloboTech Communications|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|72.10.160.90|10259|Canada|Montreal|GloboTech Communications|
+|19|37.182.79.112|8080|Italy|Vaiano|VODAFONE|
+|20|103.172.70.153|2022|Indonesia|Gemolong|AZNET|
 
 
 
