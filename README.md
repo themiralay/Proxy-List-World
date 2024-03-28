@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|14|208.196.136.141|3128|United States|New York|Verizon Business|
-|15|111.225.153.248|8089|China|Zhoutou|China Telecom|
-|16|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|17|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|67.43.227.228|7487|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|111.225.153.245|8089|China|Zhoutou|China Telecom|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|208.196.136.141|3128|United States|New York|Verizon Business|
+|18|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|19|111.225.152.236|8089|China|Zhoutou|China Telecom|
+|20|72.10.160.170|2749|Canada|Montreal|GloboTech Communications|
 
 
 
