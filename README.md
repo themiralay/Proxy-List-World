@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|103.110.34.136|3125|Indonesia|Grobogan|PT RECONET SEMESTA INDONESIA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|67.43.228.253|3621|Canada|Montreal|GloboTech Communications|
-|13|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|14|114.106.135.87|8089|China|Guangzhou|Chinanet|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.236.21|11591|Canada|Montreal|GloboTech Communications|
+|20|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
