@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|208.196.136.141|3128|United States|New York|Verizon Business|
 |10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|208.196.136.141|3128|United States|New York|Verizon Business|
+|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.90|19437|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2259|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|7227|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.160.90|10041|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|67.43.236.20|14775|Canada|Montreal|GloboTech Communications|
+|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
