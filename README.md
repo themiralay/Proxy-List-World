@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|72.10.160.94|5323|Canada|Montreal|GloboTech Communications|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|72.10.160.94|7085|Canada|Montreal|GloboTech Communications|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|114.106.173.227|8089|China|Shenzhen|Chinanet|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|67.43.228.254|29679|Canada|Montreal|GloboTech Communications|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.160.170|29123|Canada|Montreal|GloboTech Communications|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.160.92|17741|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|14375|Canada|Montreal|GloboTech Communications|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|72.10.160.92|17741|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|5617|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1245|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1245|Canada|Montreal|GloboTech Communications|
 
 
 
