@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|45.190.52.24|8080|Brazil|Ararangua|Exa Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|8|103.137.45.243|33357|India|Pūrna|Wsnl Broadband Private Limited|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|72.10.164.178|1477|Canada|Montreal|GloboTech Communications|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|72.10.160.93|13071|Canada|Montreal|GloboTech Communications|
-|18|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|83.12.149.202|8080|Poland|Raczki Elblaskie|Orange Polska Spolka Akcyjna|
+|12|111.225.152.239|8089|China|Zhoutou|China Telecom|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|111.225.153.40|8089|China|Zhoutou|China Telecom|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 
 
 
