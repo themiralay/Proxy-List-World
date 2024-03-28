@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|208.196.136.141|3128|United States|New York|Verizon Business|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|14|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
-|15|67.43.236.20|22599|Canada|Montreal|GloboTech Communications|
-|16|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
-|17|72.10.160.173|13157|Canada|Montreal|GloboTech Communications|
-|18|51.159.66.158|3128|France|Paris|SCALEWAY|
-|19|72.10.160.90|6985|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|67.43.227.228|25651|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|19|138.122.99.249|999|Mexico|Doctor Mora|Ientc S De RL De CV|
 |20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
