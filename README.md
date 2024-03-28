@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|111.225.153.121|8089|China|Zhoutou|China Telecom|
-|7|67.43.227.227|2361|Canada|Montreal|GloboTech Communications|
-|8|111.225.153.115|8089|China|Zhoutou|China Telecom|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|114.232.110.144|8089|China|Nanjing|Chinanet|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|15|67.43.227.227|2361|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18681|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|67.43.227.227|2361|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|22363|Canada|Montreal|GloboTech Communications|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|67.43.227.227|8351|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
 
 
 
