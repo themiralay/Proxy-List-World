@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|20|72.10.164.178|9795|Canada|Montreal|GloboTech Communications|
 
 
 
