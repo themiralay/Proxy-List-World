@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|165.22.96.68|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|208.196.136.141|3128|United States|New York|Verizon Business|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|208.196.136.141|3128|United States|New York|Verizon Business|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
+|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|14.143.145.35|80|India|New Delhi|Tata Communications Limited|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|19|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|20|31.7.70.215|3128|Iran|Tehran|IR-AT|
 
 
 
