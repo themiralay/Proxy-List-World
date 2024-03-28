@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.196.136.141|3128|United States|New York|Verizon Business|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|208.196.136.141|3128|United States|New York|Verizon Business|
-|19|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|67.43.236.20|29017|Canada|Montreal|GloboTech Communications|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|208.196.136.141|3128|United States|New York|Verizon Business|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|103.10.230.246|1337|Thailand|Phra Nakhon Si Ayutthaya|CATBB|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|36.93.130.219|66|Indonesia|Paseban|Telekomunikasi Indonesia|
 
 
 
