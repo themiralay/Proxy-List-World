@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|7|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|72.10.164.178|22425|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|67.43.228.253|16679|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|3487|Canada|Montreal|GloboTech Communications|
+|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|19|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.11.95.165|6021|Russia|Moscow|Delta Ltd|
+|18|121.36.129.228|3128|China|Xiaolou|Huawei Cloud Service data center|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|103.115.44.109|80|Japan|Chiyoda|Cloudie Limited|
 
 
 
