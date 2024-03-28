@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|67.43.227.227|30977|Canada|Montreal|GloboTech Communications|
-|14|123.182.59.74|8089|China|Zhangjiakou|China Telecom|
-|15|67.43.228.253|29695|Canada|Montreal|GloboTech Communications|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.160.90|11323|Canada|Montreal|GloboTech Communications|
-|19|123.182.59.86|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.236.20|15557|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|67.43.227.227|11883|Canada|Montreal|GloboTech Communications|
+|17|123.182.59.74|8089|China|Zhangjiakou|China Telecom|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|208.196.136.141|3128|United States|New York|Verizon Business|
+|20|208.196.136.141|3128|United States|New York|Verizon Business|
 
 
 
