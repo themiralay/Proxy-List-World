@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|7|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|34.95.231.228|42042|Brazil|Sao Paulo|Google LLC|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|89.37.219.212|8080|Iran|Tehran|Parvaresh Dadeha Co. Private Joint Stock|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|111.225.153.245|8089|China|Zhoutou|China Telecom|
 
 
 
