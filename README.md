@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.236.20|16913|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.93|10003|Canada|Montreal|GloboTech Communications|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|111.225.152.163|8089|China|Zhoutou|China Telecom|
-|15|67.43.236.20|16913|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|15523|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8803|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8803|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5235|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|16913|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|16|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|17|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
