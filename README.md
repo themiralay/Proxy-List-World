@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|77.238.224.152|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|51.158.54.60|3128|France|Paris|SCALEWAY|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|16|142.4.212.137|3128|Canada|Beauharnois|OVH SAS|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.77.182.170|12009|Japan|Komae|The Constant Company|
 |20|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
 
 
