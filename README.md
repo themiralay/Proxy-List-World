@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|123.182.58.176|8089|China|Zhangjiakou|China Telecom|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|208.196.136.141|3128|United States|New York|Verizon Business|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|113.11.183.198|3128|Indonesia|Purwodadi Grobogan|BIZNET|
 
 
 
