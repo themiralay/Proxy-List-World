@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|208.196.136.141|3128|United States|New York|Verizon Business|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|67.43.227.227|20297|Canada|Montreal|GloboTech Communications|
-|11|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|3|208.196.136.141|3128|United States|New York|Verizon Business|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|116.105.71.247|10018|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|149.78.186.161|8888|Brazil|Barueri|Qnax Ltda|
-|17|67.43.236.20|33233|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.228.253|13367|Canada|Montreal|GloboTech Communications|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
