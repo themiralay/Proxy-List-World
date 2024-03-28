@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|208.196.136.141|3128|United States|New York|Verizon Business|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|116.105.71.247|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|14|67.43.236.18|27125|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|67.43.228.252|32065|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|15703|Canada|Montreal|GloboTech Communications|
+|11|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|12|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.160.173|3283|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|67.43.227.228|8665|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
