@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|111.225.152.252|8089|China|Zhoutou|China Telecom|
-|13|49.76.17.133|8089|China|Nanjing|Chinanet|
-|14|123.182.59.48|8089|China|Zhangjiakou|China Telecom|
-|15|67.43.228.253|11523|Canada|Montreal|GloboTech Communications|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|123.182.59.153|8089|China|Zhangjiakou|China Telecom|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|20|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|49.76.17.133|8089|China|Nanjing|Chinanet|
+|15|197.243.49.47|3129|Rwanda|Kigali|BSC|
+|16|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|18|67.43.236.20|13545|Canada|Montreal|GloboTech Communications|
+|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 
 
 
