@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|208.196.136.141|3128|United States|New York|Verizon Business|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|221.162.70.124|3129|South Korea|Goyang-si|Korea Telecom|
 |11|208.196.136.141|3128|United States|New York|Verizon Business|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|107.178.9.186|8080|United States|Springtown|Nextlink Broadband|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|51.195.246.56|1080|United Kingdom|Purfleet|OVH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|72.10.164.178|6331|Canada|Montreal|GloboTech Communications|
+|20|111.225.152.77|8089|China|Zhoutou|China Telecom|
 
 
 
