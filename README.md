@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6114** proxies at the latest update. Usable proxies are below.
+> Scraper found **6174** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|198|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4339|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|19|122.176.48.148|80|India|Gurugram|Bharti Airtel|
+|20|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 
 
 
