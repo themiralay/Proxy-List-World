@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|208.196.136.141|3128|United States|New York|Verizon Business|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|208.196.136.141|3128|United States|New York|Verizon Business|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|13|208.196.136.141|3128|United States|New York|Verizon Business|
-|14|45.33.97.183|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |15|67.43.228.253|4509|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
-|19|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|20|123.182.59.50|8089|China|Zhangjiakou|China Telecom|
+|16|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
