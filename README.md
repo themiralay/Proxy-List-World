@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|208.196.136.141|3128|United States|New York|Verizon Business|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|208.196.136.141|3128|United States|New York|Verizon Business|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|208.196.136.141|3128|United States|New York|Verizon Business|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|123.182.58.83|8089|China|Zhangjiakou|China Telecom|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|123.182.59.86|8089|China|Zhangjiakou|China Telecom|
-|14|72.10.160.170|32801|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|16|45.11.95.165|6024|Russia|Moscow|Delta Ltd|
-|17|72.10.164.178|16293|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|33013|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|33013|Canada|Montreal|GloboTech Communications|
-|20|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|4|208.196.136.141|3128|United States|New York|Verizon Business|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|208.196.136.141|3128|United States|New York|Verizon Business|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|123.182.59.86|8089|China|Zhangjiakou|China Telecom|
+|12|72.10.164.178|4885|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|32801|Canada|Montreal|GloboTech Communications|
+|14|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
+|15|67.43.227.227|7307|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|5225|Canada|Montreal|GloboTech Communications|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|67.43.228.253|5225|Canada|Montreal|GloboTech Communications|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
