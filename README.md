@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |7|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|72.10.164.178|2923|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|25985|Canada|Montreal|GloboTech Communications|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.236.20|10947|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|32527|Canada|Montreal|GloboTech Communications|
-|17|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|18|67.43.227.227|32527|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32527|Canada|Montreal|GloboTech Communications|
-|20|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|222.174.178.122|4999|China|Xintai|Chinanet|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|67.43.227.227|19603|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|25985|Canada|Montreal|GloboTech Communications|
+|13|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|14|67.43.236.20|8827|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|19603|Canada|Montreal|GloboTech Communications|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.236.20|8827|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|15935|Canada|Montreal|GloboTech Communications|
 
 
 
