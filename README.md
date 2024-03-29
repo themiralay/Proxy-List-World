@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
 |10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|67.43.228.251|19225|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|17|67.43.227.227|7925|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
