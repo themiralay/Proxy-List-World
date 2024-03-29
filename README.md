@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|17|72.10.164.178|13727|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|10441|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.250.72.117|3128|Russia|Moscow|Yandex.Cloud LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|14|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
