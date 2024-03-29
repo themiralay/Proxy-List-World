@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.209.10.40|50786|Canada|Montreal|Rica Web Services|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|67.43.236.20|21161|Canada|Montreal|GloboTech Communications|
-|11|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|12|67.43.228.254|22539|Canada|Montreal|GloboTech Communications|
-|13|103.188.168.66|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|16|111.225.152.193|8089|China|Zhoutou|China Telecom|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|67.43.236.18|25823|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.90|31619|Canada|Montreal|GloboTech Communications|
+|10|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|67.43.236.20|21161|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|17035|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|72.10.164.178|17035|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|22405|Canada|Montreal|GloboTech Communications|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
