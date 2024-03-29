@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|5|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|13|116.105.71.247|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2345|Canada|Montreal|GloboTech Communications|
+|7|203.79.29.218|1111|Indonesia|Jakarta|PT Surya Global Teknologi|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.164.178|16781|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2345|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1719|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|12277|Canada|Montreal|GloboTech Communications|
+|19|123.182.58.227|8089|China|Zhangjiakou|China Telecom|
+|20|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
