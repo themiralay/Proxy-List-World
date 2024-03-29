@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|4|179.43.93.198|8080|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|67.43.227.228|15065|Canada|Montreal|GloboTech Communications|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
-|13|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|14|67.43.236.21|1847|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|121.195.170.225|1024|China|Haidian|CERNET|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.236.21|1847|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|15065|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|67.43.228.252|21049|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|67.43.227.228|15065|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|72.10.160.94|31759|Canada|Montreal|GloboTech Communications|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
