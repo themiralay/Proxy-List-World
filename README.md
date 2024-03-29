@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.157.61.166|999|Mexico|Puebla City|Transtelco Inc|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|16|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE|
-|17|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
-|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.227.228|10241|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|87.237.239.57|3128|Uzbekistan|Tashkent|"IST TELEKOM" LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
