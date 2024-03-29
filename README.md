@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|6|103.169.130.46|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|13|64.227.30.121|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|16|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
-|20|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|190.6.204.137|999|Honduras|San Pedro Sula|Cablecolor S.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.112.163.89|8080|Indonesia|Jakarta|24AS|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|72.10.160.90|12965|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
