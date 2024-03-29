@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
-|15|67.43.236.20|30331|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|17|111.225.152.157|8089|China|Zhoutou|China Telecom|
+|18|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
