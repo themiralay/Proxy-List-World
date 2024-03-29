@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|111.225.153.126|8089|China|Zhoutou|China Telecom|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|67.43.227.227|8497|Canada|Montreal|GloboTech Communications|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|72.10.160.174|4787|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|15055|Canada|Montreal|GloboTech Communications|
-|20|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|3|182.53.22.40|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|122.10.101.12|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|111.225.153.126|8089|China|Zhoutou|China Telecom|
+|17|116.105.71.247|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
