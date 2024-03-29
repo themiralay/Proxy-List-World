@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|1|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
 |11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
