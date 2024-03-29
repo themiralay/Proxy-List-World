@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|67.43.227.226|21951|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
 |13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|182.253.10.147|8080|Indonesia|Jakarta Pusat|BIZNET|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|67.43.236.20|20205|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|21951|Canada|Montreal|GloboTech Communications|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
 |18|72.10.164.178|25979|Canada|Montreal|GloboTech Communications|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|67.43.227.229|21951|Canada|Montreal|GloboTech Communications|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
