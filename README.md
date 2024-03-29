@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|103.88.57.203|32650|India|Dehradun|Megahertz Internet Network Pvt. Ltd.|
-|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|12|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
 |15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|11469|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11469|Canada|Montreal|GloboTech Communications|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|67.43.227.226|21085|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|21085|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
