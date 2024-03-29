@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|115.147.26.219|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|11|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
 |12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|113.11.183.198|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|103.119.96.195|8080|Cambodia|Phnom Penh|Mega Truenet Communication Co., Ltd.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|13853|Canada|Montreal|GloboTech Communications|
+|20|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
 
 
 
