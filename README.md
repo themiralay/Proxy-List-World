@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
 |8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|103.87.169.165|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|111.225.152.119|8089|China|Zhoutou|China Telecom|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|72.10.164.178|18445|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|16287|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|67.43.227.228|16287|Canada|Montreal|GloboTech Communications|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 |18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|67.43.236.20|15801|Canada|Montreal|GloboTech Communications|
 
 
 
