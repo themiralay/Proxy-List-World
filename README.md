@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|16|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|18|123.182.59.190|8089|China|Zhangjiakou|China Telecom|
-|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|20|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|8|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|17|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|45.190.170.0|999|Peru|Lima region|Softbutterfly SAC|
+|20|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
