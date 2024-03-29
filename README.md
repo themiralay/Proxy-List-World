@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|212.252.71.9|8080|Türkiye|Gerede|Superonline Iletisim Hizmetleri A.S.|
-|4|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|202.150.134.202|8080|Indonesia|Karawang|PT Comtronics Systems|
-|9|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|10|103.50.4.133|83|India|Hodal|Elxire IT Solution|
-|11|163.20.22.116|3128|Taiwan|Sanchong District|Taiwan Academic Network (TANet) Information Center|
-|12|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
-|13|45.177.179.25|999|Mexico|La Sauceda|Wantelco SAS de CV|
-|14|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|15|94.154.152.104|8079|Albania|Lushnje|Luva Group Sh.p.k.|
-|16|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|17|46.250.239.52|3128|United Kingdom|London|Contabo Asia Private Limited|
-|18|72.10.164.178|24201|Canada|Montreal|GloboTech Communications|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|5|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|17|103.50.4.133|83|India|Hodal|Elxire IT Solution|
+|18|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
 |19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
