@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6787** proxies at the latest update. Usable proxies are below.
+> Scraper found **6788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
 |9|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|111.225.153.28|8089|China|Zhoutou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.228.253|28915|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|31967|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|4687|Canada|Montreal|GloboTech Communications|
-|18|111.225.152.220|8089|China|Zhoutou|China Telecom|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.227.226|2555|Canada|Montreal|GloboTech Communications|
+|10|103.167.69.242|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|11|111.225.152.220|8089|China|Zhoutou|China Telecom|
+|12|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|180.232.127.48|3128|Philippines|Cainta|Eastern Telecommunications Philippines, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|18|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|19|123.182.59.27|8089|China|Zhangjiakou|China Telecom|
+|20|72.10.160.173|15075|Canada|Montreal|GloboTech Communications|
 
 
 
