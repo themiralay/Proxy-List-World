@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|18|72.10.160.90|24203|Canada|Montreal|GloboTech Communications|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
