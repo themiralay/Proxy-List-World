@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|202.5.56.139|5020|Bangladesh|Khulna|BBTS-NEW|
-|11|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
-|12|114.106.171.212|8089|China|Rongcheng|Chinanet|
-|13|72.10.164.178|22869|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|67.43.228.253|9101|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|17|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
 
 
 
