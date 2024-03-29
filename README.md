@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|111.225.152.235|8089|China|Zhoutou|China Telecom|
-|14|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|19|67.43.227.227|16323|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|2675|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|80.66.89.227|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|201.157.61.166|999|Mexico|Puebla City|Transtelco Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
