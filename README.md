@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|141.98.215.29|80|Philippines|Manila|EstNOC OY|
-|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|111.225.152.153|8089|China|Zhoutou|China Telecom|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
