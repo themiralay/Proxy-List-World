@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|20|103.19.59.158|8082|Indonesia|Madiun|BITSNET|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
 
 
 
