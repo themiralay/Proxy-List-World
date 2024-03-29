@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|141.98.215.29|80|Philippines|Manila|EstNOC OY|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|67.43.227.226|18801|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|17761|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|10993|Canada|Montreal|GloboTech Communications|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|141.98.215.29|80|Philippines|Manila|EstNOC OY|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|9|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|13|72.10.164.178|10441|Canada|Montreal|GloboTech Communications|
-|14|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|72.10.160.171|17761|Canada|Montreal|GloboTech Communications|
+|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 |16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|10441|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|1241|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|67.43.236.18|1241|Canada|Montreal|GloboTech Communications|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|72.10.160.170|10993|Canada|Montreal|GloboTech Communications|
 
 
 
