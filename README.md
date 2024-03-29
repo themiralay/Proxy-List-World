@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|182.53.22.40|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|141.98.215.29|80|Philippines|Manila|EstNOC OY|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.170|19975|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|10009|Canada|Montreal|GloboTech Communications|
-|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|182.53.22.40|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|141.98.215.29|80|Philippines|Manila|EstNOC OY|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|72.10.160.170|19975|Canada|Montreal|GloboTech Communications|
+|20|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
