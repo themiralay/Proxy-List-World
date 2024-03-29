@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.58.52.5|80|United States|Dallas|HostUS|
-|10|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|194.124.37.8|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|19|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|9|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|10|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|12|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|13|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|222.174.178.122|4999|China|Xintai|Chinanet|
+|20|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
 
 
 
