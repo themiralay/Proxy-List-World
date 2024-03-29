@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|111.225.152.235|8089|China|Zhoutou|China Telecom|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|110.78.215.113|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|4|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
 
 
 
