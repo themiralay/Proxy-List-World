@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
-|4|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
-|5|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.151.246.10|8084|Indonesia|Bogor|MANAKARRANET|
-|8|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|72.10.160.173|4687|Canada|Montreal|GloboTech Communications|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|121.36.129.228|3128|China|Xiaolou|Huawei Cloud Service data center|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|67.43.228.250|27057|Canada|Montreal|GloboTech Communications|
-|20|217.88.66.153|8080|Germany|Traunstein|Deutsche Telekom AG|
+|2|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|17|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
+|18|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|19|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|20|72.10.160.173|4687|Canada|Montreal|GloboTech Communications|
 
 
 
