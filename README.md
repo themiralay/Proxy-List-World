@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.105.68.9|8080|Indonesia|South Tangerang|PT iForte Global Internet|
-|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|15|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
-|16|222.174.178.122|4999|China|Xintai|Chinanet|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|19|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|8|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
