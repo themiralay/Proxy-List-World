@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|8|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
-|9|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|67.43.236.18|30469|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|26827|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
-|14|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|15|123.182.59.223|8089|China|Zhangjiakou|China Telecom|
-|16|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
-|17|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.19|8089|China|Zhangjiakou|China Telecom|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|7|103.102.85.1|8080|India|Madurāntakam|Amigos Broadband Pvt Ltd|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|72.10.160.90|12657|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
 |19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
 
 
 
