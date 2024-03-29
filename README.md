@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
 |11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|18|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|121.195.170.225|1024|China|Haidian|CERNET|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.227.227|25257|Canada|Montreal|GloboTech Communications|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
