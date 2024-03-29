@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|177.240.20.117|999|Mexico|Maravatio de Ocampo|Mega Cable, S.A. de C.V.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|12|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|67.43.227.229|4501|Canada|Montreal|GloboTech Communications|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|123.182.59.74|8089|China|Zhangjiakou|China Telecom|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.160.170|16561|Canada|Montreal|GloboTech Communications|
-|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|9|47.236.122.108|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|19|67.43.227.229|4501|Canada|Montreal|GloboTech Communications|
+|20|121.195.170.225|1024|China|Haidian|CERNET|
 
 
 
