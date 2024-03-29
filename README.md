@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|2|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|181.209.100.50|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|177.55.247.174|8080|Brazil|Morada Nova|VAS Freitas Servicos de Internet Ltda|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.247.23.69|8080|Indonesia|Cileungsir|PT wifian Solution|
-|20|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
+|11|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
+|12|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|16|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
 
 
 
