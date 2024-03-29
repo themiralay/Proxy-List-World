@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|103.188.168.66|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|12|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|111.225.152.155|8089|China|Zhoutou|China Telecom|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.164.178|17757|Canada|Montreal|GloboTech Communications|
-|18|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|19|123.182.58.166|8089|China|Zhangjiakou|China Telecom|
-|20|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
