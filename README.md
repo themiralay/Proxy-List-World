@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|5|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|6|24.173.4.70|16099|United States|Edinburg|Charter Communications Inc|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|103.105.55.170|8085|Indonesia|Purbalingga|PT. Mega Artha Lintas Data|
-|11|72.10.164.178|3817|Canada|Montreal|GloboTech Communications|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
-|15|67.43.227.226|22785|Canada|Montreal|GloboTech Communications|
-|16|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|18|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
-|19|103.104.92.178|8080|India|Mumbai|Mnk Infoway Private Limited|
-|20|72.10.164.178|3817|Canada|Montreal|GloboTech Communications|
+|9|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.227|10505|Canada|Montreal|GloboTech Communications|
+|13|85.26.218.76|3128|Russia|St Petersburg|North-West Branch of OJSC MegaFon Network|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|46.188.25.233|8080|Russia|Moscow|2COM|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|67.43.227.227|10505|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1529|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1529|Canada|Montreal|GloboTech Communications|
+|20|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
 
 
 
