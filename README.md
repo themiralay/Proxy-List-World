@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|124.16.71.97|7890|China|Haidian|CNIC-CAS|
 |11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|12|124.16.71.97|7890|China|Haidian|CNIC-CAS|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |17|111.225.152.111|8089|China|Zhoutou|China Telecom|
-|18|72.10.164.178|10543|Canada|Montreal|GloboTech Communications|
-|19|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
