@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|182.53.22.40|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|125.57.21.144|3128|South Korea|Seoul|Truenetworks|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|16|111.225.152.251|8089|China|Zhoutou|China Telecom|
-|17|111.225.153.114|8089|China|Zhoutou|China Telecom|
-|18|111.225.152.56|8089|China|Zhoutou|China Telecom|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|67.43.227.228|9497|Canada|Montreal|GloboTech Communications|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
