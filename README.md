@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
