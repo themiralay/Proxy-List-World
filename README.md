@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|122.144.6.66|3777|Indonesia|Jakarta|Maxindo|
-|4|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|5|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|8|217.21.148.70|8080|Albania|Vlorë|Nisatel LTD|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|103.105.76.65|8080|Indonesia|Surabaya|GARUDA|
-|12|49.247.172.19|80|South Korea|Gwangmyeong|SMILESERV|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
-|17|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|20|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|11|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|12|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|13|67.43.227.228|24939|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|2867|Canada|Montreal|GloboTech Communications|
+|15|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
+|18|72.10.160.90|24269|Canada|Montreal|GloboTech Communications|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
 
 
 
