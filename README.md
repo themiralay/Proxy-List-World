@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.251|1093|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|5555|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|4479|Canada|Montreal|GloboTech Communications|
-|17|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|18|51.195.246.56|1080|United Kingdom|Purfleet|OVH|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|67.43.228.253|4479|Canada|Montreal|GloboTech Communications|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|67.43.227.227|33097|Canada|Montreal|GloboTech Communications|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.228.253|4479|Canada|Montreal|GloboTech Communications|
+|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|14|24.173.4.70|16099|United States|Edinburg|Charter Communications Inc|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|187.94.220.85|8080|Brazil|Guacui|Acesse Comunicação Ltda|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|67.43.228.250|31289|Canada|Montreal|GloboTech Communications|
+|19|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
