@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|17|111.225.153.126|8089|China|Zhoutou|China Telecom|
-|18|72.10.160.170|19063|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|67.43.228.253|1509|Canada|Montreal|GloboTech Communications|
+|10|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|67.43.228.251|24985|Canada|Montreal|GloboTech Communications|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|72.10.160.170|24647|Canada|Montreal|GloboTech Communications|
 
 
 
