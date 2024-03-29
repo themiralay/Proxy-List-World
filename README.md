@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|103.87.169.187|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|13|52.118.208.29|3128|United States|Chicago|SoftLayer|
-|14|123.182.58.240|8089|China|Zhangjiakou|China Telecom|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|5393|Canada|Montreal|GloboTech Communications|
-|18|123.182.58.253|8089|China|Zhangjiakou|China Telecom|
-|19|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|2|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|105.113.2.82|8080|Nigeria|Lagos|Airtel Networks Limited|
+|16|52.118.208.29|3128|United States|Chicago|SoftLayer|
+|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|116.105.71.247|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 
 
 
