@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|46.250.242.57|3128|United Kingdom|London|Contabo Asia Private Limited|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|92.242.212.50|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|202.93.245.46|8080|Indonesia|Surabaya|DWPNAP|
-|17|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
-|18|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|19|72.10.164.178|5001|Canada|Montreal|GloboTech Communications|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|1|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|46.250.242.57|3128|United Kingdom|London|Contabo Asia Private Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
