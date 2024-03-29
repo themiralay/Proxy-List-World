@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|72.10.164.178|13017|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|13017|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|72.10.164.178|13017|Canada|Montreal|GloboTech Communications|
-|15|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|16|45.189.149.140|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|17|67.43.228.251|1953|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|2571|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25433|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|14985|Canada|Montreal|GloboTech Communications|
+|3|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|9|195.138.94.169|41890|Ukraine|Odesa|TeNeT Networking Centre|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|112.78.163.110|80|Indonesia|Jakarta|Biznet Networks|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
 
 
 
