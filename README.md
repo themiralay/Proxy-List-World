@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|8|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|9|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
-|10|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
-|13|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|14|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|67.43.227.227|22933|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
+|10|72.10.160.90|23969|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|28483|Canada|Montreal|GloboTech Communications|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|67.43.227.227|28483|Canada|Montreal|GloboTech Communications|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|117.102.73.99|8080|Indonesia|Jakarta|Biznet Networks|
+|18|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|19|72.10.164.178|18285|Canada|Montreal|GloboTech Communications|
+|20|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
