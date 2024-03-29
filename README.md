@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|20|72.10.160.90|5057|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|19|72.10.160.90|16241|Canada|Montreal|GloboTech Communications|
+|20|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
