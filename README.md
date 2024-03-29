@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|177.54.229.3|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.90|22201|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.164.178|26889|Canada|Montreal|GloboTech Communications|
-|18|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|19|111.225.152.195|8089|China|Zhoutou|China Telecom|
-|20|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|111.225.152.71|8089|China|Zhoutou|China Telecom|
+|15|72.10.160.90|24719|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|32643|Canada|Montreal|GloboTech Communications|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|67.43.227.228|2651|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|116.105.71.247|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
