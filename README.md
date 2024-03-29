@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|103.9.134.234|100|Bangladesh|Tongi|Information Services Network Ltd|
 |3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|6|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A|
-|7|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|67.43.236.20|24339|Canada|Montreal|GloboTech Communications|
-|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|18|67.43.236.20|24339|Canada|Montreal|GloboTech Communications|
+|19|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|20|111.225.153.221|8089|China|Zhoutou|China Telecom|
 
 
 
