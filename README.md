@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|46.188.25.233|8080|Russia|Moscow|2COM|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|203.150.172.151|8080|Thailand|Khlong Luang|Internet Thailand Company Ltd.|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|14|103.160.15.38|3125|Indonesia|Tanjung Pinang|PT INFORMASI NUSANTARA TEKNOLOGI|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|103.172.42.218|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
-|19|72.10.164.178|12897|Canada|Montreal|GloboTech Communications|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
 
 
 
