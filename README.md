@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|4|147.28.122.246|8118|United Kingdom|Tonbridge|Trooli Ltd|
+|5|201.168.199.7|999|Mexico|Zapopan|Marcatel Com, S.A. de C.V.|
+|6|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|9|46.188.25.233|8080|Russia|Moscow|2COM|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|13|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
 |14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.228|11899|Canada|Montreal|GloboTech Communications|
-|17|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|8.242.85.6|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|103.162.141.146|8085|Indonesia|Kabil|PT Filltech Antar Nusa|
+|19|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
