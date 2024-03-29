@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|12|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|123.182.59.234|8089|China|Zhangjiakou|China Telecom|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|220.134.221.76|1131|Taiwan|Taipei City|Chunghwa Telecom Co., Ltd.|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|14|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
+|15|72.10.164.178|20201|Canada|Montreal|GloboTech Communications|
+|16|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|123.182.59.234|8089|China|Zhangjiakou|China Telecom|
+|20|89.117.22.247|3128|United States|Seattle|Nubes, LLC|
 
 
 
