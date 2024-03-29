@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
-|4|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|5|103.20.97.32|8888|Vietnam|An Phú|Fast Byte Fast Data Company Limited|
-|6|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|7|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
-|10|77.137.21.78|19000|Israel|Haifa|Hot-Net internet services Ltd.|
-|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
-|14|186.215.87.194|6006|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|15|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
-|18|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|1|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
+|4|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|72.10.164.178|8333|Canada|Montreal|GloboTech Communications|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|14|67.43.227.227|13063|Canada|Montreal|GloboTech Communications|
+|15|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|18|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|19|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|20|200.95.184.62|999|Chile|Chillan|Comunicaciones Cablevision Ltda.|
 
 
 
