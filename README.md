@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|5|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|67.43.227.228|12931|Canada|Montreal|GloboTech Communications|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.228.250|5165|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|31281|Canada|Montreal|GloboTech Communications|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|13|103.105.76.65|8080|Indonesia|Surabaya|GARUDA|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|111.225.153.241|8089|China|Zhoutou|China Telecom|
-|16|222.174.178.122|4999|China|Xintai|Chinanet|
-|17|183.165.250.208|8089|China|Shenzhen|Chinanet|
-|18|67.43.236.20|31281|Canada|Montreal|GloboTech Communications|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.160.90|29187|Canada|Montreal|GloboTech Communications|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|67.43.227.228|12931|Canada|Montreal|GloboTech Communications|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|222.174.178.122|4999|China|Xintai|Chinanet|
+|14|67.43.228.250|5165|Canada|Montreal|GloboTech Communications|
+|15|123.182.59.104|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.228.250|5165|Canada|Montreal|GloboTech Communications|
+|17|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
