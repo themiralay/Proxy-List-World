@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|18|67.43.236.22|6273|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
