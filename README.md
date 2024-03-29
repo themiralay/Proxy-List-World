@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|125.167.230.70|80|Indonesia|Samarinda|PT. TELKOM INDONESIA|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|11|103.50.76.98|443|India|Mumbai|Jetway Broadband|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|36.66.111.81|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|181.209.100.50|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|6|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|103.4.94.2|8080|Pakistan|Model Town One|HEC|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|103.67.47.255|8080|Indonesia|Kampungjawa|PT JARINGANKU SARANA NUSANTARA|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
