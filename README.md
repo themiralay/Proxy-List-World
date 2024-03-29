@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|45.11.95.165|5032|Russia|Moscow|Delta Ltd|
-|12|72.10.160.90|13021|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|21401|Canada|Montreal|GloboTech Communications|
-|14|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|16|111.225.153.40|8089|China|Zhoutou|China Telecom|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.94|16991|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21401|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21401|Canada|Montreal|GloboTech Communications|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|72.10.160.170|23957|Canada|Montreal|GloboTech Communications|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|72.10.160.90|13021|Canada|Montreal|GloboTech Communications|
+|16|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.160.94|16991|Canada|Montreal|GloboTech Communications|
 
 
 
