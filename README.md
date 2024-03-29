@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6431** proxies at the latest update. Usable proxies are below.
+> Scraper found **6432** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|63|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|308|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|3|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|5|103.211.107.77|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.125.184.46|999|Venezuela|Los Guayos|Gold Data USA Inc|
-|13|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.227.226|24693|Canada|Montreal|GloboTech Communications|
-|16|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|17|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|18|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|19|202.2.118.130|3129|Tuvalu|Funafuti|Government-OUTERISLANDS|
-|20|67.43.227.227|29685|Canada|Montreal|GloboTech Communications|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.227.226|24693|Canada|Montreal|GloboTech Communications|
+|10|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
+|13|103.105.76.49|8080|Indonesia|Surabaya|GARUDA|
+|14|111.225.152.217|8089|China|Zhoutou|China Telecom|
+|15|202.2.118.130|3129|Tuvalu|Funafuti|Government-OUTERISLANDS|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|67.43.227.227|29685|Canada|Montreal|GloboTech Communications|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|67.43.228.250|1845|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
