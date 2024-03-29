@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|5|103.105.76.214|9090|Indonesia|Surabaya|GARUDA|
-|6|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|9|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|10|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|9|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|72.10.164.178|6607|Canada|Montreal|GloboTech Communications|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
