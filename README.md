@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|103.217.224.53|3127|Indonesia|Semarang|PT Nesta Indo Media|
-|4|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|5|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|16|72.10.164.178|13087|Canada|Montreal|GloboTech Communications|
-|17|178.134.31.226|8080|Georgia|Tbilisi|JSC "Silknet"|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|10|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|14|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 
 
 
