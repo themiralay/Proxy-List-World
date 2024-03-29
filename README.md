@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|19|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|20|67.43.227.228|5225|Canada|Montreal|GloboTech Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|72.10.160.90|11575|Canada|Montreal|GloboTech Communications|
+|19|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|20|72.10.160.172|16897|Canada|Montreal|GloboTech Communications|
 
 
 
