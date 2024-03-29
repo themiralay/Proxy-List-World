@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|146.190.53.175|32775|United States|Santa Clara|DigitalOcean, LLC|
-|7|67.43.227.228|16527|Canada|Montreal|GloboTech Communications|
-|8|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|9|72.10.164.178|2475|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|72.10.164.178|2475|Canada|Montreal|GloboTech Communications|
-|13|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|67.43.236.20|30641|Canada|Montreal|GloboTech Communications|
-|16|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|67.43.227.227|20793|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|9337|Canada|Montreal|GloboTech Communications|
-|19|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|20|177.242.201.5|999|Mexico|San Miguel de Allende|Mega Cable, S.A. de C.V.|
+|2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|14|46.188.25.233|8080|Russia|Moscow|2COM|
+|15|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
+|16|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|17|121.195.170.225|1024|China|Haidian|CERNET|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
