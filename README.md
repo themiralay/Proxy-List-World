@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6851** proxies at the latest update. Usable proxies are below.
+> Scraper found **6827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|265|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4795|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|134.122.22.233|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|67.43.236.21|23507|Canada|Montreal|GloboTech Communications|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|10453|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.228.253|3917|Canada|Montreal|GloboTech Communications|
+|1|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|134.122.22.233|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.236.21|16031|Canada|Montreal|GloboTech Communications|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|67.43.228.253|31993|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
