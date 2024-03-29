@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|6|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|72.10.164.178|18673|Canada|Montreal|GloboTech Communications|
-|9|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|10|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|72.10.160.171|6329|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18673|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|111.225.152.179|8089|China|Zhoutou|China Telecom|
-|16|36.89.212.253|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|67.43.227.228|11997|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|5723|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.227.228|11997|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|67.43.236.20|32887|Canada|Montreal|GloboTech Communications|
+|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|16|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|38.49.129.154|999|Mexico|San Felipe|Ientc S De RL De CV|
+|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.236.20|32887|Canada|Montreal|GloboTech Communications|
 
 
 
