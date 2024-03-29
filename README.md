@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|11|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|12|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|123.182.58.217|8089|China|Zhangjiakou|China Telecom|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|17|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
 
 
 
