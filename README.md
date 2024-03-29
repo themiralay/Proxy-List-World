@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|66.70.238.78|8888|Canada|Beauharnois|OVH SAS|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|67.43.227.227|27701|Canada|Montreal|GloboTech Communications|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|18|67.43.236.20|33271|Canada|Montreal|GloboTech Communications|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|194.195.86.222|3128|United States|Phoenix|HOSTINGER US|
+|5|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|10|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|11|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|111.225.153.9|8089|China|Zhoutou|China Telecom|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
