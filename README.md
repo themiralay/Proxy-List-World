@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |4|35.203.120.169|80|Canada|Montreal|Google LLC|
-|5|72.10.160.170|25383|Canada|Montreal|GloboTech Communications|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|72.10.160.174|31537|Canada|Montreal|GloboTech Communications|
-|10|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|7|72.10.160.170|25383|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.253|13793|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.251|2799|Canada|Montreal|GloboTech Communications|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|12|111.225.152.89|8089|China|Zhoutou|China Telecom|
 |13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|123.182.59.253|8089|China|Zhangjiakou|China Telecom|
-|18|49.76.17.159|8089|China|Nanjing|Chinanet|
-|19|49.76.17.159|8089|China|Nanjing|Chinanet|
-|20|72.10.164.178|22135|Canada|Montreal|GloboTech Communications|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|67.43.228.253|13793|Canada|Montreal|GloboTech Communications|
 
 
 
