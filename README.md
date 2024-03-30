@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|5|193.181.35.108|8118|Sweden|Stockholm|PVDataNet AB|
-|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|5|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|6|34.81.9.136|3128|Taiwan|Taipei|Google LLC|
+|7|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
 |8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|34.81.9.136|3128|Taiwan|Taipei|Google LLC|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
+|16|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.227.187.1|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
 
 
 
