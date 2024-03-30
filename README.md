@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|72.10.164.178|11297|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|10199|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|72.10.160.171|14093|Canada|Montreal|GloboTech Communications|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|72.10.160.92|5197|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|26627|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|10199|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|188.132.222.70|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.160.170|2051|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11297|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|30159|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11297|Canada|Montreal|GloboTech Communications|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|118.117.190.65|8089|China|Muping|Chinanet|
+|19|72.10.160.171|14093|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|31687|Canada|Montreal|GloboTech Communications|
 
 
 
