@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|222.174.178.122|4999|China|Xintai|Chinanet|
-|10|67.43.236.20|15631|Canada|Montreal|GloboTech Communications|
-|11|111.225.153.103|8089|China|Zhoutou|China Telecom|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|3|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|201.77.111.231|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
+|8|222.174.178.122|4999|China|Xintai|Chinanet|
+|9|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|10|45.11.95.166|6004|Russia|Moscow|Delta Ltd|
+|11|72.10.160.170|19201|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|111.225.152.93|8089|China|Zhoutou|China Telecom|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|123.182.59.153|8089|China|Zhangjiakou|China Telecom|
-|16|72.10.160.170|19201|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|28105|Canada|Montreal|GloboTech Communications|
-|18|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.227.227|24319|Canada|Montreal|GloboTech Communications|
+|15|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|116.171.98.51|8089|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
