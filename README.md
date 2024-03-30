@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|36.88.22.211|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|72.10.164.178|27077|Canada|Montreal|GloboTech Communications|
-|12|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|13|111.225.152.93|8089|China|Zhoutou|China Telecom|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|67.43.228.253|15565|Canada|Montreal|GloboTech Communications|
-|16|111.225.152.80|8089|China|Zhoutou|China Telecom|
-|17|123.182.58.129|8089|China|Zhangjiakou|China Telecom|
-|18|67.43.227.227|25797|Canada|Montreal|GloboTech Communications|
-|19|123.182.59.162|8089|China|Zhangjiakou|China Telecom|
-|20|222.174.178.122|4999|China|Xintai|Chinanet|
+|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|111.225.152.93|8089|China|Zhoutou|China Telecom|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.227.227|25797|Canada|Montreal|GloboTech Communications|
+|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|67.43.228.253|15565|Canada|Montreal|GloboTech Communications|
+|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|13|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
+|14|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|72.10.160.170|31229|Canada|Montreal|GloboTech Communications|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|45.11.95.165|5026|Russia|Moscow|Delta Ltd|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
