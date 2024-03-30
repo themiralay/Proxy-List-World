@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.32.29.244|3128|Germany|Berlin|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.227.227|27037|Canada|Montreal|GloboTech Communications|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|72.10.164.178|23137|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
