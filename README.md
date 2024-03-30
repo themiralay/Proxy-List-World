@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|103.137.45.74|21758|India|Pūrna|Wsnl Broadband Private Limited|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.228.253|13039|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|67.43.228.253|13039|Canada|Montreal|GloboTech Communications|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|16|20.240.200.86|8080|Sweden|Gävle|Microsoft Corporation|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|111.225.152.27|8089|China|Zhoutou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.236.20|14919|Canada|Montreal|GloboTech Communications|
+|20|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
