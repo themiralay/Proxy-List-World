@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
 |9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|67.43.227.227|2181|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|24067|Canada|Montreal|GloboTech Communications|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|72.10.160.170|4169|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|67.43.227.227|2181|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|138.68.97.56|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|72.10.160.170|8067|Canada|Montreal|GloboTech Communications|
+|14|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|67.43.227.227|25481|Canada|Montreal|GloboTech Communications|
+|18|197.98.201.97|11020|South Africa|Johannesburg|Dimension Data|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.236.20|3815|Canada|Montreal|GloboTech Communications|
 
 
 
