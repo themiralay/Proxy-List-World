@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.228.253|20415|Canada|Montreal|GloboTech Communications|
-|12|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|13|67.43.228.251|23509|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|30641|Canada|Montreal|GloboTech Communications|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|67.43.228.250|7265|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|6767|Canada|Montreal|GloboTech Communications|
-|18|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|19|72.10.164.178|1397|Canada|Montreal|GloboTech Communications|
-|20|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|72.10.160.90|30641|Canada|Montreal|GloboTech Communications|
+|19|14.225.204.46|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
 
 
 
