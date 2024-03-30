@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.228|15885|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|200.59.184.66|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.236.20|29953|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|8687|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|23783|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|72.10.164.178|8687|Canada|Montreal|GloboTech Communications|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|10|200.59.184.66|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.160.90|23783|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
