@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|49.76.17.159|8089|China|Nanjing|Chinanet|
-|10|119.76.142.164|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|13|111.225.153.32|8089|China|Zhoutou|China Telecom|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.228|17383|Canada|Montreal|GloboTech Communications|
-|19|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|3|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|13|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|111.225.153.32|8089|China|Zhoutou|China Telecom|
+|17|67.43.236.20|15631|Canada|Montreal|GloboTech Communications|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|139.159.157.10|3128|China|Guangzhou|Huawei Cloud Service data center|
+|20|111.225.153.100|8089|China|Zhoutou|China Telecom|
 
 
 
