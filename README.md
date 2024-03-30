@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|162.252.147.225|8282|United States|New Paris|ALTIUS Broadband, LLC|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|123.182.59.191|8089|China|Zhangjiakou|China Telecom|
+|7|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|8|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|123.182.59.221|8089|China|Zhangjiakou|China Telecom|
-|19|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|6871|Canada|Montreal|GloboTech Communications|
+|20|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 
 
 
