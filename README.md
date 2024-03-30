@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|114.252.229.86|9000|China|Beijing|China Unicom Beijing Province Network|
-|6|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|7|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|11|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.144.102.125|8080|Indonesia|Indramayu|PANDAWANET|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |17|67.43.227.227|21027|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2589|Canada|Montreal|GloboTech Communications|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.164.178|2589|Canada|Montreal|GloboTech Communications|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
