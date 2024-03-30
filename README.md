@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|15|123.182.59.234|8089|China|Zhangjiakou|China Telecom|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|18|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.197.178.186|3128|Hong Kong|Central|PCCW IMSBiz|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|119.93.43.16|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|19|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
 
 
 
