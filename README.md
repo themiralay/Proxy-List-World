@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|67.43.228.252|32247|Canada|Montreal|GloboTech Communications|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|67.43.228.253|2149|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|17813|Canada|Montreal|GloboTech Communications|
-|11|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
-|12|67.43.227.229|2523|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|2|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|115.245.86.37|3129|India|Chennai|Reliance Jio Infocomm Limited|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|11|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|13|67.43.228.252|32247|Canada|Montreal|GloboTech Communications|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|67.43.236.20|32025|Canada|Montreal|GloboTech Communications|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.228.253|2149|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|32025|Canada|Montreal|GloboTech Communications|
+|19|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|20|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
 
 
 
