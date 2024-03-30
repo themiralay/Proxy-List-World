@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.32.29.244|3128|Germany|Berlin|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.236.20|15557|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|13229|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16055|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.227.227|16055|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|38.49.129.154|999|Mexico|San Felipe|Ientc S De RL De CV|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
+|18|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|19|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
