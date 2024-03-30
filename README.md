@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|67.43.227.227|14733|Canada|Montreal|GloboTech Communications|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|67.43.236.20|26203|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|6483|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|15|67.43.236.20|28817|Canada|Montreal|GloboTech Communications|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
