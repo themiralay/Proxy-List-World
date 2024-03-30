@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|14|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|111.225.152.93|8089|China|Zhoutou|China Telecom|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |15|72.10.160.90|31657|Canada|Montreal|GloboTech Communications|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|103.118.175.189|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|16|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
+|17|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
