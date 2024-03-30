@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
 |4|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|5|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|6|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|10|157.100.57.217|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|15|123.182.59.209|8089|China|Zhangjiakou|China Telecom|
-|16|72.10.160.90|1777|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|27571|Canada|Montreal|GloboTech Communications|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|67.43.228.253|23501|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.52|8089|China|Zhangjiakou|China Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|7|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|181.39.64.26|999|Ecuador|Guayaquil|Telconet S.A|
+|9|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|167.99.219.173|8118|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|72.10.160.94|27571|Canada|Montreal|GloboTech Communications|
 
 
 
