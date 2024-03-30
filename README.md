@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|103.129.221.83|3128|Indonesia|Cicurug|PT. Awan Kilat Semesta|
-|10|223.197.178.186|3128|Hong Kong|Central|PCCW IMSBiz|
-|11|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|72.10.160.90|13749|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|15743|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|20663|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|124.122.1.123|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|17|72.10.164.178|1883|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
