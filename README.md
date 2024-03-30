@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.156.93.13|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|10|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|123.182.59.115|8089|China|Zhangjiakou|China Telecom|
-|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|15|72.10.160.170|6521|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|8457|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
-|18|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.160.91|8715|Canada|Montreal|GloboTech Communications|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|123.182.58.186|8089|China|Zhangjiakou|China Telecom|
+|15|72.10.160.173|8457|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|8715|Canada|Montreal|GloboTech Communications|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|67.43.236.20|7489|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|26509|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
