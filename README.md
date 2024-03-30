@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|13|103.147.247.212|1234|Indonesia|Tangerang|PLBNET|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|149.28.164.3|12009|Australia|Sydney|The Constant Company|
-|18|67.43.228.253|3183|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.121|8089|China|Zhoutou|China Telecom|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|146.56.98.158|3128|South Korea|Chuncheon|Oracle Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|16|103.147.247.212|1234|Indonesia|Tangerang|PLBNET|
+|17|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|18|67.43.228.253|20741|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
