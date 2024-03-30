@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|201.77.108.72|999|Mexico|Jimenez|Nidix Networks S.a. De C.V.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|138.97.37.115|8189|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
+|9|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|67.43.236.20|8175|Canada|Montreal|GloboTech Communications|
-|18|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|180.178.98.93|2526|Indonesia|Pisangan|PT Hipernet Indodata|
+|17|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|20|67.43.227.227|5339|Canada|Montreal|GloboTech Communications|
 
 
 
