@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|6|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|167.250.222.233|999|Mexico|Comalapa|Ufinet Panama S.A.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|45.11.95.165|5025|Russia|Moscow|Delta Ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
-|20|178.22.52.21|8080|Russia|Kuznetsovo|Ramtel Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|6|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
+|7|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
 
 
 
