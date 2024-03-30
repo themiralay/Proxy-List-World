@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.43.236.20|18525|Canada|Montreal|GloboTech Communications|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|123.182.59.210|8089|China|Zhangjiakou|China Telecom|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|13|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|8|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|27.254.123.203|8443|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.11.95.165|5034|Russia|Moscow|Delta Ltd|
+|14|67.43.236.20|32025|Canada|Montreal|GloboTech Communications|
 |15|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|16|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|17|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|67.43.228.252|32247|Canada|Montreal|GloboTech Communications|
+|16|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|111.225.152.93|8089|China|Zhoutou|China Telecom|
 
 
 
