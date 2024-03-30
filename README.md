@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|12|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|16|72.10.160.173|31527|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|27221|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.236.20|31687|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|4589|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|115.76.192.236|30190|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|67.43.236.20|15503|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.93|27221|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|19|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
