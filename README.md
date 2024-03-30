@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|94.72.117.74|3128|United States|St Louis|Nubes, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|206.189.60.203|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|8|211.20.17.194|8080|Taiwan|Linkou District|Chunghwa Telecom Co., Ltd.|
-|9|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|10|94.72.117.74|3128|United States|St Louis|Nubes, LLC|
-|11|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
-|16|111.225.153.135|8089|China|Zhoutou|China Telecom|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|192.140.225.70|9090|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|12|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
+|13|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|18|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
