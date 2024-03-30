@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
 |12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|27.158.204.120|8089|China|Guangzhou|Chinanet|
-|16|67.43.228.253|29629|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|4431|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|67.43.228.253|29629|Canada|Montreal|GloboTech Communications|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
