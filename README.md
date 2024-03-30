@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|67.43.227.227|18939|Canada|Montreal|GloboTech Communications|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|72.10.160.91|23495|Canada|Montreal|GloboTech Communications|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|72.10.160.90|32887|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|25301|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25301|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|3053|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.160.90|13389|Canada|Montreal|GloboTech Communications|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
+|19|67.43.236.20|18695|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17841|Canada|Montreal|GloboTech Communications|
 
 
 
