@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|7|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|67.43.228.253|12377|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|29287|Canada|Montreal|GloboTech Communications|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
-|13|72.10.160.171|30783|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|122.54.92.233|8080|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
-|17|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
-|18|104.248.207.60|80|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
+|18|67.43.228.253|5423|Canada|Montreal|GloboTech Communications|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
 
 
 
