@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|5|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|190.97.232.137|999|Venezuela|Vigia|Viginet C.A|
-|18|94.72.117.74|3128|United States|St Louis|Nubes, LLC|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|1|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.190.170.134|3127|Indonesia|Purworejo|PT Ring Media Nusantara|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|38.7.17.163|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|9|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
+|10|103.164.116.172|8080|Indonesia|Jakarta Pusat|SOLUSINET|
+|11|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|190.97.232.137|999|Venezuela|Vigia|Viginet C.A|
+|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|17|103.190.171.179|8080|Indonesia|Jakarta|WMS|
+|18|37.60.238.249|3128|United States|Chicago|Contabo GmbH|
+|19|179.189.222.187|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
