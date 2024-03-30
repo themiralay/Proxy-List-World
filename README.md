@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |2|119.76.142.164|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
 |3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|5|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|72.10.164.178|17751|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|67.43.228.253|31735|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|45.11.95.165|5047|Russia|Moscow|Delta Ltd|
-|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|72.10.164.178|27077|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|67.43.228.253|4487|Canada|Montreal|GloboTech Communications|
 
 
 
