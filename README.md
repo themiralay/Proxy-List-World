@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |9|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|144.137.217.187|80|Australia|Sydney|Telstra Internet|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.236.20|26203|Canada|Montreal|GloboTech Communications|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|18|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
