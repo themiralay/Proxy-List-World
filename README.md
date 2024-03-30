@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|34.32.29.244|3128|Germany|Berlin|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|46.188.25.233|8080|Russia|Moscow|2COM|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|19|67.43.227.228|5001|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
 
 
 
