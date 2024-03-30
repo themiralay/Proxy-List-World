@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|3|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|4|115.245.86.37|3129|India|Chennai|Reliance Jio Infocomm Limited|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|123.182.59.111|8089|China|Zhangjiakou|China Telecom|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|72.10.160.94|21233|Canada|Montreal|GloboTech Communications|
-|11|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.236.18|2729|Canada|Montreal|GloboTech Communications|
-|13|111.225.152.250|8089|China|Zhoutou|China Telecom|
-|14|123.182.58.9|8089|China|Zhangjiakou|China Telecom|
-|15|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|45.11.95.165|5020|Russia|Moscow|Delta Ltd|
-|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|19|72.10.160.91|4245|Canada|Montreal|GloboTech Communications|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|72.10.164.178|27077|Canada|Montreal|GloboTech Communications|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|123.182.59.111|8089|China|Zhangjiakou|China Telecom|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|116.171.98.51|8089|China|Jinrongjie|China Unicom CHINA169 Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|45.11.95.165|5023|Russia|Moscow|Delta Ltd|
+|15|67.43.227.227|25797|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.94|21233|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|17293|Canada|Montreal|GloboTech Communications|
+|18|45.67.210.47|3389|The Netherlands|Amsterdam|G-Core Labs S.A.|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
