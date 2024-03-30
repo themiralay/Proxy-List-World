@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|67.43.236.20|27199|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|72.10.160.90|6327|Canada|Montreal|GloboTech Communications|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|200.59.184.66|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.253|2211|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|20|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|16|72.10.164.178|29177|Canada|Montreal|GloboTech Communications|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
