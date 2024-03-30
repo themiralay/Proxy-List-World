@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|72.10.160.90|17089|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|17525|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.160.90|17089|Canada|Montreal|GloboTech Communications|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|67.43.236.18|17525|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
+|16|223.247.46.38|8089|China|Rongcheng|Chinanet|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|20|67.43.236.18|5089|Canada|Montreal|GloboTech Communications|
 
 
 
