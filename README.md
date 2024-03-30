@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|123.182.58.24|8089|China|Zhangjiakou|China Telecom|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|72.10.160.94|1877|Canada|Montreal|GloboTech Communications|
-|14|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|17|67.43.228.253|14969|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|14969|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|14857|Canada|Montreal|GloboTech Communications|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|8|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|9|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|67.43.228.253|7297|Canada|Montreal|GloboTech Communications|
+|12|123.182.58.24|8089|China|Zhangjiakou|China Telecom|
+|13|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|72.10.160.90|17347|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|11975|Canada|Montreal|GloboTech Communications|
+|17|103.69.150.220|80|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|18|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
