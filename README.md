@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|212.23.217.35|8080|Iraq|Abu Ghraib|Optimum Line for Internet Services Ltd.|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|10|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
-|12|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|13|67.43.227.227|1631|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.227.228|1549|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|9875|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
-|20|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|72.10.160.90|9875|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|2773|Canada|Montreal|GloboTech Communications|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
 
 
 
