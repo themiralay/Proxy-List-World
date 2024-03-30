@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|13|84.204.40.156|8080|Russia|St Petersburg|PJSC MegaFon|
-|14|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
-|15|123.182.59.36|8089|China|Zhangjiakou|China Telecom|
-|16|72.10.160.170|8107|Canada|Montreal|GloboTech Communications|
-|17|111.225.153.253|8089|China|Zhoutou|China Telecom|
-|18|67.43.236.20|24107|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|24107|Canada|Montreal|GloboTech Communications|
-|20|111.225.153.56|8089|China|Zhoutou|China Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|72.10.164.178|16043|Canada|Montreal|GloboTech Communications|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|111.225.153.193|8089|China|Zhoutou|China Telecom|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|72.10.164.178|16043|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|6601|Canada|Montreal|GloboTech Communications|
+|19|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
+|20|72.10.160.90|19335|Canada|Montreal|GloboTech Communications|
 
 
 
