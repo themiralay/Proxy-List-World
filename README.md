@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|2|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|92.38.189.233|3128|Russia|Khabarovsk|GCL|
-|16|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
-|17|72.10.164.178|16875|Canada|Montreal|GloboTech Communications|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|72.10.160.173|13157|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|13|72.10.164.178|16875|Canada|Montreal|GloboTech Communications|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|72.10.160.90|32227|Canada|Montreal|GloboTech Communications|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|67.43.228.253|6643|Canada|Montreal|GloboTech Communications|
 
 
 
