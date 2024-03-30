@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|144.137.217.187|80|Australia|Sydney|Telstra Internet|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|183.89.93.195|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|92.38.189.233|3128|Russia|Khabarovsk|GCL|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
