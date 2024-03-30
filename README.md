@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.156.17.39|8181|Indonesia|Indramayu|RSTNET|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|67.43.236.20|19237|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|8321|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|72.10.160.90|30641|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|19|67.43.227.227|24863|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|13|67.43.236.20|1593|Canada|Montreal|GloboTech Communications|
+|14|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|15|72.10.160.172|8321|Canada|Montreal|GloboTech Communications|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|103.159.47.42|83|India|Ahmedabad|King Netsol Private Limited|
+|19|72.10.160.90|30641|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
