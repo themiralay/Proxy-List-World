@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|14|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|45.225.184.145|999|Chile|Melipilla|MJL NETWORK EIRL|
-|20|20.193.128.199|3128|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|3|183.89.93.195|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|15|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
 
 
 
