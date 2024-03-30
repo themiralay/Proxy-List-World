@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|34.88.54.123|3128|Finland|Lappeenranta|Google LLC|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|202.60.12.123|3128|Philippines|Makati City|Apollo Global|
-|10|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|41.209.10.148|8080|Kenya|Nairobi|MTN Business Kenya|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|190.97.236.40|2023|Venezuela|Vigia|Viginet C.A|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|18|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|19|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|20|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|34.88.54.123|3128|Finland|Lappeenranta|Google LLC|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|41.209.10.148|8080|Kenya|Nairobi|MTN Business Kenya|
+|18|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
