@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|3|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
 |4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|5|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|67.43.228.254|4275|Canada|Montreal|GloboTech Communications|
-|10|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.160.91|27613|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|8197|Canada|Montreal|GloboTech Communications|
-|14|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|12|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|13|65.109.231.142|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|72.10.164.178|30345|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|30345|Canada|Montreal|GloboTech Communications|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
