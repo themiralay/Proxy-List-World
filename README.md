@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|72.10.160.171|11897|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3213|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.236.19|8827|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|15|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|10445|Canada|Montreal|GloboTech Communications|
+|17|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.228.250|11667|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|72.10.160.90|13555|Canada|Montreal|GloboTech Communications|
 
 
 
