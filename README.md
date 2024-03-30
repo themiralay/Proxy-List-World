@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|10|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|11|72.10.164.178|22799|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|6221|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.227.227|30303|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|6221|Canada|Montreal|GloboTech Communications|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|72.10.160.170|2533|Canada|Montreal|GloboTech Communications|
+|4|103.169.133.34|8080|Indonesia|Kebon Kelapa|PT Alfa Omega Interkoneksi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|67.43.227.227|30303|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.174|28799|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|72.10.160.90|20109|Canada|Montreal|GloboTech Communications|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|202.70.145.26|4995|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
