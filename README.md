@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|119.93.43.16|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|111.225.153.84|8089|China|Zhoutou|China Telecom|
-|15|67.43.227.227|31627|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|8041|Canada|Montreal|GloboTech Communications|
-|17|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
-|18|72.10.160.92|13133|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.211|8089|China|Zhoutou|China Telecom|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
+|18|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|19|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
