@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|103.26.110.209|84|India|Tirunelveli|Niss Networks|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|72.10.160.174|1479|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|3|103.101.231.51|8080|Indonesia|Jakarta|Biznet Networks|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|179.253.8.244|12341|Brazil|Birigui|V tal|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|17|72.10.164.178|32137|Canada|Montreal|GloboTech Communications|
+|18|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|32137|Canada|Montreal|GloboTech Communications|
 
 
 
