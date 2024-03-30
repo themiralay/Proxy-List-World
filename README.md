@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
-|12|165.232.89.116|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|115.147.20.176|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|19|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|123.182.59.223|8089|China|Zhangjiakou|China Telecom|
+|15|111.225.152.251|8089|China|Zhoutou|China Telecom|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|49.76.17.159|8089|China|Nanjing|Chinanet|
+|18|123.182.58.186|8089|China|Zhangjiakou|China Telecom|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
