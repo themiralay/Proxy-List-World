@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|10|67.43.236.20|5617|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|67.43.228.253|1383|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.195|8089|China|Zhoutou|China Telecom|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|67.43.227.226|11779|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|8095|Canada|Montreal|GloboTech Communications|
-|17|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|18|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|111.225.153.195|8089|China|Zhoutou|China Telecom|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
