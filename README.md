@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|488|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|488|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|488|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|183.89.93.195|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|36.95.185.70|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|14|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|200.125.184.46|999|Venezuela|Los Guayos|Gold Data USA Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|15|36.95.185.70|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|19|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
+|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 
 
 
