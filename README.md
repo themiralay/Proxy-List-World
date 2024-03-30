@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|72.10.160.171|21853|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|21027|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8695|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|21853|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|6387|Canada|Montreal|GloboTech Communications|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|72.10.160.90|16207|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|72.10.164.178|4183|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|72.10.160.90|16207|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|21853|Canada|Montreal|GloboTech Communications|
 
 
 
