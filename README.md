@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|3|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|1|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|67.43.236.20|33099|Canada|Montreal|GloboTech Communications|
-|11|111.225.152.217|8089|China|Zhoutou|China Telecom|
-|12|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|67.43.236.20|33099|Canada|Montreal|GloboTech Communications|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|72.10.164.178|11729|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|19|67.43.228.253|4909|Canada|Montreal|GloboTech Communications|
-|20|114.106.172.199|8089|China|Shenzhen|Chinanet|
+|6|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|14|72.10.164.178|11729|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11729|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|67.43.228.253|12823|Canada|Montreal|GloboTech Communications|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
