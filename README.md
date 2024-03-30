@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
-|6|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|72.10.164.178|29177|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.160.170|9413|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.90|6327|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.252|11049|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|27191|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.71|8089|China|Zhangjiakou|China Telecom|
+|2|43.128.30.79|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|67.43.227.227|16511|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|200.59.184.69|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|200.59.184.66|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|67.43.228.252|11049|Canada|Montreal|GloboTech Communications|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|67.43.228.254|3151|Canada|Montreal|GloboTech Communications|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|187.94.220.85|8080|Brazil|Guacui|Acesse Comunicação Ltda|
+|20|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
