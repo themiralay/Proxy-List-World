@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|202.12.80.10|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|1|202.12.80.10|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|41.33.203.115|1973|Egypt|Cairo|TE Data|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|6|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|72.10.160.90|26009|Canada|Montreal|GloboTech Communications|
 |10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|165.232.142.255|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|111.225.153.62|8089|China|Zhoutou|China Telecom|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|67.43.236.20|26147|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
