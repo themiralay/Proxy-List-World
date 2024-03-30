@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
 |8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|8135|Canada|Montreal|GloboTech Communications|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.234.159.5|8080|India|Mumbai|MWPL|
+|18|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
 |19|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
 |20|67.43.227.226|15969|Canada|Montreal|GloboTech Communications|
 
