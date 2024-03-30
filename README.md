@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
 |5|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|6|67.43.228.253|12823|Canada|Montreal|GloboTech Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
-|10|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|12|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|13|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|72.10.164.178|20279|Canada|Montreal|GloboTech Communications|
+|11|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|67.43.228.253|12823|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|18015|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|67.43.228.250|29131|Canada|Montreal|GloboTech Communications|
+|18|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|19|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|20|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
 
 
 
