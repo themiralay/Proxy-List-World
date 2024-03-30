@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|111.225.153.103|8089|China|Zhoutou|China Telecom|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|67.43.228.253|1681|Canada|Montreal|GloboTech Communications|
-|12|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
-|13|72.10.160.90|29241|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|9093|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2941|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|23139|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9093|Canada|Montreal|GloboTech Communications|
-|19|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|222.174.178.122|4999|China|Xintai|Chinanet|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|17|202.182.55.50|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|19|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
