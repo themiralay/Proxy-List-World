@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|43.156.93.13|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|200.59.184.65|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|200.59.184.66|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|123.182.58.216|8089|China|Zhangjiakou|China Telecom|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.160.174|10089|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|111.225.152.44|8089|China|Zhoutou|China Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
+|18|72.10.160.174|26877|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
 
 
 
