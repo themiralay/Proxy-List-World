@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|20|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
 
 
 
