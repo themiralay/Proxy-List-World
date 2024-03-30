@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
 |8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|36.225.63.238|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|72.10.160.171|15311|Canada|Montreal|GloboTech Communications|
-|17|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|20|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|67.43.227.228|12621|Canada|Montreal|GloboTech Communications|
+|16|45.11.95.165|5039|Russia|Moscow|Delta Ltd|
+|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|18|72.10.160.90|6981|Canada|Montreal|GloboTech Communications|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|72.10.160.171|17893|Canada|Montreal|GloboTech Communications|
 
 
 
