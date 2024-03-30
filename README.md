@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|158.220.91.230|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.79.123.204|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|9|34.81.9.136|3128|Taiwan|Taipei|Google LLC|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|12|110.45.156.46|3128|South Korea|Yongsan-dong|LG DACOM Corporation|
-|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
-|16|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|17|70.113.250.186|16099|United States|Weslaco|Spectrum|
-|18|82.62.241.62|3128|Italy|Campegine|Telecom Italia S.p.A|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|45.174.57.66|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|8|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
+|10|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
