@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|34.32.29.244|3128|Germany|Berlin|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|67.43.236.20|8539|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|72.10.164.178|11209|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|31035|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|31035|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|18345|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|67.43.236.20|28871|Canada|Montreal|GloboTech Communications|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
