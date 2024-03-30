@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|8|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|10|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|182.253.168.68|8080|Indonesia|Jakarta|BIZNET|
-|14|222.70.81.189|9000|China|Shanghai|China Telecom (Group)|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|186.194.119.205|5566|Brazil|Petrolina|Goonet Telecomunicacoes Ltda - ME|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|14|104.168.211.140|80|United States|Seattle|Hostwinds LLC.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|123.182.58.66|8089|China|Zhangjiakou|China Telecom|
+|17|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
 |18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
 
 
 
