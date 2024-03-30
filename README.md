@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|34.32.29.244|3128|Germany|Berlin|Google LLC|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|123.182.59.236|8089|China|Zhangjiakou|China Telecom|
-|12|72.10.160.90|11823|Canada|Montreal|GloboTech Communications|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|4445|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9155|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7857|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|18707|Canada|Montreal|GloboTech Communications|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|67.43.227.227|30667|Canada|Montreal|GloboTech Communications|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|67.43.227.226|15969|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|67.43.227.228|7937|Canada|Montreal|GloboTech Communications|
+|18|212.252.73.23|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|19|72.10.164.178|24735|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
