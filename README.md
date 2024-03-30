@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|536|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|536|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|536|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |2|112.163.160.118|3128|South Korea|Gangnam-gu|Korea Telecom|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|38.7.30.129|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|138.84.40.117|999|Colombia|Bogota|SpaceX Starlink|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|5.189.161.23|3128|Germany|Nuremberg|Contabo GmbH|
+|10|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|12|36.95.185.70|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|16|183.89.93.195|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|18|8.219.192.228|7777|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
