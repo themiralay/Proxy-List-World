@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|15|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|67.43.228.253|6585|Canada|Montreal|GloboTech Communications|
-|18|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|85.239.234.94|3128|United States|Seattle|Casablanca INT fraction|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|16|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
