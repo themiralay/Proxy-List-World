@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|7|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|111.225.153.54|8089|China|Zhoutou|China Telecom|
-|12|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|72.10.160.90|29267|Canada|Montreal|GloboTech Communications|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.138.62.53|8080|Indonesia|Denpasar|GOLDNET|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|19|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
