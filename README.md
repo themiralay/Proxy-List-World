@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
 |7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|141.195.112.22|8118|Canada|Toronto|Baxet Group Inc.|
-|11|67.43.236.22|4689|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|32049|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|15023|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19477|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|15023|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|19477|Canada|Montreal|GloboTech Communications|
-|20|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|8|202.125.83.170|3128|Indonesia|Bogor|Nawala Project - DNS Filtering Project|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|134.215.105.203|8888|United States|Prineville|TDS TELECOM|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|67.43.228.254|31729|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.22|4689|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|30307|Canada|Montreal|GloboTech Communications|
 
 
 
