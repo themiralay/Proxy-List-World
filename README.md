@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|72.10.160.90|26557|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|23387|Canada|Montreal|GloboTech Communications|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|72.10.164.178|1723|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|23387|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26557|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|111.225.152.146|8089|China|Zhoutou|China Telecom|
+|18|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|111.225.152.249|8089|China|Zhoutou|China Telecom|
 
 
 
