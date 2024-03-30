@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|34.32.29.244|3128|Germany|Berlin|Google LLC|
 |8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|123.182.58.2|8089|China|Zhangjiakou|China Telecom|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|67.43.236.20|15851|Canada|Montreal|GloboTech Communications|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|34.142.202.157|3128|Singapore|Singapore|Google LLC|
-|19|111.225.153.65|8089|China|Zhoutou|China Telecom|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|123.182.58.2|8089|China|Zhangjiakou|China Telecom|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|67.43.236.20|16611|Canada|Montreal|GloboTech Communications|
 
 
 
