@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|72.10.160.91|16099|Canada|Montreal|GloboTech Communications|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|12|67.43.236.20|19497|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|15|111.225.153.125|8089|China|Zhoutou|China Telecom|
-|16|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|111.225.152.236|8089|China|Zhoutou|China Telecom|
-|18|183.89.127.119|8081|Thailand|Phichit|Triple T Broadband Public Company Limited|
-|19|67.43.228.253|17215|Canada|Montreal|GloboTech Communications|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|203.190.44.200|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
