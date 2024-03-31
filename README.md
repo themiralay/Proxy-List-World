@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|67.43.236.20|11793|Canada|Montreal|GloboTech Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|72.10.160.90|7069|Canada|Montreal|GloboTech Communications|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|67.43.236.20|11793|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.228|11293|Canada|Montreal|GloboTech Communications|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|67.43.227.228|11293|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
