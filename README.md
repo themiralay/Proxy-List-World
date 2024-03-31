@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|45.251.139.247|3129|United States| Los Angeles|Zenlayer Inc|
-|6|72.10.164.178|11857|Canada|Montreal|GloboTech Communications|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
-|14|123.182.59.186|8089|China|Zhangjiakou|China Telecom|
-|15|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
-|16|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|17|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.164.178|11857|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|18893|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|72.10.160.90|30533|Canada|Montreal|GloboTech Communications|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|72.10.164.178|21883|Canada|Montreal|GloboTech Communications|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|64.42.179.228|4443|United States|Atlanta|Dedicated.com|
+|17|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
