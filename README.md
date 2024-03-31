@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|4|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|7|181.209.78.75|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|72.10.164.178|4835|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|13|67.43.228.253|8929|Canada|Montreal|GloboTech Communications|
 |14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|67.43.236.20|9239|Canada|Montreal|GloboTech Communications|
-|18|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|4835|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
