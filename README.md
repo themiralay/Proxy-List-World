@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|124.156.183.118|3128|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|3|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
+|4|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|10|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
