@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|12|180.94.83.122|8080|Afghanistan|Kabul|AFTEL in Kabul|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
