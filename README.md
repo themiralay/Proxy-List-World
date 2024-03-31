@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|2|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|10|72.10.160.90|1261|Canada|Montreal|GloboTech Communications|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|67.43.228.253|12439|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|16|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|18|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.227.227|2965|Canada|Montreal|GloboTech Communications|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|67.43.227.227|5063|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|19|67.43.227.227|5063|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
 
 
 
