@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|6|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|13|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|14|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|15|49.76.17.159|8089|China|Nanjing|Chinanet|
-|16|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
-|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
+|1|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|159.192.133.250|8088|Thailand|Bangkok|CAT-BB|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
+|10|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|11|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|12|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
+|13|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|16|38.7.197.192|999|Chile|Santiago|Grupo ZGH SPA|
+|17|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|20|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
 
 
 
