@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.157.128.184|80|Iceland|Reykjavik|Mila hf|
-|6|51.255.82.124|80|France|Roubaix|OVH SAS|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|67.43.236.20|1465|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|30203|Canada|Montreal|GloboTech Communications|
-|12|111.225.152.240|8089|China|Zhoutou|China Telecom|
-|13|123.182.59.210|8089|China|Zhangjiakou|China Telecom|
-|14|72.10.164.178|31869|Canada|Montreal|GloboTech Communications|
-|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|16|67.43.227.226|28667|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1465|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|18993|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|5|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|67.43.236.20|5877|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|31869|Canada|Montreal|GloboTech Communications|
+|10|123.182.59.210|8089|China|Zhangjiakou|China Telecom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|67.43.236.20|5877|Canada|Montreal|GloboTech Communications|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
