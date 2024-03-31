@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|7|181.209.78.75|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|11|72.10.164.178|19777|Canada|Montreal|GloboTech Communications|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|67.43.236.20|29051|Canada|Montreal|GloboTech Communications|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|8|72.10.164.178|12685|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|34.32.55.84|3128|Germany|Berlin|Google LLC|
+|12|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|15|67.43.228.253|11071|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|15891|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|5615|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|13455|Canada|Montreal|GloboTech Communications|
+|16|49.76.17.159|8089|China|Nanjing|Chinanet|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |18|72.10.160.90|15817|Canada|Montreal|GloboTech Communications|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|123.182.58.6|8089|China|Zhangjiakou|China Telecom|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
