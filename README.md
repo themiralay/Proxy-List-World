@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5545** proxies at the latest update. Usable proxies are below.
+> Scraper found **5490** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|95|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|723|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|383|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3383|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|34.32.29.244|3128|Germany|Berlin|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
-|7|179.1.192.57|999|Colombia|Neiva|InterNexa Global Network|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|12|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
-|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|34.32.29.244|3128|Germany|Berlin|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.236.20|19065|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.52|8089|China|Zhangjiakou|China Telecom|
-|18|188.132.222.28|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|15|67.43.236.20|19065|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
+|17|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|114.231.46.156|8089|China|Nanjing|Chinanet|
 
 
 
