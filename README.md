@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.228.253|1671|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|72.10.160.172|14363|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|67.43.236.20|32285|Canada|Montreal|GloboTech Communications|
-|16|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|17|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|72.10.160.174|6219|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|1|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|17|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|18|72.10.164.178|9593|Canada|Montreal|GloboTech Communications|
+|19|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|20|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
 
