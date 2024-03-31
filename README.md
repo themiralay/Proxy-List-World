@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|123.182.59.245|8089|China|Zhangjiakou|China Telecom|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|67.43.236.20|12743|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|19237|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|27349|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|27349|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|2453|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|12743|Canada|Montreal|GloboTech Communications|
-|16|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|123.182.59.245|8089|China|Zhangjiakou|China Telecom|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|67.43.236.20|13739|Canada|Montreal|GloboTech Communications|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|10|72.10.164.178|23765|Canada|Montreal|GloboTech Communications|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|190.242.181.61|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|15|67.43.236.18|2419|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|13739|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|13619|Canada|Montreal|GloboTech Communications|
 |18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.228.253|30353|Canada|Montreal|GloboTech Communications|
 
 
 
