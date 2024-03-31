@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|13|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|13259|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
-|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|72.10.164.178|18821|Canada|Montreal|GloboTech Communications|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
