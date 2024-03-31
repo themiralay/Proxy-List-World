@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.204.169|1337|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|125.167.33.208|8080|Indonesia|Sampang|PT. TELKOM INDONESIA|
-|7|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
-|8|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|11|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|103.4.94.2|8080|Pakistan|Model Town One|HEC|
+|6|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|7|125.167.33.208|8080|Indonesia|Sampang|PT. TELKOM INDONESIA|
+|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|7293|Canada|Montreal|GloboTech Communications|
-|15|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|111.225.153.254|8089|China|Zhoutou|China Telecom|
-|18|67.43.228.253|12719|Canada|Montreal|GloboTech Communications|
-|19|180.178.98.93|2526|Indonesia|Pisangan|PT Hipernet Indodata|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|111.225.153.254|8089|China|Zhoutou|China Telecom|
+|17|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
+|18|67.43.228.253|12717|Canada|Montreal|GloboTech Communications|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|103.169.254.37|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
