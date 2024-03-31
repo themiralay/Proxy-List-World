@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|67.43.228.253|1213|Canada|Montreal|GloboTech Communications|
-|5|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|6|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|67.43.236.20|6363|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|6363|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|18813|Canada|Montreal|GloboTech Communications|
-|11|157.157.128.184|80|Iceland|Reykjavik|Mila hf|
-|12|123.182.59.114|8089|China|Zhangjiakou|China Telecom|
-|13|123.182.58.147|8089|China|Zhangjiakou|China Telecom|
-|14|67.43.227.227|27863|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|20703|Canada|Montreal|GloboTech Communications|
-|16|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|17|67.43.236.20|6363|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26403|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|27863|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|67.43.236.20|30741|Canada|Montreal|GloboTech Communications|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|16257|Canada|Montreal|GloboTech Communications|
+|12|111.225.152.188|8089|China|Zhoutou|China Telecom|
+|13|190.94.212.125|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|16|72.10.164.178|30789|Canada|Montreal|GloboTech Communications|
+|17|123.182.58.147|8089|China|Zhangjiakou|China Telecom|
+|18|38.49.129.154|999|Mexico|San Felipe|Ientc S De RL De CV|
+|19|67.43.236.20|30741|Canada|Montreal|GloboTech Communications|
+|20|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
 
 
 
