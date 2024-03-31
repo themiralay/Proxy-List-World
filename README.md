@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|36.93.140.183|8080|Indonesia|Bandung|Telekomunikasi Indonesia|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|67.43.227.228|12059|Canada|Montreal|GloboTech Communications|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|72.10.160.90|16437|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|34.32.55.84|3128|Germany|Berlin|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|117.3.253.226|4006|Vietnam|Hanoi|Viettel Corporation|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
