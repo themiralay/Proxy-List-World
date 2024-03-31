@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.204.156.66|41890|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|67.43.228.252|22489|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|1051|Canada|Montreal|GloboTech Communications|
-|13|123.182.58.6|8089|China|Zhangjiakou|China Telecom|
-|14|111.225.152.193|8089|China|Zhoutou|China Telecom|
-|15|111.225.152.110|8089|China|Zhoutou|China Telecom|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|72.10.164.178|11503|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|3933|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.3|8089|China|Zhoutou|China Telecom|
-|20|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
+|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|103.4.94.2|8080|Pakistan|Model Town One|HEC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|111.225.152.193|8089|China|Zhoutou|China Telecom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|111.225.152.3|8089|China|Zhoutou|China Telecom|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|72.10.160.90|1449|Canada|Montreal|GloboTech Communications|
+|18|123.182.58.6|8089|China|Zhangjiakou|China Telecom|
+|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
