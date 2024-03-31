@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|7|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|8|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|72.10.164.178|5249|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|25101|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.172|11223|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.160.92|29605|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.245|8089|China|Zhoutou|China Telecom|
-|20|207.230.8.97|999|Colombia|Popayán|Cogent Communications|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|12|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|72.10.160.90|25101|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|114.104.135.167|41122|China|Guangzhou|Chinanet|
+|20|192.144.30.200|8080|Russia|Moscow|SE Khan Aleksandr Ilich|
 
 
 
