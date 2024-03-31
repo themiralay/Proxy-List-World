@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |5|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 |6|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
+|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|138.43.98.203|82|United States|Allen|iboss, inc|
-|12|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|147.75.34.86|10001|The Netherlands|Amsterdam|Equinix Services|
-|15|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|147.75.34.86|10001|The Netherlands|Amsterdam|Equinix Services|
-|18|5.9.211.232|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|147.75.34.86|10001|The Netherlands|Amsterdam|Equinix Services|
+|10|138.43.98.203|82|United States|Allen|iboss, inc|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|147.75.34.86|9401|The Netherlands|Amsterdam|Equinix Services|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|114.132.202.80|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|67.43.236.20|2303|Canada|Montreal|GloboTech Communications|
+|19|147.75.34.86|9401|The Netherlands|Amsterdam|Equinix Services|
+|20|147.75.34.86|9401|The Netherlands|Amsterdam|Equinix Services|
 
 
 
