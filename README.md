@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|124.156.163.166|3128|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|194.61.1.132|3128|Russia|Moscow|Smartsystems LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|124.105.186.206|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.228.253|11871|Canada|Montreal|GloboTech Communications|
-|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.228.253|11871|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|188.136.143.85|7060|Iran|Tehran|Ariana Gostar Spadana|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|72.10.160.173|4523|Canada|Montreal|GloboTech Communications|
+|18|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 
 
 
