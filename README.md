@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|8|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.160.172|29881|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|123.182.58.126|8089|China|Zhangjiakou|China Telecom|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|11|36.92.162.218|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|17|177.184.199.36|80|Brazil|Poa|Wireless Comm Services LTDA|
+|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|19|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
