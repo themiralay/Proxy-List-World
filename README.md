@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|177.93.59.42|999|Colombia|Supia|TV AZTECA SUCURSAL COLOMBIA|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|128.199.204.169|1337|Singapore|Singapore|DigitalOcean, LLC|
-|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.128|8089|China|Zhoutou|China Telecom|
-|20|67.43.236.20|31597|Canada|Montreal|GloboTech Communications|
+|3|38.253.88.24|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.165.169.7|8118|Romania|Bucharest|Flokinet Ltd|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|111.225.152.89|8089|China|Zhoutou|China Telecom|
+|15|188.132.222.5|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|72.10.160.171|27857|Canada|Montreal|GloboTech Communications|
+|17|111.225.153.39|8089|China|Zhoutou|China Telecom|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
