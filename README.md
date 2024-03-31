@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|38.253.88.24|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|11|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|45.191.75.186|999|Colombia|Guachene|Global Raices|
-|14|123.182.58.146|8089|China|Zhangjiakou|China Telecom|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.160.170|29123|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|111.225.153.56|8089|China|Zhoutou|China Telecom|
-|19|103.172.42.218|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|3|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.165.169.7|8118|Romania|Bucharest|Flokinet Ltd|
+|7|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|142.11.227.126|3128|United States|Seattle|Hostwinds LLC.|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|45.84.87.58|3128|Russia|Moscow|Lankey Information Technologies LLC|
+|14|190.121.239.195|999|Venezuela|Catia La Mar|Corporacion Digitel C.A|
+|15|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|16|177.93.59.42|999|Colombia|Supia|TV AZTECA SUCURSAL COLOMBIA|
+|17|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|111.225.153.56|8089|China|Zhoutou|China Telecom|
 
 
 
