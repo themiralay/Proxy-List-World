@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|72.10.160.170|29131|Canada|Montreal|GloboTech Communications|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|201.77.108.48|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|72.10.160.172|6937|Canada|Montreal|GloboTech Communications|
-|20|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|36.74.72.40|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
