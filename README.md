@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|3|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.32.55.84|3128|Germany|Berlin|Google LLC|
-|6|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.172.70.27|81|Indonesia|Tangerang|AZNET|
-|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|34.32.55.84|3128|Germany|Berlin|Google LLC|
+|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|5935|Canada|Montreal|GloboTech Communications|
 |16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|115.147.26.219|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|72.10.164.178|5935|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|19|67.43.227.227|8635|Canada|Montreal|GloboTech Communications|
+|20|34.32.55.84|3128|Germany|Berlin|Google LLC|
 
 
 
