@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
 |2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|3|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|67.43.236.19|16695|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|27815|Canada|Montreal|GloboTech Communications|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|123.182.59.197|8089|China|Zhangjiakou|China Telecom|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.164.178|9569|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|67.43.236.19|16695|Canada|Montreal|GloboTech Communications|
+|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|8|67.43.236.20|6505|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|17|103.231.88.100|3128|Australia|Melbourne|INTERGRID|
+|18|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|123.182.59.197|8089|China|Zhangjiakou|China Telecom|
 
 
 
