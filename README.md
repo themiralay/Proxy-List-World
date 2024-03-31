@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.135.188.62|9999|France|Roubaix|OVH SAS|
 |6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|183.165.246.246|8089|China|Shenzhen|Chinanet|
-|8|123.182.58.60|8089|China|Zhangjiakou|China Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.236.20|2901|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|2289|Canada|Montreal|GloboTech Communications|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|67.43.227.228|18999|Canada|Montreal|GloboTech Communications|
-|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|123.182.59.210|8089|China|Zhangjiakou|China Telecom|
-|20|72.10.164.178|9365|Canada|Montreal|GloboTech Communications|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|183.165.246.246|8089|China|Shenzhen|Chinanet|
+|11|72.10.164.178|15737|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|67.43.236.20|2901|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16645|Canada|Montreal|GloboTech Communications|
 
 
 
