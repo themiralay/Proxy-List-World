@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|4|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|67.43.236.20|31403|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|31403|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|8717|Canada|Montreal|GloboTech Communications|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|72.10.160.170|16501|Canada|Montreal|GloboTech Communications|
+|4|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.227.230|21197|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|15425|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|72.10.160.174|8717|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|15425|Canada|Montreal|GloboTech Communications|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |19|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
+|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 
 
 
