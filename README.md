@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|163.15.183.33|3128|Taiwan|Kaohsiung City|T-KPPRC.EDU.TW|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|121.195.170.225|1024|China|Haidian|CERNET|
 |7|85.206.13.20|80|Lithuania|Utena|Telia Lietuva, AB|
 |8|67.43.227.228|17563|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|11565|Canada|Montreal|GloboTech Communications|
 |10|72.10.164.178|26403|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|3231|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|17293|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|16829|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.236.18|18587|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|17563|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|17293|Canada|Montreal|GloboTech Communications|
-|19|65.109.177.5|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.170|16829|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|17563|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|14185|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|67.43.227.227|14433|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|18587|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|11565|Canada|Montreal|GloboTech Communications|
+|20|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
