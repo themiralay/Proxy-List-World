@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.89.230.174|3128|Russia|Zelenograd|LLC Baxet|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 
 
 
