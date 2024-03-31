@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|9|103.234.159.5|8080|India|Mumbai|MWPL|
-|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|14|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|15|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|16|72.10.164.178|20339|Canada|Montreal|GloboTech Communications|
-|17|103.115.31.39|8181|Indonesia|Depok|HSPNET|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|72.10.164.178|20339|Canada|Montreal|GloboTech Communications|
-|20|59.37.13.62|3128|China|Shenzhen|Chinanet|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|3|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|6|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|7|59.98.4.102|8080|India|Port Blair|BSNL Internet|
+|8|45.58.52.5|80|United States|Dallas|HostUS|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
+|11|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|12|36.93.130.218|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|45.58.52.5|80|United States|Dallas|HostUS|
+|16|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
+|17|67.43.228.253|12975|Canada|Montreal|GloboTech Communications|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
