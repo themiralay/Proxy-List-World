@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|15|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|16|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|17|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
