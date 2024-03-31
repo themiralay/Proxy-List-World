@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|111.225.152.249|8089|China|Zhoutou|China Telecom|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|111.225.153.100|8089|China|Zhoutou|China Telecom|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|72.10.160.171|18731|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5877|Canada|Montreal|GloboTech Communications|
+|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|46.188.25.233|8080|Russia|Moscow|2COM|
+|11|67.43.236.20|23973|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|14|72.10.160.171|18731|Canada|Montreal|GloboTech Communications|
+|15|118.99.124.63|8080|Indonesia|Jakarta|Biznet Metronet|
+|16|67.43.227.227|2655|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
