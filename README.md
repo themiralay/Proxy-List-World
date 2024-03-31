@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|3|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|36.225.47.148|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|183.165.248.180|8089|China|Shenzhen|Chinanet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
 
 
 
