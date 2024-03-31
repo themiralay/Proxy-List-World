@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|67.43.228.253|11585|Canada|Montreal|GloboTech Communications|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|72.10.164.178|15581|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|24329|Canada|Montreal|GloboTech Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|67.43.227.228|15385|Canada|Montreal|GloboTech Communications|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|67.43.236.20|2711|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
