@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|10|67.43.228.254|8033|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|29747|Canada|Montreal|GloboTech Communications|
-|12|45.11.95.165|6048|Russia|Moscow|Delta Ltd|
-|13|67.43.236.20|32177|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|67.43.236.20|20423|Canada|Montreal|GloboTech Communications|
+|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|72.10.164.178|3441|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|32177|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|67.43.228.250|6161|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|16|67.43.228.250|6161|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|3441|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
