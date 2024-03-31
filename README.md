@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|43.249.224.174|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.160.174|8271|Canada|Montreal|GloboTech Communications|
-|19|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
