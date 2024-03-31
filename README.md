@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.76.69.226|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|8|181.65.180.189|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|9|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|10|103.115.242.224|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|45.58.52.5|80|United States|Dallas|HostUS|
-|14|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|15|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|16|111.225.152.89|8089|China|Zhoutou|China Telecom|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|9|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|10|45.58.52.5|80|United States|Dallas|HostUS|
+|11|111.225.152.89|8089|China|Zhoutou|China Telecom|
+|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|13|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|67.43.228.253|13049|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.164.178|20339|Canada|Montreal|GloboTech Communications|
 
 
 
