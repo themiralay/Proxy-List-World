@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|19|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
