@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.227.227|32065|Canada|Montreal|GloboTech Communications|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|11|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|12|67.43.228.253|21939|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.227.227|32065|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9919|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|8503|Canada|Montreal|GloboTech Communications|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|67.43.236.18|15929|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13151|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9919|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|67.43.227.227|1045|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|13151|Canada|Montreal|GloboTech Communications|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|114.232.110.215|8089|China|Nanjing|Chinanet|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|45.12.214.202|3128|The Netherlands|Dronten|Zomro B.V.|
+|19|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 
 
 
