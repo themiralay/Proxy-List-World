@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|188.136.143.85|7060|Iran|Tehran|Ariana Gostar Spadana|
 |8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|194.61.1.132|3128|Russia|Moscow|Smartsystems LLC|
-|14|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
-|15|210.72.11.46|8080|China|Haidian|CNIC-CAS|
-|16|114.103.80.45|8089|China|Shenzhen|Chinanet|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.90|23551|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|4443|Canada|Montreal|GloboTech Communications|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|15|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|67.43.227.227|25803|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
 
 
 
