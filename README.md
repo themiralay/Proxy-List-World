@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|10|72.10.160.90|30937|Canada|Montreal|GloboTech Communications|
-|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1291|Canada|Montreal|GloboTech Communications|
-|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.227.227|16387|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2213|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|26529|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|28843|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
+|19|37.156.146.163|3128|Iran|Tehran|Asiatech Data Transmission company|
+|20|72.10.164.178|28843|Canada|Montreal|GloboTech Communications|
 
 
 
