@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.147.246.42|8080|Indonesia|Tangerang|PLBNET|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.174|30881|Canada|Montreal|GloboTech Communications|
-|15|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.160.174|16229|Canada|Montreal|GloboTech Communications|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |19|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
