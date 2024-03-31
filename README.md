@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|4|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|67.43.228.253|10903|Canada|Montreal|GloboTech Communications|
+|11|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|200.10.31.221|999|Colombia|Pereira|Super Redes S.A.S|
+|18|177.54.229.164|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.26.176.57|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
 
 
 
