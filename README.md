@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|17|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
