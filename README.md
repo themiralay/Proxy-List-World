@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|7|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|144.137.217.187|80|Australia|Sydney|Telstra Internet|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|72.10.164.178|8985|Canada|Montreal|GloboTech Communications|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|178.22.52.21|8080|Russia|Kuznetsovo|Ramtel Ltd.|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|16|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
