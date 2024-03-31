@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|4|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|5|67.43.227.227|17371|Canada|Montreal|GloboTech Communications|
-|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|72.10.160.90|22349|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
-|12|123.182.59.238|8089|China|Zhangjiakou|China Telecom|
-|13|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|31081|Canada|Montreal|GloboTech Communications|
-|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|18|72.10.160.91|19499|Canada|Montreal|GloboTech Communications|
-|19|187.73.102.70|9292|Brazil|Tailandia|Celante Servicos De Telecomunicacoes Ltda - EPP|
-|20|72.10.160.90|22349|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|4|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
+|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|72.10.164.178|21913|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|22349|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
 
 
 
