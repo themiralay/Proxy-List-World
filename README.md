@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
 |7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.227.227|24383|Canada|Montreal|GloboTech Communications|
-|10|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
-|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|16|72.10.160.90|22651|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.174|15639|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.236.20|20473|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.164.178|26417|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|72.10.160.90|2749|Canada|Montreal|GloboTech Communications|
+|18|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|19|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
