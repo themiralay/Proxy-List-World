@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|20|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
