@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |7|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|8|45.11.95.165|5027|Russia|Moscow|Delta Ltd|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|142.4.123.41|80|China|Chengdu|PEG TECH INC|
-|13|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|15|72.10.164.178|6437|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.160.90|32383|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|3143|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|11885|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|27055|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|67.43.227.227|25995|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|16|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
 
 
 
