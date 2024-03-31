@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|67.43.227.227|10263|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.250|2857|Canada|Montreal|GloboTech Communications|
-|7|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
-|11|111.225.152.5|8089|China|Zhoutou|China Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|8|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.228.253|13325|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
 |13|67.43.227.227|10263|Canada|Montreal|GloboTech Communications|
-|14|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|15|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|67.43.227.228|27945|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23195|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|10263|Canada|Montreal|GloboTech Communications|
+|14|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|15|72.10.164.178|23195|Canada|Montreal|GloboTech Communications|
+|16|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|17|67.43.228.250|2143|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|27945|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|10263|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
