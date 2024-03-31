@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|72.10.160.90|26845|Canada|Montreal|GloboTech Communications|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|72.10.164.178|19995|Canada|Montreal|GloboTech Communications|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|11|67.43.236.20|7865|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.92|3719|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|12487|Canada|Montreal|GloboTech Communications|
-|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|15|72.10.164.178|19995|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|67.43.228.251|10865|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|14999|Canada|Montreal|GloboTech Communications|
-|20|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|72.10.160.90|3719|Canada|Montreal|GloboTech Communications|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|72.10.160.92|3719|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|25541|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|8383|Canada|Montreal|GloboTech Communications|
 
 
 
