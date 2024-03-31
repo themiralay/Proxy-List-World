@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|67.43.236.20|19081|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|26713|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|25423|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1151|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.103|8089|China|Zhangjiakou|China Telecom|
-|19|72.10.164.178|1151|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|19081|Canada|Montreal|GloboTech Communications|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|67.43.227.227|26867|Canada|Montreal|GloboTech Communications|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|72.10.164.178|9851|Canada|Montreal|GloboTech Communications|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|17|72.10.160.90|2193|Canada|Montreal|GloboTech Communications|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
