@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|72.10.164.178|15321|Canada|Montreal|GloboTech Communications|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|190.71.251.106|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|111.225.152.98|8089|China|Zhoutou|China Telecom|
 
 
 
