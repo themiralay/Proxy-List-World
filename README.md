@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|183.89.65.94|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|178.159.39.153|8118|The Netherlands|Meppel|Zomro B.V.|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|1883|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|13.82.42.11|8080|United States|Boydton|Microsoft Corporation|
+|7|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|12|103.176.116.171|32650|India|Murshidābād|Gbpl Global Broadband Private Limited|
+|13|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|15|72.10.164.178|33087|Canada|Montreal|GloboTech Communications|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|18|123.182.58.70|8089|China|Zhangjiakou|China Telecom|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
