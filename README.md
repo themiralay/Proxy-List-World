@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|111.225.153.57|8089|China|Zhoutou|China Telecom|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|18|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
+|17|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.228.253|2459|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|3485|Canada|Montreal|GloboTech Communications|
 
 
 
