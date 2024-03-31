@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|72.10.160.170|2501|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
