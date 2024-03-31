@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|34.32.29.244|3128|Germany|Berlin|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|9|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|15|67.43.236.20|19065|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
-|17|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|114.231.46.156|8089|China|Nanjing|Chinanet|
+|4|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|13|103.112.163.89|8080|Indonesia|Jakarta|24AS|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|124.156.163.166|3128|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|17|178.73.192.20|8118|Sweden|Stockholm|Portlane Network|
+|18|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|19|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
