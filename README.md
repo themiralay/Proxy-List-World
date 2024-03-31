@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|8|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|9|123.182.59.147|8089|China|Zhangjiakou|China Telecom|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|72.10.164.178|2923|Canada|Montreal|GloboTech Communications|
-|15|123.182.58.141|8089|China|Zhangjiakou|China Telecom|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|111.225.153.125|8089|China|Zhoutou|China Telecom|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|123.182.58.92|8089|China|Zhangjiakou|China Telecom|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|111.225.153.125|8089|China|Zhoutou|China Telecom|
+|8|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|114.252.229.86|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|123.182.58.141|8089|China|Zhangjiakou|China Telecom|
+|13|72.10.164.178|18221|Canada|Montreal|GloboTech Communications|
+|14|123.182.59.147|8089|China|Zhangjiakou|China Telecom|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|123.182.58.92|8089|China|Zhangjiakou|China Telecom|
+|17|67.43.227.229|5615|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|20|103.115.242.225|80|Bangladesh|Dohār|Md. Rashed Mollah|
 
 
 
