@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|72.10.160.173|1767|Canada|Montreal|GloboTech Communications|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 |10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |11|67.43.228.251|3797|Canada|Montreal|GloboTech Communications|
-|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
-|15|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|12|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|72.10.160.90|9593|Canada|Montreal|GloboTech Communications|
 |16|72.10.160.92|12787|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|20645|Canada|Montreal|GloboTech Communications|
-|18|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|19|67.43.228.253|20355|Canada|Montreal|GloboTech Communications|
-|20|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|17|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
+|18|72.10.160.170|6407|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|13151|Canada|Montreal|GloboTech Communications|
+|20|49.0.34.194|80|Bangladesh|Sakhipur|Always On Network Bangladesh Ltd.|
 
 
 
