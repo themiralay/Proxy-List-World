@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|11|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
 |16|123.182.58.169|8089|China|Zhangjiakou|China Telecom|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|19|45.11.95.165|5041|Russia|Moscow|Delta Ltd|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
