@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.228.253|18913|Canada|Montreal|GloboTech Communications|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|67.43.228.253|18913|Canada|Montreal|GloboTech Communications|
-|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|14|67.43.228.253|18913|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9699|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.173|2785|Canada|Montreal|GloboTech Communications|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.228.253|18913|Canada|Montreal|GloboTech Communications|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
+|7|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 
 
 
