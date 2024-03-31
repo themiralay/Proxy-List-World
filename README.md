@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|111.225.153.248|8089|China|Zhoutou|China Telecom|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|2955|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|25053|Canada|Montreal|GloboTech Communications|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|79.106.170.34|8989|Albania|Lushnje|ONE ALBANIA SH.A.|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
 
 
 
