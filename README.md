@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|51.178.43.147|3128|France|Gravelines|OVH SAS|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.228.253|1733|Canada|Montreal|GloboTech Communications|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|72.10.160.173|2015|Canada|Montreal|GloboTech Communications|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|111.225.152.146|8089|China|Zhoutou|China Telecom|
 
 
 
