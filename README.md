@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 |4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|123.182.59.176|8089|China|Zhangjiakou|China Telecom|
-|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|11|123.182.59.221|8089|China|Zhangjiakou|China Telecom|
-|12|111.225.152.193|8089|China|Zhoutou|China Telecom|
-|13|72.10.164.178|3393|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|4955|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|4095|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|1811|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3393|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|72.10.164.178|13163|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|32477|Canada|Montreal|GloboTech Communications|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|17|72.10.164.178|13163|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|29747|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|8033|Canada|Montreal|GloboTech Communications|
+|20|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
