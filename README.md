@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.95.184.62|999|Chile|Chillan|Comunicaciones Cablevision Ltda.|
-|11|38.49.129.158|999|Mexico|San Felipe|Ientc S De RL De CV|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|72.10.160.90|12899|Canada|Montreal|GloboTech Communications|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|67.43.228.253|20415|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.93|14855|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|8893|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|72.10.160.173|33101|Canada|Montreal|GloboTech Communications|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|45.11.95.165|5027|Russia|Moscow|Delta Ltd|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|116.163.1.85|9999|China|Beijing|China Unicom CHINA169 Network|
 
 
 
