@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|7|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |12|72.10.160.170|1465|Canada|Montreal|GloboTech Communications|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.228.253|8961|Canada|Montreal|GloboTech Communications|
+|13|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
