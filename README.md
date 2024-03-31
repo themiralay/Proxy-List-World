@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|4|43.134.136.189|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|12|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|13|67.43.228.253|4883|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|27585|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|4883|Canada|Montreal|GloboTech Communications|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.228.253|4883|Canada|Montreal|GloboTech Communications|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|210.72.11.46|3128|China|Haidian|CNIC-CAS|
+|8|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
+|9|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.236.20|29237|Canada|Montreal|GloboTech Communications|
+|13|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
+|14|213.171.3.124|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|15|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|67.43.228.250|4431|Canada|Montreal|GloboTech Communications|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|210.72.11.46|3128|China|Haidian|CNIC-CAS|
 
 
 
