@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|5|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|67.43.236.20|4953|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|72.10.160.170|2317|Canada|Montreal|GloboTech Communications|
-|17|112.73.93.234|3128|China|Foshan|Chinanet Jiangsu|
-|18|72.10.164.178|21771|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21771|Canada|Montreal|GloboTech Communications|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|2|34.32.29.244|3128|Germany|Berlin|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|17|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|67.43.227.227|7979|Canada|Montreal|GloboTech Communications|
+|20|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
 
 
 
