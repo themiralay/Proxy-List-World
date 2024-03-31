@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|210.72.11.46|3128|China|Haidian|CNIC-CAS|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|67.43.227.230|27801|Canada|Montreal|GloboTech Communications|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|10|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.93|11031|Canada|Montreal|GloboTech Communications|
 |13|67.43.228.251|1979|Canada|Montreal|GloboTech Communications|
 |14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|67.43.227.227|14103|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|67.43.228.250|22495|Canada|Montreal|GloboTech Communications|
-|19|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|20|72.10.164.178|2435|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|25995|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|8171|Canada|Montreal|GloboTech Communications|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|19|72.10.160.90|30125|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|24843|Canada|Montreal|GloboTech Communications|
 
 
 
