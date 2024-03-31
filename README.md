@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.3.253.226|4006|Vietnam|Hanoi|Viettel Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|117.3.253.226|4006|Vietnam|Hanoi|Viettel Corporation|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|172.105.56.59|9093|India|Mumbai|Akamai Technologies|
-|11|59.124.9.67|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|12|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|67.43.227.227|14313|Canada|Montreal|GloboTech Communications|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|72.10.164.178|14553|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|11|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|67.43.227.227|8955|Canada|Montreal|GloboTech Communications|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
