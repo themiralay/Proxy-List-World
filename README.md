@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|72.10.164.178|6483|Canada|Montreal|GloboTech Communications|
-|14|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|183.165.244.111|8089|China|Shenzhen|Chinanet|
-|18|111.225.153.138|8089|China|Zhoutou|China Telecom|
-|19|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|20|123.182.58.129|8089|China|Zhangjiakou|China Telecom|
+|6|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|103.12.73.108|8080|Bangladesh|Netrakona|Business Network|
+|9|38.188.166.5|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|10|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|12|45.151.13.242|8080|Italy|Pisa|Vianova spa|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|38.123.220.86|8080|Mexico|Tlalpujahuilla|Cogent Communications|
+|17|116.58.229.217|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|103.158.13.248|8080|Indonesia|Kebumen|PT.Global Media Data Prima|
+|19|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|20|41.222.8.254|8082|Kenya|Nairobi|FAIBA|
 
 
 
