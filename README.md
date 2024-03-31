@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
 |13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|72.10.160.92|5377|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|28559|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|19175|Canada|Montreal|GloboTech Communications|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.227.226|15569|Canada|Montreal|GloboTech Communications|
+|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|17|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|18|103.115.242.226|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
