@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|195.169.35.214|3128|The Netherlands|Maurik|Surf B.V.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|15|61.8.70.114|2023|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
+|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|72.10.160.171|21571|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
