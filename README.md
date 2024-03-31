@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|67.43.236.20|17979|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|17979|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|11175|Canada|Montreal|GloboTech Communications|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|117.3.248.224|4006|Vietnam|Hanoi|Viettel Corporation|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|183.89.65.94|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|18|67.43.236.20|8781|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
