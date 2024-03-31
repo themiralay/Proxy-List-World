@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 |6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|13|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|123.182.59.213|8089|China|Zhangjiakou|China Telecom|
-|17|67.43.227.228|19201|Canada|Montreal|GloboTech Communications|
-|18|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.164.178|19809|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|9041|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.170|9041|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|24411|Canada|Montreal|GloboTech Communications|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|103.115.242.227|80|Bangladesh|Dohār|Md. Rashed Mollah|
+|16|67.43.227.228|18535|Canada|Montreal|GloboTech Communications|
+|17|34.32.29.244|3128|Germany|Berlin|Google LLC|
+|18|72.10.164.178|24411|Canada|Montreal|GloboTech Communications|
+|19|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|123.182.59.187|8089|China|Zhangjiakou|China Telecom|
 
 
 
