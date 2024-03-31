@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|17|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
-|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|36.225.49.152|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|80.66.89.199|4006|Russia|Moscow|BUQU.SU Solutions|
+|20|67.43.228.253|13003|Canada|Montreal|GloboTech Communications|
 
 
 
