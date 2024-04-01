@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.94.212.151|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|2|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|3|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|8|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|80.191.106.129|8081|Iran|Saveh|Iran Telecommunication Company PJS|
-|11|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
-|14|67.43.227.227|31529|Canada|Montreal|GloboTech Communications|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|103.126.28.85|2525|Indonesia|Bandung|PT Integra Kreasitama Solusindo|
-|18|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|19|67.43.227.228|6133|Canada|Montreal|GloboTech Communications|
-|20|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|72.10.164.178|15421|Canada|Montreal|GloboTech Communications|
+|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|67.43.227.228|22713|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
