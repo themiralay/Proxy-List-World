@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|5|186.148.181.70|999|Colombia|Bogotá|EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV|
-|6|223.247.46.38|8089|China|Rongcheng|Chinanet|
-|7|203.161.32.78|40001|United States|Phoenix|Namecheap, Inc.|
-|8|103.132.52.210|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|9|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.170|29053|Canada|Montreal|GloboTech Communications|
-|16|170.245.132.15|999|Paraguay|Carapegua|MACHADO BAEZ, NERY JAVIER|
-|17|67.43.236.20|18425|Canada|Montreal|GloboTech Communications|
-|18|161.49.90.70|1337|Philippines|Makati City|Converge ICT Solution Inc|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|203.161.32.78|40001|United States|Phoenix|Namecheap, Inc.|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|89.168.121.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|12|72.10.160.170|29053|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|16|114.106.137.5|8089|China|Guangzhou|Chinanet|
+|17|8.242.85.6|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|67.43.228.253|13313|Canada|Montreal|GloboTech Communications|
+|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
