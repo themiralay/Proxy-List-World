@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|188.136.154.62|7060|Iran|Isfahan|Ariana Gostar Spadana's|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|16|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|86.201.61.237|5575|France|Rodez|France Telecom|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.32.198.25|80|United States|Dallas|The Constant Company|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|15|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|16|34.32.28.105|3128|Germany|Berlin|Google LLC|
+|17|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
