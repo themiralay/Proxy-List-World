@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|66.250.190.57|8080|United States|Bowie|Education Networks of America|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|27473|Canada|Montreal|GloboTech Communications|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27473|Canada|Montreal|GloboTech Communications|
-|18|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|19|67.43.236.20|32673|Canada|Montreal|GloboTech Communications|
-|20|45.11.95.165|6045|Russia|Moscow|Delta Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|177.93.37.35|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|10|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
+|15|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|16|103.169.148.5|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|17|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|18|72.10.160.90|31241|Canada|Montreal|GloboTech Communications|
+|19|103.148.112.117|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
+|20|67.43.227.226|28523|Canada|Montreal|GloboTech Communications|
 
 
 
