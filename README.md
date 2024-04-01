@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|35.243.227.100|80|United States|North Charleston|Google LLC|
+|10|85.132.11.208|3128|Azerbaijan|Baku|Delta|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|35.243.227.100|80|United States|North Charleston|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.243.227.100|80|United States|North Charleston|Google LLC|
-|16|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
-|19|35.243.227.100|80|United States|North Charleston|Google LLC|
-|20|72.10.160.170|2563|Canada|Montreal|GloboTech Communications|
+|13|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|14|72.10.160.90|27483|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
