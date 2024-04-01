@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|12|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|45.11.95.165|6024|Russia|Moscow|Delta Ltd|
+|19|139.180.168.182|80|Australia|Sydney|Choopa|
+|20|118.172.239.231|8180|Thailand|Ban Pho|TOT Public Company Limited|
 
 
 
