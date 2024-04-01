@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|2|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|67.43.236.20|14699|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|123.182.59.187|8089|China|Zhangjiakou|China Telecom|
+|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|67.43.236.20|7963|Canada|Montreal|GloboTech Communications|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|67.43.228.253|22685|Canada|Montreal|GloboTech Communications|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
