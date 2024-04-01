@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|7|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|14|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
-|15|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|16|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|17|72.10.164.178|27481|Canada|Montreal|GloboTech Communications|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|111.225.153.186|8089|China|Zhoutou|China Telecom|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.236.20|29841|Canada|Montreal|GloboTech Communications|
+|17|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|189.186.63.103|999|Mexico|Culiacán|UNINET|
+|20|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
