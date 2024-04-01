@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|72.10.164.178|32057|Canada|Montreal|GloboTech Communications|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|67.43.227.227|10429|Canada|Montreal|GloboTech Communications|
+|12|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|13|72.10.164.178|32057|Canada|Montreal|GloboTech Communications|
 |14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|45.11.95.165|5036|Russia|Moscow|Delta Ltd|
-|16|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|72.10.164.178|32057|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32057|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.69|8089|China|Zhangjiakou|China Telecom|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|72.10.160.171|1379|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|38.45.44.51|6332|United States|Doral|FENIX NETWORKS, S.R.L.|
 
 
 
