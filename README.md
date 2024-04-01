@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|22767|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|30749|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|2881|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|32191|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2881|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|30511|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|21287|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.219.10.150|8080|India|Gurugram|BSNL Internet|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.164.178|18449|Canada|Montreal|GloboTech Communications|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.228|6207|Canada|Montreal|GloboTech Communications|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|67.43.228.253|27501|Canada|Montreal|GloboTech Communications|
+|20|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
