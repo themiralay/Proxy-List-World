@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|72.10.164.178|18587|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|1811|Canada|Montreal|GloboTech Communications|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.160.93|31679|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|72.10.160.93|31679|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|67.43.227.227|24567|Canada|Montreal|GloboTech Communications|
+|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|83.166.240.151|3128|Russia|Moscow|LLC Management Company "Svyaz"|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|34.32.55.84|3128|Germany|Berlin|Google LLC|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
