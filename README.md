@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|67.43.236.18|6347|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1759|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|67.43.227.227|6565|Canada|Montreal|GloboTech Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|67.43.228.252|1859|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.251|32709|Canada|Montreal|GloboTech Communications|
+|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|67.43.228.250|17549|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|17|114.231.8.60|8089|China|Nanjing|Chinanet|
+|18|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|123.182.59.234|8089|China|Zhangjiakou|China Telecom|
 
 
 
