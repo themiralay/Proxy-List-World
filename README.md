@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|150.109.68.27|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|61.129.2.212|8080|China|Beijing|CHINANET|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|200.125.169.194|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.227.227|30421|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.228.253|23157|Canada|Montreal|GloboTech Communications|
-|15|181.232.190.218|999|Dominican Republic|Guerra|Jarm Telecomunicaciones SRL|
-|16|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|17|176.8.230.197|8187|Ukraine|Lutsk|Kyivstar UA|
-|18|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|2|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|5|103.153.247.33|3125|Indonesia|Jakarta|PRIMAHOME|
+|6|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|67.43.227.227|30421|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|17|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|18|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
 |19|37.220.83.232|3128|Poland|Warsaw|TimeWeb Ltd.|
-|20|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|20|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
