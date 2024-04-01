@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|9|203.190.44.197|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|14|67.43.236.20|1321|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|67.43.227.228|30699|Canada|Montreal|GloboTech Communications|
-|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|19|123.182.58.25|8089|China|Zhangjiakou|China Telecom|
-|20|111.225.152.181|8089|China|Zhoutou|China Telecom|
+|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|67.43.236.20|1321|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|13|111.225.153.73|8089|China|Zhoutou|China Telecom|
+|14|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|15|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|119.92.70.8|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
 
 
 
