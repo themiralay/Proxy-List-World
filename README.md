@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|35.243.227.100|80|United States|North Charleston|Google LLC|
+|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 
 
 
