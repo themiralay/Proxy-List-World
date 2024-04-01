@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|183.165.226.143|8089|China|Shenzhen|Chinanet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.236.20|10101|Canada|Montreal|GloboTech Communications|
-|10|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|72.10.160.90|17485|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|17485|Canada|Montreal|GloboTech Communications|
-|14|101.255.169.250|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|103.175.237.4|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|16|72.10.160.173|14583|Canada|Montreal|GloboTech Communications|
-|17|101.255.169.250|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|67.43.228.250|29915|Canada|Montreal|GloboTech Communications|
-|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|20|64.225.48.252|3128|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.160.90|14397|Canada|Montreal|GloboTech Communications|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|72.10.160.90|14397|Canada|Montreal|GloboTech Communications|
+|16|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|19|111.225.153.247|8089|China|Zhoutou|China Telecom|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
