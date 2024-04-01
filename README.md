@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|13|183.165.224.188|8089|China|Shenzhen|Chinanet|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|72.10.160.90|23671|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6233|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|18|60.174.0.76|8089|China|Guangzhou|Chinanet|
-|19|67.43.236.19|18343|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6233|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|23671|Canada|Montreal|GloboTech Communications|
+|14|60.174.0.76|8089|China|Guangzhou|Chinanet|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
+|19|182.176.164.41|8080|Pakistan|Sialkot|Pakistan Telecommuication company limited|
+|20|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
