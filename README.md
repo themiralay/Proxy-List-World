@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|216.176.187.99|39812|United States|Los Angeles|Wowrack.com|
-|6|119.92.75.48|8082|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|216.176.187.99|39812|United States|Los Angeles|Wowrack.com|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |14|5.9.108.79|8118|Germany|Giessen|Hetzner Online GmbH|
-|15|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|16|72.10.160.174|5945|Canada|Montreal|GloboTech Communications|
-|17|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|18|72.10.160.171|9063|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|5945|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|3699|Canada|Montreal|GloboTech Communications|
+|15|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|19|72.10.160.92|3699|Canada|Montreal|GloboTech Communications|
+|20|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
 
 
 
