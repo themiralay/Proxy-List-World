@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|5|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|67.43.228.253|21959|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.253|21959|Canada|Montreal|GloboTech Communications|
-|8|103.172.70.237|8080|Indonesia|Karawang|AZNET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|3361|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|11051|Canada|Montreal|GloboTech Communications|
-|13|47.247.29.81|8081|India|Navi Mumbai|Reliance Jio Infocomm Limited|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.160.91|11051|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26827|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.164.178|3361|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26827|Canada|Montreal|GloboTech Communications|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|5|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|72.10.164.178|32379|Canada|Montreal|GloboTech Communications|
+|10|103.172.70.237|8080|Indonesia|Karawang|AZNET|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.228.253|11523|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|11051|Canada|Montreal|GloboTech Communications|
+|15|14.142.36.210|1111|India|Mumbai|Tata Communications Limited|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|32379|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|32379|Canada|Montreal|GloboTech Communications|
+|19|121.195.170.225|1024|China|Haidian|CERNET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
