@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,22 +40,22 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|119.93.43.16|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|181.39.64.26|999|Ecuador|Guayaquil|Telconet S.A|
+|2|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|3|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.180.245.169|8080|Bangladesh|Dhaka|UKH BD Ltd|
+|10|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|188.136.154.62|7060|Iran|Isfahan|Ariana Gostar Spadana's|
+|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
 |18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
