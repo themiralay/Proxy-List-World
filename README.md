@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 |7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|72.10.160.173|21883|Canada|Montreal|GloboTech Communications|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|16|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|17|67.43.227.227|19841|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
