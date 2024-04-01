@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|103.87.170.82|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|10|168.181.81.225|9090|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|6|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|202.154.19.3|8080|Indonesia|Jombang|DIGITNET|
-|15|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|16|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|67.43.236.20|27377|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|11565|Canada|Montreal|GloboTech Communications|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|4883|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|27377|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27117|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
