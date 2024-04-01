@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|72.10.160.90|29129|Canada|Montreal|GloboTech Communications|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|67.43.228.253|6027|Canada|Montreal|GloboTech Communications|
-|10|45.11.95.165|5043|Russia|Moscow|Delta Ltd|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|67.43.228.250|17711|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|12529|Canada|Montreal|GloboTech Communications|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.93|31627|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|37.220.83.232|3128|Poland|Warsaw|TimeWeb Ltd.|
-|19|67.43.236.20|11463|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|28169|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|95.0.84.26|80|Turkey|Ulus|Turk Telekomunikasyon Anonim Sirketi|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|11|72.10.164.178|15677|Canada|Montreal|GloboTech Communications|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|24.176.53.183|8080|United States|Portage|Charter Communications|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|45.11.95.165|5040|Russia|Moscow|Delta Ltd|
+|19|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
