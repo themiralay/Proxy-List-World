@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|103.87.170.82|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|12|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.91|8243|Canada|Montreal|GloboTech Communications|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|16|182.253.10.147|8080|Indonesia|Jakarta Pusat|BIZNET|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
 
 
 
