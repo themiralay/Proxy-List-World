@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.245.54.43|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|14|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
-|15|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|16|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|20|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|209.14.115.33|999|Colombia|Bogotá|AGIS|
+|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
