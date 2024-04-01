@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
-|13|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.236.20|6427|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|3231|Canada|Montreal|GloboTech Communications|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
+|10|103.153.63.126|3125|Indonesia|Rejoagung Satu|IMEDIANET|
+|11|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|45.189.252.57|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|13|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|15|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
+|18|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
