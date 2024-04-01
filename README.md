@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|34.154.161.152|80|Italy|Milan|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|11|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|12|67.43.227.227|31655|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|20205|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|27129|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|8325|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|20205|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.160.173|3057|Canada|Montreal|GloboTech Communications|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|7|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|72.10.164.178|15255|Canada|Montreal|GloboTech Communications|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|72.10.160.171|8325|Canada|Montreal|GloboTech Communications|
 
 
 
