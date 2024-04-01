@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|15|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|17|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|20|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
 
 
 
