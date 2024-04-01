@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|194.117.230.230|3128|Romania|Bucharest|Mondo-Byte SRL|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.87.169.145|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|34.32.28.105|3128|Germany|Berlin|Google LLC|
-|11|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|12|121.195.170.225|1024|China|Haidian|CERNET|
-|13|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|14|5.196.111.30|20481|France|Gravelines|OVH SAS|
-|15|182.53.74.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|19|27.158.47.242|8089|China|Guangzhou|Chinanet|
-|20|117.186.29.61|3030|China|Shanghai|China Mobile communications corporation|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|34.32.28.105|3128|Germany|Berlin|Google LLC|
+|10|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|11|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|12|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|13|67.43.227.227|5397|Canada|Montreal|GloboTech Communications|
+|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|72.10.160.170|18733|Canada|Montreal|GloboTech Communications|
+|16|154.73.111.153|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|67.43.228.253|22953|Canada|Montreal|GloboTech Communications|
 
 
 
