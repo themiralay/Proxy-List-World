@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
 |3|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|36.82.236.219|8080|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
-|19|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
-|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.172.70.237|8080|Indonesia|Karawang|AZNET|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|9|82.113.157.122|31280|United Kingdom|London|Xtraordinary|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|110.164.132.236|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|16|183.89.64.147|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|67.43.236.20|12161|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
