@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|10|183.165.226.143|8089|China|Shenzhen|Chinanet|
-|11|67.43.227.227|13109|Canada|Montreal|GloboTech Communications|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|17|67.43.236.20|14699|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|13939|Canada|Montreal|GloboTech Communications|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|77.77.64.116|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|2|140.238.34.53|3128|Japan|Tokyo|Oracle Corporation|
+|3|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|183.165.226.143|8089|China|Shenzhen|Chinanet|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
+|15|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|16|67.43.236.20|27269|Canada|Montreal|GloboTech Communications|
+|17|38.252.209.96|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|18|146.190.224.33|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|182.176.164.41|8080|Pakistan|Sialkot|Pakistan Telecommuication company limited|
 
 
 
