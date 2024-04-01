@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|11|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
-|12|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|16|103.101.216.2|8080|Indonesia|Kabupaten Serdang Bedagai|PT Duta Trans Nusantara Network|
-|17|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
-|18|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|19|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|17|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
