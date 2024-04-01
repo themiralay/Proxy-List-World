@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|67.43.227.229|2523|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.228.253|9323|Canada|Montreal|GloboTech Communications|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|118.117.189.34|8089|China|Muping|Chinanet|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.90|29117|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31511|Canada|Montreal|GloboTech Communications|
+|3|154.53.60.205|3128|United States|Seattle|Nubes, LLC|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|5|67.43.227.229|2523|Canada|Montreal|GloboTech Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|72.10.160.90|29117|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|31511|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|103.150.69.8|8080|Bangladesh|Rangamati|Md Johirul Islam|
+|13|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|67.43.236.20|15605|Canada|Montreal|GloboTech Communications|
+|15|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|16|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.154.144.202|8715|Indonesia|Sidoarjo|MORATELINDONAP|
+|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|67.43.236.20|15605|Canada|Montreal|GloboTech Communications|
 
 
 
