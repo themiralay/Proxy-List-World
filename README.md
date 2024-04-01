@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|176.9.52.249|80|Germany|Falkenstein|Hetzner Online GmbH|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 |5|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|72.10.160.171|17269|Canada|Montreal|GloboTech Communications|
-|8|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|9|67.43.228.253|22105|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.236.20|22751|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|17269|Canada|Montreal|GloboTech Communications|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|72.10.160.170|7711|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|22751|Canada|Montreal|GloboTech Communications|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
-|19|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
-|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|6|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|72.10.160.171|11621|Canada|Montreal|GloboTech Communications|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|67.43.228.253|15355|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|7711|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|11621|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|15355|Canada|Montreal|GloboTech Communications|
+|15|103.133.27.42|8081|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|119.92.75.48|8082|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|17|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|18|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
 
 
 
