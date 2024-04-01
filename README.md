@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.136.189|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.160.90|3799|Canada|Montreal|GloboTech Communications|
-|15|190.61.45.74|8080|Colombia|Santiago de Cali|Ufinet Panama S.A.|
-|16|72.10.164.178|2205|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|3799|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|103.46.4.3|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|20|67.43.236.20|16411|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|43.128.44.179|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
