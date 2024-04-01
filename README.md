@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|9|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|24.176.53.183|8080|United States|Portage|Charter Communications|
-|13|72.10.164.178|5599|Canada|Montreal|GloboTech Communications|
-|14|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|15|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|16|121.52.156.146|8080|Pakistan|Multan|HEC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.236.18|27125|Canada|Montreal|GloboTech Communications|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|183.165.224.63|8089|China|Shenzhen|Chinanet|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|38.45.36.196|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|183.165.224.63|8089|China|Shenzhen|Chinanet|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|95.0.84.26|80|Turkey|Ulus|Turk Telekomunikasyon Anonim Sirketi|
+|13|72.10.160.90|11867|Canada|Montreal|GloboTech Communications|
+|14|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|15|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|16|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
+|17|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|18|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|19|154.64.219.2|8888|United States|Jacksonville|OSNET Wireless|
+|20|200.101.150.202|8080|Brazil|Curitiba|V tal|
 
 
 
