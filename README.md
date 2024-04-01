@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|9|67.43.227.227|18327|Canada|Montreal|GloboTech Communications|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|67.43.228.254|26957|Canada|Montreal|GloboTech Communications|
-|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.236.20|20035|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.158.221.49|83|India|Theni|Nt Cybronet Pvt Ltd|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|69.160.223.33|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|5|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|6|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|72.10.160.170|7771|Canada|Montreal|GloboTech Communications|
+|10|103.4.117.153|5020|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|11|67.43.228.253|30415|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.254|26957|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|6837|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|20035|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|15831|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|30415|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.228.250|11023|Canada|Montreal|GloboTech Communications|
 
 
 
