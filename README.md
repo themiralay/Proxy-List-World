@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
-|7|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.228.253|13149|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|11463|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
 |15|67.43.227.227|11463|Canada|Montreal|GloboTech Communications|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
-|18|72.10.164.178|17989|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|13149|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|18065|Canada|Montreal|GloboTech Communications|
+|16|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|17|72.10.164.178|18593|Canada|Montreal|GloboTech Communications|
+|18|81.23.114.238|8080|Russia|St Petersburg|SEVEREN|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
