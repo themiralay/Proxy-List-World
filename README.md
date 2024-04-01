@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.148.112.117|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
+|6|97.64.70.2|16099|United States|College Station|PRONSS|
+|7|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 |10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|13|67.43.228.251|19559|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.227.226|30809|Canada|Montreal|GloboTech Communications|
-|16|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|72.10.160.90|8231|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|8231|Canada|Montreal|GloboTech Communications|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|72.10.160.172|7487|Canada|Montreal|GloboTech Communications|
+|13|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|19559|Canada|Montreal|GloboTech Communications|
+|17|187.189.238.2|999|Mexico|San Luis Río Colorado|Total Play Telecomunicaciones SA De CV|
+|18|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
