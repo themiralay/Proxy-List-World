@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|80.66.89.198|4000|Russia|Moscow|BUQU.SU Solutions|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|5|75.112.64.27|8080|United States|Orlando|Spectrum|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|101.255.62.129|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
 |13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.236.20|1417|Canada|Montreal|GloboTech Communications|
-|17|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|18|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|72.10.160.90|21937|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|14|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|67.43.236.20|4211|Canada|Montreal|GloboTech Communications|
+|20|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
