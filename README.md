@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|72.10.164.178|28369|Canada|Montreal|GloboTech Communications|
-|9|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.228.251|21203|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28369|Canada|Montreal|GloboTech Communications|
-|13|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
-|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|45.70.221.22|18080|Argentina|Basavilbaso|Delco Imagen S.A|
-|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|66.112.211.207|8888|United States|Los Angeles|IT7 Networks Inc|
-|19|67.43.236.20|5927|Canada|Montreal|GloboTech Communications|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|8|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|9|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|72.10.160.90|30017|Canada|Montreal|GloboTech Communications|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|1435|Canada|Montreal|GloboTech Communications|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|67.43.236.20|5927|Canada|Montreal|GloboTech Communications|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|72.10.164.178|1435|Canada|Montreal|GloboTech Communications|
 
 
 
