@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|202.79.57.59|8080|Nepal|Kathmandu|WorldLink Communications|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|12|117.219.10.150|8080|India|Gurugram|BSNL Internet|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|15|72.10.160.92|5497|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|5423|Canada|Montreal|GloboTech Communications|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|67.43.236.20|5423|Canada|Montreal|GloboTech Communications|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|72.10.160.92|5497|Canada|Montreal|GloboTech Communications|
+|13|200.125.169.194|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|16|67.43.227.226|25029|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|67.43.236.20|20757|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|18859|Canada|Montreal|GloboTech Communications|
+|20|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
