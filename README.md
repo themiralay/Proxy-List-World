@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
-|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.111.136.110|8080|Indonesia|Samarinda|FAZNET|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|80.66.89.198|4000|Russia|Moscow|BUQU.SU Solutions|
-|15|75.112.64.27|8080|United States|Orlando|Spectrum|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|67.43.227.227|4563|Canada|Montreal|GloboTech Communications|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|131.100.48.74|999|Colombia|Neiva|Fibernet TV SAS|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|67.43.236.20|1461|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|7139|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|16039|Canada|Montreal|GloboTech Communications|
 
 
 
