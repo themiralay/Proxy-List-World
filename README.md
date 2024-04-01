@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|72.10.160.170|3013|Canada|Montreal|GloboTech Communications|
-|11|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.228.253|30163|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|17711|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5747|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5747|Canada|Montreal|GloboTech Communications|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|67.43.228.253|30163|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|9617|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
