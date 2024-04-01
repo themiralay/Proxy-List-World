@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.90|24817|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
-|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|67.43.228.253|8803|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|67.43.228.253|8803|Canada|Montreal|GloboTech Communications|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|67.43.227.227|14947|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|14947|Canada|Montreal|GloboTech Communications|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
+|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|3|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|4|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|5|72.10.160.90|17261|Canada|Montreal|GloboTech Communications|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|72.10.164.178|13267|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|13267|Canada|Montreal|GloboTech Communications|
+|9|45.11.95.165|6048|Russia|Moscow|Delta Ltd|
+|10|67.43.228.253|8803|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
+|12|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|41.65.162.77|1981|Egypt|Al Mahallah al Kubra|Etisalat Misr Mobile BB|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|31353|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|31353|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|10227|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|8803|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13267|Canada|Montreal|GloboTech Communications|
 
 
 
