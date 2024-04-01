@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|3|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|16|72.10.164.178|6117|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|7631|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10847|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|4|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|72.10.160.90|8485|Canada|Montreal|GloboTech Communications|
+|14|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|67.43.236.20|15191|Canada|Montreal|GloboTech Communications|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|20|111.225.153.93|8089|China|Zhoutou|China Telecom|
 
 
 
