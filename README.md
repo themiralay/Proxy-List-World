@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|2|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|67.43.228.253|8961|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|26287|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|1259|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|30463|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|26287|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|8|72.10.164.178|8241|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|9683|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|8241|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.90|9683|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|22753|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8241|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|72.10.164.178|8241|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|29469|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|72.10.160.171|8325|Canada|Montreal|GloboTech Communications|
 
 
 
