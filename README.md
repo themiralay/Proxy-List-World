@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|12|45.32.198.25|80|United States|Dallas|The Constant Company|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|17|45.32.198.25|80|United States|Dallas|The Constant Company|
-|18|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|122.3.139.85|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|72.10.164.178|5225|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
+|8|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|9|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|45.178.133.73|999|Chile|Renca|Mundonet S.p.A|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|13|91.236.156.30|8282|Ukraine|Shyshaky|Limited Liability Company AVATOR ISP|
+|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|15|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
