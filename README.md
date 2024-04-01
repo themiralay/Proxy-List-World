@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
-|2|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|3|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|4|178.19.116.34|3128|The Netherlands|Amsterdam|IC Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|101.109.109.252|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|9|66.250.190.57|8080|United States|Bowie|Education Networks of America|
-|10|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|72.10.160.171|2033|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.160.170|25273|Canada|Montreal|GloboTech Communications|
-|20|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|3|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|4|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|10|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|72.10.164.178|26677|Canada|Montreal|GloboTech Communications|
+|15|103.154.91.182|8080|Indonesia|Bogor|MORATELINDONAP|
+|16|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|18|72.10.164.178|26677|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
