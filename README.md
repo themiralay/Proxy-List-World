@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|1|103.178.42.102|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
 |2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|3|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|67.43.228.253|15355|Canada|Montreal|GloboTech Communications|
-|8|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|9|45.11.95.165|5036|Russia|Moscow|Delta Ltd|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|87.121.69.16|3375|United Kingdom|London|Pfcloud UG|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|72.10.160.173|33063|Canada|Montreal|GloboTech Communications|
-|14|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|3|190.110.35.230|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|4|223.25.100.42|2222|Indonesia|Surabaya|PT Indonesia Comnets Plus|
+|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|67.43.227.228|11767|Canada|Montreal|GloboTech Communications|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|16|124.106.116.34|1337|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.227.226|2379|Canada|Montreal|GloboTech Communications|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
