@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|195.138.94.169|41890|Ukraine|Odesa|TeNeT Networking Centre|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|103.187.111.81|82|India|Hyderabad|Neolog Broadband Services|
-|18|67.43.236.20|27377|Canada|Montreal|GloboTech Communications|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|201.238.248.139|9229|Chile|Santiago|Gtd Internet S.A.|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|103.87.170.82|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|181.204.168.83|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|103.179.253.202|8181|Indonesia|Depok|PT Pusaka Kreasi Mandiri|
+|17|190.90.8.74|999|Colombia|Santiago de Cali|InterNexa Global Network|
+|18|190.61.46.178|999|Colombia|Sincelejo|Ufinet Panama S.A.|
+|19|45.32.198.25|80|United States|Dallas|The Constant Company|
+|20|67.43.236.20|27377|Canada|Montreal|GloboTech Communications|
 
 
 
