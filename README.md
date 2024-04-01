@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|2|62.72.191.168|3128|Türkiye|Denizli|Raguron Bulut Bilisim Teknolojileri LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|62.72.191.168|3128|Türkiye|Denizli|Raguron Bulut Bilisim Teknolojileri LTD|
-|7|67.43.227.226|13525|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|24863|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|27381|Canada|Montreal|GloboTech Communications|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|67.43.236.20|32355|Canada|Montreal|GloboTech Communications|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|72.10.160.90|17625|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|25633|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32355|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|17625|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|19|72.10.164.178|27381|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|32355|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|6|72.10.164.178|24817|Canada|Montreal|GloboTech Communications|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|72.10.160.90|14459|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
