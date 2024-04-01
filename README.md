@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.236.20|7695|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|13|111.225.152.198|8089|China|Zhoutou|China Telecom|
-|14|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|15|67.43.227.227|2955|Canada|Montreal|GloboTech Communications|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|19|67.43.236.20|7695|Canada|Montreal|GloboTech Communications|
-|20|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.66.159.34|800|South Africa|Johannesburg|Wirulink Pty Ltd|
+|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|123.182.59.103|8089|China|Zhangjiakou|China Telecom|
+|18|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|19|123.182.58.167|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.227.226|15593|Canada|Montreal|GloboTech Communications|
 
 
 
