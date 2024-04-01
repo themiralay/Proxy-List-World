@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|6|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
-|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 |10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|67.43.236.20|1035|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|5309|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|5309|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13837|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|183.131.93.118|8888|China|Hangzhou|Chinanet|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|18|72.10.160.170|1717|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
