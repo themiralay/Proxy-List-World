@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|46.188.25.233|8080|Russia|Moscow|2COM|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|67.43.236.20|19645|Canada|Montreal|GloboTech Communications|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|9|94.228.194.18|41890|Russia|Moscow|Uniontel ZAO network|
+|10|72.10.164.178|10965|Canada|Montreal|GloboTech Communications|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 |12|67.43.236.20|19645|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.236.20|19645|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.164.178|10965|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31289|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28181|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|29473|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.236.20|19645|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|2101|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|67.43.228.250|17321|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|67.43.227.227|20089|Canada|Montreal|GloboTech Communications|
 
 
 
