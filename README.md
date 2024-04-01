@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|115.74.96.101|4020|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|6|139.255.36.82|8080|Indonesia|Bandung|PT. LINKNET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|67.43.236.19|32937|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|32187|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|72.10.164.178|30041|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|10055|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|30041|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7139|Canada|Montreal|GloboTech Communications|
-|19|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
-|20|67.43.227.227|1639|Canada|Montreal|GloboTech Communications|
+|2|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.227.227|14149|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|14149|Canada|Montreal|GloboTech Communications|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|120.29.124.131|8080|Philippines|Bacolor|ComClark Network & Technology Corp|
+|15|72.10.164.178|16593|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14149|Canada|Montreal|GloboTech Communications|
+|18|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|20|67.43.228.251|9843|Canada|Montreal|GloboTech Communications|
 
 
 
