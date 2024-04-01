@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|72.10.164.178|2179|Canada|Montreal|GloboTech Communications|
-|10|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|11|72.10.164.178|2179|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|33081|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|26801|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|15529|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|72.10.164.178|2179|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|20811|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2179|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2179|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|5|67.43.227.227|26801|Canada|Montreal|GloboTech Communications|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|25435|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|11|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|12|67.43.236.20|11871|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|26801|Canada|Montreal|GloboTech Communications|
+|15|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|16|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|67.43.227.227|26801|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|29379|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|18175|Canada|Montreal|GloboTech Communications|
 
 
 
