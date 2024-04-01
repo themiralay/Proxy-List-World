@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|10|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|11|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.227.226|20033|Canada|Montreal|GloboTech Communications|
-|14|116.99.232.242|30134|Vietnam|Hanoi|Viettel Corporation|
-|15|67.43.236.20|18827|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26233|Canada|Montreal|GloboTech Communications|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|8|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|104.154.134.179|888|United States|Council Bluffs|Google LLC|
+|12|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|13|114.106.171.215|8089|China|Rongcheng|Chinanet|
+|14|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|104.154.134.179|888|United States|Council Bluffs|Google LLC|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|49.84.216.40|888|China|Nanjing|Chinanet|
-|20|72.10.160.170|8469|Canada|Montreal|GloboTech Communications|
+|19|116.99.232.242|30134|Vietnam|Hanoi|Viettel Corporation|
+|20|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
 
 
 
