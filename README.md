@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|8|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|160.242.19.126|8080|Saint Helena|Jamestown|Paratus Telecommunications Limited|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.171.31.155|8080|Indonesia|Bekasi|MORATELINDONAP|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.148.112.117|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
+|11|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.151.30.17|8090|Bangladesh|Tongi|Bright Star Network|
 
 
 
