@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|2|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|3|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|38.7.17.163|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|103.217.224.53|3127|Indonesia|Semarang|PT Nesta Indo Media|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|177.231.245.182|8080|Mexico|Ciudad Hidalgo|Mega Cable, S.A. de C.V.|
-|14|72.10.160.90|10901|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
-|16|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|17|102.214.167.129|1981|Libya|Darnah|Taqnyat Aljeel Company Communication and Information|
-|18|72.10.164.178|29659|Canada|Montreal|GloboTech Communications|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|14|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|2263|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|72.10.164.178|4631|Canada|Montreal|GloboTech Communications|
+|18|36.64.86.27|3125|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
