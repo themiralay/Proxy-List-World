@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|7|67.43.227.226|22681|Canada|Montreal|GloboTech Communications|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|88.99.131.6|8118|Germany|Falkenstein|Hetzner Online GmbH|
 |8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|9|67.43.228.250|5681|Canada|Montreal|GloboTech Communications|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|67.43.228.253|21159|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.91|1639|Canada|Montreal|GloboTech Communications|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|72.10.160.90|17121|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|24155|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.226|22681|Canada|Montreal|GloboTech Communications|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|20|103.169.133.34|8080|Indonesia|Kebon Kelapa|PT Alfa Omega Interkoneksi|
 
 
 
