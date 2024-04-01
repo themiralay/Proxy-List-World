@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|177.234.221.27|999|Ecuador|Huaquillas|Ufinet Panama S.A.|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|67.43.228.253|19911|Canada|Montreal|GloboTech Communications|
-|19|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|67.43.236.18|9105|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
 
 
 
