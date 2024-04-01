@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.227|11821|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.250|6909|Canada|Montreal|GloboTech Communications|
-|14|123.182.58.118|8089|China|Zhangjiakou|China Telecom|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|20.189.126.227|8128|Hong Kong|Hong Kong|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|89.40.142.236|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|14|123.182.58.126|8089|China|Zhangjiakou|China Telecom|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|19|72.10.164.178|15933|Canada|Montreal|GloboTech Communications|
+|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
