@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|66.250.190.57|8080|United States|Bowie|Education Networks of America|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|67.43.236.20|5971|Canada|Montreal|GloboTech Communications|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|72.10.160.90|31871|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|67.43.236.20|5971|Canada|Montreal|GloboTech Communications|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|72.10.160.93|14089|Canada|Montreal|GloboTech Communications|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|43.128.18.22|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|201.77.108.21|999|Mexico|Valle de Zaragoza|Nidix Networks S.a. De C.V.|
+|9|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
+|16|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|185.67.95.91|80|Russia|St Petersburg|ru.elitel|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|67.43.227.227|30281|Canada|Montreal|GloboTech Communications|
 
 
 
