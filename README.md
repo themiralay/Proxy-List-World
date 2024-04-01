@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.7.41|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|6|103.115.227.198|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|7|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|20|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|123.249.31.83|8118|China|Beijing|HWCSNET|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|67.43.227.228|26663|Canada|Montreal|GloboTech Communications|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|67.43.227.228|26663|Canada|Montreal|GloboTech Communications|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|67.43.228.253|31535|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|111.225.152.254|8089|China|Zhoutou|China Telecom|
 
 
 
