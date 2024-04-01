@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.66.89.198|4000|Russia|Moscow|BUQU.SU Solutions|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|13|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|14|72.10.164.178|19529|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.90|10463|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|33191|Canada|Montreal|GloboTech Communications|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|67.43.236.20|33191|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19529|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|62.201.217.194|8080|Iraq|Kelar|BAG|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|75.112.64.27|8080|United States|Orlando|Spectrum|
+|11|103.189.249.194|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 
 
 
