@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|7|201.77.108.21|999|Mexico|Valle de Zaragoza|Nidix Networks S.a. De C.V.|
-|8|179.49.156.26|999|Peru|Lima|Vemax S.A.C|
-|9|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
-|10|103.147.135.254|8090|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|11|177.234.221.27|999|Ecuador|Huaquillas|Ufinet Panama S.A.|
-|12|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|15|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
-|16|186.46.34.20|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.119.85.216|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
-|19|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|201.77.108.21|999|Mexico|Valle de Zaragoza|Nidix Networks S.a. De C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|179.49.156.26|999|Peru|Lima|Vemax S.A.C|
+|13|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|14|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|67.43.227.227|7217|Canada|Montreal|GloboTech Communications|
+|17|177.234.221.27|999|Ecuador|Huaquillas|Ufinet Panama S.A.|
+|18|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|19|67.43.236.20|3223|Canada|Montreal|GloboTech Communications|
+|20|177.93.60.70|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
