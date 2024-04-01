@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|103.27.22.65|32650|Pakistan|Karachi|Supernet|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|14.177.235.17|8080|Vietnam|Hanoi|VNPT|
+|6|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|103.30.30.73|8080|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|182.53.74.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|45.230.50.3|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|16|103.159.46.45|83|India|Ahmedabad|King Netsol Private Limited|
+|17|103.227.186.13|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|67.43.227.227|6639|Canada|Montreal|GloboTech Communications|
 
 
 
