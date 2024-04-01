@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|38.52.222.245|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|6|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|14|67.43.228.253|17347|Canada|Montreal|GloboTech Communications|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|67.43.227.227|4171|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.236.20|29819|Canada|Montreal|GloboTech Communications|
-|19|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|80.95.10.208|8082|South Africa|Lichtenburg|HERO TELECOMS (PTY) LTD|
+|17|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|18|144.91.111.4|3128|Germany|Nuremberg|Contabo GmbH|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
 
 
 
