@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6247** proxies at the latest update. Usable proxies are below.
+> Scraper found **6305** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|602|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4483|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|7|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|203.190.44.225|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|13|103.180.194.146|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|14|45.189.149.140|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|15|72.10.164.178|23383|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23383|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|12931|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|20863|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|24765|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|3729|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|6|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|7|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|8|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.228.253|16205|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|6607|Canada|Montreal|GloboTech Communications|
+|13|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|14|67.43.236.22|23429|Canada|Montreal|GloboTech Communications|
+|15|149.78.186.161|8888|Brazil|Barueri|Qnax Ltda|
+|16|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|1415|Canada|Montreal|GloboTech Communications|
+|19|123.182.59.35|8089|China|Zhangjiakou|China Telecom|
+|20|123.182.58.100|8089|China|Zhangjiakou|China Telecom|
 
 
 
