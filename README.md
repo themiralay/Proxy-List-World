@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
-|15|45.32.198.25|80|United States|Dallas|The Constant Company|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|72.10.164.178|1065|Canada|Montreal|GloboTech Communications|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|10|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
+|11|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|103.250.130.104|1111|Indonesia|Surabaya|LINTASDAYA|
 |19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
+|20|45.11.95.165|5017|Russia|Moscow|Delta Ltd|
 
 
 
