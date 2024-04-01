@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|6|36.90.160.32|3128|Indonesia|Babakangarut|PT. Telekomunikasi Indonesia|
-|7|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|8|111.225.152.13|8089|China|Zhoutou|China Telecom|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|67.43.227.227|19549|Canada|Montreal|GloboTech Communications|
-|11|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|12|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|45.32.28.105|12009|Japan|Shinagawa|Choopa|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|36.90.160.32|3128|Indonesia|Babakangarut|PT. Telekomunikasi Indonesia|
+|10|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|11|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|12|67.43.227.227|19549|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
+|14|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|17|67.43.228.254|24367|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.227.227|19549|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|19285|Canada|Montreal|GloboTech Communications|
+|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|17|181.209.82.202|999|Argentina|San Juan|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|19|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|20|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
 
 
 
