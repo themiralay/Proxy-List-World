@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|163.20.22.116|3128|Taiwan|Sanchong District|Taiwan Academic Network (TANet) Information Center|
-|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|72.10.164.178|8959|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|67.43.228.252|32799|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12111|Canada|Montreal|GloboTech Communications|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|8|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
+|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|12|103.48.70.145|84|India|Hyderabad|Country Online Services PVT LTD|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|18|209.209.10.40|50786|Canada|Montreal|Rica Web Services|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|212.252.71.9|8080|Türkiye|Gerede|Superonline Iletisim Hizmetleri A.S.|
 
 
 
