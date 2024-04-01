@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|67.43.236.18|9105|Canada|Montreal|GloboTech Communications|
-|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|72.10.160.90|25403|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12683|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29363|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|19|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|20|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|103.172.70.153|2022|Indonesia|Gemolong|AZNET|
+|15|201.150.9.53|8081|Mexico|San Nicolás de los Garza|Jose Miguel Macias Contreras|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|72.10.164.178|9057|Canada|Montreal|GloboTech Communications|
+|18|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
