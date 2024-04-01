@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|9|67.43.228.250|8557|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.227.227|3563|Canada|Montreal|GloboTech Communications|
-|13|103.87.169.200|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|14|72.10.160.171|4273|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.228.250|8557|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|22105|Canada|Montreal|GloboTech Communications|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|67.43.227.226|13201|Canada|Montreal|GloboTech Communications|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|10|70.113.250.186|16099|United States|Weslaco|Spectrum|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|72.10.160.171|4273|Canada|Montreal|GloboTech Communications|
+|14|69.160.223.33|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|17|70.113.250.186|16099|United States|Weslaco|Spectrum|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|19|67.43.227.227|3563|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|3485|Canada|Montreal|GloboTech Communications|
 
 
 
