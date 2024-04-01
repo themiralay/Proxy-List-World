@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|130.162.213.175|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|13|67.43.227.227|15261|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|18587|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|20335|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27611|Canada|Montreal|GloboTech Communications|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.227.227|15261|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|15261|Canada|Montreal|GloboTech Communications|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|16|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|17|67.43.227.227|8955|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
