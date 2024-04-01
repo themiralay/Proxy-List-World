@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|5|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.236.20|2749|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
-|18|176.98.22.224|8181|Ukraine|Mankivka|Crystal Telecom Ltd|
-|19|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|8|103.250.130.111|8080|Indonesia|Surabaya|LINTASDAYA|
+|9|209.14.113.2|999|Colombia|Cértegui|AGIS|
+|10|105.113.2.82|8080|Nigeria|Lagos|Airtel Networks Limited|
+|11|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|38.123.220.16|8080|Mexico|Tlalpujahuilla|Cogent Communications|
+|13|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|14|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|15|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|17|168.181.81.225|9090|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
+|20|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
