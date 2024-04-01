@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.153.124.218|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|7|103.91.82.177|8080|India|Khatauli|Inter Net Ly Private Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|72.10.160.170|24279|Canada|Montreal|GloboTech Communications|
-|14|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
-|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|72.10.160.170|24279|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|21965|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1935|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
+|6|103.178.42.10|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|67.43.228.252|2049|Canada|Montreal|GloboTech Communications|
+|12|20.204.122.49|443|India|Pune|Microsoft Corporation|
+|13|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|72.10.160.170|24279|Canada|Montreal|GloboTech Communications|
 
 
 
