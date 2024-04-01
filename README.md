@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|9|5.196.111.30|20481|France|Gravelines|OVH SAS|
-|10|67.43.227.227|18541|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|2775|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|18541|Canada|Montreal|GloboTech Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.90|2385|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|18541|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|25029|Canada|Montreal|GloboTech Communications|
-|17|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|3|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|4|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|5|103.147.246.115|8080|Indonesia|Tangerang|PLBNET|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|117.219.10.150|8080|India|Gurugram|BSNL Internet|
+|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|101.33.77.131|8081|South Korea|Seoul|Aceville Pte.ltd|
+|18|82.200.204.254|8081|Kazakhstan|Shymkent|Kazakhtelecom Data Network Administration|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|111.225.152.98|8089|China|Zhoutou|China Telecom|
 
 
 
