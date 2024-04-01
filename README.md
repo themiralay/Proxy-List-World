@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 |8|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|9|72.10.160.172|31869|Canada|Montreal|GloboTech Communications|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
-|12|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|13|72.10.160.171|21983|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|4283|Canada|Montreal|GloboTech Communications|
-|15|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|16|72.10.160.90|31871|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|67.43.236.19|24863|Canada|Montreal|GloboTech Communications|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|67.43.228.252|4283|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|24863|Canada|Montreal|GloboTech Communications|
+|12|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.160.172|7963|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|1681|Canada|Montreal|GloboTech Communications|
+|18|123.182.59.215|8089|China|Zhangjiakou|China Telecom|
+|19|67.43.236.20|30865|Canada|Montreal|GloboTech Communications|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
