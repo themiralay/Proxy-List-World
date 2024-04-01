@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|9|72.10.164.178|7615|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|72.10.160.171|3205|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|67.43.228.253|9041|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7615|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|22665|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|67.43.227.227|2665|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4613|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7615|Canada|Montreal|GloboTech Communications|
+|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|13|183.165.224.63|8089|China|Shenzhen|Chinanet|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|188.168.24.222|81|Russia|Novomal'tinsk|TTK-Retail|
+|17|67.43.236.20|4557|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|3183|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|2289|Canada|Montreal|GloboTech Communications|
+|20|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
 
 
 
