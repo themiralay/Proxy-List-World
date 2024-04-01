@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|7|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|8|72.10.160.173|10867|Canada|Montreal|GloboTech Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|182.53.74.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|146.190.224.33|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|67.43.228.253|16205|Canada|Montreal|GloboTech Communications|
-|13|59.124.9.67|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.160.173|10867|Canada|Montreal|GloboTech Communications|
-|16|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|17|123.182.59.152|8089|China|Zhangjiakou|China Telecom|
-|18|123.182.58.40|8089|China|Zhangjiakou|China Telecom|
-|19|123.182.58.94|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.236.20|18677|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|19559|Canada|Montreal|GloboTech Communications|
+|11|123.182.59.152|8089|China|Zhangjiakou|China Telecom|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|123.182.58.94|8089|China|Zhangjiakou|China Telecom|
+|14|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|15|194.54.56.58|3128|Turkey|Ulus|Uydunet|
+|16|67.43.228.253|16205|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|22617|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|20|123.182.58.40|8089|China|Zhangjiakou|China Telecom|
 
 
 
