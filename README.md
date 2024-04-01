@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|45.133.107.64|81|Russia|Mezmay|Art-net LLC|
-|14|103.87.170.82|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.164.178|14305|Canada|Montreal|GloboTech Communications|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
+|3|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.87.170.82|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|13|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|190.94.212.125|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|45.133.107.64|81|Russia|Mezmay|Art-net LLC|
+|17|50.84.48.130|8080|United States|Carrollton|Spectrum|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
