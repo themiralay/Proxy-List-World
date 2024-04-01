@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|12|114.103.80.134|8089|China|Shenzhen|Chinanet|
-|13|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|1593|Canada|Montreal|GloboTech Communications|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|67.43.227.227|15727|Canada|Montreal|GloboTech Communications|
-|17|60.174.0.61|8089|China|Guangzhou|Chinanet|
-|18|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|123.182.58.203|8089|China|Zhangjiakou|China Telecom|
+|8|67.43.228.253|2063|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.254|1593|Canada|Montreal|GloboTech Communications|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|219.65.42.162|80|India|New Delhi|Tata Communications Limited|
+|13|103.9.134.234|100|Bangladesh|Tongi|Information Services Network Ltd|
+|14|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|15|91.90.215.185|1981|Russia|Moscow|Advanced Solutions LLC|
+|16|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|17|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|18|72.10.164.178|12171|Canada|Montreal|GloboTech Communications|
+|19|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|20|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
 
 
 
