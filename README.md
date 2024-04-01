@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|7|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|11|72.10.160.171|2603|Canada|Montreal|GloboTech Communications|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.228.253|28691|Canada|Montreal|GloboTech Communications|
-|18|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|67.43.227.227|2263|Canada|Montreal|GloboTech Communications|
+|1|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
+|13|205.209.100.222|80|United States|Englewood Cliffs|Interserver, Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.171|2603|Canada|Montreal|GloboTech Communications|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|77.77.64.116|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|20|114.106.172.194|8089|China|Shenzhen|Chinanet|
 
 
 
