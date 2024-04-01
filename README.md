@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |4|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|72.10.160.90|11369|Canada|Montreal|GloboTech Communications|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|67.43.227.227|5397|Canada|Montreal|GloboTech Communications|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|19|37.182.79.112|8080|Italy|Vaiano|VODAFONE|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|158.220.91.232|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|8|103.193.144.76|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|9|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|10|64.76.211.59|999|Colombia|Medellín|Level 3|
+|11|5.9.211.233|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|12|122.3.139.85|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|45.32.198.25|80|United States|Dallas|The Constant Company|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|17|103.141.109.143|8181|Indonesia|Setro|Data Buana Nusantara|
+|18|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|188.136.162.3|7060|Iran|Falāvarjān|Ariana Gostar Spadana's|
 
 
 
