@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|67.43.228.254|28273|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|67.43.236.20|12457|Canada|Montreal|GloboTech Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|43.134.136.189|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|67.43.236.20|12457|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|30549|Canada|Montreal|GloboTech Communications|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.228.254|4995|Canada|Montreal|GloboTech Communications|
 |12|72.10.160.170|28719|Canada|Montreal|GloboTech Communications|
-|13|45.11.95.165|6045|Russia|Moscow|Delta Ltd|
-|14|67.43.227.227|30549|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14717|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14717|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|26195|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|3037|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.236.20|12457|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|26195|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|7267|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.236.20|12457|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|19873|Canada|Montreal|GloboTech Communications|
 
 
 
