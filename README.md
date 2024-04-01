@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|3|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
 |5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
-|7|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|67.43.236.20|1623|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|19625|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1623|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|1623|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|1623|Canada|Montreal|GloboTech Communications|
+|12|181.65.139.232|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|13|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
+|14|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|15|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
+|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
+|20|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
 
 
 
