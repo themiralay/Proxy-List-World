@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|9|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|10|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|11|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.227.227|7503|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.250|3093|Canada|Montreal|GloboTech Communications|
+|8|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|200.55.249.135|8080|Ecuador|Loja|Comm & Net S.A|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|185.132.179.72|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|67.43.227.227|7503|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6193|Canada|Montreal|GloboTech Communications|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
