@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|103.147.246.135|8080|Indonesia|Tangerang|PLBNET|
-|4|181.209.82.202|999|Argentina|San Juan|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|5|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
-|9|101.255.165.73|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|45.76.110.62|12009|Japan|Shinagawa|The Constant Company|
-|19|45.11.95.165|6021|Russia|Moscow|Delta Ltd|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|10|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|11|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|123.182.58.94|8089|China|Zhangjiakou|China Telecom|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|67.43.228.253|26361|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
