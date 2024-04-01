@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|5|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|9|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|45.32.198.25|80|United States|Dallas|The Constant Company|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
-|15|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|16|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|103.119.96.195|8080|Cambodia|Phnom Penh|Mega Truenet Communication Co., Ltd.|
+|11|45.32.198.25|80|United States|Dallas|The Constant Company|
+|12|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|18|103.183.63.14|84|Bangladesh|Dhaka|Speed Online|
+|19|177.54.229.164|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|20|185.14.233.40|8080|Czechia|Ricany|INTERCONNECT s.r.o.|
 
 
 
