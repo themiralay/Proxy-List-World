@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|11|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|2|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|110.164.132.236|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|72.10.160.170|22761|Canada|Montreal|GloboTech Communications|
+|18|191.243.161.135|3128|Brazil|São Paulo|Simnet Telecomunicacoes Ltda|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
 
 
 
