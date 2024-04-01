@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|20|45.32.198.25|80|United States|Dallas|The Constant Company|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|17|45.32.198.25|80|United States|Dallas|The Constant Company|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|158.220.91.232|3128|United Kingdom|Portsmouth|Contabo GmbH|
 
 
 
