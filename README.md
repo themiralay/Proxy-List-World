@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6430** proxies at the latest update. Usable proxies are below.
+> Scraper found **6428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|629|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|237|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4569|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|66.250.190.57|8080|United States|Bowie|Education Networks of America|
 |3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.236.20|1321|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|111.225.153.73|8089|China|Zhoutou|China Telecom|
-|14|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
-|15|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|18|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|119.92.70.8|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|6|202.60.194.23|80|Thailand|Ban Talat Bueng|TCC Technology Co., Ltd.|
+|7|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|8|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|111.225.153.73|8089|China|Zhoutou|China Telecom|
+|11|111.225.153.94|8089|China|Zhoutou|China Telecom|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|36.90.160.32|3128|Indonesia|Babakangarut|PT. Telekomunikasi Indonesia|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|67.43.228.250|23101|Canada|Montreal|GloboTech Communications|
+|16|111.225.152.5|8089|China|Zhoutou|China Telecom|
+|17|36.73.253.13|8080|Indonesia|Keputih|PT. TELKOM INDONESIA|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
