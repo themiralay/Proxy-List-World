@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|4|66.250.190.57|8080|United States|Bowie|Education Networks of America|
+|5|34.142.202.157|3128|Singapore|Singapore|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|12|67.43.236.20|31403|Canada|Montreal|GloboTech Communications|
-|13|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|14|72.10.164.178|3043|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|12|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|67.43.227.227|3165|Canada|Montreal|GloboTech Communications|
 |16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.160.90|2413|Canada|Montreal|GloboTech Communications|
-|18|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|19|123.182.59.154|8089|China|Zhangjiakou|China Telecom|
-|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|67.43.236.20|21573|Canada|Montreal|GloboTech Communications|
 
 
 
