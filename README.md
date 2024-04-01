@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
-|5|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
-|6|67.43.227.228|25769|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|12171|Canada|Montreal|GloboTech Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.164.178|12171|Canada|Montreal|GloboTech Communications|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|12|72.10.164.178|12171|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|10363|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|67.43.227.226|21085|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1403|Canada|Montreal|GloboTech Communications|
-|17|201.168.199.7|999|Mexico|Zapopan|Marcatel Com, S.A. de C.V.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|72.10.164.178|13465|Canada|Montreal|GloboTech Communications|
+|9|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|10|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|16|67.43.236.20|15605|Canada|Montreal|GloboTech Communications|
+|17|192.64.81.56|3128|United States|Secaucus|Interserver, Inc|
+|18|72.10.164.178|13465|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
