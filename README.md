@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|103.156.249.52|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|49.72.9.58|8089|China|Nanjing|Chinanet|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|67.43.228.253|3099|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.94|8089|China|Zhoutou|China Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.173|11885|Canada|Montreal|GloboTech Communications|
-|16|114.106.134.131|8089|China|Guangzhou|Chinanet|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27077|Canada|Montreal|GloboTech Communications|
-|20|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|111.225.153.94|8089|China|Zhoutou|China Telecom|
+|11|45.11.95.165|5032|Russia|Moscow|Delta Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|67.43.228.253|25673|Canada|Montreal|GloboTech Communications|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
