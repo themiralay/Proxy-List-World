@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|118.97.30.42|8099|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
-|7|45.251.139.162|3129|United States| Los Angeles|Zenlayer Inc|
-|8|67.43.227.227|26529|Canada|Montreal|GloboTech Communications|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|67.43.227.228|12183|Canada|Montreal|GloboTech Communications|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|67.43.227.226|8743|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|3173|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8889|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|85.26.218.76|3128|Russia|St Petersburg|North-West Branch of OJSC MegaFon Network|
-|19|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
-|20|223.247.46.38|8089|China|Rongcheng|Chinanet|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|104.154.134.179|888|United States|Council Bluffs|Google LLC|
+|9|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
+|17|114.106.146.146|8089|China|Guangzhou|Chinanet|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|82.194.45.218|8090|Bahrain|Manama|Bahrain Telecommunication Company|
+|20|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
 
 
 
