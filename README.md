@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
+|2|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|7|67.43.227.228|13095|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|16781|Canada|Montreal|GloboTech Communications|
-|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
-|12|67.43.227.227|8347|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|67.43.228.251|10227|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|10|94.103.92.154|3128|Russia|Moscow|Hosting technology LTD|
+|11|72.10.160.90|3033|Canada|Montreal|GloboTech Communications|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.164.178|1911|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.251|10227|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|2021|Canada|Montreal|GloboTech Communications|
+|17|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
 |18|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|190.85.122.27|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|20|61.8.70.114|2023|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
+|19|72.10.160.93|15493|Canada|Montreal|GloboTech Communications|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
