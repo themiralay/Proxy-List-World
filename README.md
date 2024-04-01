@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.243.227.100|80|United States|North Charleston|Google LLC|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|10|35.243.227.100|80|United States|North Charleston|Google LLC|
-|11|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|12|35.243.227.100|80|United States|North Charleston|Google LLC|
-|13|103.41.88.33|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|35.243.227.100|80|United States|North Charleston|Google LLC|
+|8|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.243.227.100|80|United States|North Charleston|Google LLC|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.154.230.88|5678|Indonesia|Lamongan|DIGITNET|
+|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
+|18|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|19|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|67.43.236.20|8223|Canada|Montreal|GloboTech Communications|
 
 
 
