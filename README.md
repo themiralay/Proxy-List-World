@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|124.106.150.231|8282|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.172|32937|Canada|Montreal|GloboTech Communications|
-|14|95.0.84.26|80|Turkey|Ulus|Turk Telekomunikasyon Anonim Sirketi|
+|7|67.43.227.227|29893|Canada|Montreal|GloboTech Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |15|37.220.83.232|3128|Poland|Warsaw|TimeWeb Ltd.|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|67.43.236.20|11463|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
+|17|194.124.36.28|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|72.10.160.170|11939|Canada|Montreal|GloboTech Communications|
+|19|1.0.171.213|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|20|181.74.83.25|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
 
 
 
