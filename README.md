@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|10|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|33171|Canada|Montreal|GloboTech Communications|
-|18|103.115.227.201|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|19|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|10951|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|11|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|5.196.111.30|20502|France|Gravelines|OVH SAS|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
