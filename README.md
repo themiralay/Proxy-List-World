@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|5|38.156.233.74|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|45.11.95.165|5214|Russia|Moscow|Delta Ltd|
-|20|45.189.252.243|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|4|112.78.163.110|80|Indonesia|Jakarta|Biznet Networks|
+|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|67.43.227.227|19237|Canada|Montreal|GloboTech Communications|
+|9|45.11.95.165|5017|Russia|Moscow|Delta Ltd|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|16|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|67.43.236.20|14713|Canada|Montreal|GloboTech Communications|
+|20|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
 
 
 
