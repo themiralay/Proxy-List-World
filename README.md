@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|2|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|5|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|6|72.10.160.90|16549|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|19575|Canada|Montreal|GloboTech Communications|
-|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|9|67.43.227.226|18335|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|13861|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|17687|Canada|Montreal|GloboTech Communications|
-|12|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|67.43.228.253|17687|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.21|30789|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13861|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19575|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16549|Canada|Montreal|GloboTech Communications|
-|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
-|20|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|2|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|3|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|4|67.43.236.20|21701|Canada|Montreal|GloboTech Communications|
+|5|103.111.207.138|80|Indonesia|Jembatan Lima|PT Cyberindo Aditama|
+|6|72.10.164.178|30203|Canada|Montreal|GloboTech Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
+|11|67.43.227.226|1439|Canada|Montreal|GloboTech Communications|
+|12|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|13|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|18|67.43.236.22|8575|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.236.20|21701|Canada|Montreal|GloboTech Communications|
 
 
 
