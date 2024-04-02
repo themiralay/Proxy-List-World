@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|15|67.43.227.227|3607|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|26859|Canada|Montreal|GloboTech Communications|
-|17|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.222.130.24|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|49.49.35.209|4000|Thailand|Fao Rai|Triple T Broadband Public Company Limited|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.228.253|17509|Canada|Montreal|GloboTech Communications|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
 |18|79.116.148.109|3128|Spain|Alcobendas|Digi Spain Telecom S.L.U.|
-|19|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|20|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|20|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
