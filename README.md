@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|67.43.236.18|7437|Canada|Montreal|GloboTech Communications|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.164.178|22035|Canada|Montreal|GloboTech Communications|
-|11|183.3.221.130|3128|China|Guangzhou|Chinanet|
-|12|72.10.160.90|26649|Canada|Montreal|GloboTech Communications|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.250|14019|Canada|Montreal|GloboTech Communications|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|79.110.37.111|8080|Czechia|Strakonice|OtavaNet s.r.o.|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|67.43.236.18|7437|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|72.10.164.178|5035|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|72.10.160.90|29993|Canada|Montreal|GloboTech Communications|
+|19|176.236.124.252|10001|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|20|103.78.96.146|8181|Indonesia|Kalibata|MORATELINDO|
 
 
 
