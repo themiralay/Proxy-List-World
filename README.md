@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|103.133.24.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|201.54.176.13|8080|Brazil|Ico|Lucas De Souza Silva|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.227.227|7611|Canada|Montreal|GloboTech Communications|
-|16|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|17|190.61.45.74|8080|Colombia|Santiago de Cali|Ufinet Panama S.A.|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|20|102.214.104.56|8080|Libya|Qaşr Khiyār|Rawafed|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|9|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
