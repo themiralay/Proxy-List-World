@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
-|11|103.42.228.62|8080|Bangladesh|Sonargaon|Skynet Chowmuhani|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|118.117.189.73|8089|China|Muping|Chinanet|
-|15|178.215.190.240|49465|Ukraine|Chernivtsi|Private Enterprise Firma Fenix VT|
-|16|67.43.227.227|10433|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
+|9|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|10|178.215.190.240|49465|Ukraine|Chernivtsi|Private Enterprise Firma Fenix VT|
+|11|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.160.173|31871|Canada|Montreal|GloboTech Communications|
-|20|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|19|45.229.10.100|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
