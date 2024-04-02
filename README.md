@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|67.43.227.227|14287|Canada|Montreal|GloboTech Communications|
-|9|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|12|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2217|Canada|Montreal|GloboTech Communications|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|6227|Canada|Montreal|GloboTech Communications|
-|18|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|72.10.160.171|32087|Canada|Montreal|GloboTech Communications|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|6|194.124.36.75|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|9|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.236.20|30939|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
 
 
 
