@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.243.227.100|80|United States|North Charleston|Google LLC|
-|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.243.227.100|80|United States|North Charleston|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|13|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|19|149.28.187.80|12009|Australia|Sydney|The Constant Company|
-|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|67.43.227.227|21337|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|72.10.164.178|2217|Canada|Montreal|GloboTech Communications|
 
 
 
