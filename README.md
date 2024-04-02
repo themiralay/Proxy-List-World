@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|124.158.153.218|8180|Indonesia|Keputih|PT iForte Global Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.76.110.62|12009|Japan|Shinagawa|The Constant Company|
-|9|103.89.4.163|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|10|45.86.228.95|3128|United Arab Emirates|Fujairah|BlueVPS OU|
-|11|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
-|12|67.43.228.250|6161|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|17|67.43.227.227|13987|Canada|Montreal|GloboTech Communications|
-|18|35.243.227.100|80|United States|North Charleston|Google LLC|
-|19|38.183.135.189|999|Mexico|Querétaro City|Mizraim Valtierra Espino|
-|20|72.10.160.170|14375|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|45.86.228.95|3128|United Arab Emirates|Fujairah|BlueVPS OU|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|67.43.228.250|6161|Canada|Montreal|GloboTech Communications|
+|7|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|35.243.227.100|80|United States|North Charleston|Google LLC|
+|9|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
+|10|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|179.50.90.166|8515|Colombia|Medellín|GTD COLOMBIA|
+|15|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|18|103.105.76.49|8080|Indonesia|Surabaya|GARUDA|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
 
 
 
