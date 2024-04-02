@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.26.110.202|84|India|Tirunelveli|Niss Networks|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|49.76.17.149|8089|China|Nanjing|Chinanet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|7|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|8|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|12|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|38.159.50.201|8080|Venezuela|Barquisimeto|Boom Solutions C.A.|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
-|17|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
-|18|67.43.236.18|31849|Canada|Montreal|GloboTech Communications|
-|19|51.13.123.37|3128|Norway|Lorenskog|Microsoft Corporation|
-|20|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
+|14|72.10.160.90|29213|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1307|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|29213|Canada|Montreal|GloboTech Communications|
+|17|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|18|72.10.164.178|1307|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|27397|Canada|Montreal|GloboTech Communications|
+|20|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
 
 
 
