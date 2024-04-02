@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|67.43.236.20|2967|Canada|Montreal|GloboTech Communications|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|61.129.2.212|8080|China|Beijing|CHINANET|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|12|72.10.160.90|16659|Canada|Montreal|GloboTech Communications|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|72.10.160.90|1075|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|30761|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.164.178|19899|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.164.178|19899|Canada|Montreal|GloboTech Communications|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|67.43.236.19|15453|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|16659|Canada|Montreal|GloboTech Communications|
+|15|139.180.168.182|80|Australia|Sydney|Choopa|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|181.209.82.154|23500|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|60.174.1.98|8089|China|Guangzhou|Chinanet|
+|19|72.10.160.170|23361|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30761|Canada|Montreal|GloboTech Communications|
 
 
 
