@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|7|103.68.214.94|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|8|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|9|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|13|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.170|19197|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|103.68.214.94|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|4|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|186.190.225.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|8.242.176.36|999|Colombia|Santiago de Cali|CTL Colombia|
+|15|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|72.10.160.92|1461|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|17473|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
