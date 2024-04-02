@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|122.154.118.66|8083|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|31.220.97.51|3128|United States|Newark|Nubes, LLC|
-|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|10|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|11|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|125.167.33.208|8080|Indonesia|Sampang|PT. TELKOM INDONESIA|
-|15|72.10.160.171|9205|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|9205|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12847|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.50.76.98|443|India|Mumbai|Jetway Broadband|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|6|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.227.227|2633|Canada|Montreal|GloboTech Communications|
+|14|101.109.176.158|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|15|58.69.117.2|8082|Philippines|Dumaguete|Philippine Long Distance Telephone Co.|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|67.43.228.254|8889|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.227.227|2633|Canada|Montreal|GloboTech Communications|
+|20|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
