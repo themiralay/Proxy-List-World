@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|67.43.236.20|30569|Canada|Montreal|GloboTech Communications|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|72.10.160.93|30033|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|72.10.164.178|15069|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15069|Canada|Montreal|GloboTech Communications|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.160.90|7067|Canada|Montreal|GloboTech Communications|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.160.170|12453|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.236.20|30569|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|14985|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2181|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|67.43.236.20|30569|Canada|Montreal|GloboTech Communications|
 
 
 
