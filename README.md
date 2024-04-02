@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.227.226|20871|Canada|Montreal|GloboTech Communications|
+|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|18|67.43.227.227|2463|Canada|Montreal|GloboTech Communications|
+|19|123.182.58.68|8089|China|Zhangjiakou|China Telecom|
+|20|123.182.58.118|8089|China|Zhangjiakou|China Telecom|
 
 
 
