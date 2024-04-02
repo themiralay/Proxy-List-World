@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.100.57.217|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|6|61.129.2.212|8080|China|Beijing|CHINANET|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
-|9|46.250.239.52|3128|United Kingdom|London|Contabo Asia Private Limited|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|149.28.166.55|12009|Australia|Sydney|The Constant Company|
+|4|200.69.84.93|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
+|8|157.100.57.217|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |10|112.78.168.125|8080|Indonesia|Jakarta|BIZNET|
 |11|185.164.172.96|3128|The Netherlands|Amsterdam|365.partners INC|
-|12|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
-|13|67.43.228.254|29161|Canada|Montreal|GloboTech Communications|
-|14|167.71.73.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.173|7141|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|1333|Canada|Montreal|GloboTech Communications|
+|18|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.160.92|26059|Canada|Montreal|GloboTech Communications|
 
 
 
