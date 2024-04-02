@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|103.10.231.189|8080|Thailand|Phra Nakhon Si Ayutthaya|CATBB|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|7|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|8|8.243.169.14|8080|Colombia|Bogotá|Level 3 Communications, Inc.|
+|9|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|80.78.65.230|8080|Albania|Tirana|ABCom|
+|11|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
 |12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|181.39.64.26|999|Ecuador|Guayaquil|Telconet S.A|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|20|45.11.95.165|5023|Russia|Moscow|Delta Ltd|
+|13|112.198.194.16|8383|Philippines|Lahug|Globe Telecom|
+|14|103.87.169.152|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|15|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|19|45.11.95.165|5206|Russia|Moscow|Delta Ltd|
+|20|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
