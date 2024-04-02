@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6328** proxies at the latest update. Usable proxies are below.
+> Scraper found **6489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|40|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4481|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.243.227.100|80|United States|North Charleston|Google LLC|
-|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|10|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|11|35.243.227.100|80|United States|North Charleston|Google LLC|
-|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|223.215.176.9|8089|China|Guangzhou|Chinanet|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|72.10.164.178|29325|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|67.43.227.228|2847|Canada|Montreal|GloboTech Communications|
-|19|27.121.82.14|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|20|72.10.160.90|25567|Canada|Montreal|GloboTech Communications|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.243.227.100|80|United States|North Charleston|Google LLC|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.160.92|6131|Canada|Montreal|GloboTech Communications|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|72.10.164.178|17533|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|16073|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|7339|Canada|Montreal|GloboTech Communications|
 
 
 
