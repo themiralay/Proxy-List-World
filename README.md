@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.236.20|4379|Canada|Montreal|GloboTech Communications|
 |10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.228.253|17045|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|8715|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.236.20|24209|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|13|67.43.236.20|4379|Canada|Montreal|GloboTech Communications|
+|14|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|15|67.43.228.253|21997|Canada|Montreal|GloboTech Communications|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|67.43.228.253|21997|Canada|Montreal|GloboTech Communications|
+|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
+|20|80.66.89.195|4000|Russia|Moscow|BUQU.SU Solutions|
 
 
 
