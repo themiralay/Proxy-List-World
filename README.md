@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|115.241.146.122|3129|India|Ajmer|Reliance Jio Infocomm Limited|
-|5|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
-|6|43.153.112.238|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|149.28.180.246|12009|Australia|Sydney|The Constant Company|
-|9|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|43.153.112.238|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|66.250.190.57|8080|United States|Bowie|Education Networks of America|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|17|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|72.10.164.178|7643|Canada|Montreal|GloboTech Communications|
 
 
 
