@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.76.69.226|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|8|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|13|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
