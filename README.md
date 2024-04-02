@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|205.196.184.69|50704|United States|Houston|Phonoscope|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|14|72.10.160.90|22871|Canada|Montreal|GloboTech Communications|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|38.188.127.74|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|7|203.111.253.10|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|8|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|72.10.160.90|22589|Canada|Montreal|GloboTech Communications|
+|14|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|15|72.10.160.90|22589|Canada|Montreal|GloboTech Communications|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |17|67.43.228.250|4151|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.164.178|3145|Canada|Montreal|GloboTech Communications|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|72.10.160.172|32553|Canada|Montreal|GloboTech Communications|
+|19|97.64.69.65|16099|United States|College Station|PRONSS|
+|20|72.10.164.178|10121|Canada|Montreal|GloboTech Communications|
 
 
 
