@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.196.111.30|20650|France|Gravelines|OVH SAS|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|135.181.226.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|9|201.71.2.249|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 |10|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
-|13|67.43.236.20|4367|Canada|Montreal|GloboTech Communications|
-|14|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|15|103.199.117.100|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|123.182.59.164|8089|China|Zhangjiakou|China Telecom|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|67.43.228.251|1865|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4367|Canada|Montreal|GloboTech Communications|
+|11|5.196.111.30|20650|France|Gravelines|OVH SAS|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|8.222.130.24|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|15|72.10.160.90|9081|Canada|Montreal|GloboTech Communications|
+|16|123.182.58.64|8089|China|Zhangjiakou|China Telecom|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|67.43.228.251|32769|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 
 
 
