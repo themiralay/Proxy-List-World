@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|145.255.30.241|8088|Russia|Ufa|JSC "Ufanet"|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|198.252.107.224|3128|Hong Kong|Tsuen Wan|Leaseweb Asia Pacific pte. ltd.|
-|17|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|18|72.10.160.90|20943|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|20|188.132.222.41|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|191.102.254.50|8084|Argentina|Rosario|IP·RED|
+|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|72.10.164.178|9809|Canada|Montreal|GloboTech Communications|
+|16|102.130.133.102|53281|South Africa|Johannesburg|JHB-MPLS|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.227.228|9785|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|9785|Canada|Montreal|GloboTech Communications|
+|20|222.127.50.56|8082|Philippines|Lahug|INNOVE|
 
 
 
