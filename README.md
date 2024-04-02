@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|46.166.165.33|4000|Lithuania|Jonava|Cherry Servers|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|67.43.236.21|29573|Canada|Montreal|GloboTech Communications|
-|14|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|15|72.10.160.170|1359|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.227.227|32303|Canada|Montreal|GloboTech Communications|
-|18|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|19|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|67.43.228.250|2009|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|7|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|67.43.236.21|24175|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|31383|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|8259|Canada|Montreal|GloboTech Communications|
+|16|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|72.10.160.170|8259|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|6753|Canada|Montreal|GloboTech Communications|
 
 
 
