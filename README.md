@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.243.227.100|80|United States|North Charleston|Google LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.243.227.100|80|United States|North Charleston|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|45.11.95.165|5045|Russia|Moscow|Delta Ltd|
-|15|35.243.227.100|80|United States|North Charleston|Google LLC|
-|16|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1739|Canada|Montreal|GloboTech Communications|
-|18|45.11.95.165|5045|Russia|Moscow|Delta Ltd|
-|19|67.43.236.20|1739|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|11175|Canada|Montreal|GloboTech Communications|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|11|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|12|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|13|67.43.227.227|22173|Canada|Montreal|GloboTech Communications|
+|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|72.10.160.174|6319|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|22173|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|32055|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30739|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|8099|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|22173|Canada|Montreal|GloboTech Communications|
 
 
 
