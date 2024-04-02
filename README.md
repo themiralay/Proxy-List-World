@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|3|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
-|4|179.1.192.21|999|Colombia|Neiva|InterNexa Global Network|
-|5|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|13|67.43.227.227|29477|Canada|Montreal|GloboTech Communications|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|67.43.236.20|8539|Canada|Montreal|GloboTech Communications|
-|16|146.196.40.146|8888|Indonesia|Sembang Ilon|UNINA|
-|17|67.43.236.20|8539|Canada|Montreal|GloboTech Communications|
-|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|19|103.18.205.246|8080|Australia|Melbourne|MD SHOHEL RANA|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|112.78.168.125|8080|Indonesia|Jakarta|BIZNET|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|67.43.227.227|15719|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|67.43.228.253|17647|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
