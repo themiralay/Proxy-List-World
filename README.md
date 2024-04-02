@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|4|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|8|72.10.164.178|12985|Canada|Montreal|GloboTech Communications|
-|9|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|202.154.18.0|8080|Indonesia|Jombang|DIGITNET|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|72.10.160.90|11281|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|11281|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12985|Canada|Montreal|GloboTech Communications|
-|15|213.171.35.66|18000|Russia|Moscow|JSC Comcor|
-|16|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|17|36.95.84.151|41890|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
-|18|67.43.236.20|28739|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|17335|Canada|Montreal|GloboTech Communications|
-|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|72.10.164.178|1145|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|1145|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.81.223.186|8080|Indonesia|Bandung|STARNET|
+|12|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|15|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
+|16|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
+|18|67.43.227.226|17335|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
 
 
 
