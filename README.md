@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|12|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|13|103.153.136.93|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|14|72.10.164.178|22099|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|17|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|216.200.63.52|8080|United States|Irving|Zayo Bandwidth|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|7|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|14|67.43.227.227|13091|Canada|Montreal|GloboTech Communications|
+|15|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|16|118.117.189.34|8089|China|Muping|Chinanet|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|67.43.227.228|2541|Canada|Montreal|GloboTech Communications|
+|19|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
+|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 
 
 
