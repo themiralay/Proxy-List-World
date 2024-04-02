@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|67.43.227.227|1525|Canada|Montreal|GloboTech Communications|
-|14|171.225.132.203|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|28617|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|27285|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|30781|Canada|Montreal|GloboTech Communications|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.243.227.100|80|United States|North Charleston|Google LLC|
+|10|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
+|11|181.78.11.219|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.160.90|29215|Canada|Montreal|GloboTech Communications|
+|16|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|17|67.43.227.227|1525|Canada|Montreal|GloboTech Communications|
+|18|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
