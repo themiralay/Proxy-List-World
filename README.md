@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|116.58.232.209|8080|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|72.10.164.178|5035|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|5035|Canada|Montreal|GloboTech Communications|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|114.106.134.131|8089|China|Guangzhou|Chinanet|
-|14|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
-|15|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|16|72.10.160.90|32681|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|29313|Canada|Montreal|GloboTech Communications|
-|18|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|19|72.10.160.172|32937|Canada|Montreal|GloboTech Communications|
-|20|79.106.165.246|8989|Albania|Shkoder|ONE ALBANIA SH.A.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|72.10.164.178|1785|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|1785|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|2525|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|33233|Canada|Montreal|GloboTech Communications|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
