@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|7|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|67.43.236.20|6443|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1703|Canada|Montreal|GloboTech Communications|
-|17|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|18|72.10.164.178|28887|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28887|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1703|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|10|67.43.227.227|24319|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|10745|Canada|Montreal|GloboTech Communications|
+|12|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|13|130.162.213.175|3129|Germany|Frankfurt am Main|Oracle Corporation|
+|14|72.10.164.178|28887|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|24319|Canada|Montreal|GloboTech Communications|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
