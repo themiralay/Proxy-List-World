@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.243.227.100|80|United States|North Charleston|Google LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.160.92|6131|Canada|Montreal|GloboTech Communications|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|18|72.10.164.178|17533|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|16073|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|7339|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|72.10.164.178|17533|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|23973|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.94|3901|Canada|Montreal|GloboTech Communications|
+|18|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.160.90|5241|Canada|Montreal|GloboTech Communications|
 
 
 
