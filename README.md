@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|14|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|67.43.227.227|21915|Canada|Montreal|GloboTech Communications|
-|17|111.225.153.40|8089|China|Zhoutou|China Telecom|
-|18|67.43.236.19|28893|Canada|Montreal|GloboTech Communications|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|111.225.152.198|8089|China|Zhoutou|China Telecom|
+|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|67.43.227.227|21915|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
