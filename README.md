@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|13|67.43.236.18|22993|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|123.182.58.94|8089|China|Zhangjiakou|China Telecom|
-|17|67.43.236.20|30663|Canada|Montreal|GloboTech Communications|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|67.43.227.230|3075|Canada|Montreal|GloboTech Communications|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|123.182.59.17|8089|China|Zhangjiakou|China Telecom|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|45.230.171.41|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|26943|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31515|Canada|Montreal|GloboTech Communications|
 
 
 
