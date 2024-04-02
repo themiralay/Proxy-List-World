@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|5|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |10|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
-|13|46.226.162.219|10086|United Kingdom|London|Aeza International LTD|
-|14|45.249.216.77|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|15|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|16|190.95.209.179|999|Ecuador|Guayaquil|Telconet S.A|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|72.10.160.170|1839|Canada|Montreal|GloboTech Communications|
+|11|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|19|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|123.182.58.237|8089|China|Zhangjiakou|China Telecom|
 
 
 
