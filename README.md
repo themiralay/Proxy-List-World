@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|12|67.43.236.21|29617|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|2807|Canada|Montreal|GloboTech Communications|
-|14|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|114.106.134.35|8089|China|Guangzhou|Chinanet|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|67.43.228.250|26139|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2807|Canada|Montreal|GloboTech Communications|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.115.243.156|83|Bangladesh|Sātkhira|Md. Rashed Mollah|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|67.43.236.20|8209|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|3883|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|10417|Canada|Montreal|GloboTech Communications|
+|19|123.182.59.232|8089|China|Zhangjiakou|China Telecom|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
