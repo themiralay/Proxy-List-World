@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
+|8|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
 |9|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|10|43.252.236.157|8080|Indonesia|Bogor|NET|
+|11|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
 |12|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|14|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|15|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
 
 
 
