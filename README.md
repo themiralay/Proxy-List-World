@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|13|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|14|67.43.227.228|32317|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|26257|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
-|17|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|18|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|26257|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.38|8089|China|Zhangjiakou|China Telecom|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|12|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|67.43.236.20|6781|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|6781|Canada|Montreal|GloboTech Communications|
 
 
 
