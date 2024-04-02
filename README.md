@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|165.22.226.22|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
+|16|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
 |17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|20|31.220.97.51|3128|United States|Newark|Nubes, LLC|
+|18|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
