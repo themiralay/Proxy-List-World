@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|11|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
-|12|72.10.164.178|18213|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.160.172|8937|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18213|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|15539|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|20|72.10.160.92|31143|Canada|Montreal|GloboTech Communications|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|6|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|7|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|10|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|10587|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|16|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|17|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9207|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
