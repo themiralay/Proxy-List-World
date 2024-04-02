@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|9|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|72.10.160.170|4285|Canada|Montreal|GloboTech Communications|
-|13|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|14|72.10.160.90|16247|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5035|Canada|Montreal|GloboTech Communications|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|15557|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|4285|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|16247|Canada|Montreal|GloboTech Communications|
+|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|8|114.106.134.131|8089|China|Guangzhou|Chinanet|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|72.10.160.170|29313|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.91|7005|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|1159|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|19399|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.160.90|19399|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
