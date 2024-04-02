@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|16|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|17|5.35.86.80|3128|Russia|St Petersburg||
-|18|67.43.236.20|2711|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|33069|Canada|Montreal|GloboTech Communications|
-|20|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|3|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.164.178|33069|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.92|10747|Canada|Montreal|GloboTech Communications|
+|14|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|72.10.160.90|3143|Canada|Montreal|GloboTech Communications|
 
 
 
