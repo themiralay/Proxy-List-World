@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|72.10.160.170|14375|Canada|Montreal|GloboTech Communications|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|67.43.227.227|2105|Canada|Montreal|GloboTech Communications|
-|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
-|17|72.10.160.90|23183|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1459|Canada|Montreal|GloboTech Communications|
+|5|64.225.48.252|3128|United States|Clifton|DigitalOcean, LLC|
+|6|64.225.48.252|3128|United States|Clifton|DigitalOcean, LLC|
+|7|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
+|8|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|9|190.97.238.87|999|Venezuela|Maracaibo|Viginet C.A|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
 |19|67.43.236.20|3601|Canada|Montreal|GloboTech Communications|
-|20|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|20|72.10.160.90|23183|Canada|Montreal|GloboTech Communications|
 
 
 
