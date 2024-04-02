@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.140.131.122|8080|Indonesia|Serang|PT. Mitra Media Data|
-|4|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|5|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|6|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.134.223.139|8181|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.228.253|13627|Canada|Montreal|GloboTech Communications|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.227.226|30749|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|80.66.89.206|4006|Russia|Moscow|BUQU.SU Solutions|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|13|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
+|14|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 
 
 
