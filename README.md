@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|72.10.164.178|1975|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1975|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|12503|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.79|8089|China|Zhoutou|China Telecom|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.174|12123|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1975|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|33125|Canada|Montreal|GloboTech Communications|
-|18|139.162.224.37|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|19|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
-|20|67.43.236.20|9839|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|72.10.164.178|8611|Canada|Montreal|GloboTech Communications|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|72.10.164.178|8611|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|8611|Canada|Montreal|GloboTech Communications|
+|16|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
+|17|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|18|72.10.160.174|12123|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8611|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8611|Canada|Montreal|GloboTech Communications|
 
 
 
