@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|4|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
+|11|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
 
 
 
