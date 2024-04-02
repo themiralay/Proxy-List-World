@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
-|2|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|3|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|4|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|18293|Canada|Montreal|GloboTech Communications|
-|9|202.74.48.202|8080|Bangladesh|Dhaka|InfoLink|
-|10|67.43.236.20|18293|Canada|Montreal|GloboTech Communications|
-|11|114.103.89.15|8089|China|Shenzhen|Chinanet|
-|12|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.236.20|18293|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|18083|Canada|Montreal|GloboTech Communications|
+|1|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|67.43.236.20|19575|Canada|Montreal|GloboTech Communications|
+|11|36.90.160.32|3128|Indonesia|Babakangarut|PT. Telekomunikasi Indonesia|
+|12|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|13|38.7.199.166|8080|Chile|Santiago|Grupo ZGH SPA|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|114.103.89.15|8089|China|Shenzhen|Chinanet|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
-|20|111.225.153.35|8089|China|Zhoutou|China Telecom|
+|18|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
+|19|103.111.207.138|80|Indonesia|Jembatan Lima|PT Cyberindo Aditama|
+|20|38.50.165.130|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L.|
 
 
 
