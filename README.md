@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|5|47.236.122.108|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|103.105.76.214|9090|Indonesia|Surabaya|GARUDA|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|67.43.228.253|1993|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|19539|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|1993|Canada|Montreal|GloboTech Communications|
-|19|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|20|67.43.236.20|3115|Canada|Montreal|GloboTech Communications|
+|12|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|201.54.176.128|8080|Brazil|Ico|Lucas De Souza Silva|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
