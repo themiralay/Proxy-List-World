@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.188.166.5|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|8|103.169.148.5|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
-|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|6|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
+|7|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
+|8|103.153.246.14|8080|Indonesia|Depok|PRIMAHOME|
+|9|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|10|176.8.230.197|8187|Ukraine|Lutsk|Kyivstar UA|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|178.251.111.20|8080|Ukraine|Dubov”yazivka|Dataline LLC|
 |15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|18|212.132.74.86|3128|Germany|Karlsruhe|IONOS SE|
-|19|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|103.78.96.146|80|Indonesia|Kalibata|MORATELINDO|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
 
 
 
