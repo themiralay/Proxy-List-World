@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|4|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|103.105.228.35|8080|India|Mumbai|Mnk Infoway Private Limited|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
+|6|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|17|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|103.250.130.110|8080|Indonesia|Surabaya|LINTASDAYA|
+|16|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|18|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|19|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
+|20|179.124.207.12|8080|Brazil|Assis Chateaubriand|Newcenter Telecom|
 
 
 
