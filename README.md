@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|5|112.78.168.125|8080|Indonesia|Jakarta|BIZNET|
-|6|67.43.227.227|15719|Canada|Montreal|GloboTech Communications|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|2|140.238.34.53|8080|Japan|Tokyo|Oracle Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|7|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
+|8|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|67.43.228.253|26041|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|26453|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|19|114.231.41.204|8089|China|Nanjing|Chinanet|
-|20|72.10.160.171|25563|Canada|Montreal|GloboTech Communications|
+|13|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
+|18|38.7.17.163|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|49.76.17.146|8089|China|Nanjing|Chinanet|
 
 
 
