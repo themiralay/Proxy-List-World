@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|72.10.160.90|24585|Canada|Montreal|GloboTech Communications|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|67.43.227.226|28105|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|24585|Canada|Montreal|GloboTech Communications|
-|17|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|18|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|19|67.43.228.253|5485|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|5485|Canada|Montreal|GloboTech Communications|
+|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
+|11|45.11.95.165|6016|Russia|Moscow|Delta Ltd|
+|12|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|13|67.43.236.20|19971|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|15|14.103.26.198|8000|China|Beijing|BITNET|
+|16|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
