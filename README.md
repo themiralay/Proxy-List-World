@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.129.130.18|8154|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|6|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|10|103.68.214.94|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|13|72.10.164.178|25567|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|10239|Canada|Montreal|GloboTech Communications|
-|15|45.190.187.122|999|Honduras|Comayaguela|Ufinet Panama S.A.|
-|16|72.10.164.178|25567|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8719|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|8719|Canada|Montreal|GloboTech Communications|
-|19|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|20|72.10.164.178|25567|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|12|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|195.101.214.57|8080|France|Corbeilles|Orange S.A.|
+|16|67.43.227.228|10239|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|67.43.236.20|27033|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|23031|Canada|Montreal|GloboTech Communications|
 
 
 
