@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|4|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|5|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
-|10|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|46.188.25.233|8080|Russia|Moscow|2COM|
+|9|67.43.227.227|21347|Canada|Montreal|GloboTech Communications|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|67.43.228.253|23239|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|17471|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|12667|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
-|20|41.87.77.34|32650|Nigeria|Lagos|Phase3 Telecom Limited|
+|13|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|17|123.182.58.203|8089|China|Zhangjiakou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|27817|Canada|Montreal|GloboTech Communications|
+|20|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
