@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.164.178|1303|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1303|Canada|Montreal|GloboTech Communications|
-|17|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|60.174.1.85|8089|China|Guangzhou|Chinanet|
+|17|72.10.164.178|1303|Canada|Montreal|GloboTech Communications|
 |18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|60.174.1.85|8089|China|Guangzhou|Chinanet|
+|19|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
