@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|67.43.228.250|27965|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
-|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|20|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.132.52.210|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|5.188.29.124|3128|Russia|St Petersburg|VPS network|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|223.215.176.105|8089|China|Guangzhou|Chinanet|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|25817|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|67.43.227.226|31175|Canada|Montreal|GloboTech Communications|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
