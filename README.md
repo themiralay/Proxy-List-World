@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6418** proxies at the latest update. Usable proxies are below.
+> Scraper found **6414** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4481|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|171.225.132.203|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|6|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.54.105.109|8082|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|9|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
-|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|12|181.78.11.219|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|72.10.164.178|32699|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32699|Canada|Montreal|GloboTech Communications|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|72.10.164.178|32699|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.243.227.100|80|United States|North Charleston|Google LLC|
+|8|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|67.43.227.227|1525|Canada|Montreal|GloboTech Communications|
+|14|171.225.132.203|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|28617|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|27285|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.229|30781|Canada|Montreal|GloboTech Communications|
 
 
 
