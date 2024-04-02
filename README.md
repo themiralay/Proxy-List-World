@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
-|12|37.152.91.219|8080|Spain|Manacor|Soluciones Corporativas IP|
-|13|67.43.236.20|17247|Canada|Montreal|GloboTech Communications|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|201.71.3.58|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|18|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|19|67.43.236.20|17247|Canada|Montreal|GloboTech Communications|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
+|13|66.112.211.207|8888|United States|Los Angeles|IT7 Networks Inc|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
