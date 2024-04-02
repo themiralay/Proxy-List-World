@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|124.158.153.218|8180|Indonesia|Keputih|PT iForte Global Internet|
-|5|67.43.227.227|15995|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.236.20|9391|Canada|Montreal|GloboTech Communications|
+|1|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
+|5|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
+|6|45.71.15.136|9292|Brazil|Penapolis|Milanin NET|
+|7|67.43.227.227|28565|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|119.18.149.24|5020|Bangladesh|Chittagong|BBTS Network|
+|10|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
+|11|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
 |14|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9391|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|30995|Canada|Montreal|GloboTech Communications|
-|17|183.165.244.111|8089|China|Shenzhen|Chinanet|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.227|15995|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|9391|Canada|Montreal|GloboTech Communications|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|20|103.26.108.254|84|India|Sivakasi|Niss Networks|
 
 
 
