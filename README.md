@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|6|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
-|9|103.231.249.107|3128|Vietnam|Tay Ho|MTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|188.166.99.123|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|14|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|6199|Canada|Montreal|GloboTech Communications|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|20|67.43.227.230|7251|Canada|Montreal|GloboTech Communications|
+|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|43.228.215.74|3128|Singapore|Singapore|Atlantic.net, Inc.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|18|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|19|67.43.227.230|7251|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
