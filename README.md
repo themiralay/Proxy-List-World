@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|6|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|72.10.164.178|4947|Canada|Montreal|GloboTech Communications|
-|13|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
-|14|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|15|67.43.227.227|7107|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|33079|Canada|Montreal|GloboTech Communications|
-|17|159.192.139.178|8080|Thailand|Bangkok|CAT-BB|
-|18|67.43.228.253|14001|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|8155|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4947|Canada|Montreal|GloboTech Communications|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.164.178|11781|Canada|Montreal|GloboTech Communications|
+|13|182.176.164.41|8080|Pakistan|Sialkot|Pakistan Telecommuication company limited|
+|14|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|19|187.73.102.70|9292|Brazil|Tailandia|Celante Servicos De Telecomunicacoes Ltda - EPP|
+|20|67.43.236.18|15929|Canada|Montreal|GloboTech Communications|
 
 
 
