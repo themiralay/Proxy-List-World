@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|124.105.186.206|8181|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.153.142.18|8080|India|Joda|Om Jay Infotech|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|11|142.190.149.206|8080|United States|Tampa|Uniti Fiber Holdings Inc.|
-|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|13|72.10.160.90|14289|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|24165|Canada|Montreal|GloboTech Communications|
-|15|111.225.153.77|8089|China|Zhoutou|China Telecom|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|67.43.236.20|1047|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|189.151.117.130|999|Mexico|Nogales|UNINET|
-|20|67.43.236.20|24165|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|1047|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|4345|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|8959|Canada|Montreal|GloboTech Communications|
 
 
 
