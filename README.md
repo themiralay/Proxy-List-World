@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|11|67.43.227.227|9271|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1953|Canada|Montreal|GloboTech Communications|
-|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|72.10.160.92|25663|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|9271|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|19903|Canada|Montreal|GloboTech Communications|
+|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|72.10.164.178|4233|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|17659|Canada|Montreal|GloboTech Communications|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.227.227|17659|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|27815|Canada|Montreal|GloboTech Communications|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.227.227|17659|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|4233|Canada|Montreal|GloboTech Communications|
 
 
 
