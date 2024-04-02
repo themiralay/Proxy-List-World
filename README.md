@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6886** proxies at the latest update. Usable proxies are below.
+> Scraper found **6905** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|703|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|258|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4921|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|60.174.1.85|8089|China|Guangzhou|Chinanet|
-|17|72.10.164.178|1303|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|14.56.98.15|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|72.10.164.178|4579|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|2309|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|26343|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|72.10.160.90|3343|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|19|72.10.164.178|4579|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
