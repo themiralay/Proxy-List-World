@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|177.240.20.117|999|Mexico|Maravatio de Ocampo|Mega Cable, S.A. de C.V.|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
-|15|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|83.220.168.57|10102|Russia|Khimki|JSC IOT|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|222.127.50.56|8082|Philippines|Lahug|INNOVE|
 |18|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
