@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.173|14583|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|4013|Canada|Montreal|GloboTech Communications|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|114.106.134.129|8089|China|Guangzhou|Chinanet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
+|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|16|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|114.106.134.129|8089|China|Guangzhou|Chinanet|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
 
 
 
