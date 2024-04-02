@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|12|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|13|38.156.74.7|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|41.174.96.38|32650|Mauritius|Ebene CyberCity|Liquid Telecommunications Operations Limited|
+|10|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
