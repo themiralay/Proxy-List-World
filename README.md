@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|49.49.35.209|4000|Thailand|Fao Rai|Triple T Broadband Public Company Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|94.72.117.73|3128|United States|St Louis|Nubes, LLC|
-|7|190.110.97.172|999|Chile|Vilcun|Silica Networks Argentina S.A.|
-|8|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|45.119.85.216|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
-|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|11|112.198.194.16|8383|Philippines|Lahug|Globe Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|130.162.213.175|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|46.188.25.233|8080|Russia|Moscow|2COM|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|103.76.108.30|8080|Indonesia|Lumajang|DNS|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.119.85.216|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|94.72.117.73|3128|United States|St Louis|Nubes, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|67.43.227.227|10761|Canada|Montreal|GloboTech Communications|
+|20|157.254.28.10|999|United States|Sacramento|Vantiva USA Shared Services Inc.|
 
 
 
