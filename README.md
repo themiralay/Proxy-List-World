@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|10|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|12|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|13|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|16|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
-|17|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
-|18|72.10.164.178|2843|Canada|Montreal|GloboTech Communications|
-|19|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
-|20|67.43.227.227|7487|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|7|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|8|45.191.75.176|999|Colombia|Guachene|Global Raices|
+|9|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
