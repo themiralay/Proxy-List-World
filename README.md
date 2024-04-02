@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|67.43.236.20|5359|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5359|Canada|Montreal|GloboTech Communications|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|67.43.236.20|5359|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|19|72.10.164.178|32115|Canada|Montreal|GloboTech Communications|
-|20|103.199.214.154|8080|India|Varanasi|RailTel Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|6|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|12|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|72.10.160.90|25567|Canada|Montreal|GloboTech Communications|
+|14|45.11.95.165|6021|Russia|Moscow|Delta Ltd|
+|15|67.43.236.20|7765|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|18|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 
 
 
