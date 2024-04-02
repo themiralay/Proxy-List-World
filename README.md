@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|8.219.247.22|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
-|13|72.10.160.173|11065|Canada|Montreal|GloboTech Communications|
-|14|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
-|15|72.10.164.178|20603|Canada|Montreal|GloboTech Communications|
-|16|205.196.184.69|50704|United States|Houston|Phonoscope|
-|17|103.115.31.181|8090|Indonesia|Depok|HSPNET|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|5|38.41.0.94|999|Venezuela|Coloncito|MDS TELECOM C.A.|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|45.177.179.25|999|Mexico|La Sauceda|Wantelco SAS de CV|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|14|72.10.160.173|10133|Canada|Montreal|GloboTech Communications|
+|15|66.112.211.207|8888|United States|Los Angeles|IT7 Networks Inc|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|19|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|20|88.255.168.4|8080|Turkey|Cordaleo|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
