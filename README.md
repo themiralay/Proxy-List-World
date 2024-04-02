@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|194.124.36.75|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|182.176.164.41|8080|Pakistan|Sialkot|Pakistan Telecommuication company limited|
-|9|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|12|72.10.164.178|23777|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|23777|Canada|Montreal|GloboTech Communications|
-|14|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|17|67.43.228.253|8419|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23777|Canada|Montreal|GloboTech Communications|
-|20|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.228|6897|Canada|Montreal|GloboTech Communications|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|72.10.164.178|26663|Canada|Montreal|GloboTech Communications|
+|15|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|16|72.10.160.170|28029|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1757|Canada|Montreal|GloboTech Communications|
+|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|19|67.43.227.227|1757|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26663|Canada|Montreal|GloboTech Communications|
 
 
 
