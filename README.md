@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.243.227.100|80|United States|North Charleston|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|8|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|13|35.243.227.100|80|United States|North Charleston|Google LLC|
-|14|67.43.228.250|1149|Canada|Montreal|GloboTech Communications|
-|15|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|10|181.209.89.66|999|Argentina|Lago Puelo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|104.154.134.179|888|United States|Council Bluffs|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|67.43.228.250|11023|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |19|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|67.43.227.227|18539|Canada|Montreal|GloboTech Communications|
 
 
 
