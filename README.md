@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|7|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
-|8|72.10.160.171|26905|Canada|Montreal|GloboTech Communications|
-|9|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|14|103.148.25.247|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
-|15|67.43.236.20|23471|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|20559|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|29961|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|20|72.10.160.90|29961|Canada|Montreal|GloboTech Communications|
+|4|72.10.160.171|26905|Canada|Montreal|GloboTech Communications|
+|5|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|67.43.236.19|6035|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|4477|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|29799|Canada|Montreal|GloboTech Communications|
+|11|103.234.159.5|8080|India|Mumbai|MWPL|
+|12|67.43.236.20|23471|Canada|Montreal|GloboTech Communications|
+|13|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|67.43.228.253|14435|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|17|67.43.227.227|29799|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|29961|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|14435|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|29799|Canada|Montreal|GloboTech Communications|
 
 
 
