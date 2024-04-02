@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|27.79.249.6|4010|Vietnam|Hanoi|Viettel Corporation|
 |3|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|4|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|5|103.144.102.125|8080|Indonesia|Indramayu|PANDAWANET|
+|4|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|46.188.25.233|8080|Russia|Moscow|2COM|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|178.159.39.153|8118|The Netherlands|Meppel|Zomro B.V.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|67.43.227.227|29019|Canada|Montreal|GloboTech Communications|
-|18|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|19|67.43.236.20|3813|Canada|Montreal|GloboTech Communications|
-|20|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|14|67.43.236.18|17409|Canada|Montreal|GloboTech Communications|
+|15|190.80.188.91|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|16|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|17|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|18|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|19|117.102.86.146|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
