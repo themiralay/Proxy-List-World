@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
-|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
-|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|72.10.160.93|13179|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10577|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8155|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4129|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|30845|Canada|Montreal|GloboTech Communications|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|152.42.194.106|3128|United Kingdom|London|DigitalOcean|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|45.249.216.77|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
 
 
 
