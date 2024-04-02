@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|46.188.25.233|8080|Russia|Moscow|2COM|
+|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|188.94.156.144|3128|Kazakhstan|Almaty|It-grad TOO|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.243.227.100|80|United States|North Charleston|Google LLC|
-|9|67.43.227.228|8039|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|12|72.10.160.90|8841|Canada|Montreal|GloboTech Communications|
-|13|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|67.43.236.20|12683|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|8053|Canada|Montreal|GloboTech Communications|
-|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.172|8053|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|8039|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.243.227.100|80|United States|North Charleston|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|67.43.236.20|3601|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.253|30137|Canada|Montreal|GloboTech Communications|
+|9|181.209.100.50|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|67.43.236.20|3601|Canada|Montreal|GloboTech Communications|
+|12|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|67.43.227.228|22467|Canada|Montreal|GloboTech Communications|
+|14|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|15|67.43.236.20|3601|Canada|Montreal|GloboTech Communications|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|123.182.58.100|8089|China|Zhangjiakou|China Telecom|
 
 
 
