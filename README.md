@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|103.153.142.18|8080|India|Joda|Om Jay Infotech|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|13|72.10.160.90|11503|Canada|Montreal|GloboTech Communications|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.236.20|7109|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|123.182.58.130|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.227.228|5965|Canada|Montreal|GloboTech Communications|
+|1|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|6|159.192.138.170|8080|Thailand|Bangkok|CAT-BB|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|17|72.10.160.90|8081|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|14065|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
