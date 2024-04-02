@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|8|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|12|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 
 
 
