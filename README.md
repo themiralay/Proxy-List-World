@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|47.76.149.0|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|67.43.236.20|21069|Canada|Montreal|GloboTech Communications|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|67.43.227.227|28721|Canada|Montreal|GloboTech Communications|
-|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|67.43.236.20|21069|Canada|Montreal|GloboTech Communications|
-|20|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|2|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|67.43.236.20|29545|Canada|Montreal|GloboTech Communications|
+|11|103.164.223.53|80|Indonesia|Jakarta|PT iForte Global Internet|
+|12|72.10.160.170|3693|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|1235|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|15627|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|29545|Canada|Montreal|GloboTech Communications|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|67.43.227.227|5253|Canada|Montreal|GloboTech Communications|
+|18|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.228.253|8497|Canada|Montreal|GloboTech Communications|
 
 
 
