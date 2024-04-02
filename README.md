@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|8925|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|9|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 
 
 
