@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|8.222.130.24|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|13|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|14|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|15|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|16|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
-|17|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|18|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|64.64.126.146|3129|United States|New York|LogicWeb Inc.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.227.227|30367|Canada|Montreal|GloboTech Communications|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 
 
 
