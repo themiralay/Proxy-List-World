@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|67.43.228.253|31733|Canada|Montreal|GloboTech Communications|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|67.43.228.253|31733|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|31733|Canada|Montreal|GloboTech Communications|
-|17|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|14.103.26.198|8000|China|Beijing|BITNET|
+|12|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|13|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
