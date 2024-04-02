@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|4|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|191.102.68.177|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
-|14|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|15|45.32.28.105|12009|Japan|Shinagawa|Choopa|
-|16|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|67.43.236.20|4625|Canada|Montreal|GloboTech Communications|
-|19|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
-|20|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|5|45.191.75.176|999|Colombia|Guachene|Global Raices|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|2.59.43.245|8888|Russia|St Petersburg|TimeWeb Ltd.|
+|8|123.20.147.112|8081|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
+|17|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.227.227|29019|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|1881|Canada|Montreal|GloboTech Communications|
 
 
 
