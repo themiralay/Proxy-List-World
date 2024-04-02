@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.54.43|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|2|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|4|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|9|201.89.89.34|8080|Brazil|Curitiba|V tal|
-|10|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
-|15|217.196.49.143|3128|United States|Phoenix|HOSTINGER US|
-|16|103.153.187.198|3128|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|72.10.164.178|10235|Canada|Montreal|GloboTech Communications|
-|19|112.78.168.125|8080|Indonesia|Jakarta|BIZNET|
-|20|118.117.189.159|8089|China|Muping|Chinanet|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|7|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|10|118.117.189.159|8089|China|Muping|Chinanet|
+|11|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|123.182.58.142|8089|China|Zhangjiakou|China Telecom|
+|13|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|14|112.78.168.125|8080|Indonesia|Jakarta|BIZNET|
+|15|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|16|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|14.226.7.37|8080|Vietnam|Hanoi|VNPT|
+|18|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
