@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|12|72.10.160.173|29317|Canada|Montreal|GloboTech Communications|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|15|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|145.255.30.241|8088|Russia|Ufa|JSC "Ufanet"|
-|20|72.10.160.90|7963|Canada|Montreal|GloboTech Communications|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|49.247.47.129|4000|South Korea|Gwangmyeong|SMILESERV|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|72.10.160.173|29317|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|20|72.10.164.178|14811|Canada|Montreal|GloboTech Communications|
 
 
 
