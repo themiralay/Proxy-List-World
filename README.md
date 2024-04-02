@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.148.211.145|3128|United States|Washington|Cizgi Telekom Network|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|67.43.227.227|14739|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|9863|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|31281|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|9863|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|9863|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|31281|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|31281|Canada|Montreal|GloboTech Communications|
-|14|223.215.176.162|8089|China|Guangzhou|Chinanet|
-|15|72.10.164.178|9863|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|18|111.225.152.136|8089|China|Zhoutou|China Telecom|
-|19|67.43.227.227|14739|Canada|Montreal|GloboTech Communications|
-|20|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|5|200.69.84.93|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|177.75.96.18|3128|Brazil|Pato Branco|Mhnet Telecom|
+|8|177.93.16.66|8080|Costa Rica|Cartago|Telecable Economico S.A|
+|9|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|8.222.130.24|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.9.134.234|100|Bangladesh|Tongi|Information Services Network Ltd|
+|18|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|19|103.47.13.29|8080|India|Dehradun|Precious netcom pvt ltd|
+|20|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
