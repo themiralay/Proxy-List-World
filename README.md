@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|176.8.230.197|8187|Ukraine|Lutsk|Kyivstar UA|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|160.16.133.79|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|8|157.245.54.43|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|10|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|13|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|103.169.148.5|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|123.20.147.112|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|123.20.147.112|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|157.245.54.43|3128|Singapore|Singapore|DigitalOcean, LLC|
 |17|38.188.166.5|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|20|72.10.160.90|4309|Canada|Montreal|GloboTech Communications|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|72.10.160.171|1405|Canada|Montreal|GloboTech Communications|
 
 
 
