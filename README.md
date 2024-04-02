@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|6|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|9|72.10.160.90|14305|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|9181|Canada|Montreal|GloboTech Communications|
-|11|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|67.43.236.20|9181|Canada|Montreal|GloboTech Communications|
-|15|116.99.235.172|30141|Vietnam|Đắk Song|Viettel Corporation|
-|16|72.10.164.178|17749|Canada|Montreal|GloboTech Communications|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|17749|Canada|Montreal|GloboTech Communications|
-|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|20|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|5|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|6|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|72.10.160.90|29115|Canada|Montreal|GloboTech Communications|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|102.130.133.102|53281|South Africa|Johannesburg|JHB-MPLS|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 
 
 
