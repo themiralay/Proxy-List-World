@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|3|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.103.194.10|3128|United States|Los Angeles|Multacom Corporation|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|8|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|13|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|14|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|15|72.10.164.178|32745|Canada|Montreal|GloboTech Communications|
-|16|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|17|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
-|18|38.9.141.79|80|Indonesia|Medan|Cogent Communications|
-|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|20|72.10.164.178|32745|Canada|Montreal|GloboTech Communications|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|7|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
+|11|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|12|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|72.10.164.178|1827|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|72.10.164.178|1827|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|1827|Canada|Montreal|GloboTech Communications|
 
 
 
