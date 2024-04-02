@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|72.10.164.178|2839|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|8869|Canada|Montreal|GloboTech Communications|
-|9|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|67.43.236.20|12387|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|13869|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|5985|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|12667|Canada|Montreal|GloboTech Communications|
-|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|67.43.227.227|32947|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|5985|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5485|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|5985|Canada|Montreal|GloboTech Communications|
+|1|46.188.25.233|8080|Russia|Moscow|2COM|
+|2|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|3|195.175.104.198|8080|Türkiye|Bursa|Turk Telekomunikasyon Anonim Sirketi|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|72.10.164.178|16739|Canada|Montreal|GloboTech Communications|
+|9|47.184.167.206|3128|United States|Garland|Frontier Communications Solutions|
+|10|61.221.155.142|12001|Taiwan|Chiayi County|Chunghwa Telecom Co., Ltd.|
+|11|67.43.236.18|16133|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|72.10.160.90|29707|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.160.92|12667|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|72.10.164.178|16739|Canada|Montreal|GloboTech Communications|
+|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|67.43.227.227|32947|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|24933|Canada|Montreal|GloboTech Communications|
 
 
 
