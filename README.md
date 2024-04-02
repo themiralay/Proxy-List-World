@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|203.194.108.23|3129|India|Bhadrāchalam|In2cable|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|223.215.176.88|8089|China|Guangzhou|Chinanet|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|72.10.160.90|3343|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5038|Russia|Moscow|Delta Ltd|
-|15|72.10.160.90|3343|Canada|Montreal|GloboTech Communications|
-|16|194.158.213.146|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|17|72.10.160.173|2921|Canada|Montreal|GloboTech Communications|
-|18|114.224.221.108|8089|China|Wuxi|Chinanet|
-|19|67.43.227.228|31033|Canada|Montreal|GloboTech Communications|
-|20|46.250.239.51|3128|United Kingdom|London|Contabo Asia Private Limited|
+|1|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|223.215.176.88|8089|China|Guangzhou|Chinanet|
+|14|67.43.228.253|8117|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|31033|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|12453|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|20|72.10.164.178|16835|Canada|Montreal|GloboTech Communications|
 
 
 
