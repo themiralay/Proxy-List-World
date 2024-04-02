@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|6|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|7|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|139.255.36.82|8080|Indonesia|Bandung|PT. LINKNET|
-|10|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|11|67.43.227.230|3075|Canada|Montreal|GloboTech Communications|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
+|12|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|13|104.154.134.179|888|United States|Council Bluffs|Google LLC|
 |14|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|15|67.43.227.227|2655|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.227.228|8543|Canada|Montreal|GloboTech Communications|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|72.10.160.91|32771|Canada|Montreal|GloboTech Communications|
-|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|216.200.63.52|8080|United States|Irving|Zayo Bandwidth|
+|18|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
