@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|11|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|72.10.164.178|7997|Canada|Montreal|GloboTech Communications|
-|15|45.11.95.165|5206|Russia|Moscow|Delta Ltd|
-|16|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|17|72.10.164.178|7997|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|30297|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|10063|Canada|Montreal|GloboTech Communications|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|6|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|187.50.29.242|8080|Brazil|Itirapina|Vivo|
+|12|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|13|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|18|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|19|72.10.160.173|14151|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 
 
 
