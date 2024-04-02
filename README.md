@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|5|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|80.66.89.195|4000|Russia|Moscow|BUQU.SU Solutions|
-|14|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|15|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|8557|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|49.0.91.7|3128|Thailand|Nakhon Pathom|AIS-Fibre|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|17|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|72.10.164.178|27533|Canada|Montreal|GloboTech Communications|
 
 
 
