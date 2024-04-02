@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|190.80.188.93|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
-|12|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|14|183.165.249.219|8089|China|Shenzhen|Chinanet|
-|15|67.43.228.253|1581|Canada|Montreal|GloboTech Communications|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19087|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|12|45.58.52.5|80|United States|Dallas|HostUS|
+|13|103.41.88.182|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
+|17|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|18|60.204.155.71|3128|China|Shanghai|Huawei Cloud Service data center|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
 
 
 
