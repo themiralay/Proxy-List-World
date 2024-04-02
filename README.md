@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|5|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|6|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
-|7|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
-|8|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|9|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
-|10|59.124.9.67|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
-|16|67.43.228.253|11429|Canada|Montreal|GloboTech Communications|
-|17|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|72.10.160.170|5409|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|80.66.89.195|4006|Russia|Moscow|BUQU.SU Solutions|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|8|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|49.0.91.7|8080|Thailand|Nakhon Pathom|AIS-Fibre|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|67.43.228.253|22265|Canada|Montreal|GloboTech Communications|
 
 
 
