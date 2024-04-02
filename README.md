@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|3|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|4|67.43.228.253|17017|Canada|Montreal|GloboTech Communications|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|72.10.160.174|7847|Canada|Montreal|GloboTech Communications|
-|7|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|8|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|9|67.43.228.253|17017|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|5435|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|2799|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|17017|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|17017|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|32525|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|17017|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|17|67.43.236.20|22669|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29009|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|31547|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|32525|Canada|Montreal|GloboTech Communications|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|204.14.14.133|8080|United States|Mechanicsburg|Capital Area Intermediate Unit|
+|6|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|7|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|10|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|11|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|5423|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|29061|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|25625|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|15581|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|5423|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|29009|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|14351|Canada|Montreal|GloboTech Communications|
 
 
 
