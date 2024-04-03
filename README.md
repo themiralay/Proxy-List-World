@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.154.230.127|5678|Indonesia|Lamongan|DIGITNET|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.160.90|29169|Canada|Montreal|GloboTech Communications|
-|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|12|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|67.43.236.19|28975|Canada|Montreal|GloboTech Communications|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|69.160.9.166|8080|Myanmar|Yangon|Ooredoo Myanmar Limited|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|10|72.10.160.90|13475|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|28975|Canada|Montreal|GloboTech Communications|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|67.43.236.20|5175|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|20371|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|33059|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|31967|Canada|Montreal|GloboTech Communications|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |18|72.10.164.178|20371|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|2271|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20371|Canada|Montreal|GloboTech Communications|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
 
 
 
