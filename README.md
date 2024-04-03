@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|66.70.238.78|7777|Canada|Beauharnois|OVH SAS|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|104.154.134.179|888|United States|Council Bluffs|Google LLC|
-|10|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|45.11.95.165|5206|Russia|Moscow|Delta Ltd|
-|13|67.43.236.21|21377|Canada|Montreal|GloboTech Communications|
-|14|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|15|72.10.164.178|8357|Canada|Montreal|GloboTech Communications|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.90|27829|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8357|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25363|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|22773|Canada|Montreal|GloboTech Communications|
+|7|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|190.97.238.85|999|Venezuela|Maracaibo|Viginet C.A|
+|12|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|67.43.236.21|21377|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|21791|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|25363|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|22773|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|67.43.228.253|31661|Canada|Montreal|GloboTech Communications|
 
 
 
