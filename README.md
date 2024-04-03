@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|8|72.10.164.178|6009|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|6009|Canada|Montreal|GloboTech Communications|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|8|72.10.160.90|12315|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
 |10|67.43.236.20|26751|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|6009|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|19567|Canada|Montreal|GloboTech Communications|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|67.43.227.227|19567|Canada|Montreal|GloboTech Communications|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|67.43.236.20|26751|Canada|Montreal|GloboTech Communications|
-|17|104.129.192.165|11267|United States|Santa Clara|ZSCALER, INC.|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|14|192.140.225.70|9090|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|67.43.236.20|26751|Canada|Montreal|GloboTech Communications|
+|18|104.129.192.165|11267|United States|Santa Clara|ZSCALER, INC.|
+|19|103.153.134.22|8080|Indonesia|Tangerang|WMINET|
+|20|72.10.160.91|6539|Canada|Montreal|GloboTech Communications|
 
 
 
