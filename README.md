@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
-|6|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|2469|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
-|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|18|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
-|19|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|103.194.70.169|83|India|Patna|Hostaxis Network Private Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|15055|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|24155|Canada|Montreal|GloboTech Communications|
+|14|83.221.222.240|3128|Russia|Rostov-on-Don|RTK|
+|15|38.252.209.32|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|16|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|72.10.160.172|27343|Canada|Montreal|GloboTech Communications|
+|19|111.225.153.14|8089|China|Zhoutou|China Telecom|
+|20|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
 
 
 
