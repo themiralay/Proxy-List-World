@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.188.127.127|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|6|45.173.6.194|999|Colombia|Bogotá|Columbus Networks Colombia|
-|7|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|45.65.227.161|999|Argentina|Tres de Febrero|Solution LAN S.A|
-|10|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|13|103.102.85.1|8080|India|Dharapuram|Amigos Broadband Pvt Ltd|
-|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|15|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|16|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|67.43.236.18|3281|Canada|Montreal|GloboTech Communications|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|84.204.40.155|8080|Russia|St Petersburg|PJSC MegaFon|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|136.239.176.66|8080|Philippines|Mandaluyong|ComClark Network & Technology Corp|
+|11|67.43.236.18|3281|Canada|Montreal|GloboTech Communications|
+|12|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|13|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
 
 
 
