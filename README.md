@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|8|72.10.160.174|4993|Canada|Montreal|GloboTech Communications|
-|9|103.154.230.103|5678|Indonesia|Lamongan|DIGITNET|
-|10|117.54.106.241|8080|Indonesia|Jakarta|PT IndoInternet|
-|11|67.43.236.20|19109|Canada|Montreal|GloboTech Communications|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|183.89.64.147|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|72.10.160.170|13495|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|27125|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|67.43.228.250|15075|Canada|Montreal|GloboTech Communications|
-|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|20|179.60.235.248|8095|Argentina|Gobernador Galvez|WICORP SA|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|11|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|67.43.228.250|15075|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|11215|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|5617|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|5617|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|5617|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.227.227|11215|Canada|Montreal|GloboTech Communications|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
