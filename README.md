@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|67.43.236.20|15557|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|14|67.43.228.253|12369|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|16|72.10.160.90|29343|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|29343|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|11621|Canada|Montreal|GloboTech Communications|
-|19|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|9|72.10.160.171|11621|Canada|Montreal|GloboTech Communications|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|72.10.160.92|29343|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|21761|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|5387|Canada|Montreal|GloboTech Communications|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.227.227|28543|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|17855|Canada|Montreal|GloboTech Communications|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
