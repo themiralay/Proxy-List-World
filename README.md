@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.227.227|3333|Canada|Montreal|GloboTech Communications|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|11|72.10.164.178|3511|Canada|Montreal|GloboTech Communications|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.174|13109|Canada|Montreal|GloboTech Communications|
-|14|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|115.245.86.37|3129|India|Chennai|Reliance Jio Infocomm Limited|
-|17|72.10.160.90|3783|Canada|Montreal|GloboTech Communications|
-|18|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|19|67.43.227.228|5703|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|31627|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.227.227|12147|Canada|Montreal|GloboTech Communications|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.164.178|25371|Canada|Montreal|GloboTech Communications|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|16|72.10.164.178|25371|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|5703|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25371|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|67.43.236.20|32227|Canada|Montreal|GloboTech Communications|
 
 
 
