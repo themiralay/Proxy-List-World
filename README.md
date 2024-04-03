@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.12.80.6|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|10|61.19.145.66|8080|Thailand|Doi Saket|CAT Telecom Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|61.19.145.66|8080|Thailand|Doi Saket|CAT Telecom Public Company Limited|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |11|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.236.20|20289|Canada|Montreal|GloboTech Communications|
-|14|161.132.48.32|8080|Peru|Lima|Red Cientifica Peruana|
-|15|182.253.39.206|8080|Indonesia|Jakarta Pusat|BIZNET|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
-|18|123.182.58.238|8089|China|Zhangjiakou|China Telecom|
-|19|67.43.228.253|2013|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|26627|Canada|Montreal|GloboTech Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|15|67.43.228.253|2013|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|24105|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.228.250|13831|Canada|Montreal|GloboTech Communications|
+|19|177.125.56.181|3128|Brazil|Palmas|Irmãos Giotto Oliveira & Cia.Ltda.|
+|20|47.76.69.226|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
