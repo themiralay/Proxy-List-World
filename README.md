@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|5|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|6|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|7|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|8|168.194.171.27|999|Peru|Lima|FASTNET|
-|9|168.194.169.101|999|Peru|Lima|FASTNET|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.236.20|4819|Canada|Montreal|GloboTech Communications|
-|16|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
-|17|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|18|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
+|6|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|7|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|67.43.236.20|29657|Canada|Montreal|GloboTech Communications|
+|12|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
+|19|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|20|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
 
 
 
