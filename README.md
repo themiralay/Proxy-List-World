@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|67.43.227.228|7771|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25197|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29215|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|11|97.76.251.138|8080|United States|Tampa|Spectrum|
+|12|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|72.10.164.178|6963|Canada|Montreal|GloboTech Communications|
+|15|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|72.10.160.173|3017|Canada|Montreal|GloboTech Communications|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
