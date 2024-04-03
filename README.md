@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|72.10.164.178|3719|Canada|Montreal|GloboTech Communications|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|67.43.236.20|14959|Canada|Montreal|GloboTech Communications|
-|10|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|11|72.10.164.178|3719|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|3719|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|25739|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|9885|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|18197|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14959|Canada|Montreal|GloboTech Communications|
-|18|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|19|72.10.160.90|25739|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27843|Canada|Montreal|GloboTech Communications|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|201.168.199.7|999|Mexico|Zapopan|Marcatel Com, S.A. de C.V.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|179.60.235.248|8095|Argentina|Gobernador Galvez|WICORP SA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|72.10.164.178|5537|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|16|36.82.236.219|8080|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
+|17|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|18|72.10.164.178|5537|Canada|Montreal|GloboTech Communications|
+|19|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
+|20|183.165.248.97|8089|China|Shenzhen|Chinanet|
 
 
 
