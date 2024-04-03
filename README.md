@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY, Inc.|
-|8|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|18|72.10.164.178|1985|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|15|72.10.164.178|1985|Canada|Montreal|GloboTech Communications|
+|16|191.240.153.144|8080|Brazil|Carapicuiba|Wireless Comm Services LTDA|
+|17|67.43.236.20|8289|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|16769|Canada|Montreal|GloboTech Communications|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
 
 
 
