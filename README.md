@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|124.16.71.97|7890|China|Haidian|CNIC-CAS|
-|6|150.136.163.144|3128|United States|Ashburn|Oracle Corporation|
-|7|67.43.236.20|29133|Canada|Montreal|GloboTech Communications|
-|8|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|9|67.43.228.253|21739|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.94|14087|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|3013|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|29133|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
-|14|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|15|67.43.236.20|29133|Canada|Montreal|GloboTech Communications|
-|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|67.43.236.20|29133|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|15801|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|9665|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|124.16.71.97|7890|China|Haidian|CNIC-CAS|
+|5|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|67.43.236.20|4493|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.94|3395|Canada|Montreal|GloboTech Communications|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|11|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|2851|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|7297|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|4493|Canada|Montreal|GloboTech Communications|
+|15|119.39.68.76|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|72.10.160.90|7297|Canada|Montreal|GloboTech Communications|
+|20|103.140.50.242|8080|India|Puducherry|Ramyaa Network Communication|
 
 
 
