@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|67.43.227.227|31655|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|1297|Canada|Montreal|GloboTech Communications|
-|9|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|67.43.228.253|1297|Canada|Montreal|GloboTech Communications|
-|12|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|72.10.164.178|4375|Canada|Montreal|GloboTech Communications|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|72.10.164.178|4375|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.160.94|25689|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4375|Canada|Montreal|GloboTech Communications|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|72.10.160.90|15539|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.227.227|31655|Canada|Montreal|GloboTech Communications|
+|17|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|18|67.43.227.227|31655|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|25689|Canada|Montreal|GloboTech Communications|
+|20|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
 
 
 
