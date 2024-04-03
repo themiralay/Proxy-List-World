@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|5|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|9|72.10.164.178|1385|Canada|Montreal|GloboTech Communications|
-|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
 |11|72.10.164.178|1385|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|3033|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|23883|Canada|Montreal|GloboTech Communications|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
-|16|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|72.10.164.178|1385|Canada|Montreal|GloboTech Communications|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|67.43.236.20|1143|Canada|Montreal|GloboTech Communications|
+|15|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|67.43.228.253|29069|Canada|Montreal|GloboTech Communications|
 |17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|21675|Canada|Montreal|GloboTech Communications|
+|18|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.160.173|13259|Canada|Montreal|GloboTech Communications|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
