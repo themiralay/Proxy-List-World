@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|10|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|42.48.26.158|2323|China|Yueyang|China Unicom Hunan Province Network|
-|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|14|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|2|211.222.177.244|3128|South Korea|Goyang-si|Korea Telecom|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.162.70.124|3129|South Korea|Goyang-si|Korea Telecom|
+|6|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.166.8.234|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|80.66.112.2|31280|Spain|La Zenia|IPORIUM|
+|11|103.215.177.132|8080|Indonesia|Jakarta Pusat|PT Telematika Mitrakreasi|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|177.234.240.66|999|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|14|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
 |15|72.10.160.91|18575|Canada|Montreal|GloboTech Communications|
-|16|177.55.247.174|8080|Brazil|Morada Nova|VAS Freitas Servicos de Internet Ltda|
-|17|72.10.160.90|27987|Canada|Montreal|GloboTech Communications|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|67.43.236.20|2665|Canada|Montreal|GloboTech Communications|
 |18|72.10.164.178|15411|Canada|Montreal|GloboTech Communications|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|72.10.160.170|27729|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|72.10.160.90|27987|Canada|Montreal|GloboTech Communications|
 
 
 
