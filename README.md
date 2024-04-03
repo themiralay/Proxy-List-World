@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.109.176.158|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|222.127.220.86|8082|Philippines|Quezon City|GLBB|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|13|170.83.77.246|999|Venezuela|Caracas|Galanet Solution C.A.|
-|14|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|15|67.43.236.19|7373|Canada|Montreal|GloboTech Communications|
-|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|67.43.227.227|8199|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|12955|Canada|Montreal|GloboTech Communications|
-|19|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
-|20|67.43.227.227|8199|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|67.43.236.19|7373|Canada|Montreal|GloboTech Communications|
+|8|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|9|67.43.227.227|3563|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|14241|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|13|67.43.228.250|10121|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|17039|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|11195|Canada|Montreal|GloboTech Communications|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|72.10.164.178|1349|Canada|Montreal|GloboTech Communications|
+|18|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|19|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|20|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
