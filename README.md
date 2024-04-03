@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|211.222.177.244|3128|South Korea|Goyang-si|Korea Telecom|
-|3|221.162.70.124|3129|South Korea|Goyang-si|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|5|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|11|90.188.53.6|8080|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
-|12|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|8|45.32.28.105|12009|Japan|Shinagawa|Choopa|
+|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|95.0.84.26|80|Turkey|Ulus|Turk Telekomunikasyon Anonim Sirketi|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
