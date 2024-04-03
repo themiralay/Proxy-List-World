@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|118.137.99.71|8080|Indonesia|Tangerang|Linknet-Fastnet ASN|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|2|198.167.212.246|8118|Sweden|Malmo|ab stract|
+|3|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|125.20.72.28|3129|India|Chandigarh|BHARTI|
-|11|121.101.135.46|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|202.57.25.110|8080|Indonesia|Semarang|announced of WINET|
-|15|38.7.20.137|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|16|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|17|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|18|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|19|181.78.19.242|999|Colombia|Neiva|IFX Networks Argentina S.R.L|
-|20|103.75.96.70|8080|Indonesia|Tangerang|MORATELINDO|
+|10|50.212.190.241|3128|United States|Minneapolis|Comcast Cable Communications, LLC|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|13|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|45.11.95.165|5029|Russia|Moscow|Delta Ltd|
+|18|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|72.10.160.90|2665|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|20651|Canada|Montreal|GloboTech Communications|
 
 
 
