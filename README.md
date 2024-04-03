@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|198.167.212.246|8118|Sweden|Malmo|ab stract|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|72.10.160.174|27521|Canada|Montreal|GloboTech Communications|
-|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|72.10.160.170|11131|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|11117|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|12|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|27521|Canada|Montreal|GloboTech Communications|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|19|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
 
 
 
