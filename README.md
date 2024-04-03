@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|103.29.238.4|8090|Bangladesh|Gazipur District|Windstream Communication Limited|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|67.43.236.20|15955|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|15955|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|31805|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
-|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|14|67.43.227.226|5791|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5775|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.227.226|5791|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15955|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|33147|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|28289|Canada|Montreal|GloboTech Communications|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|67.43.236.20|30543|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30543|Canada|Montreal|GloboTech Communications|
+|19|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
