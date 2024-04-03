@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|74.103.66.15|80|United States|Bowie|Verizon Business|
-|6|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|10|154.53.38.152|3128|United States|New York|Nubes, LLC|
-|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|12|72.10.160.90|12915|Canada|Montreal|GloboTech Communications|
-|13|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|72.10.160.94|27463|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|2973|Canada|Montreal|GloboTech Communications|
-|16|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
-|17|45.62.235.18|80|Canada|Toronto|DataCity|
-|18|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|19|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
-|20|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|72.10.160.94|27463|Canada|Montreal|GloboTech Communications|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|67.43.236.20|2103|Canada|Montreal|GloboTech Communications|
+|12|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|15|182.253.39.206|8080|Indonesia|Jakarta Pusat|BIZNET|
+|16|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|17|103.165.253.137|7777|Indonesia|Kabupaten Subang|PT Pelangi Communication Network|
+|18|72.10.160.90|27031|Canada|Montreal|GloboTech Communications|
+|19|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
 
 
 
