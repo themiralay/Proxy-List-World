@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|6|67.43.228.253|3043|Canada|Montreal|GloboTech Communications|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
-|9|116.99.235.172|30245|Vietnam|Đắk Song|Viettel Corporation|
-|10|116.99.235.172|30245|Vietnam|Đắk Song|Viettel Corporation|
-|11|67.43.236.20|32041|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|12621|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.90|11755|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|2297|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|29547|Canada|Montreal|GloboTech Communications|
-|19|5.182.87.90|10089|Germany|Frankfurt am Main|Aeza International LTD|
-|20|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|67.43.228.253|3043|Canada|Montreal|GloboTech Communications|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|72.10.164.178|29627|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.160.90|7777|Canada|Montreal|GloboTech Communications|
+|14|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|72.10.164.178|29627|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
+|20|104.129.192.165|10007|United States|Santa Clara|ZSCALER, INC.|
 
 
 
