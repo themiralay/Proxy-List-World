@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|72.10.160.94|7295|Canada|Montreal|GloboTech Communications|
-|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|7|72.10.164.178|32379|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.170|12017|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|26851|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.228.253|27451|Canada|Montreal|GloboTech Communications|
-|12|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|13|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|14|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|15|103.195.16.2|8080|India|Alwar|Alwar Online Pvt. Ltd|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|181.39.64.26|999|Ecuador|Guayaquil|Telconet S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|120.28.196.66|8082|Philippines|Davao City|Globe Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|72.10.160.170|7985|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|29785|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|24659|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|7839|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.227.227|7839|Canada|Montreal|GloboTech Communications|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|14.226.7.37|8080|Vietnam|Hanoi|VNPT|
+|17|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
