@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.43.86.215|3128|Japan|Hiyoshi|XSERVER Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|4|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|5|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|9|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|10|162.43.86.215|3128|Japan|Hiyoshi|XSERVER Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|7|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|8|223.247.47.24|8089|China|Rongcheng|Chinanet|
+|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|10|67.43.228.250|3883|Canada|Montreal|GloboTech Communications|
 |11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|13|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|121.195.170.225|1024|China|Haidian|CERNET|
-|17|67.43.228.250|3883|Canada|Montreal|GloboTech Communications|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.164.178|21505|Canada|Montreal|GloboTech Communications|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|45.11.95.165|5026|Russia|Moscow|Delta Ltd|
+|20|117.57.93.240|8089|China|Rongcheng|Chinanet|
 
 
 
