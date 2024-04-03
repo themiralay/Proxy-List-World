@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|64.76.43.115|999|Mexico|Mexico City|Level 3|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
-|12|67.43.228.253|16829|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|16829|Canada|Montreal|GloboTech Communications|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|67.43.227.227|23489|Canada|Montreal|GloboTech Communications|
-|17|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|4|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|9|67.43.227.227|23489|Canada|Montreal|GloboTech Communications|
+|10|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|11|103.154.77.79|8080|Indonesia|Magelang|T2NET|
+|12|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
+|13|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|14|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|80.191.106.129|8081|Iran|Sāveh|Iran Telecommunication Company PJS|
 
 
 
