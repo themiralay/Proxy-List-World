@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
-|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|8|103.250.70.214|8080|Bangladesh|Sakhipur|Next Online Ltd.|
-|9|67.43.227.228|19269|Canada|Montreal|GloboTech Communications|
-|10|5.196.111.30|20185|France|Gravelines|OVH SAS|
-|11|67.43.228.253|22937|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|5369|Canada|Montreal|GloboTech Communications|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|72.10.164.178|22329|Canada|Montreal|GloboTech Communications|
-|15|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
-|16|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22329|Canada|Montreal|GloboTech Communications|
-|18|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|19|67.43.227.228|19269|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22329|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|72.10.164.178|31455|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|31455|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.19|5369|Canada|Montreal|GloboTech Communications|
+|9|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|67.43.227.228|19269|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|67.43.227.229|28893|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|67.43.236.18|20997|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14041|Canada|Montreal|GloboTech Communications|
+|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|19|103.162.141.146|8085|Indonesia|Kabil|PT Filltech Antar Nusa|
+|20|67.43.227.227|14041|Canada|Montreal|GloboTech Communications|
 
 
 
