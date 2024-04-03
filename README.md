@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|14.250.228.252|4006|Vietnam|Da Nang|VNPT|
-|5|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
-|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|4|102.68.131.31|8080|Libya|Tripoli|Rawafed|
+|5|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|72.10.160.90|9013|Canada|Montreal|GloboTech Communications|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18497|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9013|Canada|Montreal|GloboTech Communications|
+|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|9|67.43.236.20|24401|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|15773|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|25647|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|25647|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|24401|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|32031|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|15773|Canada|Montreal|GloboTech Communications|
+|16|117.57.93.238|8089|China|Rongcheng|Chinanet|
+|17|104.129.192.165|10884|United States|Santa Clara|ZSCALER, INC.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
 
 
 
