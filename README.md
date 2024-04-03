@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.227.227|17757|Canada|Montreal|GloboTech Communications|
-|10|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|11|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|12|67.43.236.20|2969|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|9389|Canada|Montreal|GloboTech Communications|
-|14|154.26.138.203|3128|Singapore|Singapore|Cogent Communications|
-|15|85.239.234.94|3128|United States|Seattle|Casablanca INT fraction|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|18|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
-|19|67.43.228.253|2485|Canada|Montreal|GloboTech Communications|
-|20|94.156.144.228|3128|Bulgaria|Sofia|Belcloud LTD|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|10|67.43.227.227|23273|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|2969|Canada|Montreal|GloboTech Communications|
+|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|16|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
+|17|72.10.164.178|30237|Canada|Montreal|GloboTech Communications|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|72.10.164.178|30237|Canada|Montreal|GloboTech Communications|
+|20|148.230.168.198|999|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
 
 
 
