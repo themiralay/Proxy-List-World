@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|9|187.245.214.7|999|Mexico|Joaquin Miguel Gutierrez|Mega Cable|
-|10|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|14|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|19|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|67.43.227.227|19287|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|67.43.236.20|2023|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|19287|Canada|Montreal|GloboTech Communications|
+|12|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
+|17|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|18|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|14089|Canada|Montreal|GloboTech Communications|
 
 
 
