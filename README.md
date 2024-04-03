@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6756** proxies at the latest update. Usable proxies are below.
+> Scraper found **6692** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|267|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4835|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|201.77.108.130|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
-|10|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.227.227|5009|Canada|Montreal|GloboTech Communications|
-|13|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|14|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
-|15|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|16|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
-|17|67.43.236.18|23855|Canada|Montreal|GloboTech Communications|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|104.129.192.165|10884|United States|Santa Clara|ZSCALER, INC.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.236.20|1955|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.93|32845|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|32799|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|11523|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|67.43.236.20|1955|Canada|Montreal|GloboTech Communications|
 
 
 
