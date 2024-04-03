@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|9|103.165.58.107|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|168.0.239.225|8787|Brazil|Candeias|VOANET Telecomunicações Ltda.|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|114.231.42.93|8089|China|Nanjing|Chinanet|
-|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|19|67.43.227.227|11275|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|3033|Canada|Montreal|GloboTech Communications|
+|2|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|3|103.165.58.107|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|7|168.181.196.76|8080|Brazil|Marataizes|Windx Telecomunicações|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|67.43.227.226|22227|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
+|14|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.236.20|9399|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13637|Canada|Montreal|GloboTech Communications|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
 
 
 
