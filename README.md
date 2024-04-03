@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|94.23.19.184|2912|France|Roubaix|OVH ISP|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|13389|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13389|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26967|Canada|Montreal|GloboTech Communications|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|12|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|10911|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|162.43.86.215|3128|Japan|Hiyoshi|XSERVER Inc.|
+|20|72.10.164.178|10911|Canada|Montreal|GloboTech Communications|
 
 
 
