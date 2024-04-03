@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6849** proxies at the latest update. Usable proxies are below.
+> Scraper found **7033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4835|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5019|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|3|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|4|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|72.10.160.172|3601|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.171|17805|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.174|1099|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|32299|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.172|3601|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|1091|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|23489|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|23489|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|67.43.228.253|4211|Canada|Montreal|GloboTech Communications|
-|17|183.165.250.35|8089|China|Shenzhen|Chinanet|
-|18|72.10.164.178|32299|Canada|Montreal|GloboTech Communications|
-|19|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|8|72.10.160.172|3601|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|17805|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|17869|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|17869|Canada|Montreal|GloboTech Communications|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|72.10.160.91|18743|Canada|Montreal|GloboTech Communications|
+|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|16|72.10.160.170|6385|Canada|Montreal|GloboTech Communications|
+|17|24.173.4.70|16099|United States|Edinburg|Charter Communications Inc|
+|18|72.10.160.172|3601|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 
 
 
