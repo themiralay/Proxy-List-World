@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|7|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|121.101.131.142|8181|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
-|12|67.43.227.227|4821|Canada|Montreal|GloboTech Communications|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|103.154.77.79|8080|Indonesia|Magelang|T2NET|
-|18|72.10.164.178|1371|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|20461|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20461|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|9|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|95.0.84.26|80|Turkey|Ulus|Turk Telekomunikasyon Anonim Sirketi|
+|11|188.132.222.70|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|103.153.63.136|3125|Indonesia|Rejoagung Satu|IMEDIANET|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|203.202.248.36|80|Bangladesh|Chittagong|Aamra Networks Limited|
+|19|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|20|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
 
 
 
