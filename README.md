@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|186.227.112.65|8080|Brazil|Ibema|Orssatto Telecom Telecomunicacoes - Eireli|
-|5|116.99.235.172|30141|Vietnam|Đắk Song|Viettel Corporation|
-|6|67.43.228.251|18095|Canada|Montreal|GloboTech Communications|
-|7|190.242.181.61|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|9|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
-|11|72.10.164.178|3001|Canada|Montreal|GloboTech Communications|
-|12|152.42.196.170|3128|United Kingdom|London|DigitalOcean|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|72.10.164.178|16611|Canada|Montreal|GloboTech Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|72.10.164.178|16611|Canada|Montreal|GloboTech Communications|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|67.43.236.20|30099|Canada|Montreal|GloboTech Communications|
 |13|116.99.235.172|30141|Vietnam|Đắk Song|Viettel Corporation|
-|14|45.11.95.165|5219|Russia|Moscow|Delta Ltd|
-|15|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
-|16|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
-|17|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|18|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.236.20|6363|Canada|Montreal|GloboTech Communications|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|116.99.235.172|30141|Vietnam|Đắk Song|Viettel Corporation|
+|18|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|19|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
