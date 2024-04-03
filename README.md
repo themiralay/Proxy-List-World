@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|36.93.130.219|66|Indonesia|Paseban|Telekomunikasi Indonesia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|67.43.236.19|16695|Canada|Montreal|GloboTech Communications|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
-|18|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|19|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|11301|Canada|Montreal|GloboTech Communications|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|10|72.10.160.170|24647|Canada|Montreal|GloboTech Communications|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|67.43.227.227|4131|Canada|Montreal|GloboTech Communications|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|72.10.160.90|3003|Canada|Montreal|GloboTech Communications|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.228.253|29867|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|29867|Canada|Montreal|GloboTech Communications|
 
 
 
