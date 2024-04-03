@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|4|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|119.93.173.202|8081|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|13|103.111.207.138|80|Indonesia|Jembatan Lima|PT Cyberindo Aditama|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|67.43.228.250|8009|Canada|Montreal|GloboTech Communications|
-|16|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|19|67.43.227.227|16511|Canada|Montreal|GloboTech Communications|
-|20|38.45.44.51|6332|United States|Doral|FENIX NETWORKS, S.R.L.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|67.43.227.227|24341|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|12|67.43.227.227|24341|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.174|2693|Canada|Montreal|GloboTech Communications|
+|14|121.195.170.225|1024|China|Haidian|CERNET|
+|15|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|67.43.227.226|16413|Canada|Montreal|GloboTech Communications|
+|18|111.225.153.218|8089|China|Zhoutou|China Telecom|
+|19|67.43.227.227|24341|Canada|Montreal|GloboTech Communications|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
