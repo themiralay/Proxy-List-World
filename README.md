@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
-|7|1.1.220.100|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.38.102.176|1080|Indonesia|Nganjuk|LAXONET|
-|14|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|15|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|16|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
-|19|36.77.90.250|8080|Indonesia|Cimahi|PT. TELKOM INDONESIA|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|9|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|72.10.160.173|1415|Canada|Montreal|GloboTech Communications|
+|17|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.147.247.175|8181|Indonesia|Tangerang|PLBNET|
 
 
 
