@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|9|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|72.10.164.178|13389|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|8|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|72.10.164.178|18561|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
 |20|67.43.227.227|27429|Canada|Montreal|GloboTech Communications|
 
 
