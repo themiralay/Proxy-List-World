@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|36.64.86.27|3125|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.76.43.115|999|Mexico|Mexico City|Level 3|
-|9|77.68.111.73|3128|United Kingdom|Corby|IONOS SE|
-|10|72.10.160.90|10613|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|21235|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|10613|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|10613|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|7319|Canada|Montreal|GloboTech Communications|
-|15|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|20|67.43.227.227|7319|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|72.10.164.178|21235|Canada|Montreal|GloboTech Communications|
+|10|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
+|11|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|12|121.195.170.225|1024|China|Haidian|CERNET|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|37.130.26.102|8081|Poland|Sochaczew|"InterKAM" S.C|
+|16|67.43.227.227|7319|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
+|19|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
