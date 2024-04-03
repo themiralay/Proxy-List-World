@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|72.10.164.178|27367|Canada|Montreal|GloboTech Communications|
-|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|67.43.227.228|20091|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27367|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|4079|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|25807|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27367|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27367|Canada|Montreal|GloboTech Communications|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|72.10.164.178|27367|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|3067|Canada|Montreal|GloboTech Communications|
+|4|103.172.35.138|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|101.109.176.158|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|72.10.164.178|26687|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|26687|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|28887|Canada|Montreal|GloboTech Communications|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|67.43.227.229|1663|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
