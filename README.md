@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|103.173.139.22|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|7|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|8|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|41.60.26.210|32650|South Africa|Johannesburg|Maintainer Liquid Telecommunications Operations Limited|
-|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|27707|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|5|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.160.173|27707|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|19|72.10.160.90|32809|Canada|Montreal|GloboTech Communications|
+|20|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
 
 
 
