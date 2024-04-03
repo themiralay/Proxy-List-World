@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|9|5.196.111.30|20076|France|Gravelines|OVH SAS|
-|10|67.43.227.228|22255|Canada|Montreal|GloboTech Communications|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|67.43.236.20|26751|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|15|67.43.227.227|8033|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|22255|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|121.52.145.164|8080|Pakistan|Islamabad|HEC|
-|19|67.43.227.226|32187|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26751|Canada|Montreal|GloboTech Communications|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|5.196.111.30|20076|France|Gravelines|OVH SAS|
+|14|67.43.227.228|28203|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|162.252.151.113|8282|United States|Brookville|ALTIUS Broadband, LLC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
