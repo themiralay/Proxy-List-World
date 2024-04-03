@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|3|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|8|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|9|67.43.227.227|12103|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|17817|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|2785|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|12103|Canada|Montreal|GloboTech Communications|
-|13|49.48.97.91|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|157.254.28.10|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|111.225.153.94|8089|China|Zhoutou|China Telecom|
-|18|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|19|103.47.13.29|8080|India|Dehradun|Precious netcom pvt ltd|
-|20|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|77.68.111.73|3128|United Kingdom|Corby|IONOS SE|
+|7|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|9|67.43.227.227|22895|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|2169|Canada|Montreal|GloboTech Communications|
+|11|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|13|67.43.236.20|30783|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|16|67.43.227.227|22895|Canada|Montreal|GloboTech Communications|
+|17|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|18|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|19|72.10.164.178|2169|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
