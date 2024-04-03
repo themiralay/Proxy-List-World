@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|9|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|10|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|11|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|67.43.236.20|15851|Canada|Montreal|GloboTech Communications|
-|17|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|201.77.111.231|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
-|20|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|5|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|6|185.186.242.135|3128|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
+|11|49.247.47.129|4000|South Korea|Gwangmyeong|SMILESERV|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
+|14|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|15|72.10.164.178|6521|Canada|Montreal|GloboTech Communications|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|67.43.227.228|29055|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|20839|Canada|Montreal|GloboTech Communications|
+|20|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
