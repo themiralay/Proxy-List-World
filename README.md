@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.186.242.135|3128|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|72.10.164.178|11751|Canada|Montreal|GloboTech Communications|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|72.10.160.170|6055|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|11751|Canada|Montreal|GloboTech Communications|
-|14|141.95.120.253|8080|Germany|Saarbrücken|OVH SAS|
-|15|72.10.164.178|11751|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.160.173|9871|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|104.129.192.165|11267|United States|Santa Clara|ZSCALER, INC.|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|7|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
+|8|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
+|12|93.159.247.109|3128|Russia|Krasnoyarsk|Axioma, LLC|
+|13|67.43.236.20|33083|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.148.25.247|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|18|104.129.192.165|11267|United States|Santa Clara|ZSCALER, INC.|
+|19|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|20|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
 
 
 
