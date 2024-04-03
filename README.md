@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6784** proxies at the latest update. Usable proxies are below.
+> Scraper found **6801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|60|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|250|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|267|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4835|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|72.10.164.178|2301|Canada|Montreal|GloboTech Communications|
-|7|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|67.43.227.227|19807|Canada|Montreal|GloboTech Communications|
-|11|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|12|67.43.236.19|5023|Canada|Montreal|GloboTech Communications|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|16|72.10.160.170|22461|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2195|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|1865|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4731|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|22937|Canada|Montreal|GloboTech Communications|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|6|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
+|7|67.43.236.19|10587|Canada|Montreal|GloboTech Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.227.227|32909|Canada|Montreal|GloboTech Communications|
+|10|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|72.10.160.170|1843|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|26139|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|32909|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2195|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|45.224.247.102|80|Brazil|Fortaleza|Upix Networks|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
 
 
 
