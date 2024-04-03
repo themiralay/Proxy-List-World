@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|25985|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|11203|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|11861|Canada|Montreal|GloboTech Communications|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|36.72.184.175|8080|Indonesia|Cirebon|PT. TELKOM INDONESIA|
-|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|20|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|7|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|189.90.255.208|3128|Brazil|Itabirito|Companhia Itabirana Telecomunicações Ltda|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|16|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|119.39.68.76|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|20|72.10.164.178|23733|Canada|Montreal|GloboTech Communications|
 
 
 
