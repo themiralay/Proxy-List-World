@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|38.7.1.113|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|202.168.69.225|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
-|12|178.19.116.34|3128|The Netherlands|Amsterdam|IC Hosting|
-|13|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|14|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
-|15|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
-|16|112.198.194.16|8383|Philippines|Lahug|Globe Telecom|
-|17|202.12.80.14|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|18|1.1.230.96|8080|Thailand|Borabue|TOT Public Company Limited|
-|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|20|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|72.10.160.171|8443|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.236.20|24623|Canada|Montreal|GloboTech Communications|
+|12|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
+|19|67.43.236.20|24623|Canada|Montreal|GloboTech Communications|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
