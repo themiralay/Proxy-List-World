@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|72.10.160.91|21739|Canada|Montreal|GloboTech Communications|
-|9|103.112.163.92|8080|Indonesia|Jakarta|24AS|
-|10|67.43.236.20|17435|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|15079|Canada|Montreal|GloboTech Communications|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|67.43.236.20|25487|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.170|3777|Canada|Montreal|GloboTech Communications|
+|8|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|11|103.112.163.92|8080|Indonesia|Jakarta|24AS|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
+|13|72.10.164.178|25863|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.90|14687|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|3777|Canada|Montreal|GloboTech Communications|
-|16|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|17|72.10.164.178|15079|Canada|Montreal|GloboTech Communications|
-|18|191.243.161.135|3128|Brazil|São Paulo|Simnet Telecomunicacoes Ltda|
-|19|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
-|20|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|15|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|16|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|17|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|18|67.43.228.253|18549|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25863|Canada|Montreal|GloboTech Communications|
+|20|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
 
 
 
