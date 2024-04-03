@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|67.43.228.253|2497|Canada|Montreal|GloboTech Communications|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|67.43.228.253|5069|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
 |9|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
-|10|45.11.95.165|6011|Russia|Moscow|Delta Ltd|
-|11|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|15|67.43.236.20|11585|Canada|Montreal|GloboTech Communications|
-|16|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|61.19.145.66|8080|Thailand|Doi Saket|CAT Telecom Public Company Limited|
-|20|72.10.164.178|16285|Canada|Montreal|GloboTech Communications|
+|10|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|13|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
+|14|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|15|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|51.159.66.158|3128|France|Paris|SCALEWAY|
+|17|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|123.182.59.0|8089|China|Zhangjiakou|China Telecom|
+|20|67.43.236.20|26671|Canada|Montreal|GloboTech Communications|
 
 
 
