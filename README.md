@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |2|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|3|67.43.228.250|10061|Canada|Montreal|GloboTech Communications|
-|4|72.10.160.91|25673|Canada|Montreal|GloboTech Communications|
-|5|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|67.43.236.21|31583|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|21701|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.172|8557|Canada|Montreal|GloboTech Communications|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|72.10.160.171|24953|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4171|Canada|Montreal|GloboTech Communications|
-|13|123.182.59.137|8089|China|Zhangjiakou|China Telecom|
-|14|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|15|72.10.160.90|9081|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|29787|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4171|Canada|Montreal|GloboTech Communications|
-|18|180.183.156.113|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|19|67.43.228.252|22093|Canada|Montreal|GloboTech Communications|
-|20|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|3|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|67.43.236.21|31583|Canada|Montreal|GloboTech Communications|
+|5|72.10.164.178|2685|Canada|Montreal|GloboTech Communications|
+|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|45.32.28.105|12009|Japan|Shinagawa|Choopa|
+|8|72.10.164.178|2685|Canada|Montreal|GloboTech Communications|
+|9|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|72.10.160.90|4411|Canada|Montreal|GloboTech Communications|
+|12|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
+|13|72.10.160.172|8557|Canada|Montreal|GloboTech Communications|
+|14|180.183.156.113|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|15|194.31.64.44|80|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|16|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|154.26.138.203|3128|Singapore|Singapore|Cogent Communications|
+|18|72.10.160.91|25673|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
