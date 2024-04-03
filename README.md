@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
-|6|45.77.182.170|12009|Japan|Komae|The Constant Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|67.43.227.227|20241|Canada|Montreal|GloboTech Communications|
-|11|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|67.43.228.254|16201|Canada|Montreal|GloboTech Communications|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|124.83.51.94|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|67.43.227.227|20241|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|34.22.84.17|3128|South Korea|Seoul|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.77.182.170|12009|Japan|Komae|The Constant Company|
+|11|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|67.43.227.227|5197|Canada|Montreal|GloboTech Communications|
+|17|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|18|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
 |19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
