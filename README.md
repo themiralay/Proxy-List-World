@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|35.243.227.100|80|United States|North Charleston|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.243.227.100|80|United States|North Charleston|Google LLC|
-|10|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|11|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|72.10.160.93|16293|Canada|Montreal|GloboTech Communications|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|72.10.164.178|6963|Canada|Montreal|GloboTech Communications|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|5|72.10.164.178|25197|Canada|Montreal|GloboTech Communications|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|37.220.83.232|3128|Poland|Warsaw|TimeWeb Ltd.|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|72.10.160.92|33061|Canada|Montreal|GloboTech Communications|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|72.10.164.178|25197|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|25433|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|25433|Canada|Montreal|GloboTech Communications|
+|19|103.165.222.188|8080|Indonesia|Bandung|PT iForte Global Internet|
+|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 
 
 
