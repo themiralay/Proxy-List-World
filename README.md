@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7424** proxies at the latest update. Usable proxies are below.
+> Scraper found **7526** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|74|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|295|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5102|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|9|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|103.217.224.53|3127|Indonesia|Semarang|PT Nesta Indo Media|
-|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|13|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
-|14|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|15|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|18|72.10.160.173|17999|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24323|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|8973|Canada|Montreal|GloboTech Communications|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|7|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.173|10573|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|1731|Canada|Montreal|GloboTech Communications|
+|12|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|13|72.10.160.170|33261|Canada|Montreal|GloboTech Communications|
+|14|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|67.43.228.253|15627|Canada|Montreal|GloboTech Communications|
+|19|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|20|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
 
 
 
