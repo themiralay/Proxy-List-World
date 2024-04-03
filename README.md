@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.174.79.232|999|Mexico|Miguel Ahumada|Raul Duarte Urita|
-|7|193.57.139.233|3128|Serbia|Belgrade|Stark Industries Solutions LTD|
-|8|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|122.2.79.174|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|14|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3917|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3917|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|2469|Canada|Montreal|GloboTech Communications|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|45.117.179.209|80|Vietnam|Phường Mười Lăm|NHANHOA|
+|6|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|2469|Canada|Montreal|GloboTech Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|32431|Canada|Montreal|GloboTech Communications|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|19|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
 
 
 
