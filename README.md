@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Coyoacán|UNINET|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|7|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
-|8|189.240.60.164|9090|Mexico|Coyoacán|UNINET|
-|9|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
+|6|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|1.1.220.100|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|45.88.138.45|3128|The Netherlands|Amsterdam|Yaglom Labs Ltd|
+|10|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
 |14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|1.1.220.100|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|15|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|17|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|18|189.240.60.168|9090|Mexico|Coyoacán|UNINET|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
