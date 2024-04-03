@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|4|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |6|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|7|49.76.17.138|8089|China|Nanjing|Chinanet|
-|8|72.10.164.178|9891|Canada|Montreal|GloboTech Communications|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
 |9|72.10.160.170|20033|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|8715|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|17869|Canada|Montreal|GloboTech Communications|
-|13|36.82.236.219|8080|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|17|72.10.160.90|21531|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30319|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|12855|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30319|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|12855|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|21203|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|1777|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|1777|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
