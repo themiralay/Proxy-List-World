@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.164.178|4485|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|7993|Canada|Montreal|GloboTech Communications|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|67.43.227.226|10765|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|30597|Canada|Montreal|GloboTech Communications|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|72.10.160.93|27497|Canada|Montreal|GloboTech Communications|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.171|20443|Canada|Montreal|GloboTech Communications|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|72.10.164.178|29717|Canada|Montreal|GloboTech Communications|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|181.209.78.75|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|72.10.160.91|28081|Canada|Montreal|GloboTech Communications|
+|16|104.129.192.165|11431|United States|Santa Clara|ZSCALER, INC.|
+|17|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|72.10.160.171|20443|Canada|Montreal|GloboTech Communications|
+|20|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
 
 
 
