@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.6.204.141|999|Honduras|San Pedro Sula|Cablecolor S.A.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|67.43.236.20|4311|Canada|Montreal|GloboTech Communications|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|67.43.236.18|23005|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4311|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|190.71.229.46|9992|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|179.60.235.248|8095|Argentina|Gobernador Galvez|WICORP SA|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|72.10.164.178|14755|Canada|Montreal|GloboTech Communications|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |16|67.43.227.226|12787|Canada|Montreal|GloboTech Communications|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.228.253|9331|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23615|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5537|Canada|Montreal|GloboTech Communications|
+|18|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.161.164.41|8080|Indonesia|Panumbangan|PT Galuh Multidata Solution|
+|20|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
