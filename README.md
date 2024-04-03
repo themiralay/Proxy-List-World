@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|4|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|5|140.84.176.246|443|Mexico|Querétaro|Oracle Corporation|
-|6|72.10.160.90|2193|Canada|Montreal|GloboTech Communications|
-|7|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|8|72.10.160.93|13991|Canada|Montreal|GloboTech Communications|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|12|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|15|67.43.236.20|5487|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|12011|Canada|Montreal|GloboTech Communications|
+|3|66.250.190.57|8080|United States|Bowie|Education Networks of America|
+|4|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
+|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|6|72.10.160.90|23743|Canada|Montreal|GloboTech Communications|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.236.20|5487|Canada|Montreal|GloboTech Communications|
+|11|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|5487|Canada|Montreal|GloboTech Communications|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
