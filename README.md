@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|116.104.179.63|10066|Vietnam|Hanoi|Viettel Corporation|
-|6|119.93.155.205|8181|Philippines|Candaba|Philippine Long Distance Telephone Co.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|14|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|20|67.43.227.227|19287|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|103.165.156.179|3125|Indonesia|Jember|PT. MEGA ARTHA LINTAS DATA|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|12|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|13|72.10.164.178|4085|Canada|Montreal|GloboTech Communications|
+|14|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|104.129.192.165|11267|United States|Santa Clara|ZSCALER, INC.|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|204.157.251.169|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
