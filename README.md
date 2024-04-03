@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|13|72.10.160.170|2047|Canada|Montreal|GloboTech Communications|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|67.43.228.253|9101|Canada|Montreal|GloboTech Communications|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|4|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|67.43.228.250|29711|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|9|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|2973|Canada|Montreal|GloboTech Communications|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|67.43.236.20|2973|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2263|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|22507|Canada|Montreal|GloboTech Communications|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|67.43.228.253|2421|Canada|Montreal|GloboTech Communications|
+|20|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
