@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|72.10.164.178|16043|Canada|Montreal|GloboTech Communications|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.236.18|31849|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|31849|Canada|Montreal|GloboTech Communications|
-|14|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|17|67.43.236.20|16611|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|1365|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|1365|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|11975|Canada|Montreal|GloboTech Communications|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|72.10.164.178|16043|Canada|Montreal|GloboTech Communications|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|58.84.20.18|8080|India|Kashipur|Power Grid Corporation of India Limited|
+|13|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|67.43.236.18|31849|Canada|Montreal|GloboTech Communications|
+|17|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|18|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|19|223.215.176.9|8089|China|Guangzhou|Chinanet|
+|20|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
