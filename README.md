@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.73.132.38|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|103.99.27.26|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|9|67.43.228.251|2009|Canada|Montreal|GloboTech Communications|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|12|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|13|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|14|165.22.96.68|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|18|67.43.228.252|22093|Canada|Montreal|GloboTech Communications|
-|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|20|49.76.17.146|8089|China|Nanjing|Chinanet|
+|1|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|5|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|6|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|7|72.10.164.178|10981|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|10|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
+|11|91.231.186.133|443|United Kingdom|London|Clouvider Limited|
+|12|67.43.228.251|2009|Canada|Montreal|GloboTech Communications|
+|13|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|72.10.164.178|10981|Canada|Montreal|GloboTech Communications|
+|15|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|20|103.125.155.230|8080|India|Tirupur|Live Fibernet|
 
 
 
