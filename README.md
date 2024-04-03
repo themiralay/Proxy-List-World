@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.56.206.65|4995|Indonesia|Cianjur|Argon Data Communication|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
 |10|189.240.60.166|9090|Mexico|Coyoacán|UNINET|
-|11|189.240.60.171|9090|Mexico|Coyoacán|UNINET|
-|12|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|190.242.181.61|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
-|16|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|17|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|20|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|189.240.60.169|9090|Mexico|Coyoacán|UNINET|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|75.112.64.27|8080|United States|Orlando|Spectrum|
+|16|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|17|67.43.236.20|21561|Canada|Montreal|GloboTech Communications|
+|18|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|72.10.160.90|22999|Canada|Montreal|GloboTech Communications|
 
 
 
