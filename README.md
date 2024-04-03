@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|4|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|11|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|45.88.90.199|3128|United States|Ashburn|Constant MOULIN|
+|7|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|67.43.227.227|32947|Canada|Montreal|GloboTech Communications|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|13|67.43.228.250|17835|Canada|Montreal|GloboTech Communications|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|212.88.109.89|3128|Uganda|Kampala|MTN Uganda|
-|16|67.43.236.20|26085|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|15451|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|27463|Canada|Montreal|GloboTech Communications|
-|19|154.53.38.152|3128|United States|New York|Nubes, LLC|
-|20|72.10.160.90|27031|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|27031|Canada|Montreal|GloboTech Communications|
+|16|162.254.38.91|3128|United States|Los Angeles|Namecheap, Inc.|
+|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|18|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|19|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|20|72.10.164.178|17711|Canada|Montreal|GloboTech Communications|
 
 
 
