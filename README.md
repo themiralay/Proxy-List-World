@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
-|5|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|5|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|6|84.204.40.155|8080|Russia|St Petersburg|PJSC MegaFon|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|16|103.87.169.145|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|190.97.232.137|999|Venezuela|Vigía|Viginet C.A|
-|19|103.119.96.195|8080|Cambodia|Phnom Penh|Mega Truenet Communication Co., Ltd.|
-|20|88.255.65.120|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
+|8|35.200.161.98|80|India|Mumbai|Google LLC|
+|9|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
+|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
+|20|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
 
 
 
