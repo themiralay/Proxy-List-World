@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|72.10.160.170|7985|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.19|5023|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|8081|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.227.227|3267|Canada|Montreal|GloboTech Communications|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|72.10.160.90|8081|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.236.19|5023|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |14|72.10.160.90|8081|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3267|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8081|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|17655|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|7921|Canada|Montreal|GloboTech Communications|
+|16|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|72.10.164.178|6437|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|8081|Canada|Montreal|GloboTech Communications|
+|20|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
