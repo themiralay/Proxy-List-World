@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|103.194.70.169|83|India|Patna|Hostaxis Network Private Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|9|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|15055|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|24155|Canada|Montreal|GloboTech Communications|
-|14|83.221.222.240|3128|Russia|Rostov-on-Don|RTK|
-|15|38.252.209.32|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|16|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.160.172|27343|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.14|8089|China|Zhoutou|China Telecom|
-|20|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
+|3|190.104.20.82|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.7.1.113|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
+|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|10|38.252.209.32|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|103.154.230.129|8080|Indonesia|Lamongan|DIGITNET|
+|13|67.43.236.20|1835|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.39.64.26|999|Ecuador|Ambato|Telconet S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|67.43.236.20|1835|Canada|Montreal|GloboTech Communications|
+|18|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|20|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
 
 
 
