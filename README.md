@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|12|72.10.160.170|15443|Canada|Montreal|GloboTech Communications|
-|13|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.156.204.107|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.228.250|21791|Canada|Montreal|GloboTech Communications|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|19|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|20|67.43.228.253|27707|Canada|Montreal|GloboTech Communications|
 
 
 
