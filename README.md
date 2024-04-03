@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
-|17|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
 
 
 
