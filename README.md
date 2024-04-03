@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|45.117.177.41|2001|Vietnam|Phường Mười Lăm|NHANHOA|
-|9|183.165.251.152|8089|China|Shenzhen|Chinanet|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.227.227|2351|Canada|Montreal|GloboTech Communications|
-|14|36.72.184.175|8080|Indonesia|Cirebon|PT. TELKOM INDONESIA|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|67.43.227.228|2293|Canada|Montreal|GloboTech Communications|
-|17|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|18|72.10.160.90|29613|Canada|Montreal|GloboTech Communications|
-|19|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|5|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|6|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|7|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|8|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
+|12|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|45.117.177.41|2001|Vietnam|Phường Mười Lăm|NHANHOA|
+|18|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|19|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
