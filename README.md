@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|67.43.227.228|22521|Canada|Montreal|GloboTech Communications|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|72.10.160.173|13615|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|7639|Canada|Montreal|GloboTech Communications|
-|13|50.235.247.114|8085|United States|Henrico|Comcast Cable Communications, LLC|
-|14|67.43.236.20|1581|Canada|Montreal|GloboTech Communications|
-|15|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|72.10.164.178|2383|Canada|Montreal|GloboTech Communications|
+|10|101.255.62.129|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
+|11|67.43.227.228|30125|Canada|Montreal|GloboTech Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.164.178|2383|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|5177|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|7639|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|2383|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|1885|Canada|Montreal|GloboTech Communications|
-|18|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|19|72.10.160.90|32373|Canada|Montreal|GloboTech Communications|
-|20|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|18|72.10.160.170|17709|Canada|Montreal|GloboTech Communications|
+|19|123.182.59.177|8089|China|Zhangjiakou|China Telecom|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
