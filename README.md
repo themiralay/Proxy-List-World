@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|3|161.132.48.32|8080|Peru|Lima|Red Cientifica Peruana|
 |4|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|5|67.43.228.253|2617|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|24873|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|28063|Canada|Montreal|GloboTech Communications|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|72.10.160.90|2451|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|8387|Canada|Montreal|GloboTech Communications|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|13|72.10.160.90|2451|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24873|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|24873|Canada|Montreal|GloboTech Communications|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|187.189.238.1|999|Mexico|San Luis Río Colorado|Total Play Telecomunicaciones SA De CV|
-|19|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
+|5|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|2451|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|2617|Canada|Montreal|GloboTech Communications|
+|8|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|9|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|67.43.227.227|28063|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|19|72.10.160.173|25181|Canada|Montreal|GloboTech Communications|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
