@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|27137|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|25695|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|25695|Canada|Montreal|GloboTech Communications|
-|14|190.121.239.195|999|Venezuela|Catia La Mar|Corporacion Digitel C.A|
-|15|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
-|16|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|17|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4431|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|12|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|13|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.227.227|25695|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
