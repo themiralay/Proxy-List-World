@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|207.180.228.55|80|Germany|Nuremberg|Contabo GmbH|
-|16|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
-|17|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|93.157.196.58|8080|Bosnia and Herzegovina|Gradacac|Telesat d.o.o.|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|13|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|14|72.10.160.93|23323|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
+|16|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 |20|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
 
 
