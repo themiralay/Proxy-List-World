@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
-|14|45.11.95.165|5032|Russia|Moscow|Delta Ltd|
-|15|67.43.236.20|18733|Canada|Montreal|GloboTech Communications|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|72.10.160.90|4129|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
+|6|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
+|12|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|14|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|72.10.160.173|16251|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|72.10.160.173|16251|Canada|Montreal|GloboTech Communications|
 
 
 
