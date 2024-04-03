@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|36.92.140.113|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|6|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|72.10.164.178|17223|Canada|Montreal|GloboTech Communications|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|14|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|67.43.227.227|15897|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17223|Canada|Montreal|GloboTech Communications|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|72.10.164.178|17223|Canada|Montreal|GloboTech Communications|
-|20|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|13|72.10.164.178|17223|Canada|Montreal|GloboTech Communications|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|16|72.10.160.174|10909|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
