@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|8|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|149.28.164.3|12009|Australia|Sydney|The Constant Company|
-|11|72.10.160.173|11137|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|31319|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|10799|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|3845|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|4955|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|31319|Canada|Montreal|GloboTech Communications|
-|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|18|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|19|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|20|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|67.43.227.227|3845|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|10799|Canada|Montreal|GloboTech Communications|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|123.182.59.80|8089|China|Zhangjiakou|China Telecom|
+|15|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|16|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|72.10.160.173|3283|Canada|Montreal|GloboTech Communications|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|67.43.236.20|6021|Canada|Montreal|GloboTech Communications|
+|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
