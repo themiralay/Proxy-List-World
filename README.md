@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|103.159.194.191|3128|Indonesia|Demak|PT Giga Digital Nusantara|
-|16|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|67.43.236.20|19643|Canada|Montreal|GloboTech Communications|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|72.10.160.93|11633|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|7627|Canada|Montreal|GloboTech Communications|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|67.43.236.20|19643|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|14147|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|19643|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|4051|Canada|Montreal|GloboTech Communications|
 
 
 
