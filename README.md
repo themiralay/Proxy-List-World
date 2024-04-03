@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|10|202.137.8.151|8080|Indonesia|Depok|LINKNET|
-|11|123.182.59.104|8089|China|Zhangjiakou|China Telecom|
-|12|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|13|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|14|67.43.227.227|5599|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11549|Canada|Montreal|GloboTech Communications|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|18|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|19|72.10.160.90|25491|Canada|Montreal|GloboTech Communications|
-|20|187.19.200.217|8090|Brazil|Coronel Joao Pessoa|Brisanet Servicos De Telecomunicacoes S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.230.168.198|999|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|67.43.227.227|32751|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|157.100.57.217|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|17|67.43.228.252|24143|Canada|Montreal|GloboTech Communications|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|20|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
