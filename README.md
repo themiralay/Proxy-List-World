@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|116.104.179.63|10066|Vietnam|Hanoi|Viettel Corporation|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.160.170|10075|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|11487|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|13|72.10.160.90|15765|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|15765|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|23489|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11487|Canada|Montreal|GloboTech Communications|
-|17|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|11487|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|15765|Canada|Montreal|GloboTech Communications|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|72.10.160.90|17893|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|23961|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|17893|Canada|Montreal|GloboTech Communications|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|18|103.193.144.76|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|72.10.160.170|23961|Canada|Montreal|GloboTech Communications|
+|20|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
 
 
 
