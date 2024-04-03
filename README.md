@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
-|7|103.30.30.73|8080|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|116.104.181.187|10006|Vietnam|Hanoi|Viettel Corporation|
+|7|190.85.122.27|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.250.70.214|8080|Bangladesh|Sakhipur|Next Online Ltd.|
-|11|203.190.44.203|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|202.57.25.110|8080|Indonesia|Semarang|announced of WINET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|104.36.86.113|3128|United States|Liberty Lake|Redoubt Networks|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|58.69.125.145|8081|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|15|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|118.97.30.42|8099|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
