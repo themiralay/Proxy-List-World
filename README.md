@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|45.86.228.95|3128|United Arab Emirates|Fujairah|BlueVPS OU|
-|6|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|7|101.6.55.62|10800|China|Haidian|CERNET|
-|8|72.10.160.90|12771|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|12855|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|7855|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|12771|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|19493|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|19493|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|12771|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|32031|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|12855|Canada|Montreal|GloboTech Communications|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|67.43.236.20|19493|Canada|Montreal|GloboTech Communications|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|72.10.160.90|1777|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|7267|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|67.43.228.253|3385|Canada|Montreal|GloboTech Communications|
+|18|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|19|67.43.236.20|2039|Canada|Montreal|GloboTech Communications|
 |20|72.10.160.172|10699|Canada|Montreal|GloboTech Communications|
 
 
