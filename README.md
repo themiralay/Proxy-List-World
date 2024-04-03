@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|67.43.236.20|23095|Canada|Montreal|GloboTech Communications|
-|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|10|67.43.236.20|23095|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|22125|Canada|Montreal|GloboTech Communications|
-|12|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|13|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|14|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|72.10.164.178|18081|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|201.77.108.64|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|67.43.227.227|7831|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|72.10.160.90|14687|Canada|Montreal|GloboTech Communications|
+|12|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
+|13|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|14|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|15|183.3.221.130|3128|China|Guangzhou|Chinanet|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
+|20|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
