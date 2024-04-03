@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|72.10.160.170|27983|Canada|Montreal|GloboTech Communications|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.227.227|20297|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|21729|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|20297|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|22973|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|20873|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.164.178|17695|Canada|Montreal|GloboTech Communications|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|72.10.160.170|4855|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|17695|Canada|Montreal|GloboTech Communications|
+|11|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|13|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|16|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
+|17|80.78.65.230|8080|Albania|Tirana|ABCom|
+|18|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|72.10.160.171|9999|Canada|Montreal|GloboTech Communications|
 
 
 
