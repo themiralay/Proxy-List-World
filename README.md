@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|10|67.43.227.227|4629|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|29287|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|29287|Canada|Montreal|GloboTech Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|14|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|72.10.160.90|21657|Canada|Montreal|GloboTech Communications|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|7|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|8|45.190.52.24|8080|Brazil|Ararangua|Exa Internet|
+|9|187.189.238.2|999|Mexico|San Luis Río Colorado|Total Play Telecomunicaciones SA De CV|
+|10|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|36.93.130.219|66|Indonesia|Paseban|Telekomunikasi Indonesia|
+|13|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|14|177.234.240.66|999|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
-|18|20.122.27.242|80|United States|Boydton|Microsoft Corporation|
-|19|67.43.227.227|4629|Canada|Montreal|GloboTech Communications|
-|20|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
+|18|190.97.233.22|999|Venezuela|Vigia|Viginet C.A|
+|19|72.10.160.170|18733|Canada|Montreal|GloboTech Communications|
+|20|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
