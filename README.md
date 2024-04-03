@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|4|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|107.175.0.171|9999|United States|Elk Grove Village|HostPapa|
 |6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|62.72.32.208|3128|Lithuania|Vilnius|HOSTINGER LT|
-|10|45.11.95.165|5206|Russia|Moscow|Delta Ltd|
-|11|103.154.230.109|5678|Indonesia|Lamongan|DIGITNET|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
-|14|179.43.93.198|8080|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
-|15|67.43.227.227|1403|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|31971|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|30175|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|30175|Canada|Montreal|GloboTech Communications|
-|20|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.227.227|4107|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|72.10.160.173|31971|Canada|Montreal|GloboTech Communications|
+|14|14.103.26.198|8000|China|Beijing|BITNET|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1287|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
 
 
 
