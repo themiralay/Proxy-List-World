@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|45.230.169.10|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|67.43.236.20|27301|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|6299|Canada|Montreal|GloboTech Communications|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.160.90|1605|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|8403|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|27301|Canada|Montreal|GloboTech Communications|
-|19|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.133.107.10|81|Russia|Mezmay|Art-net LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.90|19155|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|19155|Canada|Montreal|GloboTech Communications|
+|12|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
+|13|104.129.192.165|10887|United States|Santa Clara|ZSCALER, INC.|
+|14|118.117.189.198|8089|China|Muping|Chinanet|
+|15|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|18|72.10.164.178|29443|Canada|Montreal|GloboTech Communications|
+|19|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|20|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
 
 
 
