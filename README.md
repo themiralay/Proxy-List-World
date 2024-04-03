@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|13|67.43.236.20|9827|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9827|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|27109|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|30725|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.160.90|11793|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|6589|Canada|Montreal|GloboTech Communications|
+|4|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|5|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.164.178|24451|Canada|Montreal|GloboTech Communications|
+|8|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|67.43.236.20|2361|Canada|Montreal|GloboTech Communications|
+|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|72.10.160.90|24163|Canada|Montreal|GloboTech Communications|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|77.77.64.120|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|14|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|15|72.10.164.178|24451|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|72.10.164.178|24451|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
