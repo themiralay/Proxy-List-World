@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|194.124.37.13|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|4|72.10.160.90|5371|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.90|5371|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|14251|Canada|Montreal|GloboTech Communications|
-|7|162.254.38.91|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|9|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|10|103.160.205.86|8080|Indonesia|Mataram|PRIME|
-|11|67.43.228.250|13831|Canada|Montreal|GloboTech Communications|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|67.43.227.227|24105|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15049|Canada|Montreal|GloboTech Communications|
-|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|16|72.10.160.170|16397|Canada|Montreal|GloboTech Communications|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|190.94.212.76|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|6|72.10.160.90|23865|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|23865|Canada|Montreal|GloboTech Communications|
+|8|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|9|80.191.106.129|8081|Iran|Sāveh|Iran Telecommunication Company PJS|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|67.43.228.253|31733|Canada|Montreal|GloboTech Communications|
+|12|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|72.10.164.178|11919|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11919|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|24105|Canada|Montreal|GloboTech Communications|
+|17|103.125.154.161|8080|India|Sulur|Live Fibernet|
 |18|67.43.227.227|24105|Canada|Montreal|GloboTech Communications|
-|19|139.180.168.182|80|Australia|Sydney|Choopa|
-|20|67.43.227.227|24105|Canada|Montreal|GloboTech Communications|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
