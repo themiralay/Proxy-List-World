@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|185.237.206.204|3128|The Netherlands|Meppel|ITL LLC|
-|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|8|77.68.111.73|3128|United Kingdom|Corby|IONOS SE|
-|9|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|8755|Canada|Montreal|GloboTech Communications|
-|11|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|12|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|13|103.26.110.110|84|India|Tirunelveli|Niss Networks|
-|14|128.199.116.34|4444|Singapore|Singapore|DigitalOcean, LLC|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|17|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
-|18|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|19|67.43.227.229|26507|Canada|Montreal|GloboTech Communications|
-|20|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|5|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|67.43.227.229|26507|Canada|Montreal|GloboTech Communications|
+|10|113.161.210.60|8080|Vietnam|Can Tho|VietNam Post and Telecom Corporation|
+|11|24.183.146.246|8118|United States|Ludlow|Charter Communications|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|196.216.65.57|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|14|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
 
 
 
