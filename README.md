@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.227.227|32673|Canada|Montreal|GloboTech Communications|
-|17|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|18|67.43.227.228|32673|Canada|Montreal|GloboTech Communications|
-|19|45.11.95.165|6023|Russia|Moscow|Delta Ltd|
+|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|181.204.39.202|26312|Colombia|Cúcuta|EPM Telecomunicaciones S.A. E.S.P.|
+|12|94.70.195.145|8080|Greece|Thessaloniki|Ote SA (Hellenic Telecommunications Organisation)|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Stallion Network Services Limited|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.11.95.165|5211|Russia|Moscow|Delta Ltd|
 |20|67.43.227.228|32673|Canada|Montreal|GloboTech Communications|
 
 
