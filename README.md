@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|1125|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.174|28109|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|22391|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.94|18075|Canada|Montreal|GloboTech Communications|
-|15|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|16|67.43.236.20|29385|Canada|Montreal|GloboTech Communications|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|117.69.232.94|8089|China|Rongcheng|Chinanet|
-|19|72.10.160.171|6467|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29385|Canada|Montreal|GloboTech Communications|
+|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
+|9|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|10|67.43.236.20|29385|Canada|Montreal|GloboTech Communications|
+|11|118.117.189.58|8089|China|Muping|Chinanet|
+|12|72.10.164.178|21491|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
