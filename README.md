@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
+|2|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|67.43.227.226|20871|Canada|Montreal|GloboTech Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.252|28363|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|6079|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|23475|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|13119|Canada|Montreal|GloboTech Communications|
-|14|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|15|67.43.227.227|23475|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13119|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1415|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23475|Canada|Montreal|GloboTech Communications|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|10|67.43.227.227|10253|Canada|Montreal|GloboTech Communications|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|13119|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|85.118.117.165|8080|Georgia|Gori|EGRISI|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
