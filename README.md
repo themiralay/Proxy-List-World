@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |10|72.10.160.170|15389|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|72.10.164.178|22267|Canada|Montreal|GloboTech Communications|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|123.182.59.229|8089|China|Zhangjiakou|China Telecom|
-|17|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|18|67.43.236.20|15065|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|32225|Canada|Montreal|GloboTech Communications|
-|20|111.225.152.14|8089|China|Zhoutou|China Telecom|
+|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|16|72.10.160.90|2963|Canada|Montreal|GloboTech Communications|
+|17|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|67.43.227.227|24653|Canada|Montreal|GloboTech Communications|
 
 
 
