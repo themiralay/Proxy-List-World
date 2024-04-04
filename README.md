@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|181.209.89.66|999|Argentina|Lago Puelo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 
 
 
