@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
-|7|38.242.213.247|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|10|46.250.254.74|3128|United Kingdom|London|Contabo Asia Private Limited|
-|11|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|12|183.88.223.211|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|67.43.227.227|1783|Canada|Montreal|GloboTech Communications|
-|17|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
-|18|72.10.160.93|27957|Canada|Montreal|GloboTech Communications|
-|19|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|20|67.43.227.227|1783|Canada|Montreal|GloboTech Communications|
+|3|103.110.34.136|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|4|183.88.223.211|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|213.133.98.201|1369|Germany|Nuremberg|Hetzner Online GmbH|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|10|103.151.30.17|8090|Bangladesh|Tongi|Bright Star Network|
+|11|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|12|103.10.231.189|8080|Thailand|Phra Nakhon Si Ayutthaya|CATBB|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|103.181.168.193|8080|India|Madurai|Mrkr Communications Private Limited|
+|15|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.153.142.18|8080|India|Joda|Om Jay Infotech|
+|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|20|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
