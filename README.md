@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|5|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|6|103.154.230.72|5678|Indonesia|Lamongan|DIGITNET|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|202.148.16.150|8080|Indonesia|Bekasi|PT. Core Mediatech|
-|9|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|11|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|12|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
+|3|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|7|203.150.128.223|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|9|179.1.198.35|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|12|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
+|16|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|17|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|18|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|19|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|20|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
