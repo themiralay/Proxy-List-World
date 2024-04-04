@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7755** proxies at the latest update. Usable proxies are below.
+> Scraper found **7631** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|533|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5108|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.133.27.42|8081|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
-|8|103.165.58.109|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|11|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|14|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
-|16|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|177.234.223.29|999|Ecuador|Jipijapa|Ufinet Panama S.A.|
+|14|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|72.10.160.90|2573|Canada|Montreal|GloboTech Communications|
+|16|59.37.13.62|3128|China|Shenzhen|Chinanet|
+|17|72.10.164.178|13779|Canada|Montreal|GloboTech Communications|
+|18|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|19|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
+|20|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
 
 
 
