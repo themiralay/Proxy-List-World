@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
-|4|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|5|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|72.10.160.90|15335|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.251|6393|Canada|Montreal|GloboTech Communications|
-|9|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|67.43.228.250|17835|Canada|Montreal|GloboTech Communications|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|2879|Canada|Montreal|GloboTech Communications|
-|16|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|20|123.182.58.215|8089|China|Zhangjiakou|China Telecom|
+|3|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|4|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|72.10.164.178|21507|Canada|Montreal|GloboTech Communications|
+|6|67.43.228.251|6393|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|11|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|17835|Canada|Montreal|GloboTech Communications|
+|13|41.33.203.115|1974|Egypt|Cairo|TE Data|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
 
 
 
