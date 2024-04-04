@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|8|182.252.81.185|8080|Bangladesh|Kumarkhali|Agni Systems Limited|
-|9|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|7|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|67.43.227.228|7497|Canada|Montreal|GloboTech Communications|
 |10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|47.242.58.120|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|103.26.110.202|84|India|Tirunelveli|Niss Networks|
-|13|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
-|14|67.43.227.228|7497|Canada|Montreal|GloboTech Communications|
-|15|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
-|16|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|19|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|187.190.49.166|999|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|11|103.75.96.70|8080|Indonesia|Tangerang|MORATELINDO|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|72.10.160.93|2083|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|4029|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2829|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|14065|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|29957|Canada|Montreal|GloboTech Communications|
+|18|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|19|67.43.228.251|2289|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22663|Canada|Montreal|GloboTech Communications|
 
 
 
