@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|72.10.164.178|31059|Canada|Montreal|GloboTech Communications|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|72.10.164.178|31059|Canada|Montreal|GloboTech Communications|
-|15|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
-|16|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.164.178|13157|Canada|Montreal|GloboTech Communications|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|72.10.164.178|13157|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|67.43.236.20|18753|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|19|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|20|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
