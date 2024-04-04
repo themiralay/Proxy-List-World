@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|72.10.160.170|3609|Canada|Montreal|GloboTech Communications|
-|6|103.5.18.86|84|India|Visakhapatnam|CityOnline|
-|7|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|3609|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|1301|Canada|Montreal|GloboTech Communications|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|67.43.227.228|1301|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|27349|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
-|18|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|72.10.160.170|3609|Canada|Montreal|GloboTech Communications|
+|5|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|6|67.43.228.254|6207|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.228|1301|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.18|27349|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|19885|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.228.253|19327|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|19885|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|19755|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2979|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30403|Canada|Montreal|GloboTech Communications|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
