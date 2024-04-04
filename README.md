@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.253.177.137|8080|Indonesia|Jakarta Pusat|BIZNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|178.251.111.22|8080|Ukraine|Dubov”yazivka|Dataline LLC|
-|8|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|9|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|72.10.164.178|13239|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.160.90|30533|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|30533|Canada|Montreal|GloboTech Communications|
-|19|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|20|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|67.43.227.229|21933|Canada|Montreal|GloboTech Communications|
+|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|15|103.162.154.14|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|72.10.164.178|16231|Canada|Montreal|GloboTech Communications|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
