@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.154.230.72|5678|Indonesia|Lamongan|DIGITNET|
-|8|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|13|66.27.58.70|8080|United States|Anaheim|Spectrum|
-|14|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|15|67.43.227.227|15327|Canada|Montreal|GloboTech Communications|
-|16|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|17|67.43.236.20|21565|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21565|Canada|Montreal|GloboTech Communications|
-|19|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
-|20|67.43.228.250|1331|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|5|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|72.10.164.178|31517|Canada|Montreal|GloboTech Communications|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.227.227|2185|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|67.43.236.20|30101|Canada|Montreal|GloboTech Communications|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|17|111.225.153.24|8089|China|Zhoutou|China Telecom|
+|18|67.43.227.227|2185|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
