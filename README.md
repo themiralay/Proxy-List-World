@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|121.160.185.164|3128|South Korea|Seoul|Korea Telecom|
+|2|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
+|3|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
 |4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|72.10.160.170|3777|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.18|15295|Canada|Montreal|GloboTech Communications|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|12|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|3777|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|6985|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|17|111.225.152.249|8089|China|Zhoutou|China Telecom|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|8|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|9|121.160.185.164|3128|South Korea|Seoul|Korea Telecom|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|203.150.128.223|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|17|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
+|18|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
 
 
 
