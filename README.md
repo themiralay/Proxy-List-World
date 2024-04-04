@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |7|67.43.236.20|25889|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|67.43.227.230|19531|Canada|Montreal|GloboTech Communications|
 |10|67.43.228.253|31643|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
-|12|45.71.113.121|999|Ecuador|Samborondón|Ufinet Panama S.A.|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5023|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.228.253|31643|Canada|Montreal|GloboTech Communications|
+|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|67.43.236.20|25889|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|31643|Canada|Montreal|GloboTech Communications|
+|19|36.6.144.250|8089|China|Guangzhou|Chinanet|
+|20|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
 
 
 
