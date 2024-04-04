@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6980** proxies at the latest update. Usable proxies are below.
+> Scraper found **6958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|81|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|237|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|215|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5073|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|11|72.10.160.170|32801|Canada|Montreal|GloboTech Communications|
-|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|13|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|15|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|18|67.43.236.20|8889|Canada|Montreal|GloboTech Communications|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|72.10.160.90|29895|Canada|Montreal|GloboTech Communications|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|10|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|119.39.68.98|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|15|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
+|16|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|17|49.84.216.40|888|China|Nanjing|China Telecom|
+|18|67.43.228.253|31133|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|8889|Canada|Montreal|GloboTech Communications|
+|20|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
