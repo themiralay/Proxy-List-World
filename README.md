@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
+|4|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|121.164.200.18|8118|South Korea|Dongducheon-si|Korea Telecom|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|43.243.140.58|10001|Indonesia|Bogor|CEPATNET|
-|9|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.160.93|3389|Canada|Montreal|GloboTech Communications|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|111.225.153.237|8089|China|Zhoutou|China Telecom|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|72.10.160.171|1285|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|11|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|12|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|13|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|15|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
+|16|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|19|72.10.160.93|3389|Canada|Montreal|GloboTech Communications|
+|20|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
 
 
 
