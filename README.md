@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|45.177.179.25|999|Mexico|La Sauceda|Wantelco SAS de CV|
-|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|23.132.48.1|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|18|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.236.19|13413|Canada|Montreal|GloboTech Communications|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.83.179.90|3125|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|7|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|8|103.65.214.144|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|12|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.19|13413|Canada|Montreal|GloboTech Communications|
+|15|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|17|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|18|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|19|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
