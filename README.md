@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|177.234.223.29|999|Ecuador|Jipijapa|Ufinet Panama S.A.|
-|14|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|72.10.160.90|2573|Canada|Montreal|GloboTech Communications|
-|16|59.37.13.62|3128|China|Shenzhen|Chinanet|
-|17|72.10.164.178|13779|Canada|Montreal|GloboTech Communications|
-|18|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
-|20|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.167.170.6|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
+|7|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|8|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|9|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|10|14.250.228.252|4006|Vietnam|Da Nang|VNPT|
+|11|103.180.194.146|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|12|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|15|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|16|103.141.109.143|8181|Indonesia|Setro|Data Buana Nusantara|
+|17|103.81.220.67|8080|Indonesia|Bandung|STARNET|
+|18|201.77.111.231|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|19|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|20|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
