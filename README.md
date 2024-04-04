@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.228.253|21917|Canada|Montreal|GloboTech Communications|
-|9|123.182.58.124|8089|China|Zhangjiakou|China Telecom|
-|10|67.43.227.227|31555|Canada|Montreal|GloboTech Communications|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|13|67.43.227.226|28793|Canada|Montreal|GloboTech Communications|
+|2|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|103.161.30.1|83|India|Eluru|Venkata Sai Internet Pvt Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |14|67.43.228.250|1715|Canada|Montreal|GloboTech Communications|
-|15|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
-|16|72.10.160.91|31727|Canada|Montreal|GloboTech Communications|
-|17|123.182.58.109|8089|China|Zhangjiakou|China Telecom|
-|18|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
-|19|67.43.227.227|31555|Canada|Montreal|GloboTech Communications|
-|20|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
+|15|41.193.81.7|80|South Africa|Johannesburg|Vox Telecom Ltd|
+|16|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|18|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
+|19|103.137.45.84|40809|India|Pūrna|Wsnl Broadband Private Limited|
+|20|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
