@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|7|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|72.10.160.90|23465|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.164.178|8247|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8247|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|20|72.10.160.92|28447|Canada|Montreal|GloboTech Communications|
+|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.164.178|8247|Canada|Montreal|GloboTech Communications|
+|13|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
 
 
 
