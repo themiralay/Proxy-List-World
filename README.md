@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|200.70.56.203|3128|Argentina|Beccar|Telefonica de Argentina|
-|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|117.70.49.76|8089|China|Rongcheng|Chinanet|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.227.227|10389|Canada|Montreal|GloboTech Communications|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|67.43.236.20|25889|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|124.71.131.192|8080|China|Shanghai|Huawei Cloud Service data center|
 |14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
-|19|114.106.136.84|8089|China|Rongcheng|Chinanet|
-|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
+|16|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
+|17|67.43.236.20|25889|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|17493|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
 
 
 
