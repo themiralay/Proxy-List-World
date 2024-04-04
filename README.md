@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.128.201.235|3128|Paraguay|Asunción|Telecel S.A.|
-|5|67.43.236.19|9811|Canada|Montreal|GloboTech Communications|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|45.230.169.9|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|8|67.43.227.227|25601|Canada|Montreal|GloboTech Communications|
-|9|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|12|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|13|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|14|67.43.228.253|5623|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|181.209.78.76|999|Argentina|Daireaux|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|67.43.227.227|22725|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|22725|Canada|Montreal|GloboTech Communications|
+|12|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|13|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|14|103.194.172.130|8080|Indonesia|Bandung|MYNET|
+|15|72.10.160.90|13637|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|113.64.23.221|32650|China|Puning|Chinanet|
+|18|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
+|19|202.162.43.241|8080|Indonesia|Magelang|PT Global Prima Utama|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
