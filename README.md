@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|5|72.10.160.91|13965|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.90|5235|Canada|Montreal|GloboTech Communications|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|192.144.30.200|8080|Russia|Moscow|SE Khan Aleksandr Ilich|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|12|167.250.181.133|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|13|200.108.190.99|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|14|103.89.233.226|84|India|Mangalore|Deenet Services Pvt. Ltd|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
-|17|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|18|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|19|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
-|20|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|72.10.160.91|13965|Canada|Montreal|GloboTech Communications|
+|5|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
+|7|103.154.146.58|8080|Indonesia|Sidoarjo|MORATELINDONAP|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|103.85.114.240|8080|Bangladesh|Dhaka|Apple Communication Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|205.196.184.69|50704|United States|Houston|Phonoscope|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|67.43.227.228|10005|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
 
 
 
