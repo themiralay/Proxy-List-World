@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
-|14|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
-|19|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|20|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|2|103.165.155.219|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|13|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|103.65.214.144|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
+|16|67.43.227.227|9157|Canada|Montreal|GloboTech Communications|
+|17|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
