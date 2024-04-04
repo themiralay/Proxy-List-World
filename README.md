@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|8|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|14|67.43.236.20|23315|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|22219|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|1311|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|25855|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26141|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|5523|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|72.10.160.90|3205|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|24933|Canada|Montreal|GloboTech Communications|
+|17|103.112.163.92|8080|Indonesia|Jakarta|24AS|
+|18|71.42.125.219|4444|United States|Corpus Christi|Spectrum|
+|19|67.43.228.250|22219|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
