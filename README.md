@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|4|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|3|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|4|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|67.43.236.20|2665|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|13937|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|2665|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
-|14|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|67.43.228.251|6765|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|25633|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|21507|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|13937|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|13|205.196.184.69|50704|United States|Houston|Phonoscope|
+|14|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
 
 
 
