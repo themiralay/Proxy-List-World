@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.90.22.106|999|Colombia|Cúcuta|InterNexa Global Network|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|45.174.79.8|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|8|190.114.245.122|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|10|72.10.160.90|29665|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|16437|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|190.102.139.149|999|Peru|Lima|Optical Technologies S.A.C.|
-|15|72.10.160.90|29665|Canada|Montreal|GloboTech Communications|
-|16|62.109.15.27|3120|Russia|Novoivanovskoye|AOIOT|
-|17|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|18|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|19|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|20|67.43.227.228|31865|Canada|Montreal|GloboTech Communications|
+|4|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
+|6|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
+|10|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|67.43.227.227|2699|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|72.10.160.90|11523|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|11523|Canada|Montreal|GloboTech Communications|
+|16|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
+|17|67.43.227.230|16571|Canada|Montreal|GloboTech Communications|
+|18|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
