@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|4|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|209.14.119.209|999|Colombia|Neiva|AGIS|
-|10|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|11|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
-|12|72.10.160.170|26815|Canada|Montreal|GloboTech Communications|
-|13|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|15|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
-|16|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|17|72.10.164.178|5729|Canada|Montreal|GloboTech Communications|
-|18|101.255.165.73|8080|Indonesia|Bekasi|PT Remala Abadi|
-|19|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|5|72.10.164.178|5729|Canada|Montreal|GloboTech Communications|
+|6|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|7|183.88.223.211|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|8|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
+|9|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|10|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|12|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|103.211.107.77|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
+|15|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
+|16|147.75.122.245|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|17|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|18|103.94.57.122|80|India|Pune|Gazon Technologies Pvt.ltd.|
+|19|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
