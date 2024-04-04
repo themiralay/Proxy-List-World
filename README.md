@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.153.69.242|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|4|45.230.171.41|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|5|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|8|72.10.160.170|20807|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.236.20|6889|Canada|Montreal|GloboTech Communications|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|67.43.236.21|8873|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|11965|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|17973|Canada|Montreal|GloboTech Communications|
-|18|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
-|19|67.43.227.227|11965|Canada|Montreal|GloboTech Communications|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|3|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|4|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|5|112.78.47.188|80|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|114.103.80.117|8089|China|Shenzhen|Chinanet|
+|20|67.43.227.227|5469|Canada|Montreal|GloboTech Communications|
 
 
 
