@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
-|4|69.28.85.94|3128|United States|Dallas|Atlantic.net|
-|5|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|9|103.105.78.222|3125|Indonesia|Malang|GARUDA|
-|10|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
-|11|72.10.160.90|6199|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.174|13683|Canada|Montreal|GloboTech Communications|
-|14|64.76.211.58|999|Colombia|Medellín|Level 3|
-|15|67.43.236.20|17813|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|31355|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|30577|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|28893|Canada|Montreal|GloboTech Communications|
-|19|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|185.103.26.78|3128|Russia|Moscow|MTS PJSC|
+|2|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|46.250.254.74|3128|United Kingdom|London|Contabo Asia Private Limited|
+|8|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|9|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|165.232.142.255|3129|United States|Santa Clara|DigitalOcean, LLC|
+|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|14|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|15|69.28.85.94|3128|United States|Dallas|Atlantic.net|
+|16|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|18|103.105.78.222|3125|Indonesia|Malang|GARUDA|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
