@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|4|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
-|11|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|12|72.10.160.90|8443|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|18|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|67.43.236.20|1567|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|1567|Canada|Montreal|GloboTech Communications|
+|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|13|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.187.99.9|8080|Bangladesh|Dhaka|Windstream Communication Limited|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|45.11.95.165|5208|Russia|Moscow|Delta Ltd|
 |20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
