@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|72.10.160.90|11685|Canada|Montreal|GloboTech Communications|
-|10|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|13|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|14|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.171|30507|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23389|Canada|Montreal|GloboTech Communications|
-|18|183.165.246.15|8089|China|Shenzhen|Chinanet|
-|19|67.43.228.253|31775|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14785|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.65.214.144|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
+|5|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|67.43.228.251|2081|Canada|Montreal|GloboTech Communications|
+|9|60.174.0.136|8089|China|Guangzhou|Chinanet|
+|10|72.10.164.178|23389|Canada|Montreal|GloboTech Communications|
+|11|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|67.43.228.253|1549|Canada|Montreal|GloboTech Communications|
+|13|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
+|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|15|67.43.236.19|28975|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|18|67.43.236.20|4013|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|67.43.228.253|1549|Canada|Montreal|GloboTech Communications|
 
 
 
