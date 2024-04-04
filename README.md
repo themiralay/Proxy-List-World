@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
-|5|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|72.10.160.170|8387|Canada|Montreal|GloboTech Communications|
-|9|114.9.25.74|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|67.43.228.253|14631|Canada|Montreal|GloboTech Communications|
-|11|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
-|12|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|13|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
-|16|67.43.227.226|2743|Canada|Montreal|GloboTech Communications|
-|17|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|18|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|19|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|20|67.43.228.251|15081|Canada|Montreal|GloboTech Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
+|13|67.43.228.253|14631|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|25363|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|25363|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
+|17|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|20|203.150.113.6|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
 
 
 
