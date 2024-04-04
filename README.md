@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|4|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|6|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
-|11|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|190.94.212.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|101.255.166.242|8080|Indonesia|Bekasi|PT Remala Abadi|
-|14|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
-|15|187.190.49.166|999|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
-|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|17|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|18|200.69.84.93|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|20|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
+|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|10|139.255.74.124|8080|Indonesia|Gelora|PT. LINKNET|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
+|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|16|188.190.40.44|8080|Ukraine|Kyiv Oblast|Lanet Network Ltd|
+|17|79.137.36.165|3128|France|Strasbourg|OVH SAS|
+|18|103.250.130.110|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
