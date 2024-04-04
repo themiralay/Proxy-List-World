@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|207.248.10.154|8080|Brazil|Andradina|Frvc Internet Eirelli|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|103.50.4.133|82|India|Hodal|Elxire IT Solution|
-|8|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|9|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|10|103.161.30.65|83|India|Eluru|Venkata Sai Internet Pvt Ltd|
-|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|13|190.110.98.204|999|Chile|San Vicente de Tagua Tagua|Silica Networks Argentina S.A.|
-|14|190.110.98.203|999|Chile|San Vicente de Tagua Tagua|Silica Networks Argentina S.A.|
-|15|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|16|72.10.164.178|20423|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|4165|Canada|Montreal|GloboTech Communications|
-|18|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.227.227|2955|Canada|Montreal|GloboTech Communications|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|5|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|67.43.228.253|20415|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.160.172|24105|Canada|Montreal|GloboTech Communications|
+|15|103.147.135.254|8090|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|16|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|20|49.84.216.40|888|China|Nanjing|China Telecom|
 
 
 
