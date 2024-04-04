@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|188.132.221.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|7|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|195.169.35.214|3128|The Netherlands|Vlaardingen|Surf B.V.|
-|12|67.43.228.253|29667|Canada|Montreal|GloboTech Communications|
-|13|49.76.17.185|8089|China|Nanjing|Chinanet|
-|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|19|67.43.227.228|22665|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31711|Canada|Montreal|GloboTech Communications|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|5|103.14.97.203|22147|India|Mumbai|Trunkoz Technologies Pvt. Ltd|
+|6|94.72.117.73|3128|United States|St Louis|Nubes, LLC|
+|7|62.109.15.27|3120|Russia|Novoivanovskoye|AOIOT|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|10|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|13|94.72.117.73|3128|United States|St Louis|Nubes, LLC|
+|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|16|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|19|64.76.43.115|999|Mexico|Mexico City|Level 3|
+|20|94.72.117.73|3128|United States|St Louis|Nubes, LLC|
 
 
 
