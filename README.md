@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|209.209.10.40|59291|Canada|Montreal|Rica Web Services|
-|9|111.225.152.71|8089|China|Zhoutou|China Telecom|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|67.43.236.21|7267|Canada|Montreal|GloboTech Communications|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|13|67.43.236.18|13391|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|7815|Canada|Montreal|GloboTech Communications|
-|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|16|36.6.145.42|8089|China|Guangzhou|Chinanet|
-|17|114.231.82.195|8089|China|Nanjing|Chinanet|
-|18|67.43.236.20|9827|Canada|Montreal|GloboTech Communications|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.227.228|24899|Canada|Montreal|GloboTech Communications|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|41.209.10.148|8080|Kenya|Nairobi|MTN Business Kenya|
+|8|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|11|72.10.160.172|7815|Canada|Montreal|GloboTech Communications|
+|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|13|67.43.236.21|7267|Canada|Montreal|GloboTech Communications|
+|14|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|60.174.0.70|8089|China|Guangzhou|Chinanet|
+|17|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
+|18|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|19|67.43.236.20|4625|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1129|Canada|Montreal|GloboTech Communications|
 
 
 
