@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|4|67.43.228.253|6497|Canada|Montreal|GloboTech Communications|
-|5|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
-|6|72.10.164.178|4121|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|72.10.164.178|4895|Canada|Montreal|GloboTech Communications|
+|4|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
+|5|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
-|12|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
-|13|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|72.10.164.178|4121|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
-|18|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.250|2079|Canada|Montreal|GloboTech Communications|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|45.191.75.186|999|Colombia|Guachené|Global Raices|
+|12|67.43.228.253|21551|Canada|Montreal|GloboTech Communications|
+|13|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|14|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|15|103.164.235.53|21251|Indonesia|Tasikmalaya|PT Bantani Media Utama|
+|16|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|67.43.228.250|5027|Canada|Montreal|GloboTech Communications|
+|20|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
 
 
 
