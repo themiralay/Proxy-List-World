@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|5|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|6|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
-|7|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|32223|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|31311|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|11171|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32223|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26141|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|11171|Canada|Montreal|GloboTech Communications|
-|18|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|190.61.41.165|999|Colombia|Turbo|Ufinet Panama S.A.|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|8|72.10.164.178|29363|Canada|Montreal|GloboTech Communications|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
+|11|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
+|15|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|16|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
