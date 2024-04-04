@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|4|181.39.24.147|999|Ecuador|Quito|Telconet S.A|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|190.94.212.125|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|67.43.227.228|1239|Canada|Montreal|GloboTech Communications|
+|7|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|11|180.211.161.110|8080|Bangladesh|Tāngāil|Bangladesh Telegraph & Telephone Board|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|14|67.43.227.227|28089|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|2849|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|32919|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2849|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10805|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|114.106.172.104|8089|China|Rongcheng|Chinanet|
+|13|72.10.164.178|2391|Canada|Montreal|GloboTech Communications|
+|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|17|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
