@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|123.200.7.110|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|14|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|35.243.227.100|80|United States|North Charleston|Google LLC|
+|16|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|72.10.164.178|12969|Canada|Montreal|GloboTech Communications|
+|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
 
 
 
