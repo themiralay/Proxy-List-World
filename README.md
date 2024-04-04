@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.225.43.175|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|72.10.164.178|21507|Canada|Montreal|GloboTech Communications|
-|5|194.61.1.132|3128|Russia|Moscow|Smartsystems LLC|
-|6|67.43.228.253|11111|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.20|13061|Canada|Montreal|GloboTech Communications|
-|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|122.2.28.114|8080|Philippines|Paracale|Philippine Long Distance Telephone Co.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |12|67.43.236.20|13061|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|13061|Canada|Montreal|GloboTech Communications|
-|14|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|103.250.130.104|1111|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|16|36.66.171.215|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|67.43.236.20|13061|Canada|Montreal|GloboTech Communications|
+|19|27.147.148.173|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
