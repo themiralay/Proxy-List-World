@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|67.43.236.20|10347|Canada|Montreal|GloboTech Communications|
-|3|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|4|67.43.228.253|6471|Canada|Montreal|GloboTech Communications|
-|5|103.131.18.20|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|1295|Canada|Montreal|GloboTech Communications|
-|9|111.225.152.42|8089|China|Zhoutou|China Telecom|
-|10|67.43.236.20|10347|Canada|Montreal|GloboTech Communications|
-|11|60.174.0.136|8089|China|Guangzhou|Chinanet|
-|12|67.43.227.227|16377|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|67.43.227.227|16377|Canada|Montreal|GloboTech Communications|
-|15|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|16|67.43.228.253|6471|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|223.247.47.112|8089|China|Rongcheng|Chinanet|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|67.43.236.20|10347|Canada|Montreal|GloboTech Communications|
+|1|210.95.145.226|3128|South Korea|Seongnam-si|Korea Telecom|
+|2|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|3|67.43.236.20|10347|Canada|Montreal|GloboTech Communications|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|60.174.0.136|8089|China|Guangzhou|Chinanet|
+|7|111.225.152.236|8089|China|Zhoutou|China Telecom|
+|8|45.121.43.249|8080|Indonesia|Makassar|FAJAR|
+|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
+|12|67.43.228.253|12771|Canada|Montreal|GloboTech Communications|
+|13|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
+|14|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|17|223.247.47.112|8089|China|Rongcheng|Chinanet|
+|18|67.43.227.227|16377|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
