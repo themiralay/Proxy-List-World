@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|8|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|9|38.252.209.96|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|10|115.127.37.75|8674|Bangladesh|Dhaka|BRACNet Limited|
-|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|14|67.43.227.227|23485|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
+|9|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|10|199.223.255.109|3128|United States|Latham|Turnkey Internet Inc.|
+|11|199.223.255.109|3128|United States|Latham|Turnkey Internet Inc.|
+|12|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|14|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 |15|167.235.185.47|6969|Germany|Bühl|Hetzner Online GmbH|
-|16|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|17|67.43.236.20|28947|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|3935|Canada|Montreal|GloboTech Communications|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|17|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|18|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
+|19|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
+|20|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
