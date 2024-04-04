@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|67.43.227.227|11605|Canada|Montreal|GloboTech Communications|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|43.252.238.86|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|11|72.10.160.90|25949|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|11|185.165.169.7|8118|Romania|Bucharest|FlokiNET ehf|
+|12|72.10.164.178|8251|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |15|60.174.0.171|8089|China|Guangzhou|Chinanet|
-|16|67.43.228.250|23165|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
-|18|123.182.59.192|8089|China|Zhangjiakou|China Telecom|
-|19|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|103.250.130.104|1111|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|20|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
 
 
 
