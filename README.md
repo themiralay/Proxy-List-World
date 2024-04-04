@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|5|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|7|45.81.131.240|3129|United States|Los Angeles|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.228.252|32799|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|15061|Canada|Montreal|GloboTech Communications|
+|11|80.191.106.129|8081|Iran|Sāveh|Iran Telecommunication Company PJS|
 |12|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|172.233.146.207|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|14|67.43.236.20|2711|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|72.10.164.178|29755|Canada|Montreal|GloboTech Communications|
-|17|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|18|119.39.68.98|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|103.250.130.110|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
-|20|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.164.178|27481|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|27481|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|12939|Canada|Montreal|GloboTech Communications|
+|17|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|18|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
 
 
 
