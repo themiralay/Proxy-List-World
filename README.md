@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.160.90|24089|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|11|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|67.43.236.20|12125|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|15|111.225.152.4|8089|China|Zhoutou|China Telecom|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.236.20|12125|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|21749|Canada|Montreal|GloboTech Communications|
-|19|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|72.10.160.90|24089|Canada|Montreal|GloboTech Communications|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|111.225.152.4|8089|China|Zhoutou|China Telecom|
+|13|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|14|72.10.164.178|9319|Canada|Montreal|GloboTech Communications|
+|15|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|111.225.152.14|8089|China|Zhoutou|China Telecom|
+|17|67.43.227.228|21749|Canada|Montreal|GloboTech Communications|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 
 
 
