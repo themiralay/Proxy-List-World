@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.49.90.70|1337|Philippines|Las Pinas|Converge ICT Solution Inc|
+|5|114.9.25.74|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|6|35.203.120.169|80|Canada|Montreal|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|9|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
-|14|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
-|15|103.154.91.182|8080|Indonesia|Bogor|MORATELINDONAP|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|23417|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|10|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|11|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|12|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|13|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
+|14|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|72.10.164.178|30137|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2005|Canada|Montreal|GloboTech Communications|
+|20|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
 
 
 
