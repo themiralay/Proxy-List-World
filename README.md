@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|4|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|8|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|9|223.247.47.96|8089|China|Rongcheng|Chinanet|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|16379|Canada|Montreal|GloboTech Communications|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|16|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
-|17|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|18|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|19|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|20|72.10.164.178|16379|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|7|72.10.164.178|7883|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|2393|Canada|Montreal|GloboTech Communications|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|114.106.171.72|8089|China|Rongcheng|Chinanet|
+|12|116.99.235.172|20089|Vietnam|Đắk Song|Viettel Corporation|
+|13|223.247.47.96|8089|China|Rongcheng|Chinanet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|123.182.59.62|8089|China|Zhangjiakou|China Telecom|
+|17|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|18|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|20|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
