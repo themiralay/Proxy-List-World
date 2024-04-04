@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|3|67.43.236.20|8821|Canada|Montreal|GloboTech Communications|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
+|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|67.43.236.20|8821|Canada|Montreal|GloboTech Communications|
 |6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
 |9|67.43.236.20|8821|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|2237|Canada|Montreal|GloboTech Communications|
-|11|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|12|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
-|15|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|16|67.43.227.228|2455|Canada|Montreal|GloboTech Communications|
-|17|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|18|72.10.160.173|4171|Canada|Montreal|GloboTech Communications|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|12|72.10.164.178|4505|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|67.43.227.228|17041|Canada|Montreal|GloboTech Communications|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|18|116.90.179.198|8080|Indonesia|Medan|Panca Duta Utama|
+|19|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|20|83.126.54.155|8080|United Kingdom|London|euNetworks GmbH|
 
 
 
