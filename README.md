@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|5|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|6|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|67.43.236.20|6933|Canada|Montreal|GloboTech Communications|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|31987|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|6933|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|6933|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|67.43.236.19|25215|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.227.227|16013|Canada|Montreal|GloboTech Communications|
-|20|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|82.218.176.25|32650|Austria|Korneuburg|kabelplus GmbH|
+|7|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|67.43.236.18|31987|Canada|Montreal|GloboTech Communications|
+|16|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|67.43.236.20|1699|Canada|Montreal|GloboTech Communications|
+|18|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|19|67.43.236.20|1699|Canada|Montreal|GloboTech Communications|
+|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 
 
 
