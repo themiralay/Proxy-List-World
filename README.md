@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|8|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|72.10.160.173|22105|Canada|Montreal|GloboTech Communications|
-|13|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|20|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|67.43.227.227|29545|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|29545|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|29545|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|22105|Canada|Montreal|GloboTech Communications|
+|18|103.234.159.5|8080|India|Bengaluru|MWPL|
+|19|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
