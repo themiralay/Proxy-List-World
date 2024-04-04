@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|10|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|51.81.42.255|3129|United States|Finchville|OVH US LLC|
-|12|37.26.86.206|47464|Albania|Elbasan|ATU|
-|13|45.58.52.5|80|United States|Dallas|HostUS|
-|14|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|15|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|16|181.176.160.30|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|17|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|72.10.164.178|20757|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|5385|Canada|Montreal|GloboTech Communications|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|45.143.108.114|8080|Georgia|Tbilisi|Airmax LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.250.130.110|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|17|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
