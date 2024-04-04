@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.43.236.20|20395|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.173|2123|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|20395|Canada|Montreal|GloboTech Communications|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|72.10.160.174|23977|Canada|Montreal|GloboTech Communications|
-|12|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|13|180.250.173.66|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|14|67.43.236.18|15263|Canada|Montreal|GloboTech Communications|
-|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.164.178|1283|Canada|Montreal|GloboTech Communications|
-|17|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|18|67.43.227.227|4509|Canada|Montreal|GloboTech Communications|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.236.20|20041|Canada|Montreal|GloboTech Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|72.10.160.173|15265|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|72.10.160.170|12515|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|17|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|18|72.10.164.178|1283|Canada|Montreal|GloboTech Communications|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.170|19317|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1283|Canada|Montreal|GloboTech Communications|
 
 
 
