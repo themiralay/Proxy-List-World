@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
+|2|103.165.157.42|8080|Indonesia|Malang|MEGADATA-ISP|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|180.180.123.40|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|72.10.160.173|28617|Canada|Montreal|GloboTech Communications|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|67.43.228.253|15981|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15173|Canada|Montreal|GloboTech Communications|
-|13|116.90.179.198|8080|Indonesia|Medan|Panca Duta Utama|
-|14|67.43.236.20|4231|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.236.20|4231|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|15981|Canada|Montreal|GloboTech Communications|
-|18|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|19|67.43.227.227|31347|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4231|Canada|Montreal|GloboTech Communications|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|72.10.160.173|12239|Canada|Montreal|GloboTech Communications|
+|11|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|12|67.43.228.253|26165|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
+|15|67.43.236.20|8185|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15173|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8185|Canada|Montreal|GloboTech Communications|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|67.43.228.253|26165|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|15173|Canada|Montreal|GloboTech Communications|
 
 
 
