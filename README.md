@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|103.87.169.161|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|72.10.164.178|8091|Canada|Montreal|GloboTech Communications|
-|10|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|11|72.10.160.90|29405|Canada|Montreal|GloboTech Communications|
-|12|102.68.136.1|83|Zambia|Ndola|AirLink Broadband Limited|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|72.10.164.178|8091|Canada|Montreal|GloboTech Communications|
-|15|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
-|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|17|72.10.164.178|8091|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|20|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|4|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
+|5|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|6|177.242.201.5|999|Mexico|San Miguel de Allende|Mega Cable, S.A. de C.V.|
+|7|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|9|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|10|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|11|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.108.190.46|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|17|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|18|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|19|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
