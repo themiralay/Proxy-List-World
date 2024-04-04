@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|45.173.231.15|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|4|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|5|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|205.164.84.250|8591|Brazil|Buritis|AGIS|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
-|12|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|67.43.236.20|28947|Canada|Montreal|GloboTech Communications|
-|15|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.64.104.210|53128|South Korea|Seoul|Google LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|199.223.255.109|3128|United States|Latham|Turnkey Internet Inc.|
+|7|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
+|8|167.235.185.47|6969|Germany|Bühl|Hetzner Online GmbH|
+|9|103.87.169.145|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|15|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|16|38.252.209.96|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|17|45.173.231.15|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
