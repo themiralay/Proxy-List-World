@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|36.225.45.109|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|8|36.225.45.109|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
-|10|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|11|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|12|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|67.43.236.22|8151|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.106.170.173|8089|China|Rongcheng|Chinanet|
-|17|72.10.164.178|18573|Canada|Montreal|GloboTech Communications|
-|18|111.225.152.31|8089|China|Zhoutou|China Telecom|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.227.227|16519|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|72.10.164.178|22809|Canada|Montreal|GloboTech Communications|
+|7|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.228.250|22665|Canada|Montreal|GloboTech Communications|
+|12|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|13|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|14|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|67.43.236.22|8151|Canada|Montreal|GloboTech Communications|
+|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|17|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|18|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
+|19|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
