@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|3|67.43.227.228|25651|Canada|Montreal|GloboTech Communications|
-|4|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|5|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|101.6.65.112|10080|China|Haidian|CERNET|
-|8|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|67.43.227.227|6907|Canada|Montreal|GloboTech Communications|
-|11|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|12|72.10.160.90|2657|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|6907|Canada|Montreal|GloboTech Communications|
-|15|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
-|18|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|19|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|6|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|7|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|190.186.28.229|8080|Bolivia|Santa Cruz|Cotas Ltda.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.227.228|17655|Canada|Montreal|GloboTech Communications|
+|12|101.6.65.112|10080|China|Haidian|CERNET|
+|13|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
+|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|15|104.129.192.165|80|United States|Santa Clara|ZSCALER, INC.|
+|16|67.43.227.228|17655|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
+|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
