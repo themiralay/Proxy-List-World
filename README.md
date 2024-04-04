@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|2|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|3|103.156.16.182|1111|Indonesia|Babakangarut|RSTNET|
-|4|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|1|161.35.232.28|3129|United States|Santa Clara|DigitalOcean, LLC|
+|2|190.90.22.106|999|Colombia|Cúcuta|InterNexa Global Network|
+|3|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|161.35.232.28|3129|United States|Santa Clara|DigitalOcean, LLC|
+|6|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
-|10|103.50.4.133|82|India|Hodal|Elxire IT Solution|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|16|103.153.66.1|8080|Bangladesh|Dhaka|Windstream Communication Limited|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|9|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|45.71.184.239|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|103.133.27.42|8081|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|180.183.156.113|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|18|103.154.230.103|5678|Indonesia|Lamongan|DIGITNET|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
