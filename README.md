@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7309** proxies at the latest update. Usable proxies are below.
+> Scraper found **7216** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|823|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|730|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5108|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|5|180.211.179.126|8080|Bangladesh|Habiganj|Bangladesh Telegraph & Telephone Board|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|205.196.184.69|50704|United States|Houston|Phonoscope|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
+|7|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|8|67.43.236.18|10375|Canada|Montreal|GloboTech Communications|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|67.43.228.250|31701|Canada|Montreal|GloboTech Communications|
-|12|62.109.13.227|3128|Russia|Novoivanovskoye|AOIOT|
-|13|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
-|14|207.230.8.69|999|Colombia|Popayán|Cogent Communications|
-|15|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|31701|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|26311|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
-|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|15|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|72.10.160.93|14659|Canada|Montreal|GloboTech Communications|
 
 
 
