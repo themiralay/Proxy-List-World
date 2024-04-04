@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|65.109.239.59|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|103.115.44.109|80|Hong Kong|Hong Kong|rainbow network limited|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|72.10.160.90|32327|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2879|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|9861|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|16|80.191.106.129|8081|Iran|Sāveh|Iran Telecommunication Company PJS|
-|17|72.10.160.90|32327|Canada|Montreal|GloboTech Communications|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
+|7|42.48.26.160|2323|China|Yueyang|China Unicom Hunan Province Network|
+|8|72.10.160.93|8525|Canada|Montreal|GloboTech Communications|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|72.10.160.90|32327|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|2879|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|15|67.43.227.227|9221|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|9221|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|29211|Canada|Montreal|GloboTech Communications|
 |18|67.43.228.250|33001|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
-|20|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
