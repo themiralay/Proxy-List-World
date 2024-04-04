@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|203.111.253.10|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|9|103.24.107.102|1515|Indonesia|Jakarta|Quantum Dist POP GC CORP|
+|10|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|14|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|15|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|16|115.245.86.37|3129|India|Chennai|Reliance Jio Infocomm Limited|
+|17|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
