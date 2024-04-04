@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|67.43.236.20|17247|Canada|Montreal|GloboTech Communications|
-|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|9|72.10.160.171|13987|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|29177|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|14397|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|67.43.228.251|16533|Canada|Montreal|GloboTech Communications|
-|15|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
-|18|183.165.227.191|8089|China|Shenzhen|Chinanet|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|14397|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
+|9|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|45.236.44.94|8080|Peru|Lima|Optical Technologies S.A.C.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.170|1385|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.227.230|17541|Canada|Montreal|GloboTech Communications|
+|15|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|114.231.41.46|8089|China|Nanjing|Chinanet|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|72.10.160.93|7599|Canada|Montreal|GloboTech Communications|
 
 
 
