@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|4|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
-|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|72.10.160.93|3795|Canada|Montreal|GloboTech Communications|
-|15|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.236.20|6363|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|11013|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
-|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|20|72.10.160.92|4121|Canada|Montreal|GloboTech Communications|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
+|13|72.10.160.90|13243|Canada|Montreal|GloboTech Communications|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|72.10.164.178|4477|Canada|Montreal|GloboTech Communications|
+|16|103.126.238.97|7777|Indonesia|Kuala Tungkal|PT Indo Tungkal Net|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
