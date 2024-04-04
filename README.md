@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
-|6|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
-|12|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
-|13|103.26.110.202|84|India|Tirunelveli|Niss Networks|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|190.109.31.23|999|Colombia|Villavicencio|Columbus Networks de Colombia Limitada|
-|16|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|18|72.10.164.178|22591|Canada|Montreal|GloboTech Communications|
-|19|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
+|3|119.92.70.8|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|147.78.169.80|800|Slovakia|Nitra|OSTV s.r.o.|
+|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|12|72.10.164.178|22591|Canada|Montreal|GloboTech Communications|
+|13|147.45.78.144|3128|United States|Los Angeles|Aeza International LTD|
+|14|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|103.148.192.74|80|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|19|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
