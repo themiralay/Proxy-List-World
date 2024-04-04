@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|222.127.220.86|8082|Philippines|Quezon City|GLBB|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|67.43.228.252|7725|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|12125|Canada|Montreal|GloboTech Communications|
-|10|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|67.43.227.227|12125|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|23315|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|26141|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|3057|Canada|Montreal|GloboTech Communications|
-|16|207.230.8.70|999|Colombia|Popayán|Cogent Communications|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.18|5435|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23315|Canada|Montreal|GloboTech Communications|
+|7|103.112.163.92|8080|Indonesia|Jakarta|24AS|
+|8|67.43.228.253|26141|Canada|Montreal|GloboTech Communications|
+|9|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|10|67.43.236.20|23315|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|12125|Canada|Montreal|GloboTech Communications|
+|12|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|13|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|67.43.236.18|5435|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|22219|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|18|72.10.160.170|22233|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|18953|Canada|Montreal|GloboTech Communications|
+|20|45.249.216.77|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
 
 
 
