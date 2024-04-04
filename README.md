@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|202.168.69.225|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|64.225.48.234|3128|United States|Clifton|DigitalOcean, LLC|
-|11|72.10.160.170|19317|Canada|Montreal|GloboTech Communications|
-|12|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
-|13|72.10.160.171|2603|Canada|Montreal|GloboTech Communications|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|16|67.43.227.226|10683|Canada|Montreal|GloboTech Communications|
-|17|103.132.52.123|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|67.43.227.226|10683|Canada|Montreal|GloboTech Communications|
+|10|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.171|2603|Canada|Montreal|GloboTech Communications|
+|13|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|18|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |19|67.43.236.20|18135|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
