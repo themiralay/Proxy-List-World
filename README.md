@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7631** proxies at the latest update. Usable proxies are below.
+> Scraper found **7720** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1040|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|533|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5108|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.167.170.6|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|6|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
-|7|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|8|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|9|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|10|14.250.228.252|4006|Vietnam|Da Nang|VNPT|
-|11|103.180.194.146|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|12|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|15|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|16|103.141.109.143|8181|Indonesia|Setro|Data Buana Nusantara|
-|17|103.81.220.67|8080|Indonesia|Bandung|STARNET|
-|18|201.77.111.231|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|19|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
-|20|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|195.169.35.214|3128|The Netherlands|Vlaardingen|Surf B.V.|
+|7|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|10|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
+|12|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
+|13|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|15|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|16|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|72.10.164.178|13779|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13779|Canada|Montreal|GloboTech Communications|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
