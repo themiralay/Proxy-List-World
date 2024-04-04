@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|45.189.252.243|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
-|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|16|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|67.43.236.20|4525|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24725|Canada|Montreal|GloboTech Communications|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|9|183.88.223.211|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|19|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|20|103.153.142.18|8080|India|Joda|Om Jay Infotech|
 
 
 
