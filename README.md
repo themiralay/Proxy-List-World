@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.26.110.125|84|India|Tirunelveli|Niss Networks|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|182.253.26.196|8080|Indonesia|Jakarta Pusat|BIZNET|
 |8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|72.10.160.94|9091|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|9091|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|23815|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|115.127.9.214|8080|Bangladesh|Dhaka|bracNet|
+|11|67.43.228.250|23815|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|67.43.228.252|12033|Canada|Montreal|GloboTech Communications|
-|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
+|18|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|19|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
+|20|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
 
 
 
