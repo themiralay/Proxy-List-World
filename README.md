@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|154.73.29.201|8080|Libya|Tripoli|Rawafed|
 |6|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|7|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|72.10.164.178|12369|Canada|Montreal|GloboTech Communications|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|67.43.227.227|29957|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2829|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12369|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.236.20|13151|Canada|Montreal|GloboTech Communications|
-|17|114.231.82.241|8089|China|Nanjing|Chinanet|
-|18|67.43.227.227|29957|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
+|7|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|10|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|13|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|190.109.31.23|999|Colombia|Villavicencio|Columbus Networks de Colombia Limitada|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|49.76.17.146|8089|China|Nanjing|Chinanet|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
