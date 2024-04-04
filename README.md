@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.174.57.22|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.152.20.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|27337|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|27337|Canada|Montreal|GloboTech Communications|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|67.43.236.18|10919|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|67.43.228.253|23471|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
-|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|8|72.10.164.178|2689|Canada|Montreal|GloboTech Communications|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|72.10.164.178|2689|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|10919|Canada|Montreal|GloboTech Communications|
+|13|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|14|67.43.236.20|3157|Canada|Montreal|GloboTech Communications|
+|15|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|104.129.192.165|80|United States|Santa Clara|ZSCALER, INC.|
+|17|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|94.183.237.227|8510|Iran|Bushehr|Aria Shatel Company Ltd|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
