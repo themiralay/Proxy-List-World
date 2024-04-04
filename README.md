@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|67.43.236.20|4625|Canada|Montreal|GloboTech Communications|
-|11|101.109.176.158|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.111.136.110|8080|Indonesia|Samarinda|FAZNET|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.167.151.232|3128|Singapore|Singapore|HostHatch|
 |13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|111.225.153.220|8089|China|Zhoutou|China Telecom|
-|15|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3231|Canada|Montreal|GloboTech Communications|
-|17|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|19|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|20|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|17|170.78.211.33|999|Mexico|Villa de Reyes|Wantelco SAS de CV|
+|18|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
+|20|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
 
 
 
