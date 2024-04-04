@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|2|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|159.192.138.170|8080|Thailand|Bangkok|CAT-BB|
-|10|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|9|45.11.95.165|5214|Russia|Moscow|Delta Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|13|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|213.79.104.228|8080|Russia|Moscow|JSC Comcor|
-|16|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
-|17|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|18|42.48.26.158|2323|China|Yueyang|China Unicom Hunan Province Network|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|12|72.10.160.92|3173|Canada|Montreal|GloboTech Communications|
+|13|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.160.90|1973|Canada|Montreal|GloboTech Communications|
+|17|144.217.180.238|8888|Canada|Beauharnois|OVH SAS|
+|18|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.160.171|25563|Canada|Montreal|GloboTech Communications|
 
 
 
