@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|11|89.211.187.195|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|12|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|17|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|18|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|19|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|20|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.133.27.42|8081|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|5|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
+|8|103.165.58.109|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|11|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|14|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
+|16|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|191.102.254.9|8085|Argentina|Rosario|IP·RED|
 
 
 
