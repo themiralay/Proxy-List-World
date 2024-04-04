@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|62.109.15.27|3120|Russia|Novoivanovskoye|AOIOT|
-|4|94.200.195.220|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|8|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|4|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|5|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|6|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |10|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|11|109.72.232.217|8080|Russia|Moscow|MOSLINE|
-|12|103.14.97.203|22147|India|Mumbai|Trunkoz Technologies Pvt. Ltd|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|12|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|13|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
-|18|72.10.164.178|22679|Canada|Montreal|GloboTech Communications|
-|19|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|20|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|191.97.3.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|19|218.75.69.50|57903|China|Beijing|Chinanet|
+|20|45.5.117.76|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
