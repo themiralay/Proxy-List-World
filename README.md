@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6797** proxies at the latest update. Usable proxies are below.
+> Scraper found **6832** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|210|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5073|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|72.10.164.178|26889|Canada|Montreal|GloboTech Communications|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|72.10.160.93|2433|Canada|Montreal|GloboTech Communications|
 |9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|103.26.109.62|84|India|Tirunelveli|Niss Networks|
-|14|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|139.255.33.242|8080|Indonesia|Tangerang|PT. LINKNET|
-|16|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|17|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|20|103.20.97.32|8888|Vietnam|An Phú|Fast Byte Fast Data Company Limited|
+|10|72.10.160.174|19875|Canada|Montreal|GloboTech Communications|
+|11|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|12|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
+|13|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|14|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|17|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.227.227|2955|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|27101|Canada|Montreal|GloboTech Communications|
 
 
 
