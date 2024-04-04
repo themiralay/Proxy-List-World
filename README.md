@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.49.90.70|1337|Philippines|Las Pinas|Converge ICT Solution Inc|
-|3|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|6|72.10.160.93|8925|Canada|Montreal|GloboTech Communications|
-|7|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|72.10.160.91|31693|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|11811|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|30353|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|26957|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|25541|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.228.250|19917|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25541|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|25261|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
+|2|152.231.106.191|999|Chile|Santiago|Entel Chile S.A.|
+|3|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|6|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|7|203.150.128.203|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|67.43.227.227|2363|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.254|1593|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.91|24313|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|32903|Canada|Montreal|GloboTech Communications|
+|15|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
 |20|67.43.227.228|26417|Canada|Montreal|GloboTech Communications|
 
 
