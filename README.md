@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.148.16.150|8080|Indonesia|Bekasi|PT. Core Mediatech|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|72.10.160.90|1439|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|9595|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|9933|Canada|Montreal|GloboTech Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.174|17409|Canada|Montreal|GloboTech Communications|
-|15|223.215.177.232|8089|China|Rongcheng|Chinanet|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|181.129.196.26|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|5|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|177.190.189.26|44443|Brazil|Montanha|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
+|7|223.215.177.232|8089|China|Rongcheng|Chinanet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|142.93.196.242|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.160.174|16649|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|9595|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|15327|Canada|Montreal|GloboTech Communications|
+|17|202.4.119.97|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|18|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|19|203.79.29.150|8080|Indonesia|Ciputat|PT Surya Global Teknologi|
+|20|67.43.236.20|31361|Canada|Montreal|GloboTech Communications|
 
 
 
