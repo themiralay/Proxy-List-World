@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.113.6|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|8|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|9|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|10|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
-|11|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.236.20|14617|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|15623|Canada|Montreal|GloboTech Communications|
+|5|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|14|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|205.196.184.69|50704|United States|Houston|Phonoscope|
+|20|72.10.164.178|12969|Canada|Montreal|GloboTech Communications|
 
 
 
