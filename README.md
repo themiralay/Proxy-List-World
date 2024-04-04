@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|67.43.236.20|8349|Canada|Montreal|GloboTech Communications|
-|4|67.43.227.228|27013|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.228|27013|Canada|Montreal|GloboTech Communications|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|72.10.160.170|13869|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|9|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.43.236.20|8349|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|32887|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|32887|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|27013|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|14565|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8349|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|8849|Canada|Montreal|GloboTech Communications|
-|19|78.29.36.210|9080|Russia|Magnitogorsk|Intersvyaz-2 JSC|
-|20|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
+|7|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|67.43.236.20|4755|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|14565|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.228|26577|Canada|Montreal|GloboTech Communications|
+|14|177.234.196.21|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
+|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|17|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
+|18|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|19|72.10.160.90|21657|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|26577|Canada|Montreal|GloboTech Communications|
 
 
 
