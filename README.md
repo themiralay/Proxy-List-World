@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|9|72.10.160.170|14061|Canada|Montreal|GloboTech Communications|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|72.10.160.90|26717|Canada|Montreal|GloboTech Communications|
-|13|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|14|181.78.74.98|999|Colombia|Barranca de Lebrija|IFX Networks Argentina S.R.L|
-|15|111.225.153.244|8089|China|Zhoutou|China Telecom|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|67.43.236.20|10851|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11919|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
+|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|7|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
+|8|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|9|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|12|45.174.57.34|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|14|67.43.236.20|4541|Canada|Montreal|GloboTech Communications|
+|15|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
+|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|117.54.156.245|8080|Indonesia|Padalarang|PT IndoInternet|
 
 
 
