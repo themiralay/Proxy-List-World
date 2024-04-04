@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.93.16.66|8080|Costa Rica|Cartago|Telecable Economico S.A|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|45.173.231.15|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|6|35.220.217.141|3128|Hong Kong|Hong Kong|Google LLC|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|13|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
-|14|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|15|67.43.228.251|6493|Canada|Montreal|GloboTech Communications|
-|16|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
-|19|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.228.253|30711|Canada|Montreal|GloboTech Communications|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|3|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|4|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|8|205.164.84.250|8591|Brazil|Buritis|AGIS|
+|9|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|45.173.231.15|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|38.43.150.169|999|Peru|Lima|Nextnet SAC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|59.37.13.62|3128|China|Shenzhen|Chinanet|
+|17|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|19|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
+|20|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
 
 
 
