@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|6|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
-|7|103.234.159.5|8080|India|Bengaluru|MWPL|
-|8|67.43.227.227|4307|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|14375|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.227.227|4307|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|4307|Canada|Montreal|GloboTech Communications|
-|16|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
-|18|200.70.56.203|3128|Argentina|Beccar|Telefonica de Argentina|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|190.80.188.91|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|5|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|67.43.228.253|11407|Canada|Montreal|GloboTech Communications|
+|14|103.26.110.125|84|India|Tirunelveli|Niss Networks|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|67.43.227.228|3249|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7763|Canada|Montreal|GloboTech Communications|
+|18|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|19|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|20|111.225.152.64|8089|China|Zhoutou|China Telecom|
 
 
 
