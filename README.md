@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
-|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.228.250|13707|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.228.253|13973|Canada|Montreal|GloboTech Communications|
-|17|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.160.90|10453|Canada|Montreal|GloboTech Communications|
+|9|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|12|149.50.238.14|8080|Türkiye|Antalya|Cogent Communications|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|17|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
