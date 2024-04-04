@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|72.10.160.92|18445|Canada|Montreal|GloboTech Communications|
-|13|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|14|67.43.236.20|16277|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|27495|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|11885|Canada|Montreal|GloboTech Communications|
-|17|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|18|67.43.236.20|16277|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|7217|Canada|Montreal|GloboTech Communications|
-|20|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
+|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
+|8|191.102.254.53|8085|Argentina|Rosario|IP·RED|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|12|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|72.10.160.92|18445|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|2613|Canada|Montreal|GloboTech Communications|
+|17|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|67.43.236.20|17261|Canada|Montreal|GloboTech Communications|
 
 
 
