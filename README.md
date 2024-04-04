@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.179.253.202|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|13225|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
-|13|72.10.160.90|29139|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|29139|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3233|Canada|Montreal|GloboTech Communications|
-|16|14.250.228.252|4006|Vietnam|Da Nang|VNPT|
-|17|72.10.160.90|29139|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|28333|Canada|Montreal|GloboTech Communications|
-|19|178.134.31.226|8080|Georgia|Tbilisi|JSC "Silknet"|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|180.183.130.81|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|10|109.201.233.219|8080|Ukraine|Dnipro|Limited Liability Company "KYIVSKI TELEKOMUNIKATSIYNI MEREZHI"|
+|11|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|12|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|103.231.177.120|5020|Bangladesh|Nārāyanganj|Sayed Farhad Ahmed|
+|15|14.250.228.252|4006|Vietnam|Da Nang|VNPT|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|18|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|19|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|20|72.10.160.90|27559|Canada|Montreal|GloboTech Communications|
 
 
 
