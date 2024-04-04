@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.154.230.112|5678|Indonesia|Lamongan|DIGITNET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|5|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|8|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
 |9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|67.43.227.227|1483|Canada|Montreal|GloboTech Communications|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|14|67.43.236.20|24455|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|3143|Canada|Montreal|GloboTech Communications|
-|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|17|72.10.164.178|9827|Canada|Montreal|GloboTech Communications|
-|18|104.129.192.165|11012|United States|Santa Clara|ZSCALER, INC.|
-|19|72.10.160.170|20391|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9827|Canada|Montreal|GloboTech Communications|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
