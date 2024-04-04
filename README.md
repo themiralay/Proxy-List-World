@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|5|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |6|67.43.236.19|30967|Canada|Montreal|GloboTech Communications|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|67.43.236.19|30967|Canada|Montreal|GloboTech Communications|
-|9|94.79.152.14|80|Germany|Schmallenberg|Vodafone|
-|10|67.43.236.18|17375|Canada|Montreal|GloboTech Communications|
-|11|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|72.10.160.90|11409|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1899|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|11409|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|13089|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|19947|Canada|Montreal|GloboTech Communications|
-|18|223.215.177.200|8089|China|Rongcheng|Chinanet|
-|19|72.10.160.90|11409|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1899|Canada|Montreal|GloboTech Communications|
+|7|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|72.10.160.171|30539|Canada|Montreal|GloboTech Communications|
+|10|80.72.68.247|8082|Bulgaria|Sofia|CoresNET Ltd|
+|11|182.253.39.203|8080|Indonesia|Jakarta Pusat|BIZNET|
+|12|72.10.164.178|13987|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|7965|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|16|67.43.228.253|7965|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|67.43.236.20|10505|Canada|Montreal|GloboTech Communications|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
 
 
 
