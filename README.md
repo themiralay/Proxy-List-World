@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|72.10.160.93|2433|Canada|Montreal|GloboTech Communications|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|72.10.160.174|19875|Canada|Montreal|GloboTech Communications|
-|11|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|12|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
-|13|103.50.4.133|82|India|Hodal|Elxire IT Solution|
-|14|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|17|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|2955|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|27101|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|190.61.41.165|999|Colombia|Turbo|Ufinet Panama S.A.|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|190.110.98.203|999|Chile|San Vicente de Tagua Tagua|Silica Networks Argentina S.A.|
+|11|72.10.160.91|8243|Canada|Montreal|GloboTech Communications|
+|12|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|13|67.43.227.227|13453|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|13453|Canada|Montreal|GloboTech Communications|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|197.98.201.66|8800|South Africa|Johannesburg|Dimension Data|
+|17|45.14.247.64|10118|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|67.43.228.253|17687|Canada|Montreal|GloboTech Communications|
+|19|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
