@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|3|101.6.65.112|10080|China|Haidian|CERNET|
-|4|67.43.228.252|17121|Canada|Montreal|GloboTech Communications|
-|5|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.228.253|30175|Canada|Montreal|GloboTech Communications|
-|8|36.93.68.47|41890|Indonesia|Bali Mester|Telekomunikasi Indonesia|
-|9|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|11|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|12|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|13|72.10.160.90|8287|Canada|Montreal|GloboTech Communications|
-|14|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|15|72.10.164.178|18839|Canada|Montreal|GloboTech Communications|
-|16|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|17|67.43.236.20|21241|Canada|Montreal|GloboTech Communications|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|20|45.189.117.199|999|Peru|Lima|Fiber Digital S.R.L|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|101.6.65.112|10080|China|Haidian|CERNET|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|103.81.220.67|8080|Indonesia|Bandung|STARNET|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|114.106.171.128|8089|China|Rongcheng|Chinanet|
+|12|67.43.228.253|30465|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.252|17121|Canada|Montreal|GloboTech Communications|
+|14|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|67.43.236.20|21241|Canada|Montreal|GloboTech Communications|
+|17|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|18|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|67.43.236.20|21241|Canada|Montreal|GloboTech Communications|
 
 
 
