@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|10|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|11|72.10.160.170|8387|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|33171|Canada|Montreal|GloboTech Communications|
-|13|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|15|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|202.51.118.206|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|182.253.177.137|8080|Indonesia|Jakarta Pusat|BIZNET|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|12|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|72.10.160.91|33171|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|8387|Canada|Montreal|GloboTech Communications|
+|16|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|17|72.10.160.173|13675|Canada|Montreal|GloboTech Communications|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|20|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
 
 
 
