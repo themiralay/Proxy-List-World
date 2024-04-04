@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|5|45.81.146.7|8080|Iraq|Saymayl|Duhok Networks|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|14|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|15|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|16|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|17|72.10.164.178|2403|Canada|Montreal|GloboTech Communications|
-|18|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
