@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|72.10.164.178|31517|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|31517|Canada|Montreal|GloboTech Communications|
-|11|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|12|114.103.81.40|8089|China|Shenzhen|Chinanet|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|67.43.236.20|32057|Canada|Montreal|GloboTech Communications|
-|18|45.77.182.170|12009|Japan|Komae|The Constant Company|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|31517|Canada|Montreal|GloboTech Communications|
+|3|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|13|114.103.81.40|8089|China|Shenzhen|Chinanet|
+|14|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|17|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|18|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|19|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
