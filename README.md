@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|14.163.45.72|443|Vietnam|Hanoi|VNPT-VNNIC|
 |11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.54.105.109|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|51.81.42.255|3129|United States|Finchville|OVH US LLC|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
