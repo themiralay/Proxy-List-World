@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
 |2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
-|8|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|9|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|12|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|17|40.74.220.214|3128|United States|San Antonio|Microsoft Corporation|
-|18|116.99.235.172|30245|Vietnam|Đắk Song|Viettel Corporation|
-|19|116.99.235.172|30245|Vietnam|Đắk Song|Viettel Corporation|
-|20|200.125.185.226|999|United States|Reston|Gold Data C.A|
+|3|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|6|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|7|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|202.154.19.218|8081|Indonesia|Jombang|DIGITNET|
+|12|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|67.43.227.226|25029|Canada|Montreal|GloboTech Communications|
+|15|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|16|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|18|45.5.117.76|999|Guatemala|Guatemala City|Infinitum S.A.|
+|19|190.109.31.23|999|Colombia|Villavicencio|Columbus Networks de Colombia Limitada|
+|20|72.10.164.178|31711|Canada|Montreal|GloboTech Communications|
 
 
 
