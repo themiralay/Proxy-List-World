@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|103.167.68.52|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|22551|Canada|Montreal|GloboTech Communications|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.106.136.66|8089|China|Rongcheng|Chinanet|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
-|15|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
-|16|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
-|17|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|20|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|72.10.160.90|28851|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|181.65.139.238|999|Peru|Callao|Telefonica del Peru S.A.A.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|200.229.224.221|8080|Brazil|Rio de Janeiro|Wireless Comm Services LTDA|
+|19|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|20|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
