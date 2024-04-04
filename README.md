@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
-|8|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|103.174.236.52|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|10|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
-|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|103.167.68.255|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|18|177.136.84.200|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|19|114.9.24.46|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.105.228.66|8080|India|Mumbai|Mnk Infoway Private Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|8|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
+|11|182.160.113.77|9090|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|13|103.250.130.104|1111|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|14|200.24.141.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|17|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|18|136.239.176.66|8080|Philippines|Mandaluyong|ComClark Network & Technology Corp|
+|19|103.174.236.52|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|20|103.217.224.139|8090|Indonesia|Semarang|PT Nesta Indo Media|
 
 
 
