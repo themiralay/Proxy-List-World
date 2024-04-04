@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.232.159.143|10101|Paraguay|Minga Guazú|TV 2 S.A.|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|14|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|17|188.0.2.1|8888|Russia|Krasnoyarsk|YarTV Ltd.|
-|18|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|19|5.182.87.90|10089|Germany|Frankfurt am Main|Aeza International LTD|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|5|181.78.94.169|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|6|45.184.124.33|1985|Mexico|Campo Sesenta y Cuatro B|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|7|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|8|103.194.172.130|8080|Indonesia|Bandung|MYNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|21337|Canada|Montreal|GloboTech Communications|
+|12|66.223.176.201|8080|United States|Fairbanks|General Communication|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|15|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|17|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
+|19|89.211.187.195|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
