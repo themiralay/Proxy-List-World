@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|6|72.10.160.171|32087|Canada|Montreal|GloboTech Communications|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.228.253|2389|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.167.171.235|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
 |12|72.10.164.178|2879|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|18959|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
-|15|111.225.153.166|8089|China|Zhoutou|China Telecom|
-|16|67.43.228.253|2389|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2879|Canada|Montreal|GloboTech Communications|
-|18|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|19|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
+|13|223.247.47.162|8089|China|Rongcheng|Chinanet|
+|14|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|15|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
+|16|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|67.43.227.227|9221|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2879|Canada|Montreal|GloboTech Communications|
 |20|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
 
 
