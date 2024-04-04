@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|7|80.66.81.44|4000|Russia|Moscow|BUQU.SU Solutions|
-|8|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|3|205.196.184.69|50704|United States|Houston|Phonoscope|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|205.196.184.69|50704|United States|Houston|Phonoscope|
+|8|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
 |9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|176.106.22.125|8080|Russia|Tuapse|LLC "Multiservice"|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|67.43.228.253|4423|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|23335|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4551|Canada|Montreal|GloboTech Communications|
-|19|183.165.250.94|8089|China|Shenzhen|Chinanet|
-|20|67.43.236.20|23335|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|19|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
 
 
 
