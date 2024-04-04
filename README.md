@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.10.160.91|32289|Canada|Montreal|GloboTech Communications|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|17585|Canada|Montreal|GloboTech Communications|
-|10|114.231.42.201|8089|China|Nanjing|Chinanet|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.236.20|17585|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|111.225.152.227|8089|China|Zhoutou|China Telecom|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |15|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
