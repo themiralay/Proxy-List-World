@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|6|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|7|89.211.187.195|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|8|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
-|9|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|103.247.14.103|1111|Indonesia|Boyolali|TERABIT|
-|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|12|151.22.181.205|8080|Italy|Rho|INFOSTRADA|
-|13|103.105.68.9|8080|Indonesia|South Tangerang|PT iForte Global Internet|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|15057|Canada|Montreal|GloboTech Communications|
-|17|45.67.210.47|3389|The Netherlands|Amsterdam|G-Core Labs S.A.|
-|18|67.43.227.228|30769|Canada|Montreal|GloboTech Communications|
-|19|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|20|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
+|4|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|7|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
+|10|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|11|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
+|12|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|13|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|14|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|17|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|18|103.231.249.242|3128|Vietnam|Tây Hồ|MTD|
+|19|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
+|20|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
