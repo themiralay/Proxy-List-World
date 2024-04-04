@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
-|9|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|9|5.2.76.163|17000|The Netherlands|Amsterdam|The Infrastructure Group B.V.|
 |10|67.43.227.228|18801|Canada|Montreal|GloboTech Communications|
-|11|103.140.34.61|8080|Indonesia|Tangerang|PT.Simprug Mahkota Indah|
-|12|202.152.20.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
-|15|72.10.160.92|30827|Canada|Montreal|GloboTech Communications|
-|16|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|17|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|18801|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27337|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|18801|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.92|30827|Canada|Montreal|GloboTech Communications|
+|12|69.28.85.94|8989|United States|Dallas|Atlantic.net|
+|13|67.43.227.226|18801|Canada|Montreal|GloboTech Communications|
+|14|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|15|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|16|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
