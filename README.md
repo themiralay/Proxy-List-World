@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7687** proxies at the latest update. Usable proxies are below.
+> Scraper found **7748** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|74|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|492|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|553|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5102|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.86.228.95|3128|United Arab Emirates|Fujairah|BlueVPS OU|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|167.235.185.47|6969|Germany|Bühl|Hetzner Online GmbH|
-|9|103.167.69.90|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|10|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|11|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|14|91.242.163.156|3128|Slovakia|Bratislava|PE Denis Podolskii|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|123.182.59.115|8089|China|Zhangjiakou|China Telecom|
-|19|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
-|20|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.90.227.244|3128|Vietnam|Binh Tan District|VNXCLOUD|
+|3|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|154.53.56.117|3128|United States|Seattle|Nubes, LLC|
+|5|31.220.97.50|3128|United States|Newark|Nubes, LLC|
+|6|31.220.97.75|3128|United States|Newark|Nubes, LLC|
+|7|103.76.149.102|8181|Indonesia|Batu|PT. Java Digital Nusantara|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|10|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|11|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|12|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|14|34.64.104.210|53128|South Korea|Seoul|Google LLC|
+|15|46.250.240.209|3128|United Kingdom|London|Contabo Asia Private Limited|
+|16|154.53.56.117|3128|United States|Seattle|Nubes, LLC|
+|17|183.89.9.82|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|18|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|20|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
 
 
 
