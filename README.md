@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|9|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|10|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|11|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|67.43.228.252|8099|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2847|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|27355|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.160.173|7661|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|103.154.230.112|5678|Indonesia|Lamongan|DIGITNET|
+|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|67.43.228.250|7119|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|5555|Canada|Montreal|GloboTech Communications|
+|15|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|16|103.47.13.29|8080|India|Dehradun|Precious netcom pvt ltd|
+|17|72.10.160.173|7661|Canada|Montreal|GloboTech Communications|
+|18|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|19|67.43.228.253|1297|Canada|Montreal|GloboTech Communications|
+|20|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
