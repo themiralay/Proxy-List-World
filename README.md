@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|103.189.249.194|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|7|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|8|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|9|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|11|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|103.213.219.200|3128|Vietnam|Lê Chân District|V9ERP|
-|14|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|15|190.102.139.148|999|Peru|Lima|Optical Technologies S.A.C.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|9377|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|6431|Canada|Montreal|GloboTech Communications|
-|20|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|177.234.212.90|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|18|35.243.227.100|80|United States|North Charleston|Google LLC|
+|19|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
