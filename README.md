@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.234.159.5|8080|India|Bengaluru|MWPL|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|5|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|7|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|8|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|9|67.43.227.226|11131|Canada|Montreal|GloboTech Communications|
-|10|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|11|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|15|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|200.108.190.2|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|72.10.160.170|23361|Canada|Montreal|GloboTech Communications|
+|5|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|14583|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|3233|Canada|Montreal|GloboTech Communications|
+|14|103.75.53.67|8181|Indonesia|Tangerang|PT Quantum Tera Network|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|14583|Canada|Montreal|GloboTech Communications|
+|18|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|19|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
 
 
 
