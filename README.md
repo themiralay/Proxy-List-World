@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|559|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|559|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|559|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|4|36.72.184.175|8080|Indonesia|Cirebon|PT. TELKOM INDONESIA|
-|5|136.239.176.66|8080|Philippines|Mandaluyong|ComClark Network & Technology Corp|
-|6|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|8|103.133.24.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|114.9.24.46|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|13|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|14|35.200.161.98|80|India|Mumbai|Google LLC|
-|15|103.217.224.139|8090|Indonesia|Semarang|PT Nesta Indo Media|
-|16|45.173.6.194|999|Colombia|Bogotá|Columbus Networks Colombia|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
-|19|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|4|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|10|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|14|67.43.236.20|2425|Canada|Montreal|GloboTech Communications|
+|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
 
 
 
