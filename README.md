@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|103.106.193.5|53281|India|Rewāri|Elyzium Consulting|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|51.79.142.230|38414|Singapore|Singapore|OVH SAS|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|67.43.236.20|1699|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|32221|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.219|8089|China|Zhoutou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.160.170|32221|Canada|Montreal|GloboTech Communications|
-|16|123.182.58.61|8089|China|Zhangjiakou|China Telecom|
-|17|67.43.236.20|1699|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|22841|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|4|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|72.10.160.92|27361|Canada|Montreal|GloboTech Communications|
+|9|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|72.10.160.170|19317|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|12125|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|28169|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|9319|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|22841|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|9319|Canada|Montreal|GloboTech Communications|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|72.10.160.90|32165|Canada|Montreal|GloboTech Communications|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
