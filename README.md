@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|6|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
-|7|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|72.10.160.90|15899|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|15271|Canada|Montreal|GloboTech Communications|
-|11|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|15271|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
-|15|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
-|16|67.43.228.251|27191|Canada|Montreal|GloboTech Communications|
-|17|103.156.249.67|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|18|190.61.45.74|8080|Colombia|Barrio San Luis|Ufinet Panama S.A.|
-|19|195.169.35.214|3128|The Netherlands|Vlaardingen|Surf B.V.|
-|20|67.43.228.253|13915|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
+|5|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|9|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|11|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|12|103.162.154.3|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
+|13|193.30.13.21|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
+|14|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|15|45.162.132.157|999|Chile|Santiago|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|18|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|19|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
