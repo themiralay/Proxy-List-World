@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.225.50.74|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|6|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|5|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|6|103.151.246.10|8084|Indonesia|Bogor|MANAKARRANET|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|9|67.43.236.18|21119|Canada|Montreal|GloboTech Communications|
-|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|11|72.10.160.170|23157|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|6007|Canada|Montreal|GloboTech Communications|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|72.10.160.90|22715|Canada|Montreal|GloboTech Communications|
-|15|138.0.228.185|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|19|67.43.228.253|32427|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|6007|Canada|Montreal|GloboTech Communications|
+|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|9|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|67.43.236.18|12287|Canada|Montreal|GloboTech Communications|
+|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|16|67.43.236.22|14011|Canada|Montreal|GloboTech Communications|
+|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|18|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|19|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|20|72.10.160.90|18015|Canada|Montreal|GloboTech Communications|
 
 
 
