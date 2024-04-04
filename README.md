@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|200.70.56.203|3128|Argentina|Beccar|Telefonica de Argentina|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|11|114.106.136.163|8089|China|Rongcheng|Chinanet|
-|12|72.10.160.174|16179|Canada|Montreal|GloboTech Communications|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|114.103.89.181|8089|China|Shenzhen|Chinanet|
-|15|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|72.10.164.178|8509|Canada|Montreal|GloboTech Communications|
-|18|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|19|72.10.160.90|32007|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|7|72.10.160.90|29055|Canada|Montreal|GloboTech Communications|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|11|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
+|12|114.106.136.163|8089|China|Rongcheng|Chinanet|
+|13|67.43.236.20|26347|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29055|Canada|Montreal|GloboTech Communications|
+|15|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|16|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
+|17|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|18|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
+|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
