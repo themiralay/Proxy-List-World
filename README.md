@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.215.176.152|8089|China|Rongcheng|Chinanet|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|183.165.246.15|8089|China|Shenzhen|Chinanet|
-|12|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|67.43.227.228|1549|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2691|Canada|Montreal|GloboTech Communications|
-|15|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|16|67.43.227.227|8803|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8803|Canada|Montreal|GloboTech Communications|
-|18|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|67.43.227.227|8803|Canada|Montreal|GloboTech Communications|
+|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|183.165.246.15|8089|China|Shenzhen|Chinanet|
+|14|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|15|183.165.224.153|8089|China|Shenzhen|Chinanet|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
