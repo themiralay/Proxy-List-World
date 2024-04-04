@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|72.10.160.92|4881|Canada|Montreal|GloboTech Communications|
-|3|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
-|4|67.43.228.253|27137|Canada|Montreal|GloboTech Communications|
-|5|119.39.69.101|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|72.10.164.178|12521|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.90|15863|Canada|Montreal|GloboTech Communications|
-|8|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|10|72.10.160.90|15863|Canada|Montreal|GloboTech Communications|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|72.10.160.90|15863|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|25103|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|27137|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|23183|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12521|Canada|Montreal|GloboTech Communications|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|2|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
+|5|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
+|6|103.147.246.135|8080|Indonesia|Tangerang|PLBNET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|9|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|10|1.179.148.9|55636|Thailand|Sam Phran|TOT Public Company Limited|
+|11|72.10.160.173|30871|Canada|Montreal|GloboTech Communications|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|67.43.236.20|10531|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|22349|Canada|Montreal|GloboTech Communications|
+|15|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|19|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|20|67.43.228.253|10275|Canada|Montreal|GloboTech Communications|
 
 
 
