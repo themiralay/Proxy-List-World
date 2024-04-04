@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.235.104.105|3729|India|Pune|Microsoft Corporation|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
 |6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|94.154.152.97|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|59.37.13.62|3128|China|Shenzhen|Chinanet|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|103.247.152.125|3128|New Zealand|Wellington|Maxum Data Ltd|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|72.10.160.91|22825|Canada|Montreal|GloboTech Communications|
-|20|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|80.66.89.213|4000|Russia|Moscow|BUQU.SU Solutions|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|45.11.95.166|6016|Russia|Moscow|Delta Ltd|
+|20|102.38.31.8|80|Libya|Zuwarah|GZA|
 
 
 
