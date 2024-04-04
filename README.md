@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.209.105.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
-|7|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
-|8|67.43.236.18|10375|Canada|Montreal|GloboTech Communications|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|67.43.236.18|10375|Canada|Montreal|GloboTech Communications|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|15|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
-|17|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|20|72.10.160.93|14659|Canada|Montreal|GloboTech Communications|
+|11|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|12|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|13|72.10.164.178|1441|Canada|Montreal|GloboTech Communications|
+|14|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|15|72.10.164.178|1441|Canada|Montreal|GloboTech Communications|
+|16|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|17|72.10.160.93|14659|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|8719|Canada|Montreal|GloboTech Communications|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
