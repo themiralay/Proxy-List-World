@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|5.182.87.90|10086|Germany|Frankfurt am Main|Aeza International LTD|
-|11|118.117.189.83|8089|China|Muping|Chinanet|
-|12|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|113.212.87.242|83|India|Ahmedabad|INPLs|
-|15|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|4|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
+|8|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.236.20|1037|Canada|Montreal|GloboTech Communications|
 |16|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|17|190.242.181.61|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|191.102.254.53|8084|Argentina|Rosario|IP·RED|
-|19|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|20|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
