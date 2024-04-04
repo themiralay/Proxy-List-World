@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
-|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.95.0.15|8080|Australia|Gold Coast|Channel Wireless Pty Ltd|
-|4|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
-|5|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
-|7|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|8|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
-|9|109.72.232.217|8080|Russia|Moscow|MOSLINE|
-|10|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
-|13|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|14|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|15|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
-|18|51.195.246.56|1080|United Kingdom|Purfleet|OVH|
-|19|67.43.236.18|5935|Canada|Montreal|GloboTech Communications|
-|20|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
+|1|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
+|4|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|5|75.84.199.80|80|United States|North Hollywood|Spectrum|
+|6|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|10|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|13|103.95.0.15|8080|Australia|Gold Coast|Channel Wireless Pty Ltd|
+|14|75.84.199.80|80|United States|North Hollywood|Spectrum|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|17|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|18|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
