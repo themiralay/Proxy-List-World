@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|5|67.43.227.227|30865|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
-|8|111.225.153.126|8089|China|Zhoutou|China Telecom|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|72.10.160.90|29985|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
-|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|14|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|15|67.43.236.20|25631|Canada|Montreal|GloboTech Communications|
-|16|185.170.238.42|8080|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|17|67.43.236.20|25631|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|29471|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.187|8089|China|Zhoutou|China Telecom|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|72.10.164.178|27557|Canada|Montreal|GloboTech Communications|
+|9|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|11|181.168.240.248|8080|Argentina|Posadas|Telecom Argentina S.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|19|125.26.4.219|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
