@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
-|9|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
-|10|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|67.43.227.228|33147|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|9337|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|6869|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|9337|Canada|Montreal|GloboTech Communications|
-|15|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|17|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|67.43.228.250|31701|Canada|Montreal|GloboTech Communications|
-|20|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|4|188.235.63.204|3128|Russia|Voronezh|CJSC "ER-Telecom Holding" Voronezh branch|
+|5|180.211.179.126|8080|Bangladesh|Habiganj|Bangladesh Telegraph & Telephone Board|
+|6|20.247.228.80|80|Singapore|Singapore|Microsoft Corporation|
+|7|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|205.196.184.69|50704|United States|Houston|Phonoscope|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|67.43.228.250|31701|Canada|Montreal|GloboTech Communications|
+|12|62.109.13.227|3128|Russia|Novoivanovskoye|AOIOT|
+|13|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
+|14|207.230.8.69|999|Colombia|Popayán|Cogent Communications|
+|15|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|31701|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|26311|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
+|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
