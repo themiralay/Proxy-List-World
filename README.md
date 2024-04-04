@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|67.43.228.253|2657|Canada|Montreal|GloboTech Communications|
-|12|200.101.150.202|8080|Brazil|Curitiba|V tal|
-|13|67.43.236.20|3233|Canada|Montreal|GloboTech Communications|
-|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|67.43.228.253|2657|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|25563|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|7|59.9.61.91|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|10|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
+|14|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
+|15|67.43.228.253|1077|Canada|Montreal|GloboTech Communications|
+|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|17|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
+|18|72.10.164.178|23305|Canada|Montreal|GloboTech Communications|
+|19|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|20|72.10.164.178|23305|Canada|Montreal|GloboTech Communications|
 
 
 
