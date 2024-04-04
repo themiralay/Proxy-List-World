@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.103.89.181|8089|China|Shenzhen|Chinanet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|7|222.64.104.82|9000|China|Shanghai|CHINANET-SH|
-|8|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|67.43.228.250|1715|Canada|Montreal|GloboTech Communications|
-|10|194.61.1.132|3128|Russia|Moscow|Smartsystems LLC|
-|11|72.10.160.170|13419|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|1299|Canada|Montreal|GloboTech Communications|
-|13|103.172.70.153|2022|Indonesia|Cirebon|AZNET|
-|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|15|72.10.160.173|28319|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.228.252|15239|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|67.43.227.227|20433|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
+|4|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
+|5|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
+|6|103.247.13.179|8080|Indonesia|Boyolali|TERABIT|
+|7|41.33.203.115|1974|Egypt|Cairo|TE Data|
+|8|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
 
 
 
