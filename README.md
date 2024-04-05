@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|67.43.228.253|1695|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|28373|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|28373|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|67.43.236.20|28729|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|28729|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |18|67.43.227.227|11873|Canada|Montreal|GloboTech Communications|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|67.43.227.227|11873|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
