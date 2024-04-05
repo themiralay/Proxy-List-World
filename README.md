@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|2|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|217.196.49.143|3128|United States|Phoenix|HOSTINGER US|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.90|25019|Canada|Montreal|GloboTech Communications|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|72.10.160.94|29195|Canada|Montreal|GloboTech Communications|
-|17|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
-|20|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
+|5|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|38.252.209.64|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.111.99.253|3125|Indonesia|Pangkalpinang|PT Mitra Lintas Multimedia|
+|11|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|12|82.180.154.9|9000|United Kingdom|Manchester|Hostinger International Limited|
+|13|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|72.10.160.90|16681|Canada|Montreal|GloboTech Communications|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
