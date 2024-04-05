@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|2|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|6|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|7|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|8|72.10.164.178|12187|Canada|Montreal|GloboTech Communications|
-|9|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|10|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|11|181.232.190.251|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
-|12|67.43.228.253|13667|Canada|Montreal|GloboTech Communications|
-|13|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
-|18|45.191.75.176|999|Colombia|Guachené|Global Raices|
-|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|20|67.43.227.227|30819|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|4|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|8|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
+|9|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|10|103.156.14.18|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.163.244.22|83|India|Panipat|Infolink System|
+|14|67.43.227.227|15707|Canada|Montreal|GloboTech Communications|
+|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|18|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|19|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
