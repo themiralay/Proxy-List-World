@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.234.159.5|8080|India|Bengaluru|MWPL|
-|6|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.60.4.238|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|67.43.227.230|21333|Canada|Montreal|GloboTech Communications|
-|14|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|17|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|72.10.160.90|27981|Canada|Montreal|GloboTech Communications|
-|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|20|103.163.244.22|83|India|Panipat|Infolink System|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|119.39.79.83|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
