@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|9|72.10.164.178|6843|Canada|Montreal|GloboTech Communications|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|14|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
-|17|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|18|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|19|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|20|72.10.160.91|19013|Canada|Montreal|GloboTech Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|72.10.164.178|30517|Canada|Montreal|GloboTech Communications|
+|12|136.239.176.66|8080|Philippines|Mandaluyong|ComClark Network & Technology Corp|
+|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|72.10.164.178|30517|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|19013|Canada|Montreal|GloboTech Communications|
+|17|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
+|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|19|111.225.152.135|8089|China|Zhoutou|China Telecom|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
