@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.236.20|30181|Canada|Montreal|GloboTech Communications|
-|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|202.79.57.59|8080|Nepal|Kathmandu|WorldLink Communications|
-|12|67.43.236.20|30181|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|8103|Canada|Montreal|GloboTech Communications|
-|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|190.103.61.254|8080|Venezuela|Caracas|Supercable|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|67.43.236.18|18419|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26439|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30181|Canada|Montreal|GloboTech Communications|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|26439|Canada|Montreal|GloboTech Communications|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.174|13683|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.251|8103|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
+|14|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
+|18|103.132.52.123|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|67.43.228.251|8103|Canada|Montreal|GloboTech Communications|
 
 
 
