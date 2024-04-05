@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|67.43.228.253|6639|Canada|Montreal|GloboTech Communications|
 |7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|72.10.164.178|7527|Canada|Montreal|GloboTech Communications|
-|10|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|11|67.43.236.20|13203|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|72.10.164.178|7527|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|30137|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|7527|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|13243|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|4309|Canada|Montreal|GloboTech Communications|
-|20|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|8|72.10.160.172|32965|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|67.43.227.228|14569|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|13203|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31173|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|49.147.127.6|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|103.221.55.101|8080|Bangladesh|Dhaka|Pandora Technology|
+|19|72.10.160.90|13243|Canada|Montreal|GloboTech Communications|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
