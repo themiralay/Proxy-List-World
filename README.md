@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|21915|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|32185|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
-|13|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|14|45.5.117.76|999|Guatemala|Guatemala City|Infinitum S.A.|
-|15|67.43.227.227|21915|Canada|Montreal|GloboTech Communications|
-|16|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|17|103.165.138.234|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|18|72.10.160.93|32185|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.164.178|28985|Canada|Montreal|GloboTech Communications|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|67.43.227.227|3137|Canada|Montreal|GloboTech Communications|
+|7|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|8|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|15311|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|16039|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|12901|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|12901|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.92|21079|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|3137|Canada|Montreal|GloboTech Communications|
+|20|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
 
 
 
