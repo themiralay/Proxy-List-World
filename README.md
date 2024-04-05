@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6239** proxies at the latest update. Usable proxies are below.
+> Scraper found **6260** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|761|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|270|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4190|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|72.10.160.93|2433|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
 |15|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|16|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|19|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
+|17|170.80.203.40|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|18|67.43.236.20|17459|Canada|Montreal|GloboTech Communications|
+|19|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
