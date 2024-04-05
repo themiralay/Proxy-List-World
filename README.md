@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|118.99.102.83|8080|Indonesia|Jakarta|Biznet Metronet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
-|8|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|200.108.190.110|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|13|202.179.188.178|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|14|203.150.113.192|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|15|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|138.122.99.249|999|Mexico|San Jose Iturbide|Ientc S De RL De CV|
+|5|180.183.143.93|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|11|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|182.253.175.246|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|72.10.160.90|3587|Canada|Montreal|GloboTech Communications|
 |17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|18|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
 
 
 
