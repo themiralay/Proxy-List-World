@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|14|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|15|67.43.227.228|18535|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
-|19|67.43.236.20|19645|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23771|Canada|Montreal|GloboTech Communications|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|60.174.0.171|8089|China|Guangzhou|Chinanet|
+|11|157.100.60.146|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|67.43.228.253|22761|Canada|Montreal|GloboTech Communications|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
+|18|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|19|67.43.227.227|3165|Canada|Montreal|GloboTech Communications|
+|20|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
 
 
 
