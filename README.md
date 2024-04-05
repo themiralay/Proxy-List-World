@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.234.212.191|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|103.87.169.207|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|6|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|7|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
-|10|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|11|72.10.164.178|33243|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|22703|Canada|Montreal|GloboTech Communications|
-|13|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.236.20|22703|Canada|Montreal|GloboTech Communications|
-|15|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|18|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|19|123.182.58.59|8089|China|Zhangjiakou|China Telecom|
-|20|67.43.236.20|22703|Canada|Montreal|GloboTech Communications|
+|9|102.213.84.250|8080|Nigeria|Ado-Odo|Globacom Limited|
+|10|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|11|190.78.15.57|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|12|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
+|13|72.10.164.178|32801|Canada|Montreal|GloboTech Communications|
+|14|85.118.117.165|8080|Georgia|Gori|EGRISI|
+|15|123.182.58.59|8089|China|Zhangjiakou|China Telecom|
+|16|67.43.236.20|3013|Canada|Montreal|GloboTech Communications|
+|17|43.243.140.58|10001|Indonesia|Bogor|CEPATNET|
+|18|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
