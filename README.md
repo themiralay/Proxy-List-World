@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|1|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.59.50.41|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|9|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|15|177.93.59.54|999|Colombia|Supía|TV AZTECA SUCURSAL COLOMBIA|
-|16|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|122.185.44.46|82|India|Faridabad|Bharti Airtel Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|64.76.43.115|999|Mexico|Mexico City|Level 3|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|20|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
 
 
 
