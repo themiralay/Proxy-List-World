@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|8|114.106.172.136|8089|China|Rongcheng|Chinanet|
-|9|183.165.224.43|8089|China|Shenzhen|Chinanet|
-|10|185.67.95.91|80|Russia|St Petersburg|ru.elitel|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|67.43.228.250|6445|Canada|Montreal|GloboTech Communications|
+|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|6|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|72.10.160.173|8943|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.173|30917|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|1757|Canada|Montreal|GloboTech Communications|
-|17|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
-|18|72.10.160.170|21149|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|14035|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26817|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|15405|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|6445|Canada|Montreal|GloboTech Communications|
+|17|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|18|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|26677|Canada|Montreal|GloboTech Communications|
+|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
 
 
 
