@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.236.20|32897|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|9|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|9|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
 |10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
 |11|67.43.236.19|3871|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.228.253|7217|Canada|Montreal|GloboTech Communications|
-|15|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|16|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|1199|Canada|Montreal|GloboTech Communications|
-|19|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|20|67.43.228.253|7217|Canada|Montreal|GloboTech Communications|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|14|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|15|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|16|67.43.228.253|2115|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|2115|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|29503|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
