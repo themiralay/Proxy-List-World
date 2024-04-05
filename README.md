@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|4|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|2|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|3|97.64.69.49|16099|United States|College Station|PRONSS|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|72.10.164.178|17279|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|3033|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|21887|Canada|Montreal|GloboTech Communications|
-|13|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|209.97.150.197|3128|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.227.227|3033|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|18|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|72.10.160.170|9595|Canada|Montreal|GloboTech Communications|
+|7|50.235.247.114|8085|United States|Henrico|Comcast Cable Communications, LLC|
+|8|200.108.190.99|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|9|118.99.119.18|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|10|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.164.178|15421|Canada|Montreal|GloboTech Communications|
+|13|36.91.15.241|8080|Indonesia|Kartini|PT Telekomunikasi Indonesia|
+|14|170.80.242.78|999|Mexico|Torreón|TV CABLE DEL GUADIANA S.A DE C.V.|
+|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|67.43.227.227|3033|Canada|Montreal|GloboTech Communications|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|167.172.238.15|10013|United States|Clifton|DigitalOcean, LLC|
+|19|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|171.22.108.188|3128|United States|Seattle|Dedicated.com|
 
 
 
