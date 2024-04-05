@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
-|7|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|12|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|72.10.160.90|27283|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12855|Canada|Montreal|GloboTech Communications|
-|16|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|17|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|18|72.10.164.178|12855|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|11873|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26395|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|72.10.164.178|31895|Canada|Montreal|GloboTech Communications|
+|12|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|14|167.172.238.15|10002|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.91|3013|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31895|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|11873|Canada|Montreal|GloboTech Communications|
+|18|188.132.146.75|8080|Turkey|Ulus|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|19|67.43.228.252|31879|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
