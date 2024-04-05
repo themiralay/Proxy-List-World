@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|67.43.227.226|14985|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|15|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2361|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|1543|Canada|Montreal|GloboTech Communications|
-|20|111.225.152.112|8089|China|Zhoutou|China Telecom|
+|4|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|8|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
+|16|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|18|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|19|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
