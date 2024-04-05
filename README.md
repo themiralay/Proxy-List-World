@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|10|103.133.223.228|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|11|186.97.109.84|999|Colombia|Medellín|Colombia Móvil|
-|12|36.225.45.109|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|14|72.10.160.90|26859|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|26859|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|16729|Canada|Montreal|GloboTech Communications|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|67.43.227.227|16729|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|16729|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17135|Canada|Montreal|GloboTech Communications|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|16729|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|103.133.223.228|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|7303|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
+|19|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
