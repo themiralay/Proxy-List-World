@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|6|41.217.220.214|32650|Kenya|Nairobi|MyISP Ltd|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
 |12|72.10.160.94|13515|Canada|Montreal|GloboTech Communications|
-|13|167.172.238.15|10002|United States|Clifton|DigitalOcean, LLC|
-|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|15|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|27829|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.160.170|4535|Canada|Montreal|GloboTech Communications|
-|19|183.165.226.143|8089|China|Shenzhen|Chinanet|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|14|167.172.238.15|10002|United States|Clifton|DigitalOcean, LLC|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|72.10.164.178|16855|Canada|Montreal|GloboTech Communications|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|20|72.10.160.90|26135|Canada|Montreal|GloboTech Communications|
 
 
 
