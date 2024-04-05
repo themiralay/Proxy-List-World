@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7084** proxies at the latest update. Usable proxies are below.
+> Scraper found **7045** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|736|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5007|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|6|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|12|103.121.209.136|9999|Japan|Tokyo|Virtual Hosting|
+|13|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|72.10.164.178|6843|Canada|Montreal|GloboTech Communications|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
 
 
 
