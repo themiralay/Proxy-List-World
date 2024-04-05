@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|4|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|5|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
-|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|10|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|13|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|41.76.217.175|8088|South Africa|Pretoria|Green Flash Trading|
-|18|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|19|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|20|72.10.164.178|1925|Canada|Montreal|GloboTech Communications|
+|1|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|7|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|8|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
+|13|67.43.236.20|22767|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|72.10.164.178|8513|Canada|Montreal|GloboTech Communications|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|72.10.164.178|8513|Canada|Montreal|GloboTech Communications|
+|19|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|20|179.1.68.197|999|Colombia|Saravena|InterNexa Global Network|
 
 
 
