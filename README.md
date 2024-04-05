@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|67.43.228.253|27483|Canada|Montreal|GloboTech Communications|
-|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|118.117.189.58|8089|China|Muping|Chinanet|
-|16|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|17|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|18|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|20|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|8|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|14|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|118.117.189.58|8089|China|Muping|Chinanet|
+|19|67.43.228.253|27483|Canada|Montreal|GloboTech Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
