@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|67.43.227.227|8123|Canada|Montreal|GloboTech Communications|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|12|67.43.236.20|24259|Canada|Montreal|GloboTech Communications|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.227.227|8123|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2429|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|72.10.164.178|2429|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|8123|Canada|Montreal|GloboTech Communications|
+|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.132.11.208|3128|Azerbaijan|Baku|Delta|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|67.43.227.227|26137|Canada|Montreal|GloboTech Communications|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|16|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|17|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.164.178|10531|Canada|Montreal|GloboTech Communications|
 
 
 
