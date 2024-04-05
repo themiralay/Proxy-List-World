@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|4|181.39.64.26|999|Ecuador|Ambato|Telconet S.A|
-|5|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|9|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|103.183.119.147|3128|Vietnam|Tây Hồ|MYCLOUD|
-|12|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|72.10.160.170|25359|Canada|Montreal|GloboTech Communications|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|8|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|9|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|10|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
+|11|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
+|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|16|72.10.160.171|20345|Canada|Montreal|GloboTech Communications|
-|17|60.174.0.42|8089|China|Guangzhou|Chinanet|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|12187|Canada|Montreal|GloboTech Communications|
-|20|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|19|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
