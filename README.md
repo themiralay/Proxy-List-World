@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|5|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.227.227|28729|Canada|Montreal|GloboTech Communications|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|86.4.150.190|80|United Kingdom|Bolton|Virgin Media Limited|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|49.147.127.6|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|16|86.4.150.190|80|United Kingdom|Bolton|Virgin Media Limited|
+|17|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
