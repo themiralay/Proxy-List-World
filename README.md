@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|119.110.86.225|8080|Indonesia|Tebet Timur|PT. Solusindo Bintang Pratama|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|114.231.82.132|8089|China|Nanjing|Chinanet|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|183.165.224.162|8089|China|Shenzhen|Chinanet|
-|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|114.106.173.67|8089|China|Rongcheng|Chinanet|
-|18|67.43.236.18|30353|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
+|6|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|67.43.227.227|30217|Canada|Montreal|GloboTech Communications|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|114.106.173.67|8089|China|Rongcheng|Chinanet|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|183.165.224.162|8089|China|Shenzhen|Chinanet|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|67.43.227.227|30217|Canada|Montreal|GloboTech Communications|
 
 
 
