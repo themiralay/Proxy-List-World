@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|181.204.0.36|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|8|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|72.10.160.90|14509|Canada|Montreal|GloboTech Communications|
 |11|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|29431|Canada|Montreal|GloboTech Communications|
-|14|138.121.161.84|8095|Argentina|Rosario|WICORP SA|
-|15|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|13237|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|28233|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29431|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
+|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|14|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
+|15|72.10.164.178|23333|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.236.20|5189|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|2657|Canada|Montreal|GloboTech Communications|
+|19|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|20|72.10.160.92|4881|Canada|Montreal|GloboTech Communications|
 
 
 
