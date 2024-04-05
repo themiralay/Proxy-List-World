@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|67.43.236.21|18223|Canada|Montreal|GloboTech Communications|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|8|72.10.164.178|14171|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|25691|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|14171|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|14171|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|201.71.2.41|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|14|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.227.227|25691|Canada|Montreal|GloboTech Communications|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|67.43.228.250|10525|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|10525|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|9035|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8353|Canada|Montreal|GloboTech Communications|
+|2|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|178.19.116.34|3128|The Netherlands|Amsterdam|IC Hosting|
+|5|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|6|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|72.10.164.178|22487|Canada|Montreal|GloboTech Communications|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.227.227|12069|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.90|8223|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|19|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|20|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
 
 
 
