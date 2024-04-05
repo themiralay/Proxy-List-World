@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |5|186.125.218.169|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|147.185.162.163|8080|Italy|Milan|Mywic Costumers|
-|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
-|10|72.10.164.178|9441|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|2965|Canada|Montreal|GloboTech Communications|
-|12|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|13|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|14|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|2965|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5643|Canada|Montreal|GloboTech Communications|
-|18|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|72.10.160.90|18015|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|14|72.10.160.90|18015|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
+|19|72.10.164.178|9441|Canada|Montreal|GloboTech Communications|
+|20|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
 
 
 
