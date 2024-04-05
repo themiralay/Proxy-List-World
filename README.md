@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|168.194.169.108|999|Peru|Lima|FASTNET|
-|4|69.160.223.33|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|5|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|8|67.43.227.227|22115|Canada|Montreal|GloboTech Communications|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|2|35.243.227.100|80|United States|North Charleston|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|6|67.43.227.227|22115|Canada|Montreal|GloboTech Communications|
+|7|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|10|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
 |11|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|12|69.160.223.33|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|15|167.172.238.15|10005|United States|Clifton|DigitalOcean, LLC|
+|12|110.232.67.45|55443|Indonesia|Medan|PT. Media Antar Nusa|
+|13|67.43.227.227|22115|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|22761|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|32297|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|22761|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22115|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
+|17|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|18|67.43.228.251|14393|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
+|20|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
