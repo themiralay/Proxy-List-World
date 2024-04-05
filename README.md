@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
-|3|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|149.28.166.55|12009|Australia|Sydney|The Constant Company|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|222.127.220.86|8082|Philippines|Quezon City|GLBB|
-|12|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
+|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|67.43.227.227|14249|Canada|Montreal|GloboTech Communications|
+|14|51.255.208.33|1991|Poland|Wroclaw|OVH SAS|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |20|72.10.160.174|10089|Canada|Montreal|GloboTech Communications|
 
 
