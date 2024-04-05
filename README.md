@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.236.18|30483|Canada|Montreal|GloboTech Communications|
-|14|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|17|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|67.43.236.22|9503|Canada|Montreal|GloboTech Communications|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|4|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|10|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|11|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|51.159.66.158|3128|France|Paris|SCALEWAY|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
+|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|20|72.10.164.178|9081|Canada|Montreal|GloboTech Communications|
 
 
 
