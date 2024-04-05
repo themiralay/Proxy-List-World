@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|72.10.164.178|23169|Canada|Montreal|GloboTech Communications|
-|12|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|6|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|67.43.228.253|29993|Canada|Montreal|GloboTech Communications|
+|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 |15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|72.10.160.94|16689|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|9027|Canada|Montreal|GloboTech Communications|
-|18|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|67.43.227.227|17227|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|32269|Canada|Montreal|GloboTech Communications|
+|17|123.182.58.111|8089|China|Zhangjiakou|China Telecom|
+|18|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|180.183.130.81|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
