@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.154.161.152|80|Italy|Milan|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|181.39.64.26|999|Ecuador|Ambato|Telconet S.A|
-|5|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.39.64.26|999|Ecuador|Ambato|Telconet S.A|
 |7|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|72.10.164.178|12187|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|4871|Canada|Montreal|GloboTech Communications|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|17|114.106.137.32|8089|China|Rongcheng|Chinanet|
-|18|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
-|19|67.43.227.226|31343|Canada|Montreal|GloboTech Communications|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|8|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|9|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|10|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|14|72.10.164.178|7091|Canada|Montreal|GloboTech Communications|
+|15|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|20|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
 
 
 
