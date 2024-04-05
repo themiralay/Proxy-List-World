@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.111.99.253|3125|Indonesia|Pangkalpinang|PT Mitra Lintas Multimedia|
-|7|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|8|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|67.43.228.253|32495|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|67.43.228.252|4387|Canada|Montreal|GloboTech Communications|
-|14|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|15|72.10.160.94|20629|Canada|Montreal|GloboTech Communications|
-|16|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7273|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|1|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|102.212.30.22|8080|Kenya|Nairobi|Hanif Telecom Limited|
+|5|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|14|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|15|67.43.228.252|4387|Canada|Montreal|GloboTech Communications|
+|16|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|72.10.160.94|18075|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|14365|Canada|Montreal|GloboTech Communications|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|67.43.228.253|8497|Canada|Montreal|GloboTech Communications|
 
 
 
