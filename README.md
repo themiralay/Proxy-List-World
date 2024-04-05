@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|86.190.139.131|80|United Kingdom|Kensington|BT Public Internet Service|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|86.190.139.131|80|United Kingdom|Kensington|BT Public Internet Service|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|80.78.237.2|55443|Bulgaria|Garmen|UltraNET - Halil Network|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|11|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.160.170|23961|Canada|Montreal|GloboTech Communications|
-|19|183.165.244.79|8089|China|Shenzhen|Chinanet|
-|20|67.43.236.20|17655|Canada|Montreal|GloboTech Communications|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|67.43.228.250|2821|Canada|Montreal|GloboTech Communications|
+|17|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|36.89.212.252|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 
 
 
