@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|5|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|9|72.10.160.90|2165|Canada|Montreal|GloboTech Communications|
-|10|121.195.170.225|1024|China|Haidian|CERNET|
-|11|67.43.236.20|26531|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|27485|Canada|Montreal|GloboTech Communications|
-|13|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.227.227|15399|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|2165|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|67.43.227.228|7171|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|15399|Canada|Montreal|GloboTech Communications|
-|20|200.125.168.221|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|18|67.43.227.227|17675|Canada|Montreal|GloboTech Communications|
+|19|47.90.126.78|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
