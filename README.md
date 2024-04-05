@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|7|67.43.227.227|25285|Canada|Montreal|GloboTech Communications|
-|8|111.225.153.166|8089|China|Zhoutou|China Telecom|
-|9|72.10.160.90|31763|Canada|Montreal|GloboTech Communications|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|12|197.98.201.97|10268|South Africa|Johannesburg|Dimension Data|
-|13|72.10.164.178|8315|Canada|Montreal|GloboTech Communications|
-|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|15|67.43.228.250|9281|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|10959|Canada|Montreal|GloboTech Communications|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|188.132.222.7|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|123.182.59.130|8089|China|Zhangjiakou|China Telecom|
-|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|67.43.227.227|25285|Canada|Montreal|GloboTech Communications|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|67.43.228.250|9281|Canada|Montreal|GloboTech Communications|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|14|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|15|67.43.227.227|25285|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|25285|Canada|Montreal|GloboTech Communications|
+|17|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|18|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
+|19|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
 
 
 
