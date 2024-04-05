@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|11|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|30483|Canada|Montreal|GloboTech Communications|
-|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|14|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|67.43.227.226|17497|Canada|Montreal|GloboTech Communications|
-|16|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|17|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|72.10.164.178|1291|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1291|Canada|Montreal|GloboTech Communications|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|13|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
+|14|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|15|67.43.228.252|18737|Canada|Montreal|GloboTech Communications|
+|16|200.69.84.93|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
+|18|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|19|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|20|72.10.164.178|15777|Canada|Montreal|GloboTech Communications|
 
 
 
