@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|19875|Canada|Montreal|GloboTech Communications|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
+|14|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
 |15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|189.151.117.130|999|Mexico|Nogales|UNINET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|17|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
 
 
 
