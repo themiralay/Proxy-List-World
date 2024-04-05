@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|85.132.11.208|3128|Azerbaijan|Baku|Delta|
-|3|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|190.103.61.254|8080|Venezuela|Caracas|Supercable|
-|7|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|13|72.10.164.178|2345|Canada|Montreal|GloboTech Communications|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|72.10.164.178|26439|Canada|Montreal|GloboTech Communications|
+|9|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.160.171|11149|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|19899|Canada|Montreal|GloboTech Communications|
 |14|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|67.43.227.227|18869|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.171|1481|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|18869|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21323|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2325|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.228.253|24979|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26439|Canada|Montreal|GloboTech Communications|
 
 
 
