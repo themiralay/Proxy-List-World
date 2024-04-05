@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
-|9|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|72.10.160.90|3985|Canada|Montreal|GloboTech Communications|
-|17|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|18|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|103.153.142.18|8080|India|Joda|Om Jay Infotech|
+|14|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
+|15|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|16|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|17|185.202.165.1|53281|Spain|Monda|AVATEL TELECOM, SA|
+|18|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|19|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
+|20|181.94.244.22|8080|Paraguay|Asunción|Núcleo S.A.|
 
 
 
