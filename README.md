@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|5|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|9|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|10|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|67.43.227.227|28187|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|32495|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|13239|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|16|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|20629|Canada|Montreal|GloboTech Communications|
+|1|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|2|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
+|3|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|36.91.188.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|8|72.10.164.178|1563|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
+|10|38.252.209.64|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|67.43.228.253|28419|Canada|Montreal|GloboTech Communications|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|67.43.236.20|25185|Canada|Montreal|GloboTech Communications|
+|16|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|17|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|67.43.236.20|25185|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1563|Canada|Montreal|GloboTech Communications|
 
 
 
