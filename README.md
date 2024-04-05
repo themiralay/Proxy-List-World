@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.242.184.54|8080|Colombia|Ipiales|Level 3 Communications, Inc.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|67.43.227.226|11395|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.227.227|30281|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30281|Canada|Montreal|GloboTech Communications|
+|1|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|4|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|7|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.227.226|11395|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|30281|Canada|Montreal|GloboTech Communications|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
