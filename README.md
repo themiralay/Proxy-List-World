@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
-|7|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|8|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.164.178|17483|Canada|Montreal|GloboTech Communications|
-|13|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|14|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.228.253|29237|Canada|Montreal|GloboTech Communications|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|72.10.160.90|11867|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|3395|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.227.227|24553|Canada|Montreal|GloboTech Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|12|72.10.164.178|1817|Canada|Montreal|GloboTech Communications|
+|13|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.228.252|11327|Canada|Montreal|GloboTech Communications|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|17|67.43.236.20|4697|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|2861|Canada|Montreal|GloboTech Communications|
+|19|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
+|20|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
