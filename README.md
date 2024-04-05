@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|8|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|31905|Canada|Montreal|GloboTech Communications|
-|12|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|13|67.43.228.250|25121|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|31905|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31905|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|11187|Canada|Montreal|GloboTech Communications|
-|18|183.240.208.63|8080|China|Shenzhen|China Mobile Communications Corporation|
-|19|67.43.227.227|2567|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
+|2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|77.41.146.21|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|11|202.137.8.151|8080|Indonesia|Depok|LINKNET|
+|12|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|72.10.164.178|5555|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
+|18|67.43.236.20|20105|Canada|Montreal|GloboTech Communications|
+|19|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|20|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
 
 
 
