@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
-|7|67.43.227.228|17249|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|72.10.160.173|1543|Canada|Montreal|GloboTech Communications|
+|7|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
+|8|67.79.51.210|16099|United States|Beaumont|Spectrum|
+|9|67.43.227.228|17249|Canada|Montreal|GloboTech Communications|
 |10|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|11|72.10.160.173|1543|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|31465|Canada|Montreal|GloboTech Communications|
-|14|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|15|27.147.141.218|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|17|183.165.226.46|8089|China|Shenzhen|Chinanet|
-|18|72.10.160.170|22841|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1097|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|22841|Canada|Montreal|GloboTech Communications|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|67.43.227.228|17249|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.172|31465|Canada|Montreal|GloboTech Communications|
+|16|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
+|18|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
