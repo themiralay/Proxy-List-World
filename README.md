@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|8|67.43.236.20|29657|Canada|Montreal|GloboTech Communications|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|15|72.10.160.90|28747|Canada|Montreal|GloboTech Communications|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|67.43.236.20|29657|Canada|Montreal|GloboTech Communications|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|12|70.113.250.186|16099|United States|Weslaco|Spectrum|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|67.43.228.253|1835|Canada|Montreal|GloboTech Communications|
 
 
 
