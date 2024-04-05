@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|9|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|67.43.228.253|24441|Canada|Montreal|GloboTech Communications|
+|8|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |13|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.227.227|23855|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|5925|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|30589|Canada|Montreal|GloboTech Communications|
-|20|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
 
 
 
