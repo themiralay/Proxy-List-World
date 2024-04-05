@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|4|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|7|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|13|67.43.228.252|32129|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|4479|Canada|Montreal|GloboTech Communications|
-|15|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|16|72.10.164.178|10121|Canada|Montreal|GloboTech Communications|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|45.11.95.165|6049|Russia|Moscow|Delta Ltd|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|67.43.227.227|4479|Canada|Montreal|GloboTech Communications|
+|2|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|3|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|4|35.243.227.100|80|United States|North Charleston|Google LLC|
+|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|67.43.228.252|32129|Canada|Montreal|GloboTech Communications|
+|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|14|72.10.160.170|3609|Canada|Montreal|GloboTech Communications|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
+|17|103.159.47.42|83|India|Ahmedabad|King Netsol Private Limited|
+|18|72.10.164.178|26447|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
