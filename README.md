@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|8|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.236.20|10745|Canada|Montreal|GloboTech Communications|
-|12|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|16|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|17|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.236.18|33159|Canada|Montreal|GloboTech Communications|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|72.10.160.90|3183|Canada|Montreal|GloboTech Communications|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|17|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|18|67.43.228.253|17687|Canada|Montreal|GloboTech Communications|
+|19|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|20|72.10.160.90|3183|Canada|Montreal|GloboTech Communications|
 
 
 
