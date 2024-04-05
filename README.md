@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|67.43.228.253|21589|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|2411|Canada|Montreal|GloboTech Communications|
-|8|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|9|72.10.164.178|2411|Canada|Montreal|GloboTech Communications|
-|10|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|103.159.194.249|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|12|72.10.160.90|29295|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2411|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|21589|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|2163|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|13621|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|21589|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|21589|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|13621|Canada|Montreal|GloboTech Communications|
-|20|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|1|103.154.230.109|5678|Indonesia|Lamongan|DIGITNET|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|6|200.108.190.99|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|7|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|10|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|12|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|13|122.3.131.143|8082|Philippines|Baras|Philippine Long Distance Telephone Co.|
+|14|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|15|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|16|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|17|67.43.236.20|1321|Canada|Montreal|GloboTech Communications|
+|18|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|67.43.228.253|23387|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
 
 
 
