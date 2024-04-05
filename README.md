@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|8|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|12|67.43.236.20|19027|Canada|Montreal|GloboTech Communications|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|72.10.160.90|2051|Canada|Montreal|GloboTech Communications|
-|15|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|72.10.160.90|2051|Canada|Montreal|GloboTech Communications|
+|8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|72.10.160.170|4027|Canada|Montreal|GloboTech Communications|
+|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|13|67.43.236.20|26163|Canada|Montreal|GloboTech Communications|
+|14|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|15|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|20|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|72.10.164.178|21825|Canada|Montreal|GloboTech Communications|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
