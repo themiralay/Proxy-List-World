@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|72.10.160.174|28109|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|6785|Canada|Montreal|GloboTech Communications|
-|10|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|11|72.10.160.90|12381|Canada|Montreal|GloboTech Communications|
-|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|13|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|25673|Canada|Montreal|GloboTech Communications|
-|15|180.120.211.15|8089|China|Nantong|Chinanet|
-|16|72.10.164.178|12855|Canada|Montreal|GloboTech Communications|
-|17|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|18|67.43.236.20|6785|Canada|Montreal|GloboTech Communications|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.151.74.82|8080|Bangladesh|Dhaka|Md Kamrul Islam|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|12|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|13|72.10.160.174|28109|Canada|Montreal|GloboTech Communications|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|72.10.160.91|25673|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|12381|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|12381|Canada|Montreal|GloboTech Communications|
+|18|119.47.90.45|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|19|197.98.201.97|10268|South Africa|Johannesburg|Dimension Data|
+|20|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
 
 
 
