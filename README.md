@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|207.230.8.97|999|Colombia|Popayán|Cogent Communications|
-|8|72.10.160.91|24769|Canada|Montreal|GloboTech Communications|
-|9|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|10|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|15|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|16|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|17|72.10.160.173|2675|Canada|Montreal|GloboTech Communications|
-|18|104.236.195.90|10001|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.19|8047|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8047|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.227.226|16953|Canada|Montreal|GloboTech Communications|
+|13|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|14|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|15|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|16|67.43.236.20|8047|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|14967|Canada|Montreal|GloboTech Communications|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|72.10.160.172|29685|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
