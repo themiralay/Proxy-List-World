@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|36.225.45.109|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|83.221.222.240|3128|Russia|Rostov-on-Don|RTK|
-|14|67.43.227.228|13621|Canada|Montreal|GloboTech Communications|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|103.164.235.53|21251|Indonesia|Tasikmalaya|PT Bantani Media Utama|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
+|12|103.164.213.78|8088|Indonesia|Kedungdoro|PT iForte Global Internet|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |15|197.254.84.86|32650|Kenya|Nairobi|ACCESSKENYA|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
