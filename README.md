@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|13|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.160.90|27905|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|12825|Canada|Montreal|GloboTech Communications|
-|16|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|17|117.57.93.139|8089|China|Shenzhen|Chinanet|
-|18|125.229.149.169|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|11|72.10.160.90|1725|Canada|Montreal|GloboTech Communications|
+|12|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|13|72.10.160.90|1725|Canada|Montreal|GloboTech Communications|
+|14|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|15|67.43.227.227|8689|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|67.43.227.228|15061|Canada|Montreal|GloboTech Communications|
+|19|167.172.238.15|10005|United States|Clifton|DigitalOcean, LLC|
+|20|103.154.230.148|8080|Indonesia|Lamongan|DIGITNET|
 
 
 
