@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|112.201.185.96|9000|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|10|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|183.165.226.176|8089|China|Shenzhen|Chinanet|
-|13|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|14|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|72.10.160.171|20141|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|19|187.245.214.7|999|Mexico|Joaquin Miguel Gutierrez|Mega Cable|
-|20|67.43.236.20|2785|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|202.60.194.23|80|Thailand|Ban Talat Bueng|TCC Technology Co., Ltd.|
+|11|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|12|102.68.137.137|83|Zambia|Lusaka|AirLink Broadband Limited|
+|13|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
 
 
 
