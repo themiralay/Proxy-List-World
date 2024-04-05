@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|7|45.189.117.199|999|Peru|Lima|Fiber Digital S.R.L|
-|8|154.0.155.238|8080|Tanzania|Mwanza|Habari Node Public Limited|
-|9|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|72.10.160.173|15147|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|14249|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|67.43.227.228|28221|Canada|Montreal|GloboTech Communications|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|10149|Canada|Montreal|GloboTech Communications|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|10|72.10.164.178|14249|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.227|10225|Canada|Montreal|GloboTech Communications|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|67.43.227.227|10225|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|28221|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|14249|Canada|Montreal|GloboTech Communications|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
+|19|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
 
 
 
