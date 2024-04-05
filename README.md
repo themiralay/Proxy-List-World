@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|2|35.243.227.100|80|United States|North Charleston|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
 |5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|67.43.227.227|21781|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|21781|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.18|10799|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
+|10|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|11|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|12|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
 |13|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|19131|Canada|Montreal|GloboTech Communications|
+|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|25757|Canada|Montreal|GloboTech Communications|
-|19|117.54.181.21|8080|Indonesia|Jakarta|PT IndoInternet|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|72.10.160.170|14171|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|19131|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
