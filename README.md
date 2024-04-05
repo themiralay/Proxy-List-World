@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|103.99.22.162|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|7|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|17|115.240.163.31|80|India|Mysore|Reliance Jio Infocomm Limited|
-|18|183.165.249.103|8089|China|Shenzhen|Chinanet|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|182.253.172.159|8080|Indonesia|Jakarta|Biznet Metronet|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|17|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|18|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
