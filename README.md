@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|8|67.43.236.20|2791|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|183.3.221.130|3128|China|Guangzhou|Chinanet|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|67.43.228.253|5443|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|2791|Canada|Montreal|GloboTech Communications|
-|13|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|14|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|67.43.228.253|5443|Canada|Montreal|GloboTech Communications|
+|10|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|11|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|12153|Canada|Montreal|GloboTech Communications|
+|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|14|66.223.176.201|8080|United States|Fairbanks|General Communication|
+|15|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|16|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|17|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|101.255.169.250|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|122.148.196.246|8080|Australia|Melbourne|Vocus PTY LTD|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
