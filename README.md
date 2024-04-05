@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 |11|72.10.160.170|23363|Canada|Montreal|GloboTech Communications|
-|12|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|14|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|15|72.10.160.174|10789|Canada|Montreal|GloboTech Communications|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|14|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14897|Canada|Montreal|GloboTech Communications|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
-|20|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
+|17|67.43.236.20|3471|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
