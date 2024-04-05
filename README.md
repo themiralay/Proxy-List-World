@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -45,19 +45,19 @@ Click the file format that you want and copy the URL.
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|36.66.171.243|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|10|111.225.152.91|8089|China|Zhoutou|China Telecom|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|123.182.59.142|8089|China|Zhangjiakou|China Telecom|
-|13|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|14|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
-|15|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|16|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
+|7|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|67.43.227.227|20165|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|12|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|13|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|14|67.43.227.227|20165|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.228.253|21383|Canada|Montreal|GloboTech Communications|
 |17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.164.178|33257|Canada|Montreal|GloboTech Communications|
+|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 |20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
