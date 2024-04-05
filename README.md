@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
-|7|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
 |8|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|182.253.175.246|8080|Indonesia|Jakarta|Biznet Metronet|
-|11|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|9|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|202.179.188.178|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|17|14.207.13.143|8213|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|13|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|14|45.233.67.200|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|5.2.76.163|17000|The Netherlands|Amsterdam|The Infrastructure Group B.V.|
+|20|67.43.228.250|26499|Canada|Montreal|GloboTech Communications|
 
 
 
