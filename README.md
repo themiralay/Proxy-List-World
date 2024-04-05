@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|118.179.151.57|5020|Bangladesh|Chuadanga|Dhakacom Limited|
-|6|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|137.184.189.144|3201|United States|Santa Clara|DigitalOcean, LLC|
-|10|67.43.236.22|8575|Canada|Montreal|GloboTech Communications|
-|11|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|10|72.10.160.90|10613|Canada|Montreal|GloboTech Communications|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|72.10.164.178|22097|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|19167|Canada|Montreal|GloboTech Communications|
-|17|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
-|18|72.10.164.178|22097|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|19167|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|28221|Canada|Montreal|GloboTech Communications|
+|13|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|14|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|15|103.242.105.7|3030|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|22097|Canada|Montreal|GloboTech Communications|
+|18|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|19|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
