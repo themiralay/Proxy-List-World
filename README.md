@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|110.78.149.250|8080|Thailand|Bangkok|CAT-BB|
-|5|154.73.29.33|8080|Libya|Tripoli|Rawafed|
-|6|177.241.249.74|3128|Mexico|Heroica Caborca|Mega Cable, S.A. de C.V.|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|67.43.227.227|23439|Canada|Montreal|GloboTech Communications|
-|11|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|12|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.160.170|12515|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|24355|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
-|18|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|19|181.78.27.33|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|20|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|3|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
+|4|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|5|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|6|177.221.140.99|8080|Chile|Santiago|Grupo CG Limitada|
+|7|67.43.227.227|23439|Canada|Montreal|GloboTech Communications|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|13|72.10.164.178|18761|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|16|67.43.236.20|32949|Canada|Montreal|GloboTech Communications|
+|17|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|67.43.228.253|26159|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|32949|Canada|Montreal|GloboTech Communications|
+|20|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
