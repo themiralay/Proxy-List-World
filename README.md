@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|67.43.228.254|27475|Canada|Montreal|GloboTech Communications|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|203.79.29.198|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|72.10.160.174|2121|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|72.10.160.170|15193|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|103.156.221.219|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|72.10.160.171|15193|Canada|Montreal|GloboTech Communications|
-|20|137.59.50.41|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|86.4.150.190|80|United Kingdom|Bolton|Virgin Media Limited|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|67.43.228.254|27475|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|24493|Canada|Montreal|GloboTech Communications|
+|16|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|17|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|103.165.155.219|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
