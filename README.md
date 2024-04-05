@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|5|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|6|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.228.253|7695|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|4543|Canada|Montreal|GloboTech Communications|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|67.43.236.20|10347|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|1417|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|114.106.172.112|8089|China|Rongcheng|Chinanet|
-|19|36.225.18.233|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|72.10.160.170|4935|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|7|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|45.11.95.165|5214|Russia|Moscow|Delta Ltd|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|15|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.125.155.230|8080|India|Tirupur|Live Fibernet|
+|18|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|19|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|20|67.43.228.253|7695|Canada|Montreal|GloboTech Communications|
 
 
 
