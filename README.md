@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|4|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|5|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|65.1.40.47|1080|India|Mumbai|Amazon.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|9|67.43.227.226|31175|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|2091|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|23165|Canada|Montreal|GloboTech Communications|
-|12|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.227.227|23165|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|21445|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|17|67.43.227.230|6193|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|9891|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|20245|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20245|Canada|Montreal|GloboTech Communications|
+|7|189.193.254.98|8080|Mexico|Jiquipilco|Mega Cable, S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|67.43.227.226|31175|Canada|Montreal|GloboTech Communications|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|13|72.10.160.91|9891|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|10335|Canada|Montreal|GloboTech Communications|
+|15|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|16|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|17|67.43.227.227|10335|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
