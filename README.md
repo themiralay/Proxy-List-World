@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|2|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|9|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|29405|Canada|Montreal|GloboTech Communications|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|8019|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|13301|Canada|Montreal|GloboTech Communications|
-|19|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|20|72.10.164.178|22719|Canada|Montreal|GloboTech Communications|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|67.43.236.20|32927|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|3573|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|67.43.236.20|32927|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|3573|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|3573|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|20921|Canada|Montreal|GloboTech Communications|
 
 
 
