@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|14.207.13.143|8213|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |3|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|4|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|182.253.175.246|8080|Indonesia|Jakarta|Biznet Metronet|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|14|202.12.80.10|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|15|72.10.164.178|1305|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.160.90|16205|Canada|Montreal|GloboTech Communications|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|17|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|18|72.10.164.178|5197|Canada|Montreal|GloboTech Communications|
+|19|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
