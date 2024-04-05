@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|7|72.10.164.178|29237|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|15815|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|28205|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|29237|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|3251|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|31173|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|4445|Canada|Montreal|GloboTech Communications|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|67.43.227.227|28205|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|15815|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|15815|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|29237|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|15815|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.164.178|10241|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|6639|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|10481|Canada|Montreal|GloboTech Communications|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|72.10.160.90|6639|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|6639|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|3251|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|3013|Canada|Montreal|GloboTech Communications|
+|16|103.165.64.74|83|India|Seoni Chhapara|Navyug Networks Info Private Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.164.178|10241|Canada|Montreal|GloboTech Communications|
+|19|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
