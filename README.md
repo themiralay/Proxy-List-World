@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|9|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.160.93|2433|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|10511|Canada|Montreal|GloboTech Communications|
-|16|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
-|17|170.80.203.40|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|18|67.43.236.20|17459|Canada|Montreal|GloboTech Communications|
-|19|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
+|13|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|72.10.160.170|5349|Canada|Montreal|GloboTech Communications|
+|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|72.10.160.170|5349|Canada|Montreal|GloboTech Communications|
+|18|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
