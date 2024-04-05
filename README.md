@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|103.153.62.250|3125|Indonesia|Bekasi|IMEDIANET|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31233|Canada|Montreal|GloboTech Communications|
-|20|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|103.158.27.88|8080|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|12|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.228.253|23487|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|17|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
