@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|67.43.227.227|24553|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1817|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|10509|Canada|Montreal|GloboTech Communications|
-|16|68.2.47.56|8080|United States|Glendale|Cox Communications Inc.|
-|17|72.10.160.90|29927|Canada|Montreal|GloboTech Communications|
-|18|114.103.89.181|8089|China|Shenzhen|Chinanet|
-|19|72.10.164.178|1817|Canada|Montreal|GloboTech Communications|
-|20|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|6|72.10.164.178|13149|Canada|Montreal|GloboTech Communications|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|68.2.47.56|8080|United States|Glendale|Cox Communications Inc.|
+|9|72.10.160.91|10509|Canada|Montreal|GloboTech Communications|
+|10|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|11|72.10.160.93|15493|Canada|Montreal|GloboTech Communications|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|72.10.160.90|26557|Canada|Montreal|GloboTech Communications|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|114.103.89.181|8089|China|Shenzhen|Chinanet|
 
 
 
