@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.43.236.20|20439|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|10235|Canada|Montreal|GloboTech Communications|
-|12|114.106.136.93|8089|China|Rongcheng|Chinanet|
-|13|67.43.227.228|23239|Canada|Montreal|GloboTech Communications|
-|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|1353|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|10235|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|20439|Canada|Montreal|GloboTech Communications|
-|20|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|72.10.160.90|10235|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|10235|Canada|Montreal|GloboTech Communications|
+|8|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|9|67.43.236.20|20439|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|10235|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.228.251|9385|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.164.178|1353|Canada|Montreal|GloboTech Communications|
+|15|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|67.43.236.20|20439|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1353|Canada|Montreal|GloboTech Communications|
+|20|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
