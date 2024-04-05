@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|46.250.233.121|3128|United Kingdom|London|Contabo Asia Private Limited|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|180.120.214.119|8089|China|Nantong|Chinanet|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|72.10.160.90|1933|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|22431|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|67.43.228.253|3387|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|3387|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|10131|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|25419|Canada|Montreal|GloboTech Communications|
+|7|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|77.92.245.34|8080|Georgia|Tbilisi|JSC "Silknet"|
+|10|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|11|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|12|46.250.233.121|3128|United Kingdom|London|Contabo Asia Private Limited|
+|13|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|200.60.4.238|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|180.120.214.119|8089|China|Nantong|Chinanet|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
