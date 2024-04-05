@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.10.160.90|9411|Canada|Montreal|GloboTech Communications|
-|5|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|6|67.43.228.253|29171|Canada|Montreal|GloboTech Communications|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.236.20|26401|Canada|Montreal|GloboTech Communications|
+|2|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|67.43.236.20|8009|Canada|Montreal|GloboTech Communications|
+|8|67.43.228.253|29171|Canada|Montreal|GloboTech Communications|
 |9|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|10|72.10.164.178|5369|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|26401|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|5369|Canada|Montreal|GloboTech Communications|
-|13|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|14|72.10.160.90|9411|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|17301|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|5369|Canada|Montreal|GloboTech Communications|
-|18|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.227.226|8849|Canada|Montreal|GloboTech Communications|
-|20|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|10|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|11|45.174.57.66|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|12|113.64.23.221|32650|China|Puning|Chinanet|
+|13|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|14|72.10.164.178|14171|Canada|Montreal|GloboTech Communications|
+|15|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
+|19|67.43.236.20|8009|Canada|Montreal|GloboTech Communications|
+|20|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
 
 
 
