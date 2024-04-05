@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|154.73.29.33|8080|Libya|Tripoli|Rawafed|
-|3|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|103.14.251.58|8080|Cambodia|Phnom Penh|SIGROUPS|
+|2|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|4|180.183.143.93|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|203.150.113.192|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.85.114.240|8080|Bangladesh|Dhaka|Apple Communication Ltd.|
-|11|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
-|12|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|16|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|67.43.227.227|23527|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|4993|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|5487|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|188.213.173.17|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|8|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|11|147.185.162.163|8080|Italy|Milan|Mywic Costumers|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|15|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|16|72.10.160.92|8907|Canada|Montreal|GloboTech Communications|
+|17|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
