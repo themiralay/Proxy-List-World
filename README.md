@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|3|103.154.230.109|5678|Indonesia|Lamongan|DIGITNET|
-|4|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
-|12|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|67.43.227.227|30285|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|16857|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|28723|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|167.172.238.15|10005|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.174|25733|Canada|Montreal|GloboTech Communications|
+|3|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|171.6.73.142|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
+|9|179.1.68.197|999|Colombia|Saravena|InterNexa Global Network|
+|10|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|12|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|103.167.69.242|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|20|72.10.164.178|2341|Canada|Montreal|GloboTech Communications|
 
 
 
