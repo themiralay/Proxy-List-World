@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|2|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
+|3|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|8|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|9|67.43.227.228|9785|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|1073|Canada|Montreal|GloboTech Communications|
-|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|123.182.59.119|8089|China|Zhangjiakou|China Telecom|
-|14|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|15|114.6.25.5|65432|Indonesia|Malang|PT. INDOSAT Tbk|
-|16|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|17|59.48.23.26|3128|China|Taiyuan|Chinanet|
-|18|67.43.228.253|18547|Canada|Montreal|GloboTech Communications|
-|19|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|7|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|67.43.227.228|9785|Canada|Montreal|GloboTech Communications|
+|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|14|182.160.113.77|9090|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|17|67.43.227.227|24111|Canada|Montreal|GloboTech Communications|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
 
 
 
