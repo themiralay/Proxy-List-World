@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|58.69.137.62|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|15|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|16|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|17|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|9|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
+|10|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|11|36.73.253.13|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|72.10.164.178|29355|Canada|Montreal|GloboTech Communications|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|51.38.107.187|3128|Belgium|Zaventem|OVH SAS|
+|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|19|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|20|67.43.236.20|4731|Canada|Montreal|GloboTech Communications|
 
 
 
