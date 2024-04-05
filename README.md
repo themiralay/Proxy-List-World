@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|7|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|72.10.160.174|17893|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.160.170|1985|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|17893|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|17893|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|19543|Canada|Montreal|GloboTech Communications|
-|17|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|19|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|45.6.102.10|8080|Brazil|Nova Iguaçu|Golden Link|
+|11|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.160.174|17893|Canada|Montreal|GloboTech Communications|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|17|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.160.170|1985|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|19543|Canada|Montreal|GloboTech Communications|
+|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
