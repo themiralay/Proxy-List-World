@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|6|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
-|7|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
-|8|72.10.160.91|27613|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.91|27613|Canada|Montreal|GloboTech Communications|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|67.43.228.253|11615|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.250|23939|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|29629|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|11615|Canada|Montreal|GloboTech Communications|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.164.178|32031|Canada|Montreal|GloboTech Communications|
-|18|120.29.124.131|8080|Philippines|San Fernando City|ComClark Network & Technology Corp|
-|19|67.43.236.21|1283|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|11615|Canada|Montreal|GloboTech Communications|
+|6|115.240.163.31|80|India|Mysore|Reliance Jio Infocomm Limited|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|15|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|21287|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
 
 
 
