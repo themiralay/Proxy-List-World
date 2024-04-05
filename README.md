@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|8|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|90.74.184.32|999|Spain|Benidorm|UNI2-NET - Orange Spain Network|
-|12|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|18|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|19|72.10.160.90|14545|Canada|Montreal|GloboTech Communications|
-|20|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
+|9|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|12|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|72.10.160.90|7963|Canada|Montreal|GloboTech Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
