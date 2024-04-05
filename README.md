@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|209.14.119.220|999|Colombia|Neiva|AGIS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
 |8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|10|67.43.227.227|20793|Canada|Montreal|GloboTech Communications|
-|11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|12|209.14.119.220|999|Colombia|Neiva|AGIS|
 |13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|67.43.236.20|7657|Canada|Montreal|GloboTech Communications|
-|15|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|16|72.10.160.173|9337|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7657|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19457|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19457|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19457|Canada|Montreal|GloboTech Communications|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|67.43.227.227|17513|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|9337|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|17907|Canada|Montreal|GloboTech Communications|
+|20|181.143.143.126|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
