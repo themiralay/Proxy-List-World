@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|183.89.247.182|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
+|6|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|67.43.236.20|9021|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|24275|Canada|Montreal|GloboTech Communications|
+|9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |11|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.236.20|9021|Canada|Montreal|GloboTech Communications|
-|14|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|15|67.43.236.20|9021|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12827|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|8765|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|26037|Canada|Montreal|GloboTech Communications|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|167.172.238.15|10013|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.236.20|11815|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|11815|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|11815|Canada|Montreal|GloboTech Communications|
+|15|104.236.195.90|10001|United States|Clifton|DigitalOcean, LLC|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|114.106.136.232|8089|China|Rongcheng|Chinanet|
+|18|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|19|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|20|67.43.228.250|5165|Canada|Montreal|GloboTech Communications|
 
 
 
