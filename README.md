@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
 |7|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|12|103.121.209.136|9999|Japan|Tokyo|Virtual Hosting|
-|13|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|10|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |14|72.10.164.178|6843|Canada|Montreal|GloboTech Communications|
 |15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|162.252.151.113|8282|United States|Brookville|ALTIUS Broadband, LLC|
+|18|94.154.152.9|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|19|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|20|67.43.228.253|10165|Canada|Montreal|GloboTech Communications|
 
 
 
