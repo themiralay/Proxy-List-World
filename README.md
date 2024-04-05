@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|103.171.153.211|8888|Indonesia|Jakarta|MYREPUBLIC|
-|9|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
-|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|123.182.58.247|8089|China|Zhangjiakou|China Telecom|
-|14|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
-|17|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|19|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|20|67.43.236.20|12603|Canada|Montreal|GloboTech Communications|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|80.66.89.206|4000|Russia|Moscow|BUQU.SU Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.249.29.215|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
+|12|43.153.69.242|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|67.43.236.20|12603|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|12603|Canada|Montreal|GloboTech Communications|
+|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|114.106.136.163|8089|China|Rongcheng|Chinanet|
+|19|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
