@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|4|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
-|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|10|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|11|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|12|47.93.52.36|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |13|114.232.110.209|8089|China|Nanjing|Chinanet|
-|14|80.76.43.203|8080|Germany|Frankfurt am Main|Spacecore Solution LTD|
-|15|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|16|72.10.160.174|29513|Canada|Montreal|GloboTech Communications|
-|17|190.97.233.22|999|Venezuela|Vigía|Viginet C.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|123.182.59.126|8089|China|Zhangjiakou|China Telecom|
-|20|111.68.26.237|8080|Indonesia|Semarang|GMEDIA|
+|14|123.182.59.161|8089|China|Zhangjiakou|China Telecom|
+|15|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
