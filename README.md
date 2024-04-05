@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|1|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|7|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
-|10|72.10.164.178|1053|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
-|12|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|13|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|14|72.10.160.170|23961|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|17|72.10.160.90|14687|Canada|Montreal|GloboTech Communications|
-|18|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|1053|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28111|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|9|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|10|72.10.164.178|32903|Canada|Montreal|GloboTech Communications|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.160.90|1365|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|67.43.228.253|17839|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|17839|Canada|Montreal|GloboTech Communications|
+|18|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|19|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.160.170|1955|Canada|Montreal|GloboTech Communications|
 
 
 
