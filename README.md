@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|146.190.53.175|32782|United States|Santa Clara|DigitalOcean, LLC|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|3|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|4|27.147.141.218|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
-|14|72.10.160.90|2497|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|19|72.10.160.90|2497|Canada|Montreal|GloboTech Communications|
-|20|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|9|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
+|10|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|190.26.255.28|999|Colombia|Bogotá|ETB - Colombia|
+|13|203.73.62.104|60808|Taiwan|Xizhi District|Digital United Inc.|
+|14|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|15|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|19|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|20|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
 
 
 
