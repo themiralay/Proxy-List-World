@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|8|203.79.29.150|8080|Indonesia|Ciputat|PT Surya Global Teknologi|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|103.164.235.53|21251|Indonesia|Tasikmalaya|PT Bantani Media Utama|
-|11|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|18|67.43.236.20|7381|Canada|Montreal|GloboTech Communications|
-|19|182.160.29.120|3128|Chile|Santiago|Huawei International Pte. LTD|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|9|203.79.29.150|8080|Indonesia|Ciputat|PT Surya Global Teknologi|
+|10|182.160.29.120|3128|Chile|Santiago|Huawei International Pte. LTD|
+|11|189.151.117.130|999|Mexico|Nogales|UNINET|
+|12|220.77.191.154|3128|South Korea|Gyeongsangnam-do|Korea Telecom|
+|13|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|14|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|111.225.153.24|8089|China|Zhoutou|China Telecom|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
 
 
 
