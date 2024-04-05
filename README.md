@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
-|14|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|15|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|114.106.172.136|8089|China|Rongcheng|Chinanet|
-|17|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|18225|Canada|Montreal|GloboTech Communications|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|200.108.190.46|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|15|204.157.247.146|999|Dominican Republic|Guerra|AGIS|
+|16|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
+|17|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|72.10.160.171|15479|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
