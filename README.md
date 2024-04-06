@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|3|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|103.159.96.26|8080|Indonesia|Malang|MYRISE|
-|12|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|109.200.178.54|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
-|16|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|20|217.199.151.94|83|Kenya|Nairobi|MTN Business Kenya|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|6|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|7|38.9.141.79|80|Indonesia|Medan|Cogent Communications|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|167.250.222.233|999|Mexico|Tapachula|Ufinet Panama S.A.|
+|10|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|11|103.65.214.144|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|134.35.128.162|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
+|17|77.137.21.78|19000|Israel|Haifa|Hot-Net internet services Ltd.|
+|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|19|67.43.236.21|27687|Canada|Montreal|GloboTech Communications|
+|20|190.242.125.186|8080|Colombia|Santiago de Cali|Liberty Networks De Colombia|
 
 
 
