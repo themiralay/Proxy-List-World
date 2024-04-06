@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
-|2|103.131.18.20|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|3|178.130.72.204|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
-|4|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
-|5|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|5.255.25.53|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|8|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
-|9|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
-|10|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|11|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|12|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|45.195.149.79|808|Hong Kong|Chai Wan|Gigabit Solution Limited|
-|14|176.106.22.125|8080|Russia|Tuapse|LLC "Multiservice"|
-|15|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
-|16|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|17|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.151.236.131|8080|Pakistan|Lahore|Lahore Express|
+|1|178.130.72.204|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
+|2|177.221.140.99|8080|Chile|Santiago|Grupo CG Limitada|
+|3|103.178.42.26|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|4|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|9|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|190.90.39.76|999|Colombia|Arauca|InterNexa Global Network|
+|13|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
+|14|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|16|72.10.164.178|18939|Canada|Montreal|GloboTech Communications|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|72.10.164.178|18939|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
