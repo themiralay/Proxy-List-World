@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|2|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|12|67.43.227.227|16783|Canada|Montreal|GloboTech Communications|
-|13|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.236.20|25551|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12077|Canada|Montreal|GloboTech Communications|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.164.178|12077|Canada|Montreal|GloboTech Communications|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|11|35.203.120.169|80|Canada|Montreal|Google LLC|
+|12|181.212.161.3|999|Chile|Macul|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.20|4017|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|12077|Canada|Montreal|GloboTech Communications|
+|16|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
