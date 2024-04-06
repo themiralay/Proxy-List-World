@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.109.57.243|8080|Thailand|Phetchaburi|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|77.41.146.54|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|66.27.58.70|8080|United States|Anaheim|Spectrum|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|72.10.160.90|6161|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.227.227|14671|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|6161|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
+|1|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|77.41.146.54|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|72.10.160.90|6161|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|15853|Canada|Montreal|GloboTech Communications|
+|15|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|16|72.10.164.178|8147|Canada|Montreal|GloboTech Communications|
+|17|111.225.153.4|8089|China|Zhoutou|China Telecom|
+|18|72.10.160.90|6161|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|15853|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|23759|Canada|Montreal|GloboTech Communications|
 
 
 
