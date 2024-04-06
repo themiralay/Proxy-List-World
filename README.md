@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|188.240.116.115|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
-|6|110.77.181.50|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|165.16.59.225|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|9|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|67.43.227.226|27933|Canada|Montreal|GloboTech Communications|
-|13|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|188.240.116.115|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.87.169.145|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|67.43.236.20|15191|Canada|Montreal|GloboTech Communications|
+|10|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|11|67.43.227.226|27933|Canada|Montreal|GloboTech Communications|
+|12|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|13|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32291|Canada|Montreal|GloboTech Communications|
 |17|67.43.236.20|15191|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15191|Canada|Montreal|GloboTech Communications|
-|19|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|20|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|19963|Canada|Montreal|GloboTech Communications|
+|19|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|20|103.166.10.17|8181|Indonesia|Nganjuk|PT. Yasmin Amanah Media|
 
 
 
